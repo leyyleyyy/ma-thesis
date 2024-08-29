@@ -30,7 +30,7 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 1. 
 
-<img src="Personnages\Part1\P1.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P1.1.png" width="200" />
 
 <img src="Personnages\Part1\P1.2.png" style="zoom:25%;" />
 
