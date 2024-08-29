@@ -30,35 +30,35 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 1. 
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P1.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P1.1.png" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P1.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P1.2.png" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P1.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P1.3.png" style="zoom:25%;" />
 
 2. 
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P2.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P2.1.png" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P2.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P2.2.png" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P2.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P2.3.png" style="zoom:25%;" />
 
 3. 
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P4.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P4.1.png" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P4.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P4.2.png" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P4.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P4.3.png" style="zoom:25%;" />
 
 4. 
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P5.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P5.1.png" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P5.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P5.2.png" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part1\P5.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P5.3.png" style="zoom:25%;" />
 
 
 
@@ -66,31 +66,32 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 Tu dois créer le synopsis d'un jeu contenant ces personnages.
 
-1. <img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part2\P1.png" style="zoom:50%;" />
+1. 
+2. <img src="Personnages\Part2\P1.png" style="zoom:50%;" />
 
 
 
 
 
-2. <img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part2\P2.png" style="zoom:50%;" />
+2. <img src="Personnages\Part2\P2.png" style="zoom:50%;" />
 
 
 
 
 
-3. <img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part2\P3.png" style="zoom:50%;" />
+3. <img src="Personnages\Part2\P3.png" style="zoom:50%;" />
 
 
 
 
 
-4. <img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part2\P4.png" style="zoom:50%;" />
+4. <img src="Personnages\Part2\P4.png" style="zoom:50%;" />
 
 
 
 
 
-5. <img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part2\P5.png" style="zoom:50%;" />
+5. <img src="Personnages\Part2\P5.png" style="zoom:50%;" />
 
 
 
@@ -127,7 +128,7 @@ Création de perso : https://readyplayer.me/avatar
 
 1. Samouraï noir, Assassin’s Creed
 
-![Polémique1](C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part3\Polémique1.png)
+<img src="Personnages\Part3\Polémique1.png" style="zoom:50%;" />
 
 1. RE5
 
@@ -137,3 +138,4 @@ Création de perso : https://readyplayer.me/avatar
 
 - Quels aspects rendent un jeu vidéo plus immersif pour toi ? Comment est-ce que la variété des personnages ou des décors y contribue ?
 - Penses-tu que les jeux vidéo d'aujourd'hui représentent bien la diversité du monde réel ? Pourquoi ?
+
