@@ -32,33 +32,33 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 <img src="Personnages\Part1\P1.1.png" width="200" />
 
-<img src="Personnages\Part1\P1.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P1.2.png" width="200" />
 
-<img src="Personnages\Part1\P1.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P1.3.png" width="200" />
 
 2. 
 
-<img src="Personnages\Part1\P2.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P2.1.png" width="200"/>
 
-<img src="Personnages\Part1\P2.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P2.2.png" width="200" />
 
-<img src="Personnages\Part1\P2.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P2.3.png" width="200" />
 
 3. 
 
-<img src="Personnages\Part1\P4.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P4.1.png" width="200" />
 
-<img src="Personnages\Part1\P4.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P4.2.png" width="200" />
 
-<img src="Personnages\Part1\P4.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P4.3.png" width="200" />
 
 4. 
 
-<img src="Personnages\Part1\P5.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P5.1.png" width="200" />
 
-<img src="Personnages\Part1\P5.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P5.2.png" width="200" />
 
-<img src="Personnages\Part1\P5.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P5.3.png" width="200" />
 
 
 
@@ -66,35 +66,29 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 Tu dois créer le synopsis d'un jeu contenant ces personnages.
 
-1. 
-2. <img src="Personnages\Part2\P1.png" style="zoom:50%;" />
-=======
-1. <img src="\ma-thesis\DATA\Personnages\Interview\Part2\P1.png" style="zoom:50%;" />
->>>>>>> 750b30bec84d37e913f8631002ba7ce917b7ba9a:InterviewsV1.md
+1.  <img src="Personnages\Part2\P1.png" width="400" />
+
+
+
+2. <img src="Personnages\Part2\P2.png" width="400" />
 
 
 
 
 
-2. <img src="Personnages\Part2\P2.png" style="zoom:50%;" />
+3. <img src="Personnages\Part2\P3.png" width="400" />
 
 
 
 
 
-3. <img src="Personnages\Part2\P3.png" style="zoom:50%;" />
+4. <img src="Personnages\Part2\P4.png" width="400" />
 
 
 
 
 
-4. <img src="Personnages\Part2\P4.png" style="zoom:50%;" />
-
-
-
-
-
-5. <img src="Personnages\Part2\P5.png" style="zoom:50%;" />
+5. <img src="Personnages\Part2\P5.png" width="400" />
 
 
 
@@ -131,11 +125,11 @@ Création de perso : https://readyplayer.me/avatar
 
 1. Samouraï noir, Assassin’s Creed
 
-<img src="Personnages\Part3\Polémique1.png" style="zoom:50%;" />
+<img src="Personnages\Part3\Polémique1.png" width="600" />
 
-1. RE5
+1. RE5, personnage blanc qui tue des noirs
 
-
+https://www.youtube.com/watch?v=EUI48f4iWPc
 
 ### Conclusion
 
