@@ -19,11 +19,10 @@ Essayer d’avoir des personnes :
 - Ivanna, F, racisée, jeux : Jenny Leclue, Agatha Christie les séries, Animal Crossing, Assassin’s Creed, 6-7h/semaine
 
 ### Analyse des personnages
-
+*Permet de voir si les personnes donnent des rôles secondaires aux personnages racisés* 
 - Classer les personnages selon leurs rôles
 
 Sur les 3 personnages, tu dois deviner qui est :
-*Permet de voir si les personnes donnent des rôles secondaires aux personnages racisés* 
 - le méchant
 - le personnage principal
 - le PNJ
@@ -63,9 +62,10 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 
 #### Synopsis
+*Permet de voir si l'ethnie a un impact sur le rôle de chaque personnage*
+
 
 Tu dois créer le synopsis d'un jeu contenant ces personnages.
-*Permet de voir si l'ethnie a un impact sur le rôle de chaque personnage*
 
 1.  <img src="Personnages\Part2\P1.png" width="400" />
 
@@ -100,12 +100,10 @@ Tu dois créer le synopsis d'un jeu contenant ces personnages.
   - un terroriste
   - un drugdealer
   - un pnj
-  *Regarder s’il y a des patterns*
-  *Est-ce que l’origine de la personne influe sur les personnages créés ?*
 
 Création de perso : https://readyplayer.me/avatar
 
-*Voir si les personnes créent des personnages qui leur ressemble —> importance de la représentation*
+*Voir si les personnes créent des personnages qui leur ressemble —> importance de la représentation* /  *Regarder s’il y a des patterns* / *Est-ce que l’origine de la personne influe sur les personnages créés ?*
 
 ### Gaming
 
@@ -136,6 +134,3 @@ https://www.youtube.com/watch?v=EUI48f4iWPc
 
 - Quels aspects rendent un jeu vidéo plus immersif pour toi ? Comment est-ce que la variété des personnages ou des décors y contribue ?
 - Penses-tu que les jeux vidéo d'aujourd'hui représentent bien la diversité du monde réel ? Pourquoi ?
-<<<<<<< HEAD:DATA/INTERVIEW/InterviewsV1.md
-
-=======
