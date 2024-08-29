@@ -19,83 +19,77 @@ Essayer d’avoir des personnes :
 - Ivanna, F, racisée, jeux : Jenny Leclue, Agatha Christie les séries, Animal Crossing, Assassin’s Creed, 6-7h/semaine
 
 ### Analyse des personnages
-
+*Permet de voir si les personnes donnent des rôles secondaires aux personnages racisés* 
 - Classer les personnages selon leurs rôles
 
 Sur les 3 personnages, tu dois deviner qui est :
-
 - le méchant
 - le personnage principal
 - le PNJ
 
 1. 
 
-<img src="Personnages\Part1\P1.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P1.1.png" width="200" />
 
-<img src="Personnages\Part1\P1.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P1.2.png" width="200" />
 
-<img src="Personnages\Part1\P1.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P1.3.png" width="200" />
 
 2. 
 
-<img src="Personnages\Part1\P2.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P2.1.png" width="200"/>
 
-<img src="Personnages\Part1\P2.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P2.2.png" width="200" />
 
-<img src="Personnages\Part1\P2.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P2.3.png" width="200" />
 
 3. 
 
-<img src="Personnages\Part1\P4.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P4.1.png" width="200" />
 
-<img src="Personnages\Part1\P4.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P4.2.png" width="200" />
 
-<img src="Personnages\Part1\P4.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P4.3.png" width="200" />
 
 4. 
 
-<img src="Personnages\Part1\P5.1.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P5.1.png" width="200" />
 
-<img src="Personnages\Part1\P5.2.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P5.2.png" width="200" />
 
-<img src="Personnages\Part1\P5.3.png" style="zoom:25%;" />
+<img src="Personnages\Part1\P5.3.png" width="200" />
 
 
 
 #### Synopsis
+*Permet de voir si l'ethnie a un impact sur le rôle de chaque personnage*
+
 
 Tu dois créer le synopsis d'un jeu contenant ces personnages.
 
-<<<<<<< HEAD:DATA/INTERVIEW/InterviewsV1.md
-1. 
-2. <img src="Personnages\Part2\P1.png" style="zoom:50%;" />
-=======
-1. <img src="\ma-thesis\DATA\Personnages\Interview\Part2\P1.png" style="zoom:50%;" />
->>>>>>> 750b30bec84d37e913f8631002ba7ce917b7ba9a:InterviewsV1.md
+1.  <img src="Personnages\Part2\P1.png" width="400" />
+
+
+
+2. <img src="Personnages\Part2\P2.png" width="400" />
 
 
 
 
 
-2. <img src="Personnages\Part2\P2.png" style="zoom:50%;" />
+3. <img src="Personnages\Part2\P3.png" width="400" />
 
 
 
 
 
-3. <img src="Personnages\Part2\P3.png" style="zoom:50%;" />
+4. <img src="Personnages\Part2\P4.png" width="400" />
 
 
 
 
 
-4. <img src="Personnages\Part2\P4.png" style="zoom:50%;" />
-
-
-
-
-
-5. <img src="Personnages\Part2\P5.png" style="zoom:50%;" />
+5. <img src="Personnages\Part2\P5.png" width="400" />
 
 
 
@@ -106,12 +100,10 @@ Tu dois créer le synopsis d'un jeu contenant ces personnages.
   - un terroriste
   - un drugdealer
   - un pnj
-    - Regarder s’il y a des patterns
-    - Est-ce que l’origine de la personne influe sur les personnages créés ?
 
 Création de perso : https://readyplayer.me/avatar
 
-*Voir si les personnes créent des personnages qui leur ressemble —> importance de la représentation*
+*Voir si les personnes créent des personnages qui leur ressemble —> importance de la représentation* /  *Regarder s’il y a des patterns* / *Est-ce que l’origine de la personne influe sur les personnages créés ?*
 
 ### Gaming
 
@@ -132,17 +124,13 @@ Création de perso : https://readyplayer.me/avatar
 
 1. Samouraï noir, Assassin’s Creed
 
-<img src="Personnages\Part3\Polémique1.png" style="zoom:50%;" />
+<img src="Personnages\Part3\Polémique1.png" width="600" />
 
-1. RE5
+1. RE5, personnage blanc qui tue des noirs
 
-
+https://www.youtube.com/watch?v=EUI48f4iWPc
 
 ### Conclusion
 
 - Quels aspects rendent un jeu vidéo plus immersif pour toi ? Comment est-ce que la variété des personnages ou des décors y contribue ?
 - Penses-tu que les jeux vidéo d'aujourd'hui représentent bien la diversité du monde réel ? Pourquoi ?
-<<<<<<< HEAD:DATA/INTERVIEW/InterviewsV1.md
-
-=======
->>>>>>> 750b30bec84d37e913f8631002ba7ce917b7ba9a:InterviewsV1.md
