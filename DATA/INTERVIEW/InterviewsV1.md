@@ -66,7 +66,6 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 Tu dois créer le synopsis d'un jeu contenant ces personnages.
 
-<<<<<<< HEAD:DATA/INTERVIEW/InterviewsV1.md
 1. 
 2. <img src="Personnages\Part2\P1.png" style="zoom:50%;" />
 =======
@@ -145,4 +144,3 @@ Création de perso : https://readyplayer.me/avatar
 <<<<<<< HEAD:DATA/INTERVIEW/InterviewsV1.md
 
 =======
->>>>>>> 750b30bec84d37e913f8631002ba7ce917b7ba9a:InterviewsV1.md
