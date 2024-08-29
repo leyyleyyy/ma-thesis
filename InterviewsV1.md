@@ -66,7 +66,7 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 Tu dois créer le synopsis d'un jeu contenant ces personnages.
 
-1. <img src="C:\Users\leyla\Desktop\ma-thesis\DATA\Personnages\Interview\Part2\P1.png" style="zoom:50%;" />
+1. <img src="\ma-thesis\DATA\Personnages\Interview\Part2\P1.png" style="zoom:50%;" />
 
 
 
