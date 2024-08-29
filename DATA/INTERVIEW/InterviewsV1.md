@@ -23,7 +23,7 @@ Essayer d’avoir des personnes :
 - Classer les personnages selon leurs rôles
 
 Sur les 3 personnages, tu dois deviner qui est :
-
+*Permet de voir si les personnes donnent des rôles secondaires aux personnages racisés* 
 - le méchant
 - le personnage principal
 - le PNJ
@@ -65,6 +65,7 @@ Sur les 3 personnages, tu dois deviner qui est :
 #### Synopsis
 
 Tu dois créer le synopsis d'un jeu contenant ces personnages.
+*Permet de voir si l'ethnie a un impact sur le rôle de chaque personnage*
 
 1.  <img src="Personnages\Part2\P1.png" width="400" />
 
@@ -99,8 +100,8 @@ Tu dois créer le synopsis d'un jeu contenant ces personnages.
   - un terroriste
   - un drugdealer
   - un pnj
-    - Regarder s’il y a des patterns
-    - Est-ce que l’origine de la personne influe sur les personnages créés ?
+  *Regarder s’il y a des patterns*
+  *Est-ce que l’origine de la personne influe sur les personnages créés ?*
 
 Création de perso : https://readyplayer.me/avatar
 
