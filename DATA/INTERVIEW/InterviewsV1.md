@@ -66,8 +66,12 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 Tu dois créer le synopsis d'un jeu contenant ces personnages.
 
+<<<<<<< HEAD:DATA/INTERVIEW/InterviewsV1.md
 1. 
 2. <img src="Personnages\Part2\P1.png" style="zoom:50%;" />
+=======
+1. <img src="\ma-thesis\DATA\Personnages\Interview\Part2\P1.png" style="zoom:50%;" />
+>>>>>>> 750b30bec84d37e913f8631002ba7ce917b7ba9a:InterviewsV1.md
 
 
 
@@ -138,4 +142,7 @@ Création de perso : https://readyplayer.me/avatar
 
 - Quels aspects rendent un jeu vidéo plus immersif pour toi ? Comment est-ce que la variété des personnages ou des décors y contribue ?
 - Penses-tu que les jeux vidéo d'aujourd'hui représentent bien la diversité du monde réel ? Pourquoi ?
+<<<<<<< HEAD:DATA/INTERVIEW/InterviewsV1.md
 
+=======
+>>>>>>> 750b30bec84d37e913f8631002ba7ce917b7ba9a:InterviewsV1.md
