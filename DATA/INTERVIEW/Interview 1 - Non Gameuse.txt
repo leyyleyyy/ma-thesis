@@ -1,35 +1,12 @@
-# Interviews
-
-Essayer d’avoir des personnes :
-
-- Mixe (H-F)
-- Différentes origines
-- Différents background
-- +/- joueurs
-
-### Personnes à interviewer
-
-- Sam, H, non-racisé, jeux :
-- Gabriel, H, non-racisé, jeux: LOL, Hearthstone, Skyrim, 10-15h/semaine
-- Lucas, H, non-racisé, jeux: Valorant, Destiny 2, F124 , 13-14h/semaine
-- (Louka, H, non-racisé, jeux: )
-- Kevin, H, racisé, jeux : LOL, Rocket League
-- Myriam, F, racisée
-- (Faustine, F, non-racisée, jeux: )
-- Ivanna, F, racisée, jeux : Jenny Leclue, Agatha Christie les séries, Animal Crossing, Assassin’s Creed, 6-7h/semaine
-
-
-
-# Etude sur le design des personnages de jeux vidéos
-
-Le but de cette étude est de comprendre la représentation que se font les gens des différents personnages de jeux vidéos et l'importance de leur apparence. 
-
+#Interview 1 - Non Gameuse (juste pendant les vacances)- Test
 ### Analyse des personnages
+
 *Permet de voir si les personnes donnent des rôles secondaires aux personnages racisés* 
 
 - Classer les personnages selon leurs rôles
 
 Sur les 3 personnages, tu dois deviner qui est :
+
 - le méchant
 - le personnage principal
 - le PNJ
@@ -37,76 +14,83 @@ Sur les 3 personnages, tu dois deviner qui est :
 1. 
 
 <img src="Personnages\Part1\P1.1.png" width="200" />
+- PNJ - pcq c 1 hum1
 
 <img src="Personnages\Part1\P1.2.png" width="200" />
-
+- Gentil - ange + bleu clair = gentil
 <img src="Personnages\Part1\P1.3.png" width="200" />
 
-*Ces personnages ont été choisis au hasard pour biaiser les participants*
+- Méchant - armure + high tech
 
 2. 
 
 <img src="Personnages\Part1\P2.1.png" width="200"/>
+- gentil pcq armure
 
 <img src="Personnages\Part1\P2.2.png" width="200" />
+- pnj pcq il a rien, habillé en mode normal
 
 <img src="Personnages\Part1\P2.3.png" width="200" />
+- méchant - cache oeil
 
-*Ces personnages ont été choisis car ils sont les trois des hommes ayant un profil de combattant. Leur seule réelle différence est leur ethnie (1.  moyen-orient, 2. noir, 3. caucasien). Le but est de savoir sur quels critères les répondants se basent pour leur attribuer un rôle*
 
 3. 
 
 <img src="Personnages\Part1\P4.1.png" width="200" />
+- hypocrite/ méchante pcq elle est blonde avec du maquillage et une robe rose
 
 <img src="Personnages\Part1\P4.2.png" width="200" />
+- PNJ
 
 <img src="Personnages\Part1\P4.3.png" width="200" />
+- gentille qui s'est fait arnaquée
 
-*Ces personnages ont été choisis car ils font parti du même jeu et ont le même design, le même rôle. Je trouvais intéressant de mettre un animal au milieu. Ce qui est intéressant c'est de voir s'il  y a une différence entre le personnage blond et celle noiraude.*
 
 4. 
 
 <img src="Personnages\Part1\P5.1.png" width="200" />
+- Perso principal - badass, il veut se battre
 
 <img src="Personnages\Part1\P5.2.png" width="200" />
+- Méchant, sa gueule
 
 <img src="Personnages\Part1\P5.3.png" width="200" />
-
-*Ici je sais déjà que la majorité du temps le méchant sera considéré comme celui du milieu. Mon but est de savoir s'il y aura une différence de choix pour le personnage principal entre celui qui est typé moyen-orient et celui caucasien et pourquoi ils choisissent l'un ou l'autre*
+- PNJ, habillé normal, humain
 
 #### Synopsis
-*Permet de voir si l'ethnie a un impact sur le rôle de chaque personnage*
+
+
 
 
 Tu dois créer le synopsis d'un jeu contenant ces personnages.
 
 1.  <img src="Personnages\Part2\P1.png" width="400" />
 
-
+- marchande d'or, pnj
 
 2. <img src="Personnages\Part2\P2.png" width="400" />
 
-
+- personnage principal, celui avec lequel tu joues, est en ville avec son bestie, ils entendent des cris et des coup de feu - ils se retrouvent chez la marchande - il voit que le braqueur a tiré sur la fille du roi et qu'il menace la marchande - toi et ton bestie vous devez la sauver // grosse histoire avec la princesse, à découvrir...
 
 
 
 3. <img src="Personnages\Part2\P3.png" width="400" />
-
+- meilleur pote du perso principal
 
 
 
 
 4. <img src="Personnages\Part2\P4.png" width="400" />
-
+- la fille du roi, cliente, marchande d'or
 
 
 
 
 5. <img src="Personnages\Part2\P5.png" width="400" />
 
+- braqueur de la marchande
 
 
-*Ici le but est de savoir si l'ethnie et le genre ont un impact sur le rôle attribué à chacun des personnages. Il y a donc un une femme racisée, un homme blanc, deux hommes racisés et une femme blanche. Demander chaque fois la raison pour laquelle la personne attribue un rôle spécifique à un personnage*
 
 ### Créer un personnage
 
@@ -118,20 +102,32 @@ Tu dois créer le synopsis d'un jeu contenant ces personnages.
 
 Création de perso : https://readyplayer.me/avatar
 
-*Voir si les personnes créent des personnages qui leur ressemble —> importance de la représentation* /  *Regarder s’il y a des patterns* / *Est-ce que l’origine de la personne influe sur les personnages créés ?*
+
 
 ### Gaming
 
 - Quel est ton personnage préféré et pourquoi
-  - *Permet de comprendre à quoi les gens se réfèrent, qu’est-ce qui rend un personnage attachant et quels sont les persos qui plaisent le plus*
+  - Mario pcq il sauve la princesse
+
 - Si tu pouvais ajouter un nouveau personnage dans ton jeu préféré, comment serait-il ? (Origine, sexe, histoire, caractéristiques)
-  - *Permet de voir si les joueurs incluraient volontairement des personnages issues de minorités, question particulièrement intéressante pour les personnes issues de l’immigration*
+  - Animal crossing / un être humain - tissmée femme - yeux vert - emménage dans mon île après qu'elle ait fini une école de design d'intérieure et vient pour décorer des maisons - c'est ma bestie et elle m'offre tout le temps des cadeaux
+
 - Est-ce que tu peux me donner deux personnages :
   - homme/femme blanc.he
+	- mario
+	- peach
   - homme/femme noir.e
+	- euh.. homme smash bros mais je connais pas leur nom - à la fin de la rubrique : ah si dans GTA il y a le personnage principal il est toujours noir ou tissmé
+	- femme non
   - homme/femme hispanique
+	- smash bros un homme mais je sais pas son nom
+	- femme non
   - homme/femme arabe
+	- aucun
+  - homme/femme asiatique
+	- je suis sûre qu'il y a mais je sais pas
   - homme/femme non hétérosexuelle
+	- non mais on voit pas trop dans les jeux
 
 *Permet de voir avec quelle facilité ils trouvent les différents personnages, regarder le temps de réponse - voir les rôles qu'ont chacun des personnages qu'ils citent et pour quelles raisons ils s'en souviennent*
 
@@ -150,4 +146,8 @@ https://www.youtube.com/watch?v=EUI48f4iWPc
 ### Conclusion
 
 - Quels aspects rendent un jeu vidéo plus immersif pour toi ? Comment est-ce que la variété des personnages ou des décors y contribue ?
+	- Musique, décor, personnage // décor en accord avec les personnages // pays : décors du pays avec les gens du pays
+
 - Penses-tu que les jeux vidéo d'aujourd'hui représentent bien la diversité du monde réel ? Pourquoi ?
+	- Non, on voit principalement des hommes blancs dans les jeux et c'est souvent les personnages principaux - plus de diversité, plus de réalisme - dans GTA c'est aux US et on voit un peu de tout, dans les autres jeux on voit moins - mettre plus de pays différent - c'est la simplicité de mettre un homme blan
+c, c'est le personnage de base qu'en suite tu pimpes selon le jeu

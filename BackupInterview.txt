@@ -1,4 +1,4 @@
-# Interviews
+# 
 
 Essayer d’avoir des personnes :
 
@@ -25,11 +25,13 @@ Essayer d’avoir des personnes :
 Le but de cette étude est de comprendre la représentation que se font les gens des différents personnages de jeux vidéos et l'importance de leur apparence. 
 
 ### Analyse des personnages
+
 *Permet de voir si les personnes donnent des rôles secondaires aux personnages racisés* 
 
 - Classer les personnages selon leurs rôles
 
 Sur les 3 personnages, tu dois deviner qui est :
+
 - le méchant
 - le personnage principal
 - le PNJ
@@ -75,6 +77,7 @@ Sur les 3 personnages, tu dois deviner qui est :
 *Ici je sais déjà que la majorité du temps le méchant sera considéré comme celui du milieu. Mon but est de savoir s'il y aura une différence de choix pour le personnage principal entre celui qui est typé moyen-orient et celui caucasien et pourquoi ils choisissent l'un ou l'autre*
 
 #### Synopsis
+
 *Permet de voir si l'ethnie a un impact sur le rôle de chaque personnage*
 
 
