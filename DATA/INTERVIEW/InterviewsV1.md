@@ -9,14 +9,17 @@ Essayer d’avoir des personnes :
 
 ### Personnes à interviewer
 
-- Sam, H, non-racisé, jeux :
-- Gabriel, H, non-racisé, jeux: LOL, Hearthstone, Skyrim, 10-15h/semaine
-- Lucas, H, non-racisé, jeux: Valorant, Destiny 2, F124 , 13-14h/semaine
-- (Louka, H, non-racisé, jeux: )
 - Kevin, H, racisé, jeux : LOL, Rocket League
+- Gabriel, H, non-racisé, jeux: LOL, Hearthstone, Skyrim, 10-15h/semaine
 - Myriam, F, racisée
-- (Faustine, F, non-racisée, jeux: )
 - Ivanna, F, racisée, jeux : Jenny Leclue, Agatha Christie les séries, Animal Crossing, Assassin’s Creed, 6-7h/semaine
+- Steve
+- Enzo
+- Lucas, H, non-racisé, jeux: Valorant, Destiny 2, F124 , 13-14h/semaine
+- Killian
+- Andy
+- Stefano
+- 
 
 
 
@@ -120,6 +123,8 @@ Création de perso : https://readyplayer.me/avatar
 
 *Voir si les personnes créent des personnages qui leur ressemble —> importance de la représentation* /  *Regarder s’il y a des patterns* / *Est-ce que l’origine de la personne influe sur les personnages créés ?*
 
+Steve -> s'est pas posé de questions sur l couleur de peau
+
 ### Gaming
 
 - Quel est ton personnage préféré et pourquoi
@@ -128,10 +133,45 @@ Création de perso : https://readyplayer.me/avatar
   - *Permet de voir si les joueurs incluraient volontairement des personnages issues de minorités, question particulièrement intéressante pour les personnes issues de l’immigration*
 - Est-ce que tu peux me donner deux personnages :
   - homme/femme blanc.he
+    - link, alice madness return
+    - arthur morgan, lara croft/elie the last of us 
+    - vaas, lara croft 
+    - solid snake, lara croft
+    - joel last of us, sniper woolf (kurde irakiennne mais blanche blonde)
   - homme/femme noir.e
-  - homme/femme hispanique
+    - rien
+    - nazir skyrim, sena LOL
+    - baret walace, heroine 1er walking dead (clemon time)
+    - baret, intendante monster hunter
+    - baret, miss qui fait du vaudou dans monkey island 2
+  - homme/femme latino
+    - farkry 3 perso principal, little miss fortune perso principale
+    - cyberpunk lucio overwatch - gta, latina GTA VI(pas retenu)
+    - rico rodrigues, taina perreira 
+    - juarez (cyberpunk), meilleur ami perso principal cyberpunk 2077 jacky wallace, julie alvarez
+    - re3 carlos, - farcry 
   - homme/femme arabe
-  - homme/femme non hétérosexuelle
+    - altaïr assassin's creed, femme gueroudou zelda
+    - bayek (assassin's creed), skyrim,  Akshan - assassin's creed ?, cleopatre - calof la meuf avec qui tu travailles dans la campagne
+    - altaïr/Kadir "Rais" Suleiman (dying light), sanaa el maktoub rainbow 6 
+    - prince of persia, - rien
+    - call of duty il y en/ chevalier de bafemete jeune marchand qui arnaque tout le monde/ sait même pas si on connait son nom (nejo?), - certainement un pnj d'assassin's creed, reine des goroudou
+  - homme/femme asiatique
+    - sakyuza, word of horror
+    - ghost of the chima - meuf assassin's creed au japon
+    - cyberpunk - lol akaly
+    - sekira loup blanc, DOKKAEBI, rainbow 6, 
+    - kariyu (aussi dans la liste)- sean lee
+    - mortal combat riu kang, ada wong re2
+  - personnage queer
+    - jiraim licence zelda, fille last of us
+
+
+
+Asie du sud est 
+
+- call of duty tu travailles avec un indien - 
+- abou jeu simpson- 
 
 *Permet de voir avec quelle facilité ils trouvent les différents personnages, regarder le temps de réponse - voir les rôles qu'ont chacun des personnages qu'ils citent et pour quelles raisons ils s'en souviennent*
 
@@ -141,11 +181,42 @@ Création de perso : https://readyplayer.me/avatar
 
 1. Samouraï noir, Assassin’s Creed
 
+
+
+Questions pour aiguiller le participant :
+
+- Que penses-tu de la pétition contre la représentation de Yasuke dans le jeu ?
+
+- Comment vois-tu la liberté créative des développeurs face aux critiques culturelles ?
+
+- Selon toi, est-ce problématique de représenter un personnage noir comme samouraï dans ce contexte ?
+
+- Quelle est ta réaction face à l’idée d’une "insulte" à l’histoire japonaise ?
+
+- Que penses-tu de la manière dont la diversité est traitée dans les jeux vidéo ?
+
+Commentaires de l'article : 
+*debleudebleubernadette : "Dans le temps, on ne voyait aucun faciès noir, ni dans la presse, ni à la télévision."*
+
+*pat-attraz : "Bientôt un Viking noir dans une saga sur ces fiers marins... Et pourquoi pas Booder dans le rôle de Nelson Mandela ?"*
+
+*Yabon : "Wokisme à outrance amène tout naturellement à un fort rejet. Il en va de même pour l’augmentation d’homophobie chez les jeunes"*
+
+*max_la_menace : "Quand c'est dans ce sens, ce n'est bien sûr pas de l'appropriation culturelle. Le wokisme devient tellement déconnecté de la société, c'est vraiment inquiétant. Surtout que la gauche a les média avec elle, pour faire du matraquage propagandiste."*
+
+*killerqueen "Comme d'habitude, les gens se plaignent pour rien, Yasuke un samurai afro ayant existé en 1579, donc polémique inutile."*
+
 <img src="Personnages\Part3\Polémique1.png" width="600" />
+
+
 
 1. RE5, personnage blanc qui tue des noirs
 
 https://www.youtube.com/watch?v=EUI48f4iWPc
+
+Le jeu se déroule en Afrique, et le protagoniste, Chris Redfield, un homme blanc, combat principalement des ennemis africains infectés par un virus. Les critiques ont noté que les visuels montraient un homme blanc armé tuant de nombreux ennemis noirs dans un contexte qui pouvait rappeler des représentations coloniales problématiques, avec un manque de diversité culturelle dans la manière dont les Africains étaient représentés.
+
+dépeindre «les aventures d'un homme blanc dans ce qu'on pourrait nommer une tuerie d'Africains». Des personnages africains, il est vrai, représentés à la manière de zombies. Comme «des créatures inhumaines», insistent-elles. Commentaire des anti-Resident Evil: «Dès le plus jeune âge, on apprend à avoir peur, à détester et à exterminer les noirs». Reste que le jeu est très attendu par les «gamers». La sortie est prévue pour 2008 sur console Playstation 3 et sur Xbox 360.
 
 ### Conclusion
 
