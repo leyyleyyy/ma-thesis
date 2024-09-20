@@ -54,15 +54,15 @@ Lorsque j'ai demandé de faire un synopsis aux interviewés :
 
 - Majoritairement, la personnage typée arabe était un personnage secondaire ou un PNJ
 
-  <img src="DATA\INTERVIEW\Personnages\Part2\P1.png" alt="P1" style="zoom:25%;" />
+  <img src="DATA\INTERVIEW\Personnages\Part2\P1.png" width="200" />
 
 -  ", le personnage métisse était le meilleur ami du personnage principal, celui qui l'aide
 
-<img src="DATA\INTERVIEW\Personnages\Part2\P3.png" alt="P3" style="zoom:25%;" />
+<img src="DATA\INTERVIEW\Personnages\Part2\P3.png" width="200" />
 
 - ", le personnage typé moyen-orient était le méchant
 
-<img src="DATA\INTERVIEW\Personnages\Part2\P5.png" alt="P5" style="zoom:25%;" />
+<img src="DATA\INTERVIEW\Personnages\Part2\P5.png" width="200" />
 
 #### Intersectionnalité 
 Permet de faire une transition avec la partie d'avant, dernier paragraphe
