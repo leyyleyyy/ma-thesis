@@ -54,15 +54,15 @@ Lorsque j'ai demandé de faire un synopsis aux interviewés :
 
 - Majoritairement, la personnage typée arabe était un personnage secondaire ou un PNJ
 
-  <img src="C:\Users\leyla\Desktop\ma-thesis\DATA\INTERVIEW\Personnages\Part2\P1.png" alt="P1" style="zoom:25%;" />
+  <img src="DATA\INTERVIEW\Personnages\Part2\P1.png" alt="P1" style="zoom:25%;" />
 
 -  ", le personnage métisse était le meilleur ami du personnage principal, celui qui l'aide
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\INTERVIEW\Personnages\Part2\P3.png" alt="P3" style="zoom:25%;" />
+<img src="DATA\INTERVIEW\Personnages\Part2\P3.png" alt="P3" style="zoom:25%;" />
 
 - ", le personnage typé moyen-orient était le méchant
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\INTERVIEW\Personnages\Part2\P5.png" alt="P5" style="zoom:25%;" />
+<img src="DATA\INTERVIEW\Personnages\Part2\P5.png" alt="P5" style="zoom:25%;" />
 
 #### Intersectionnalité 
 Permet de faire une transition avec la partie d'avant, dernier paragraphe
@@ -101,21 +101,3 @@ Expliquer en quoi c'est important de représenter tout le monde - plus largement
 
 ## Conclusion 
 revenir sur les questions plutôt historiques - évolution - que faire ? - rôle des médias sur nos perceptions
-
-## Bibliographie :
-
--  Mehdi Derfoufi, « Racisme et jeux vidéos », 2021  
--  L’Orientalisme, Edward Said
--   [Theoretical and Methodological Framework for Studying Video Games and Orientalism](https://cyberorient.net/wp-content/uploads/sites/3/2023/12/CyberOrient_Vol_17_Iss_2_Sisler.pdf), CyberOrient, Vol. 17, Iss. 2, 2023, pp.4-56 
--   Brock, André. « “When Keeping it Real Goes Wrong”: Resident Evil 5, Racial Representation, and Gamers ».  _Games and Culture_, 2011.
--   Brian P. Brown. « Playing with prejudice: The prevalence and consequences of racial stereotypes in video games ».  _Media Psychology 14_, no 3 (2011): 289–311
--   Chan, Dean. « Playing with race: The ethics of racialized representations in E-Games », 2005.
--   Dill, Karen E., Douglas A. Gentile, William A. Richter, et Jody C. Dill. « Violence, sex, race and age in popular video games: A content analysis ».  _Featuring females: Feminist analyses of the media_. Washington, DC: American Psychological Association, 2005    
--   Langer, Jessica. « The familiar and the foreign: Playing (post) colonialism in World of Warcraft ». In  _Digital culture, play, and identity: A World of Warcraft reader_, Vol. 87, 2008.
--   De la mauresque à la beurette : la fabrication d’un cliché médiatique. Une question au croisement du postcolonial et du genre, Nadia Hathroubi-safsaf, 2018 (Paris 8)
--   Des beurettes, Nacira Guénif Souilamas, 2003
--   Peau noire masque blanc, Frantz Fanon , 2015
--   La ligne de couleur de W.E.B Du Bois, Aldon Morris, Britt Rusert, Mabel O. Wilson, Silas Munro, Whitney Battle-Baptiste
--   Introduction aux _Cultural Studies,_  [Érik Neveu](https://www.cairn.info/publications-de-%C3%89rik-Neveu--441.htm), [Armand Mattelart](https://www.cairn.info/publications-de-Armand-Mattelart--50170.htm)
-Autres : 
-- https://www.ladepeche.fr/2024/02/16/les-jeux-video-misent-de-plus-en-plus-sur-la-diversite-11769777.php
