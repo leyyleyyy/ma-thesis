@@ -41,41 +41,41 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 1. 
 
-<img src="Personnages\Part1\P1.1.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P1.1.png" width="200" />
 
-<img src="Personnages\Part1\P1.2.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P1.2.png" width="200" />
 
-<img src="Personnages\Part1\P1.3.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P1.3.png" width="200" />
 
 *Ces personnages ont été choisis au hasard pour biaiser les participants*
 
 2. 
 
-<img src="Personnages\Part1\P2.1.png" width="200"/>
+<img src="DATA\INTERVIEW\Personnages\Part1\P2.1.png" width="200"/>
 
-<img src="Personnages\Part1\P2.2.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P2.2.png" width="200" />
 
-<img src="Personnages\Part1\P2.3.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P2.3.png" width="200" />
 
 *Ces personnages ont été choisis car ils sont les trois des hommes ayant un profil de combattant. Leur seule réelle différence est leur ethnie (1.  moyen-orient, 2. noir, 3. caucasien). Le but est de savoir sur quels critères les répondants se basent pour leur attribuer un rôle*
 
 3. 
 
-<img src="Personnages\Part1\P4.1.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P4.1.png" width="200" />
 
-<img src="Personnages\Part1\P4.2.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P4.2.png" width="200" />
 
-<img src="Personnages\Part1\P4.3.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P4.3.png" width="200" />
 
 *Ces personnages ont été choisis car ils font parti du même jeu et ont le même design, le même rôle. Je trouvais intéressant de mettre un animal au milieu. Ce qui est intéressant c'est de voir s'il  y a une différence entre le personnage blond et celle noiraude.*
 
 4. 
 
-<img src="Personnages\Part1\P5.1.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P5.1.png" width="200" />
 
-<img src="Personnages\Part1\P5.2.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P5.2.png" width="200" />
 
-<img src="Personnages\Part1\P5.3.png" width="200" />
+<img src="DATA\INTERVIEW\Personnages\Part1\P5.3.png" width="200" />
 
 *Ici je sais déjà que la majorité du temps le méchant sera considéré comme celui du milieu. Mon but est de savoir s'il y aura une différence de choix pour le personnage principal entre celui qui est typé moyen-orient et celui caucasien et pourquoi ils choisissent l'un ou l'autre*
 
@@ -86,28 +86,28 @@ Sur les 3 personnages, tu dois deviner qui est :
 
 Tu dois créer le synopsis d'un jeu contenant ces personnages.
 
-1.  <img src="Personnages\Part2\P1.png" width="400" />
+1.  <img src="DATA\INTERVIEW\Personnages\Part2\P1.png" width="400" />
 
 
 
-2. <img src="Personnages\Part2\P2.png" width="400" />
-
-
-
-
-3. <img src="Personnages\Part2\P3.png" width="400" />
+2. <img src="DATA\INTERVIEW\Personnages\Part2\P2.png" width="400" />
 
 
 
 
-
-4. <img src="Personnages\Part2\P4.png" width="400" />
+3. <img src="DATA\INTERVIEW\Personnages\Part2\P3.png" width="400" />
 
 
 
 
 
-5. <img src="Personnages\Part2\P5.png" width="400" />
+4. <img src="DATA\INTERVIEW\Personnages\Part2\P4.png" width="400" />
+
+
+
+
+
+5. <img src="DATA\INTERVIEW\Personnages\Part2\P5.png" width="400" />
 
 
 
@@ -174,7 +174,7 @@ Commentaires de l'article :
 
 *killerqueen "Comme d'habitude, les gens se plaignent pour rien, Yasuke un samurai afro ayant existé en 1579, donc polémique inutile."*
 
-<img src="Personnages\Part3\Polémique1.png" width="600" />
+<img src="DATA\INTERVIEW\Personnages\Part3\Polémique1.png" width="600" />
 
 
 
