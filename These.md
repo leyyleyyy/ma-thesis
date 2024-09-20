@@ -16,16 +16,21 @@ Qu'est-ce que c'est ? Comment le retrouve-t-on dans les jeux vidéo ? Prince of 
 
 Jeux --> conquérir un monde exotique - monde hostile à explorer - fait par des blancs pour des blancs // devient presque ridicule si l'on connaît réellement la culture
 
-Incarner l'autre = incarner UNE figure qui représentera l'ensemble d'une minorité 
+Incarner l'autre = incarner UNE figure qui représentera l'ensemble d'une minorité -> *Tourisme identitaire*
 
-Parallélisme 
+Parallélisme des supports
+
+
 
 ### Les représentations
 #### Homme arabe = grand méchant/ terroriste
 Bon et mauvais arabe
 Bon arabe se rapproche de la blanchité 
 Assassin's Creed : 1er héro arabe - 1ère fois que arabe gentil
-Cependant à la fin 
+Cependant à la fin on découvre qu'au début il était méchant
+
+
+
 #### Sont-ils présents ?
 _Interviews, réponses à la question : cite moi un homme et une femme arabe_
 -   Majorité des interviews : "Je serais incapable de te citer un personnage arabe."
@@ -42,6 +47,22 @@ Sinon :
 -   "Sûrement un PNJ dans Assassin's Creed."
 -   2x Gerudo dans Zelda (Sachant qu'elles empruntent des caractéristiques physique de femmes du moyen-orient sans que l'on sache d'où elles viennent réellement : *Les Gerudos ont toutes le teint mat, les cheveux roux et les yeux dorés. Elles sont dites très belles, et ont de nombreux admirateurs, [...]. Ce sont des guerrières, sans doutes inspirées des Amazones*) 
 -   Un seul a su donner le nom d'un perso (mais en faisant une petite recherche Google quand même).
+
+
+
+Lorsque j'ai demandé de faire un synopsis aux interviewés :
+
+- Majoritairement, la personnage typée arabe était un personnage secondaire ou un PNJ
+
+  <img src="C:\Users\leyla\Desktop\ma-thesis\DATA\INTERVIEW\Personnages\Part2\P1.png" alt="P1" style="zoom:25%;" />
+
+-  ", le personnage métisse était le meilleur ami du personnage principal, celui qui l'aide
+
+<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\INTERVIEW\Personnages\Part2\P3.png" alt="P3" style="zoom:25%;" />
+
+- ", le personnage typé moyen-orient était le méchant
+
+<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\INTERVIEW\Personnages\Part2\P5.png" alt="P5" style="zoom:25%;" />
 
 #### Intersectionnalité 
 Permet de faire une transition avec la partie d'avant, dernier paragraphe
@@ -63,6 +84,10 @@ L'idée de "Personnage par défaut" revenait souvent.
 
 Personne C : Après avoir fini tous ses personnages (fait de manière assez rapide) : "Ahhhhhh je suis un batard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne". 
 
+
+
+Personnage "par défaut": homme blanc hétérosexuel
+
 ## L'importance de la représentation
 Expliquer en quoi c'est important de représenter tout le monde - plus largement à tous les médias -
 - Et comparer l'avancée des jeux vidéos à côté du reste
@@ -71,6 +96,7 @@ Expliquer en quoi c'est important de représenter tout le monde - plus largement
 
 -   Bien, pas bien ? Quelles ambiguïtés ? Essayer d'interviewer une personne dont c'est le métier.
 -   Polémiques et avis des interviewés/internautes.
+-   Sims 4 2023 personnage handicapés, trisomique, binaire, transgemre etc..// Mattel - Barbie handicapée, vitiligo 
 
 
 ## Conclusion 
