@@ -15,7 +15,8 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 Bibliographie : 
 
-- Mehdi Derfoufi, « Racisme et jeux vidéos », 2021
+-  « Racisme et jeux vidéos », Mehdi Derfoufi, 2021
+- [Décentrer l’histoire du jeu vidéo ?]( https://delautrecote.org/2018/02/28/une-autre-histoire-du-jeu-video/), Mehdi Derfoufi, 28.02.2018
 - [Theoretical and Methodological Framework for Studying Video Games and Orientalism](https://cyberorient.net/wp-content/uploads/sites/3/2023/12/CyberOrient_Vol_17_Iss_2_Sisler.pdf), CyberOrient, Vol. 17, Iss. 2, 2023, pp.4-56
 - [Šisler, V. (2008). Digital Arabs: Representation in video games. European Journal of Cultural Studies, 11(2), 203-220.](https://www.ssoar.info/ssoar/bitstream/handle/document/22748/ssoar-eurjcultstud-2008-2-sisler-digital_arabs.pdf?sequence=1&isAllowed=y&lnkname=ssoar-eurjcultstud-2008-2-sisler-digital_arabs.pdf)
 - L’Orientalisme, Edward Said
