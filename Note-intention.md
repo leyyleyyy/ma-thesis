@@ -24,6 +24,7 @@ Bibliographie :
 - Des beurettes, Nacira Guénif Souilamas, 2003
 - Peau noire masque blanc, Frantz Fanon , 2015
 - La ligne de couleur de W.E.B Du Bois, Aldon Morris, Britt Rusert, Mabel O. Wilson, Silas Munro, Whitney Battle-Baptiste
+- The Habibis, Fawzi Mesmar, Osama Dorias, and Rami Ismail, https://thehabibis.transistor.fm/episodes
 - Introduction aux *Cultural Studies,* [Érik Neveu](https://www.cairn.info/publications-de-%C3%89rik-Neveu--441.htm),[Armand Mattelart](https://www.cairn.info/publications-de-Armand-Mattelart--50170.htm)
 
 - Brock, André. « “When Keeping it Real Goes Wrong”: Resident Evil 5, Racial Representation, and Gamers ». *Games and Culture*, 2011.
