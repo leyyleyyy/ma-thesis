@@ -125,12 +125,10 @@ Et les femmes arabes :
 **Résultats**: 
 
 - La plupart des personnes disaient ne pas vouloir être dans les clichés
-- Une seule femme, le participant : *Pour moi le plus stylé c'est que le terroriste se soit une femme fatale. Elle use de son charme pour faire tomber les autres*
+- Une seule femme, le participant : *"Pour moi le plus stylé c'est que le terroriste se soit une femme fatale. Elle use de son charme pour faire tomber les autres"*
 - La personne qui a fait le terroriste dans les clichés : *"je sais quoi mettre pour le terroriste. Je veux pas faire un truc cliché, je suis pas un gars comme ça. Après tu m'as dit GTA like c'est des gros clichés"*
 
-- Le russe. "*Tu m'as dit terroriste et jeu style GTA, donc c'est forcément dans les clichés. C'est soit un arabe soit un russe. La je vais faire le russe*"
-
-
+- Le russe. "*Tu m'as dit terroriste et jeu style GTA, donc c'est forcément dans les clichés. C'est soit un arabe soit un russe. Je vais faire le russe*"
 
 **DrugDealer**
 
@@ -162,7 +160,7 @@ Et les femmes arabes :
 
 - 100% d'hommes, et quasiment que des hommes blanc 
 
-
+- Pour la plupart des interviewés, le PNJ était le "personnage par défaut"
 
 **_Interviews, réponses à la question crée un synopsis avec ces 5 personnages_**
 
@@ -180,7 +178,7 @@ Et les femmes arabes :
 
 3.2. Sexisme et intersectionnalité dans le jeux vidéo.
 
-**Personne A** : "*Après avoir fini tous ses personnages (fait de manière assez rapide) : "Ahhhhhh je suis un batard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne*". 
+**Personne F** : "*Après avoir fini tous ses personnages (fait de manière assez rapide) : "Ahhhhhh je suis un batard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne*". 
 
 - Citer une femme blanche : 50% du temps Lara Croft
 - Femmes racisées sont presque absentes des jeux vidéos
@@ -193,6 +191,8 @@ Et les femmes arabes :
 - Personnage principal presque systématiquement un homme blanc
 
 4.2. Hypermasculinité et normes de genre : l'hétérosexualité masculine blanche comme norme par défaut.
+
+**Personne E** : "*Je joue qu'à des jeux très fantastique. Soit il y a des blancs soit des elfes.* "
 
 - Valorisation d'une vision de la masculinité, la force physique et l'hétérosexualité
 
