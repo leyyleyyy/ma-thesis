@@ -101,6 +101,10 @@ https://controverses.sciences-po.fr/cours/com_2016/jeuxvideos/article-5.html
 
 **3.2. Résultats des entretiens : perception des personnages issus de minorité dans les jeux vidéos**
 
+*Dans une étude de Dill-Shackleford et Gentile, les deux chercheurs relèvent que dans les 20 jeux les plus vendus de 1999, 68% des personnages principaux sont blancs, pour seulement 11% d’afro-américains et 11% d’hispaniques. Les proportions sont encore plus marquées pour les personnages secondaires, dont 72% sont blancs.*
+
+https://controverses.sciences-po.fr/cours/com_2016/jeuxvideos/article-5.html
+
 **_Interviews, réponses à la question : cite moi un homme et une femme arabe_**
 
 -   Majorité des interviews : "Je serais incapable de te citer un personnage arabe."
