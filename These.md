@@ -7,12 +7,26 @@
 - Impact sur la perception des groupes minoritaires.
 
 **Chapitre 1 : Diversité et Racisme dans les Jeux Vidéo**
-1.1. Historique de l'inclusivité et la diversité dans le jeux vidéo
 
-1.2. Analyse des représentations : Racisme, Sexisme, "Whitewashing" et Intersectionnalité.
+1.1. Analyse des représentations : Racisme, Sexisme, "Whitewashing" et Intersectionnalité.
 
 - Explication des termes
+
+***White-Gaze*** : Vision du monde par apport à un prisme de personne blanche. 
+
+***Homonationalisme*** : Inclusion des discours nationalistes des pays occidentaux et qui avait, prétudemment, aboli toute forme d'oppression sexuelle à l'encontre des LGBTQUIA+. Concept qui décrit la manière avec laquelle les discours nationalistes vont intégrer les droits LGTQUIA+ comme une preuve de modernisme tout en perpétuant d'autres formes de marginalisation (islamophobe, raciste, xénophobe, ...). 
+
+Jasbir Puar 
+
+***Intersectionalité*** : Personnes racisées invisibilisées des discours féminisme + femmes invibilisées des discours pour l'égalité raciale. Personnes qui vivent des identités à l'intersection (ex: sexisme, homophobie, racisme,...).
+
+Kimberlé Crenshaw, Hanane Karimi
+
+***Fétichisme raciale***: Attributs raciaux ou ethniques qui vont être sexualisés ou romantisés de manière exotique ou réductive. Objectivation de la personne = objet de désir et non pas sujet. Réduit les personnes à des caricatures racistes. 
+
 - Exemples 
+
+1.2. Historique de l'inclusivité et la diversité dans le jeux vidéo
 
 1.3. Influence de l'héritage colonial et des dynamiques postcoloniales dans le développement des jeux vidéo.
 
@@ -20,35 +34,58 @@
 - Minorités comme objet d'exploration et d'oppression 
 
 **Chapitre 2 : Représentation des Arabes et des Musulmans dans les Jeux Vidéo**
-2.1. Définition de l'Orientalisme et son application aux jeux vidéo.
+**2.1. Définition de l'Orientalisme et son application aux jeux vidéo.**
 
-- Cultures arabes exotiques, archaïques et menaçantes
+- Djinns, danseuses du ventre, minarets, Bédouins, bazars, harems, etc.
+
+  L'imagination occidentale perçoit l'Orient comme une entité historique unique.
+
+  L'intrigue commence souvent par l'enlèvement d'une femme par un personnage malveillant, suivi de l'intervention d'un héros qui la sauve.
+
+- Cultures arabes exotiques
 - Jeux vidéo utilisent et renforcent ces stéréotypes par des représentations caricaturales
 
-​	2.1.1 L'exotisme et l'hostilité : jeux vidéo comme espaces de conquête et d'exploration de l'« Autre ».
 
-- Jeux vidéos mettent en scène des environnements orientaux comme des lieux de danger et de mystère
+
+​	**2.1.1 L'exotisme et l'hostilité : jeux vidéo comme espaces de conquête et d'exploration de l'« Autre ».**
+
+Jeux d'action tels que "War in the Gulf", "Delta Force", "Conflict Desert Storm", "Full Spectrum Warrior", "Kuma/War" et "Conflict: Global Terror" : Ces jeux se déroulent au Moyen-Orient ou dans des décors ostensiblement anonymes mais clairement inspirés par le Moyen-Orient.
+
+=> Jeux vidéos mettent en scène des environnements orientaux comme des lieux de danger et de mystère
+
+***Caractéristiques des personnages*** : Généralement, le joueur incarne les forces américaines, tandis que les ennemis présentent des attributs faisant référence aux Arabes ou aux Musulmans, comme les couvre-chefs, les vêtements amples, ou la peau foncée. Ces signes visuels sont souvent associés au terrorisme ou à l'extrémisme islamiste.
+
 - Jeux fait par des blancs pour des blancs. Devient presque ridicule si l'on connaît réellement la culture
 - Incarner l'autre = incarner UNE figure qui représentera l'ensemble d'une minorité -> *Tourisme identitaire*
 
-​	2.1.2 L'Orientalisme dans le contexte Post 11 Septembre
+ ***Militarisation des jeux vidéo :* **
+
+Les conflits entre les États-Unis et le Moyen-Orient, tels que représentés dans les jeux, sont perçus comme humiliants pour de nombreux pays islamiques ou arabes, où se déroulent les batailles.
+
+*C’est le cas de nombreux FPS qui adoptent un point de vue américanocentré qui jette sur le monde un regard polarisé où le méchant stéréotypique fut d’abord soviétique, avant de devenir hispanique puis arabe dans la période qui a suivi la guerre du Golfe en 1991.*
+
+https://controverses.sciences-po.fr/cours/com_2016/jeuxvideos/article-5.html
+
+​	**2.1.2 L'Orientalisme dans le contexte Post 11 Septembre**
 
 - L'impact du 11 Septembre sur la perception des arabes comme terroristes
 - Jeux vidéos utilise cette peur par des scénarios où les arabes sont systématiquement des terroristes 
 
-​	2.1.3 Étude de cas : Prince of Persia, Assassin's Creed et d'autres exemples notables.
+*Generally, the player controls American forces while ennemies have attributes referring to Arabs or Muslims people : headcover, loose clothes, dark skin colour. They signifiers to terrorism/ Islamist extremism*
+
+​	**2.1.3 Étude de cas : Prince of Persia, Assassin's Creed et d'autres exemples notables.**
 
 - Prince of Persia : Orientalisme romantique, héro occidentalisé
 - Assassin's Creed : Tentative de diversité mais reproduction de stéréotypes
 - Autres exemples : Jeux de guerres où les arabes sont systématiquement représentés comme des terroristes. Armée américaine VS Moyen-Orient
 
-2.2. La figure de l'Arabe : bon Arabe, mauvais Arabe, et ambivalence morale.
+**2.2. La figure de l'Arabe : bon Arabe, mauvais Arabe, et ambivalence morale.**
 
 - Bon Arabe : personnage assimilé à l'Occident (ex : Altaïr dans Assassin's Creed. Devient un bon arabe à la fin du jeu lorsqu'il a des caractéristuqes occidentales)
 - Mauvais arabe : ennemi 
 - Ambivalence morale : personnages arabes gentils ont souvent des côtés sombres 
 
-2.3. Évolution des Représentations : De 2008 à 2024
+**2.3. Évolution des Représentations : De 2008 à 2024**
 
 - Analyse des changements dans la représentation des Arabes et des musulmans dans les jeux vidéo entre 2008 et 2024.
 - Étude comparative basée sur l'article de Sisler (2008) : quels progrès, stagnations ou régressions ont été observés ?
@@ -56,13 +93,13 @@
 
 **Chapitre 3 : Stéréotypes Sociaux et Représentations de Personnages**
 
-3.1.Méthodologie des entretiens qualitatifs : objectifs, échantillon, et cadre d'analyse.
+**3.1.Méthodologie des entretiens qualitatifs : objectifs, échantillon, et cadre d'analyse.**
 
 - Objectif : 
 - Echantillon : 
 - Cadre : 
 
-3.2. Résultats des entretiens : perception des personnages issus de minorité dans les jeux vidéos
+**3.2. Résultats des entretiens : perception des personnages issus de minorité dans les jeux vidéos**
 
 **_Interviews, réponses à la question : cite moi un homme et une femme arabe_**
 
@@ -100,7 +137,7 @@ Et les femmes arabes :
 
 
 
-- Peu de personnages blancs
+- Peu de personnages blancs - Le seul qui a fait un personnage blanc était lui même racisé 
 - Lors de la création des personnages, volonté de ne pas être dans les clichés
 - Beaucoup de métisses
 
