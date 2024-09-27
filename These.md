@@ -142,12 +142,25 @@ Et les femmes arabes :
 
 <img src="DATA\INTERVIEW\Persos_Crées\Gab_DrugDealer.png" alt="Gab_DrugDealer" width="300" />
 
-<img src="DATA\INTERVIEW\Persos_Crées\Lionel_DrugDealer.png" alt="Lionel_DrugDealer" width="300" />
+<img src="DATA\INTERVIEW\Persos_Crées\Lionel_DrugDealer.png" alt="Lionel_DrugDealer" width="250" />
 
 **Résultats**
 
 - Seules femmes métissées
 - Pas mal de latinos
+
+
+
+**PNJ**
+
+<img src="DATA\INTERVIEW\Persos_Crées\Myriam_PNJ.jpg" alt="Myriam_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lulu_PNJ.png" alt="Lulu_PNJ" width="200" /><img src="DATA\INTERVIEW\Persos_Crées\Lionel_PNJ.png" alt="Lionel_PNJ" width="200"/><img src="DATA\INTERVIEW\Persos_Crées\Kevin_PNJ.jpg" alt="Kevin_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Steve_PNJ.png" alt="Steve_PNJ" width="300" />
+<img src="DATA\INTERVIEW\Persos_Crées\Gab_PNJ.png" alt="Gab_PNJ" width="300" />
+
+
+
+**Résultats**: 
+
+- 100% d'hommes, et quasiment que des hommes blanc 
 
 
 
