@@ -213,15 +213,15 @@ Et les femmes arabes :
 
 **_Interviews, réponses à la question crée un synopsis avec ces 5 personnages_**
 
-- Majoritairement, la personnage typée arabe était un personnage secondaire ou un PNJ
+- Majoritairement, la personnage a. était un personnage secondaire ou un PNJ
 
   <img src="DATA\INTERVIEW\Personnages\Part2\P1.png" width="200" />
 
-- ", le personnage métisse était le meilleur ami du personnage principal, celui qui l'aide
+- ", le personnage c.  était le meilleur ami du personnage principal, celui qui l'aide
 
 <img src="DATA\INTERVIEW\Personnages\Part2\P3.png" width="200" />
 
-- ", le personnage typé moyen-orient était le méchant
+- ", le personnage typé e.  était le méchant
 
 <img src="DATA\INTERVIEW\Personnages\Part2\P5.png" width="200" />
 
