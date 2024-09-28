@@ -79,6 +79,14 @@ https://controverses.sciences-po.fr/cours/com_2016/jeuxvideos/article-5.html
 - Assassin's Creed : Tentative de diversité mais reproduction de stéréotypes
 - Autres exemples : Jeux de guerres où les arabes sont systématiquement représentés comme des terroristes. Armée américaine VS Moyen-Orient
 
+<img src="IMAGES\Prince_Of_Persia.jpeg" alt="Prince_Of_Persia" style="zoom:80%;" />
+
+*Prince Of Persia, Les Sables Oubliés*
+
+<img src="IMAGES\Assassins_Creed.jpg" alt="Assassins_Creed" style="zoom:45%;" />
+
+*Assassin's Creed Revelations*
+
 **2.2. La figure de l'Arabe : bon Arabe, mauvais Arabe, et ambivalence morale.**
 
 - Bon Arabe : personnage assimilé à l'Occident (ex : Altaïr dans Assassin's Creed. Devient un bon arabe à la fin du jeu lorsqu'il a des caractéristuqes occidentales)
