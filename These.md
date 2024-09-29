@@ -2,15 +2,87 @@
 
 **Introduction**
 
+**Chapitre 1 : Diversité et Racisme **
+
+1.1. Concept de race et analyse des représentations  
+
+1.2 White-Gaze, Sexisme et Intersectionnalité
+
+**Chapitre 2 : Inclusivité et la diversité dans le jeux vidéo**
+
+2.1. Historique de l'inclusivité et la diversité dans le jeux vidéo
+
+2.2. Influence de l'héritage colonial dans le développement des jeux vidéo.
+
+2.3. Exotisme et hostilité : jeux vidéo comme espaces de conquête et d'exploration de l'« Autre ».
+
+​	2.3.1 Orientalisme et impact des différents événements historiques 
+
+​	2.3.2 Étude de cas : Prince of Persia, Assassin's Creed et d'autres exemples notables.
+
+2.4 Représentation des Arabes et des Musulmans dans les Jeux Vidéo
+
+​	2.4.1 La figure de l'Arabe : bon Arabe, mauvais Arabe, et ambivalence morale.
+
+​	2.4.2 Évolution des Représentations : De 2008 à 2024
+
+**Chapitre 3 : Stéréotypes Sociaux et Représentations de Personnages**
+
+3.1.Méthodologie des entretiens qualitatifs : objectifs, échantillon, et cadre d'analyse.
+
+3.2. Résultats des entretiens : perception des personnages issus de minorité dans les jeux vidéos
+
+**Chapitre 4 : Whitewashing et Hypermasculinité**
+4.1. Analyse du "whitewashing"
+
+4.2. Hypermasculinité et normes de genre : l'hétérosexualité masculine blanche comme norme par défaut.
+
+4.3 Réactions du public et prise de consciences 
+
+**Chapitre 5 : Marketing de la Diversité**
+5.1. Enjeux de la représentation dans les médias vidéoludiques 
+
+5.2. Comparaison des jeux vidéo par rapport aux autres médias (cinéma, télévision, etc.).
+
+5.3. Perceptions des joueurs : diversité forcée ou reflet d'une évolution sociétale ?
+
+**Conclusion**
+
+
+
+---
+
+**Introduction**
+
 - Cadre théorique : définition du racisme et des discriminations.
 - Rôle des médias dans la construction des stéréotypes et la perpétuation des inégalités.
 - Impact sur la perception des groupes minoritaires.
 
-**Chapitre 1 : Diversité et Racisme dans les Jeux Vidéo**
+**Chapitre 1 : Diversité et Racisme **
 
-1.1. Analyse des représentations : Racisme, Sexisme, "Whitewashing" et Intersectionnalité.
+**1.1. Concept de race et analyse des représentations  **
 
-- Explication des termes
+Le concept de race n'existe pas. 
+
+Anthropologue (UNIGE) : Ninian hubert Van Blijenburgh, cours "7 leçons sur notre espèce". https://moodle.unige.ch/course/section.php?id=36880
+
+*De fait, durant les quelques années qui préparent l’abolition définitive de l’esclavage, la race est devenue une institution, une catégorie du politique et de la vie économique, et bientôt, dans le futur dispositif colonial, une des modalités de gouvernement. Dans cette mutation, les médecins qui, sans démonstration mais sous l’influence d’enjeux politiques bruyants, installent la race dans l’ordre de la nature, semblent jouer le même rôle que les statisticiens et les démographes étasuniens qui, exactement à la même époque, à travers les pratiques du recensement, construisent la catégorie raciale du blanc et du noir pour des raisons toutes politiques : une catégorie pragmatique, directement issue du système esclavagiste et conçue pour résoudre la question du travail des affranchis. Cette catégorie, nourrie du préjugé de couleur pendant l’esclavage et de ses conséquences en termes de mesures discriminatoires contre les libres de couleur, s’impose définitivement comme notion théorique et se verra dans un avenir proche dotée de fonctions similaires à celles de l’esclavage : distinguer le Blanc de tous les autres et organiser sa domination.*
+
+Thomas Bernon, « La science des races : la Société Ethnologique de Paris et le tournant colonial (1839-1848) », La Révolution française, mis en ligne le 13 décembre 2018 
+
+
+
+*Contrairement au lieu commun qui présume l'existence de quelques grandes races humaines, à partir des caractères perçus comme essentiels (couleur de la peau, par exemple), cette notion n'a pas de validité biologique et les différences de caractères observées sont négligeables au vu des différences biologiques entre individus d'une même population. Diviser les populations humaines en un certain nombre de groupes donne naissance à des divisions arbitraires, et non naturelles. Les populations sont en fait des groupes locaux, en continuel changement, d'unités bio-culturelles. L'espèce humaine forme un seul continuum où des clines, suivant des gradients géographiques, peuvent être décrits, en fonction de facteurs écologiques ou de flux génique, et où les seules barrières réelles sont de nature culturelle (linguistique, comportementale, vestimentaire...). Aujourd'hui la notion de race humaine a donc perdu tout fondement scientifique et est politiquement inacceptable. N'imaginons pas cependant que savoir que la race est un mythe éliminera automatiquement le racisme.* 
+
+[...]
+
+*Le mythe de l'inégalité des races est une vision politique qui s'appuie sur des données scientifiques douteuses. Il est remis à l'ordre du jour par une idéologie d'extrême droite et par des nationalismes ethnocentriques. L'histoire de cette alliance entre l'extrême droite et des concepts scientifiques manipulés est longue et malheureusement riche, comme nous venons de le voir. La haine de l'autre et l'égoïsme fournissent des moteurs toujours performants aux démagogues. 51 L'anthropologie biologique, comme d'ailleurs l'anthropologie sociale, a été utilisée, à des époques différentes et dans des contextes différents, pour justifier l'exploitation coloniale, pour fortifier une idéologie nationaliste, pour contrôler des populations indigènes et donc pour soutenir une exploitation de l'homme par l'homme. Mais l'anthropologie peut aussi servir à faciliter un système éducatif dans un contexte multi-ethnique ou des relations interculturelles dans un marché d'économie globale. Elle peut donc promouvoir la justice, l'égalité et la dignité humaine.*
+
+Jean Deligne, Esther Rebato et Charles Susanne, « Races et racisme », Journal des anthropologues [En ligne], 84 | 2001, mis en ligne le 07 mai 2009, consulté le 26 avril 2017. URL : http://jda.revues.org/2619
+
+
+
+**1.2 White-Gaze, Sexisme et Intersectionnalité**
 
 ***White-Gaze*** : Vision du monde par apport à un prisme de personne blanche. 
 
@@ -18,23 +90,54 @@
 
 Jasbir Puar 
 
-***Intersectionalité*** : Personnes racisées invisibilisées des discours féminisme + femmes invibilisées des discours pour l'égalité raciale. Personnes qui vivent des identités à l'intersection (ex: sexisme, homophobie, racisme,...).
+***Intersectionnalité*** : Personnes racisées invisibilisées des discours féminisme + femmes invibilisées des discours pour l'égalité raciale. Personnes qui vivent des identités à l'intersection (ex: sexisme, homophobie, racisme,...).
 
 Kimberlé Crenshaw, Hanane Karimi
 
 ***Fétichisme raciale***: Attributs raciaux ou ethniques qui vont être sexualisés ou romantisés de manière exotique ou réductive. Objectivation de la personne = objet de désir et non pas sujet. Réduit les personnes à des caricatures racistes. 
 
-- Exemples 
 
-1.2. Historique de l'inclusivité et la diversité dans le jeux vidéo
 
-1.3. Influence de l'héritage colonial et des dynamiques postcoloniales dans le développement des jeux vidéo.
+**Chapitre 2 : Inclusivité et la diversité dans le jeux vidéo**
+
+**2.1. Historique de l'inclusivité et la diversité dans le jeux vidéo**
+
+*Today, however, most of the video game market is concentrated in Western countries and Asia. South America represents only 4 percent of the world market, and the African continent barely reaches 1 percent*
+
+In other words, the place of African video games is insignificant from an economic point of view. This economic weakness certainly has a direct impact on the continent’s cultural influence on the creative level.
+
+*most African video game production is destined for the mobile market*
+
+
+
+**2.2. Influence de l'héritage colonial dans le développement des jeux vidéo.**
 
 - Héritage colonial dans les narratifs de conquête et de domination
 - Minorités comme objet d'exploration et d'oppression 
 
-**Chapitre 2 : Représentation des Arabes et des Musulmans dans les Jeux Vidéo**
-**2.1. Définition de l'Orientalisme et son application aux jeux vidéo.**
+*In 2017 another Moroccan studio, Funsoft, launched Rangi, a 3D puzzle game that is also the first African game in virtual reality. In it, one plays Guruki, who is on a mission to return the ancestral music that dark forces have confiscated, so that the country of Ota can have its harmony restored. The imaginary Africa depicted in the game consists essentially of a desert environment strewn with ruins and set against a background of “tribal” music. From my point of view and despite the game’s qualities, the exoticizing instrumentalization of Africanness remains a major pitfall in this type of project.*
+
+*Perhaps contemporary Moroccan culture, which has assuredly not escaped postcolonial hybridization, is itself partly caught in the trap of orientalizing reconstructions that have been a factor in forging the country’s tourist success*
+
+*Most people working in video games in South Africa are white (90 percent of them!), and this is even more pronounced in positions of authority*
+
+*Ultimately, the fact that so much remains to be done also means there is a great opportunity to build new imaginaries. At a time when pan-Africanism is finding new relays, both intellectually and in civil society, at a time when artists from various horizons are returning to decolonial movements to rethink their creative practices, the African continent has a specific card to play. This involves decolonizing the imaginary but also decentering the history of video games and computer science in general*
+
+Mehdi Derfoufi, The Difficult Emergence of African Video Games, pp.152-162
+
+
+
+**2.3. Exotisme et hostilité : jeux vidéo comme espaces de conquête et d'exploration de l'« Autre ».**
+
+*"It's not just the portrayal of Muslims that is problematic. In several video games, images of the Arab and Muslim world are often inaccurate. The [above screenshot](http://o.aolcdn.com/hss/storage/midas/1de4f463e7f12f8a00cd25d826039fec/203598345/Karachi-prev.jpg) of Karachi in Call of Duty: Modern Warfare 2 , for example, has Arabic written over it. But Arabic isn't spoken in Pakistan, which is where Karachi is located. In fact, Pakistanis speak mostly in English and Urdu. Farah Khalaf, a Palestinian-Iraqi game developer from New Zealand, said that she often wishes games would depict Middle Eastern cities as they really are, instead of sandy deserts. "If you show people an image of Beirut, they'll be surprised that it's modern!"*
+
+- Jeux fait par des blancs pour des blancs. Devient presque ridicule si l'on connaît réellement la culture
+
+- Incarner l'autre = incarner UNE figure qui représentera l'ensemble d'une minorité -> *Tourisme identitaire*
+
+  
+
+​	**2.3.1 Orientalisme et impact des différents événements historiques **
 
 - Djinns, danseuses du ventre, minarets, Bédouins, bazars, harems, etc.
 
@@ -43,11 +146,16 @@ Kimberlé Crenshaw, Hanane Karimi
   L'intrigue commence souvent par l'enlèvement d'une femme par un personnage malveillant, suivi de l'intervention d'un héros qui la sauve.
 
 - Cultures arabes exotiques
+
 - Jeux vidéo utilisent et renforcent ces stéréotypes par des représentations caricaturales
 
 
 
-​	**2.1.1 L'exotisme et l'hostilité : jeux vidéo comme espaces de conquête et d'exploration de l'« Autre ».**
+
+
+- Guerre du golf, 11 septembre
+- la perception des arabes comme terroristes
+- Jeux vidéos utilise cette peur par des scénarios où les arabes sont systématiquement des terroristes 
 
 Jeux d'action tels que "War in the Gulf", "Delta Force", "Conflict Desert Storm", "Full Spectrum Warrior", "Kuma/War" et "Conflict: Global Terror" : Ces jeux se déroulent au Moyen-Orient ou dans des décors ostensiblement anonymes mais clairement inspirés par le Moyen-Orient.
 
@@ -55,10 +163,9 @@ Jeux d'action tels que "War in the Gulf", "Delta Force", "Conflict Desert Storm"
 
 ***Caractéristiques des personnages*** : Généralement, le joueur incarne les forces américaines, tandis que les ennemis présentent des attributs faisant référence aux Arabes ou aux Musulmans, comme les couvre-chefs, les vêtements amples, ou la peau foncée. Ces signes visuels sont souvent associés au terrorisme ou à l'extrémisme islamiste.
 
-- Jeux fait par des blancs pour des blancs. Devient presque ridicule si l'on connaît réellement la culture
-- Incarner l'autre = incarner UNE figure qui représentera l'ensemble d'une minorité -> *Tourisme identitaire*
+*Generally, the player controls American forces while ennemies have attributes referring to Arabs or Muslims people : headcover, loose clothes, dark skin colour. They signifiers to terrorism/ Islamist extremism*
 
- ***Militarisation des jeux vidéo :* **
+***Militarisation des jeux vidéo :* **
 
 Les conflits entre les États-Unis et le Moyen-Orient, tels que représentés dans les jeux, sont perçus comme humiliants pour de nombreux pays islamiques ou arabes, où se déroulent les batailles.
 
@@ -66,14 +173,7 @@ Les conflits entre les États-Unis et le Moyen-Orient, tels que représentés da
 
 https://controverses.sciences-po.fr/cours/com_2016/jeuxvideos/article-5.html
 
-​	**2.1.2 L'Orientalisme dans le contexte Post 11 Septembre**
-
-- L'impact du 11 Septembre sur la perception des arabes comme terroristes
-- Jeux vidéos utilise cette peur par des scénarios où les arabes sont systématiquement des terroristes 
-
-*Generally, the player controls American forces while ennemies have attributes referring to Arabs or Muslims people : headcover, loose clothes, dark skin colour. They signifiers to terrorism/ Islamist extremism*
-
-​	**2.1.3 Étude de cas : Prince of Persia, Assassin's Creed et d'autres exemples notables.**
+​	**2.3.2 Étude de cas : Prince of Persia, Assassin's Creed et d'autres exemples notables.**
 
 - Prince of Persia : Orientalisme romantique, héro occidentalisé
 - Assassin's Creed : Tentative de diversité mais reproduction de stéréotypes
@@ -87,25 +187,49 @@ https://controverses.sciences-po.fr/cours/com_2016/jeuxvideos/article-5.html
 
 *Assassin's Creed Revelations*
 
-**2.2. La figure de l'Arabe : bon Arabe, mauvais Arabe, et ambivalence morale.**
+
+
+**2.4 Représentation des Arabes et des Musulmans dans les Jeux Vidéo**
+
+*"We are often just reduced to four or five stereotypes," said Dr. Romana Ramzan, a game design lecturer at Glasgow Caledonian University in the UK. "It's usually summed up by the clothes we wear. So if you're a woman, you wear a hijab [...] If you're a man, you have a beard or wear your national dress." She added that Muslims are also often portrayed as aggressive and violent. "In games, we will be represented as the 'other' people who are the ones you have to kill. Usually it's a slightly dark-skinned character shouting Allahu Akbar, carrying an AK-47. Or he has a camel or a goat."*
+
+
+
+Nicole Lee, Shooting the Arabs: How video games perpetuate Muslim stereotypes, 
+
+​	**2.4.1 La figure de l'Arabe : bon Arabe, mauvais Arabe, et ambivalence morale.**
 
 - Bon Arabe : personnage assimilé à l'Occident (ex : Altaïr dans Assassin's Creed. Devient un bon arabe à la fin du jeu lorsqu'il a des caractéristuqes occidentales)
 - Mauvais arabe : ennemi 
 - Ambivalence morale : personnages arabes gentils ont souvent des côtés sombres 
 
-**2.3. Évolution des Représentations : De 2008 à 2024**
+​	**2.4.2 Évolution des Représentations : De 2008 à 2024**
 
 - Analyse des changements dans la représentation des Arabes et des musulmans dans les jeux vidéo entre 2008 et 2024.
 - Étude comparative basée sur l'article de Sisler (2008) : quels progrès, stagnations ou régressions ont été observés ?
 - Réflexion sur les nouvelles tendances et leur impact sur la perception des joueurs.
 
+
+
 **Chapitre 3 : Stéréotypes Sociaux et Représentations de Personnages**
 
 **3.1.Méthodologie des entretiens qualitatifs : objectifs, échantillon, et cadre d'analyse.**
 
-- Objectif : 
-- Echantillon : 
-- Cadre : 
+**Objectif :**
+L'objectif de cette étude est de comprendre comment les joueurs et non-joueurs perçoivent les personnages dans les jeux vidéo, notamment en ce qui concerne l'impact de l'ethnie sur leurs perceptions. Elle cherche également à examiner si l'origine des répondants et le type de jeux auxquels ils jouent influencent la manière dont ils perçoivent des personnages.
+
+**Échantillon :**
+L'échantillon est diversifié, composé de joueurs et non-joueurs, hommes et femmes, de différentes origines ethniques. Par exemple :
+
+- Kevin, H, racisé, joueur de *LOL*, *Rocket League*.
+- Gabriel, H, non-racisé, joueur de *LOL*, *Hearthstone*, *Skyrim*.
+- Ivanna, F, racisée, joue à *Jenny Leclue*, *Animal Crossing*, *Assassin’s Creed*.
+  
+
+L'échantillon vise à inclure des perspectives variées pour mieux comprendre les différences de perception.
+
+**Cadre :**
+Les participants sont amenés à interagir avec des personnages fictifs et à attribuer des rôles à ces derniers. Les personnages ont été choisis pour leurs différences ethniques, afin de vérifier l'impact de l'ethnie et du genre sur les perceptions. Plusieurs activités sont proposées, notamment la création de personnages via des outils en ligne et la discussion autour de polémiques dans les jeux vidéo.
 
 **3.2. Résultats des entretiens : perception des personnages issus de minorité dans les jeux vidéos**
 
@@ -221,9 +345,15 @@ Et les femmes arabes :
 
 <img src="DATA\INTERVIEW\Personnages\Part2\P3.png" width="200" />
 
-- ", le personnage typé e.  était le méchant
+- ", le personnage typé e.  était le méchant 
 
 <img src="DATA\INTERVIEW\Personnages\Part2\P5.png" width="200" />
+
+
+
+
+
+
 
 3.2. Sexisme et intersectionnalité dans le jeux vidéo.
 
@@ -233,6 +363,12 @@ Et les femmes arabes :
 - Femmes racisées sont presque absentes des jeux vidéos
 - Quand elles apparaissent, elles ont presque systématiquement un rôle secondaire
 - Subissent à la fois du racisme et du sexisme dans leur représentation
+
+- 
+
+
+
+
 
 **Chapitre 4 : Whitewashing et Hypermasculinité**
 4.1. Analyse du "whitewashing"
