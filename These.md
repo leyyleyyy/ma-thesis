@@ -1,4 +1,8 @@
+# Thèse
+
 ### Table des matières
+
+**Note d'intention**
 
 **Introduction**
 
@@ -50,15 +54,34 @@
 
 
 
+----
+
+#### Note d’intention
+
+Questions de départ :
+
+- Dans quelle mesure la représentation des minorités dans les jeux vidéo reflète-t-elle les stéréotypes et les perceptions de la vie réelle ?
+- Dans quelle mesure les jeux vidéo contribuent-ils à renforcer ou à déconstruire les stéréotypes concernant les minorités, en particulier Arabes et les Musulmanes, et quel impact ces représentations ont-elles sur la perception sociale et les questions identitaires liées à ces groupes ?
+
+Le but de cette recherche est d'analyser les biais et tendances dans la représentation des personnes issues de minorités, en particulier des Arabes et des Musulmans, dans les jeux vidéo. Elle vise également à examiner les impacts de ces représentations sur la perception qu'en a la société et sur les questions identitaires qu'elles soulèvent.
+
+Les jeux vidéo, en tant que reflet de la culture populaire, offrent un angle d'analyse pertinent pour comprendre comment ces stéréotypes sont renforcés ou, dans certains cas, déconstruits. Ils participent à façonner les représentations collectives, notamment après certains événements historiques , qui ont eu une influence majeure sur la manière dont les minorités sont perçues, y compris dans les médias vidéoludiques.
+
+Mon approche se structurera en plusieurs volets. D'abord, je m'appuierai sur des interviews de joueurs et joueuses plus ou moins expérimentés pour recueillir leurs impressions et expériences concernant la représentation des personnages issus de minorités et comprendre leurs propres biais. Ensuite, j'analyserai une sélection de jeux populaires pour évaluer comment ces personnages sont représentés et quel rôle ils jouent. Le choix des jeux se fera en fonction de leur impact sur l'industrie et leur audience. Enfin, je mobiliserai des sources théoriques, notamment sur des concepts comme l'orientalisme et l'intersectionnalité, pour contextualiser et enrichir mon analyse.
+
+Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi personnel, car elle me permet de lier mes expériences en tant que personne maghrébine avec une analyse critique des médias.
+
+
+
 ---
 
-**Introduction**
+#### **Introduction**
 
 - Cadre théorique : définition du racisme et des discriminations.
 - Rôle des médias dans la construction des stéréotypes et la perpétuation des inégalités.
 - Impact sur la perception des groupes minoritaires.
 
-**Chapitre 1 : Diversité et Racisme **
+#### Chapitre 1 : Diversité et Racisme 
 
 **1.1. Concept de race et analyse des représentations  **
 
@@ -98,7 +121,7 @@ Kimberlé Crenshaw, Hanane Karimi
 
 
 
-**Chapitre 2 : Inclusivité et la diversité dans le jeux vidéo**
+#### Chapitre 2 : Inclusivité et la diversité dans le jeux vidéo
 
 **2.1. Historique de l'inclusivité et la diversité dans le jeux vidéo**
 
@@ -211,7 +234,7 @@ Nicole Lee, Shooting the Arabs: How video games perpetuate Muslim stereotypes,
 
 
 
-**Chapitre 3 : Stéréotypes Sociaux et Représentations de Personnages**
+#### Chapitre 3 : Stéréotypes Sociaux et Représentations de Personnages
 
 **3.1.Méthodologie des entretiens qualitatifs : objectifs, échantillon, et cadre d'analyse.**
 
@@ -351,11 +374,7 @@ Et les femmes arabes :
 
 
 
-
-
-
-
-3.2. Sexisme et intersectionnalité dans le jeux vidéo.
+**3.2. Sexisme et intersectionnalité dans le jeux vidéo.**
 
 **Personne F** : "*Après avoir fini tous ses personnages (fait de manière assez rapide) : "Ahhhhhh je suis un batard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne*". 
 
@@ -370,18 +389,18 @@ Et les femmes arabes :
 
 
 
-**Chapitre 4 : Whitewashing et Hypermasculinité**
-4.1. Analyse du "whitewashing"
+#### Chapitre 4 : Whitewashing et Hypermasculinité
+**4.1. Analyse du "whitewashing"**
 
 - Personnage principal presque systématiquement un homme blanc
 
-4.2. Hypermasculinité et normes de genre : l'hétérosexualité masculine blanche comme norme par défaut.
+**4.2. Hypermasculinité et normes de genre : l'hétérosexualité masculine blanche comme norme par défaut.**
 
 **Personne E** : "*Je joue qu'à des jeux très fantastique. Soit il y a des blancs soit des elfes.* "
 
 - Valorisation d'une vision de la masculinité, la force physique et l'hétérosexualité
 
-4.3 Réactions du public et prise de consciences 
+**4.3 Réactions du public et prise de consciences **
 
 **Personne A** : "*J'aurais kiffé qu'il y ait plus de personnages métisses, je trouve qu'il n'y a que des hommes blancs comme personnage principal [...]. C'est un peu toujours le même schéma : on est un militaire américain de la Navy et on doit aller combattre au Moyen-Orient.*"
 
@@ -389,17 +408,17 @@ L'idée de "Personnage par défaut" revenait souvent.
 
 
 
-**Chapitre 5 : Marketing de la Diversité**
-5.1. Enjeux de la représentation dans les médias vidéoludiques 
+#### Chapitre 5 : Marketing de la Diversité
+**5.1. Enjeux de la représentation dans les médias vidéoludiques**
 
 - Entreprises intègrent la diversité pour élargir leur public
 - Risque d'une diversité superficielle, caricaturale qui ne reflète pas réellement la complexité des identités
 
-5.2. Comparaison des jeux vidéo par rapport aux autres médias (cinéma, télévision, etc.).
+**5.2. Comparaison des jeux vidéo par rapport aux autres médias (cinéma, télévision, etc.).**
 
 - Jeux vidéos ont progressés mais reste en retard par apport à d'autres médias
 
-5.4. Étude de cas : initiatives de diversité dans les jeux vidéo
+**5.3. Étude de cas : initiatives de diversité dans les jeux vidéo**
 
 - Assassin's creed, Sims 4, Barbie
 - Réception mitigée
@@ -412,7 +431,7 @@ L'idée de "Personnage par défaut" revenait souvent.
 
 **Personne B** : "*Je trouve que jusqu'à 2016, on jouait toujours des hommes blancs, ça c'est sûr. Mais maintenant, il faut de la diversité à tout prix uniquement à des fins marketing. Les hommes blancs sont devenus des persos de merde. Moi aussi je veux des persos d'hommes blancs ultra stylés. Tous les persos cool sont racisés, et ça ne me pose aucun problème, mais lâchez-nous un peu la grappe.*"
 
-**Conclusion**
+#### Conclusion
 
 - Synthèse des résultats.
 - Évolution des représentations : de la marginalisation à l'inclusion.
