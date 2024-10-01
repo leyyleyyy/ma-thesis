@@ -14,41 +14,43 @@
 
 **Chapitre 2 : Inclusivité et la diversité dans le jeux vidéo**
 
-2.1. Historique de l'inclusivité et la diversité dans le jeux vidéo
+2.1. Historique (de l'inclusivité et la diversité?) dans le jeux vidéo ??
 
-2.2. Influence de l'héritage colonial dans le développement des jeux vidéo.
+2.2. Orientalisme et influence de l'héritage colonial dans le développement des jeux vidéo.
 
-2.3. Exotisme et hostilité : jeux vidéo comme espaces de conquête et d'exploration de l'« Autre ».
+​	2.2.1 Exotisme et hostilité : jeux vidéo comme espaces de conquête et d'exploration de l'« Autre ».
 
-​	2.3.1 Orientalisme et impact des différents événements historiques 
+​	2.2.2 Guerre du Golf et 11 Septembre : Quel impact ? 
 
-​	2.3.2 Étude de cas : Prince of Persia, Assassin's Creed et d'autres exemples notables.
+​	2.2.3 Étude de cas : Prince of Persia, Assassin's Creed et d'autres exemples notables.
 
-2.4 Représentation des Arabes et des Musulmans dans les Jeux Vidéo
+2.3 Représentation des Arabes et des Musulmans dans les Jeux Vidéo
 
-​	2.4.1 La figure de l'Arabe : bon Arabe, mauvais Arabe, et ambivalence morale.
+​	2.3.1 La figure de l'Arabe : bon Arabe, mauvais Arabe, et ambivalence morale.
 
-​	2.4.2 Évolution des Représentations : De 2008 à 2024
+​	2.3.2 Évolution des Représentations : De 2008 à 2024
 
 **Chapitre 3 : Stéréotypes Sociaux et Représentations de Personnages**
 
-3.1.Méthodologie des entretiens qualitatifs : objectifs, échantillon, et cadre d'analyse.
+3.1. Méthodologie des entretiens qualitatifs : objectifs, échantillon, et cadre d'analyse.
 
 3.2. Résultats des entretiens : perception des personnages issus de minorité dans les jeux vidéos
 
 **Chapitre 4 : Whitewashing et Hypermasculinité**
-4.1. Analyse du "whitewashing"
 
-4.2. Hypermasculinité et normes de genre : l'hétérosexualité masculine blanche comme norme par défaut.
+4.1. Hypermasculinité et normes de genre : l'hétérosexualité masculine blanche comme norme par défaut.
 
-4.3 Réactions du public et prise de consciences 
+4.2. Réactions du public et prise de consciences 
 
 **Chapitre 5 : Marketing de la Diversité**
-5.1. Enjeux de la représentation dans les médias vidéoludiques 
 
-5.2. Comparaison des jeux vidéo par rapport aux autres médias (cinéma, télévision, etc.).
+5.1. Représentation médiatique et enjeux identitaires : l'importance d'une inclusion authentique
 
-5.3. Perceptions des joueurs : diversité forcée ou reflet d'une évolution sociétale ?
+5.2. Stratégies de diversité : entre inclusion et opportunisme commercial
+
+5.3. Étude de cas : initiatives de diversité dans les jeux vidéo
+
+5.4. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
 
 **Conclusion**
 
@@ -125,6 +127,16 @@ Kimberlé Crenshaw, Hanane Karimi
 
 **2.1. Historique de l'inclusivité et la diversité dans le jeux vidéo**
 
+*Indeed, video games have become massively popular with rapidly increasing economic relevance. The global video game market generated a total revenue of $180.3 billion in 2021, which is more than the film, TV, and digital music industries combined (Wijman 2021). Simultaneously, video games constitute an increasingly important form of cultural production, showing a growing diversity of genres, cultures, and worldviews. Over three billion players globally spend an average of eight hours per week playing games (Limelight 2021). Video games can be found on every continent and appeal to one of the widest demographics imaginable (Wolf 2015, 15). In this context, Reichmuth and Werning (2006, 47) argued that video games exhibit strong popular appeal and economic relevance and have “a profound impact on the collective imaginary although this ‘passive’ knowledge is seldom accepted as culturally relevant.” This deficit of acceptance is partly due to the fact that video games “lack cultural prestige and scientific coverage” (Reichmuth and Werning 2006, 47).*
+
+
+
+*According to Chapman (2016), historical video games constitute “one of the most successful forms” of popular history through which the past is engaged. Many mainstream, successful video games deal with real historical events and places, contributing to the ways history is conveyed, experienced, and understood (McCall 2016). As Rosenstone (2006, 12) notes, albeit in the context of film studies, “for every person who reads a book on a historical topic […] many millions of people are likely to encounter that same past on the screen.” This observation applies to historical video games too, given their increasing popularity and reach (Chapman 2016). Although there exists considerable debate about the quality and depth of the representation of history in popular media in general (Erll 2011; Rosenstone 2006), and video games in particular (Hammar 2019), the representation of the past in these games affects a society’s historical awareness (Kolek et al. 2021). This is particularly relevant to the topics of orientalism in video games and the representation of the Middle East, whose history and culture is oftentimes schematized in US and European mainstream media and popular culture (Said 1994; Mukherjee 2016).*
+
+CyberOrient
+
+
+
 *Today, however, most of the video game market is concentrated in Western countries and Asia. South America represents only 4 percent of the world market, and the African continent barely reaches 1 percent*
 
 In other words, the place of African video games is insignificant from an economic point of view. This economic weakness certainly has a direct impact on the continent’s cultural influence on the creative level.
@@ -133,7 +145,7 @@ In other words, the place of African video games is insignificant from an econom
 
 
 
-**2.2. Influence de l'héritage colonial dans le développement des jeux vidéo.**
+**2.2.  Orientalisme et influence de l'héritage colonial dans le développement des jeux vidéo.**
 
 - Héritage colonial dans les narratifs de conquête et de domination
 - Minorités comme objet d'exploration et d'oppression 
@@ -150,17 +162,13 @@ Mehdi Derfoufi, The Difficult Emergence of African Video Games, pp.152-162
 
 
 
-**2.3. Exotisme et hostilité : jeux vidéo comme espaces de conquête et d'exploration de l'« Autre ».**
 
-*"It's not just the portrayal of Muslims that is problematic. In several video games, images of the Arab and Muslim world are often inaccurate. The [above screenshot](http://o.aolcdn.com/hss/storage/midas/1de4f463e7f12f8a00cd25d826039fec/203598345/Karachi-prev.jpg) of Karachi in Call of Duty: Modern Warfare 2 , for example, has Arabic written over it. But Arabic isn't spoken in Pakistan, which is where Karachi is located. In fact, Pakistanis speak mostly in English and Urdu. Farah Khalaf, a Palestinian-Iraqi game developer from New Zealand, said that she often wishes games would depict Middle Eastern cities as they really are, instead of sandy deserts. "If you show people an image of Beirut, they'll be surprised that it's modern!"*
 
-- Jeux fait par des blancs pour des blancs. Devient presque ridicule si l'on connaît réellement la culture
+*In a nutshell, Said’s (1994) concept of orientalism is a critique of the Western construction of the “Orient” as a place of mystery and exoticism. In his seminal work, Said (1994) explores the discourse and practice of orientalism in literature, academia, and politics, exposing its role in perpetuating colonialism and imperialism. He highlights how the people of the “Orient” were often perceived as irrational and incapable of logic, with the accompanying assumption that the opposite traits were considered Western.*
 
-- Incarner l'autre = incarner UNE figure qui représentera l'ensemble d'une minorité -> *Tourisme identitaire*
+*.This can lead to the perpetuation of harmful stereotypes and the propagation of an idealized or distorted image of the East within video games, as shown in the examples mentioned above. Oftentimes, the schematizations and stereotyping are connected to the representation of Eastern religions and spiritual beliefs.*
 
-  
-
-​	**2.3.1 Orientalisme et impact des différents événements historiques **
+CyberOrient
 
 - Djinns, danseuses du ventre, minarets, Bédouins, bazars, harems, etc.
 
@@ -172,11 +180,17 @@ Mehdi Derfoufi, The Difficult Emergence of African Video Games, pp.152-162
 
 - Jeux vidéo utilisent et renforcent ces stéréotypes par des représentations caricaturales
 
+*"It's not just the portrayal of Muslims that is problematic. In several video games, images of the Arab and Muslim world are often inaccurate. The above screenshoot of Karachi in Call of Duty: Modern Warfare 2 , for example, has Arabic written over it. But Arabic isn't spoken in Pakistan, which is where Karachi is located. In fact, Pakistanis speak mostly in English and Urdu. Farah Khalaf, a Palestinian-Iraqi game developer from New Zealand, said that she often wishes games would depict Middle Eastern cities as they really are, instead of sandy deserts. "If you show people an image of Beirut, they'll be surprised that it's modern!"*
 
 
 
+**2.3. Exotisme et hostilité : jeux vidéo comme espaces de conquête et d'exploration de l'« Autre ».**
 
-- Guerre du golf, 11 septembre
+- Jeux fait par des blancs pour des blancs. Devient presque ridicule si l'on connaît réellement la culture
+- Incarner l'autre = incarner UNE figure qui représentera l'ensemble d'une minorité -> *Tourisme identitaire*
+
+**2.3.3 Guerre du golf, 11 septembre,... : Quel impact ?**
+
 - la perception des arabes comme terroristes
 - Jeux vidéos utilise cette peur par des scénarios où les arabes sont systématiquement des terroristes 
 
@@ -206,9 +220,11 @@ https://controverses.sciences-po.fr/cours/com_2016/jeuxvideos/article-5.html
 
 *Prince Of Persia, Les Sables Oubliés*
 
+
+
 <img src="IMAGES\Assassins_Creed.jpg" alt="Assassins_Creed" style="zoom:45%;" />
 
-*Assassin's Creed Revelations*
+*Assassin's Creed Revelations* 
 
 
 
@@ -390,17 +406,15 @@ Et les femmes arabes :
 
 
 #### Chapitre 4 : Whitewashing et Hypermasculinité
-**4.1. Analyse du "whitewashing"**
+**4.1. Hypermasculinité et normes de genre : l'hétérosexualité masculine blanche comme norme par défaut.**
 
-- Personnage principal presque systématiquement un homme blanc
-
-**4.2. Hypermasculinité et normes de genre : l'hétérosexualité masculine blanche comme norme par défaut.**
+Personnage principal presque systématiquement un homme blanc
 
 **Personne E** : "*Je joue qu'à des jeux très fantastique. Soit il y a des blancs soit des elfes.* "
 
 - Valorisation d'une vision de la masculinité, la force physique et l'hétérosexualité
 
-**4.3 Réactions du public et prise de consciences **
+**4.2. Réactions du public et prise de consciences **
 
 **Personne A** : "*J'aurais kiffé qu'il y ait plus de personnages métisses, je trouve qu'il n'y a que des hommes blancs comme personnage principal [...]. C'est un peu toujours le même schéma : on est un militaire américain de la Navy et on doit aller combattre au Moyen-Orient.*"
 
@@ -409,27 +423,33 @@ L'idée de "Personnage par défaut" revenait souvent.
 
 
 #### Chapitre 5 : Marketing de la Diversité
-**5.1. Enjeux de la représentation dans les médias vidéoludiques**
+
+**5.1. Représentation médiatique et enjeux identitaires : l'importance d'une inclusion authentique**
 
 - Entreprises intègrent la diversité pour élargir leur public
 - Risque d'une diversité superficielle, caricaturale qui ne reflète pas réellement la complexité des identités
 
-**5.2. Comparaison des jeux vidéo par rapport aux autres médias (cinéma, télévision, etc.).**
-
-- Jeux vidéos ont progressés mais reste en retard par apport à d'autres médias
-
-**5.3. Étude de cas : initiatives de diversité dans les jeux vidéo**
-
-- Assassin's creed, Sims 4, Barbie
-- Réception mitigée
-  - Inclusivité forcée ?
-
-5.5. Perceptions des joueurs : diversité forcée ou reflet d'une évolution sociétale ?
+**5.2. Stratégies de diversité : entre inclusion et opportunisme commercial**
 
 - Certains joueurs voient la diversité comme une évolution des normes sociales
 - D'autres perçoivent cela comme une concession aux exigences du politiquement correct
 
 **Personne B** : "*Je trouve que jusqu'à 2016, on jouait toujours des hommes blancs, ça c'est sûr. Mais maintenant, il faut de la diversité à tout prix uniquement à des fins marketing. Les hommes blancs sont devenus des persos de merde. Moi aussi je veux des persos d'hommes blancs ultra stylés. Tous les persos cool sont racisés, et ça ne me pose aucun problème, mais lâchez-nous un peu la grappe.*"
+
+
+
+**5.3. Étude de cas : initiatives de diversité dans les jeux vidéo**
+
+- Assassin's creed, Sims 4, Barbie
+
+- Réception mitigée
+  - Inclusivité forcée ?
+  
+  Jeux vidéos ont progressés mais reste en retard par apport à d'autres médias
+
+**5.4. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?**
+
+- 
 
 #### Conclusion
 
