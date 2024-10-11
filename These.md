@@ -87,13 +87,13 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 **1.1. Concept de race et analyse des représentations  **
 
-Le concept de race n'existe pas. 
+- Le concept de race n'existe pas
+
+- diversité oui mais pas aussi simpliste que blanc noir jaune
+- rôle est réduit à celui d'etre de telle ou telle éthnie - fait parti intégrante de l'identité du personnage
+- Réduit une personne à un groupe de personne -> réduit ce groupe de personne à des caractéristiques
 
 Anthropologue (UNIGE) : Ninian hubert Van Blijenburgh, cours "7 leçons sur notre espèce". https://moodle.unige.ch/course/section.php?id=36880
-
-*De fait, durant les quelques années qui préparent l’abolition définitive de l’esclavage, la race est devenue une institution, une catégorie du politique et de la vie économique, et bientôt, dans le futur dispositif colonial, une des modalités de gouvernement. Dans cette mutation, les médecins qui, sans démonstration mais sous l’influence d’enjeux politiques bruyants, installent la race dans l’ordre de la nature, semblent jouer le même rôle que les statisticiens et les démographes étasuniens qui, exactement à la même époque, à travers les pratiques du recensement, construisent la catégorie raciale du blanc et du noir pour des raisons toutes politiques : une catégorie pragmatique, directement issue du système esclavagiste et conçue pour résoudre la question du travail des affranchis. Cette catégorie, nourrie du préjugé de couleur pendant l’esclavage et de ses conséquences en termes de mesures discriminatoires contre les libres de couleur, s’impose définitivement comme notion théorique et se verra dans un avenir proche dotée de fonctions similaires à celles de l’esclavage : distinguer le Blanc de tous les autres et organiser sa domination.*
-
-Thomas Bernon, « La science des races : la Société Ethnologique de Paris et le tournant colonial (1839-1848) », La Révolution française, mis en ligne le 13 décembre 2018 
 
 
 
@@ -104,6 +104,12 @@ Thomas Bernon, « La science des races : la Société Ethnologique de Paris et l
 *Le mythe de l'inégalité des races est une vision politique qui s'appuie sur des données scientifiques douteuses. Il est remis à l'ordre du jour par une idéologie d'extrême droite et par des nationalismes ethnocentriques. L'histoire de cette alliance entre l'extrême droite et des concepts scientifiques manipulés est longue et malheureusement riche, comme nous venons de le voir. La haine de l'autre et l'égoïsme fournissent des moteurs toujours performants aux démagogues. 51 L'anthropologie biologique, comme d'ailleurs l'anthropologie sociale, a été utilisée, à des époques différentes et dans des contextes différents, pour justifier l'exploitation coloniale, pour fortifier une idéologie nationaliste, pour contrôler des populations indigènes et donc pour soutenir une exploitation de l'homme par l'homme. Mais l'anthropologie peut aussi servir à faciliter un système éducatif dans un contexte multi-ethnique ou des relations interculturelles dans un marché d'économie globale. Elle peut donc promouvoir la justice, l'égalité et la dignité humaine.*
 
 Jean Deligne, Esther Rebato et Charles Susanne, « Races et racisme », Journal des anthropologues [En ligne], 84 | 2001, mis en ligne le 07 mai 2009, consulté le 26 avril 2017. URL : http://jda.revues.org/2619
+
+- races humaines, basées sur des caractéristiques comme la couleur de peau, n'ont aucune réalité biologique valide
+
+- différences observées entre les populations sont surtout le produit de distinctions culturelles, pas biologiques
+
+- idées sur l'inégalité raciale sont promues par des mouvements d'extrême droite et nationalistes, malgré leur manque de fondement scientifique.
 
 
 
@@ -125,17 +131,29 @@ Kimberlé Crenshaw, Hanane Karimi
 
 #### Chapitre 2 : Inclusivité et la diversité dans le jeux vidéo
 
-**2.1. Historique de l'inclusivité et la diversité dans le jeux vidéo**
+**2.1. Rôle jeux vidéos dans les perceptions ?? Historique de l'inclusivité et la diversité dans le jeux vidéo?**
 
 *Indeed, video games have become massively popular with rapidly increasing economic relevance. The global video game market generated a total revenue of $180.3 billion in 2021, which is more than the film, TV, and digital music industries combined (Wijman 2021). Simultaneously, video games constitute an increasingly important form of cultural production, showing a growing diversity of genres, cultures, and worldviews. Over three billion players globally spend an average of eight hours per week playing games (Limelight 2021). Video games can be found on every continent and appeal to one of the widest demographics imaginable (Wolf 2015, 15). In this context, Reichmuth and Werning (2006, 47) argued that video games exhibit strong popular appeal and economic relevance and have “a profound impact on the collective imaginary although this ‘passive’ knowledge is seldom accepted as culturally relevant.” This deficit of acceptance is partly due to the fact that video games “lack cultural prestige and scientific coverage” (Reichmuth and Werning 2006, 47).*
 
+- Les jeux vidéo ont gagné en popularité et en importance économique -> 180,3 milliards $ en 2021 = dépasse industries du cinéma, la télévision et musique numérique
+
+- +de 3 milliards de joueurs dans le monde passent en moyenne 8h/semaine à jouer
+
+- présents sur tous les continents, large éventail démographique
+
+- jeux vidéo manquent de prestige culturel et de reconnaissance scientifique, ce qui limite leur "acceptation comme une forme culturelle significative"
 
 
-*According to Chapman (2016), historical video games constitute “one of the most successful forms” of popular history through which the past is engaged. Many mainstream, successful video games deal with real historical events and places, contributing to the ways history is conveyed, experienced, and understood (McCall 2016). As Rosenstone (2006, 12) notes, albeit in the context of film studies, “for every person who reads a book on a historical topic […] many millions of people are likely to encounter that same past on the screen.” This observation applies to historical video games too, given their increasing popularity and reach (Chapman 2016). Although there exists considerable debate about the quality and depth of the representation of history in popular media in general (Erll 2011; Rosenstone 2006), and video games in particular (Hammar 2019), the representation of the past in these games affects a society’s historical awareness (Kolek et al. 2021). This is particularly relevant to the topics of orientalism in video games and the representation of the Middle East, whose history and culture is oftentimes schematized in US and European mainstream media and popular culture (Said 1994; Mukherjee 2016).*
 
-CyberOrient
+CyberOrient :
 
+- De nombreux jeux traitent d'événements/lieux historiques -> peut influencer la manière dont l'histoire est perçue et comprise 
 
+- Comme pour les films, les jeux vidéo historiques touchent un public beaucoup plus large que les livres sur le même sujet 
+
+- Débat sur la qualité de la représentation de l'histoire dans les médias populaires, en particulier dans les jeux vidéo (Erll, 2011- Hammar, 2019)
+
+- Représentation du passé dans les jeux vidéo influence la conscience historique d’une société -> l'orientalisme 
 
 *Today, however, most of the video game market is concentrated in Western countries and Asia. South America represents only 4 percent of the world market, and the African continent barely reaches 1 percent*
 
@@ -150,17 +168,29 @@ In other words, the place of African video games is insignificant from an econom
 - Héritage colonial dans les narratifs de conquête et de domination
 - Minorités comme objet d'exploration et d'oppression 
 
-*In 2017 another Moroccan studio, Funsoft, launched Rangi, a 3D puzzle game that is also the first African game in virtual reality. In it, one plays Guruki, who is on a mission to return the ancestral music that dark forces have confiscated, so that the country of Ota can have its harmony restored. The imaginary Africa depicted in the game consists essentially of a desert environment strewn with ruins and set against a background of “tribal” music. From my point of view and despite the game’s qualities, the exoticizing instrumentalization of Africanness remains a major pitfall in this type of project.*
 
-*Perhaps contemporary Moroccan culture, which has assuredly not escaped postcolonial hybridization, is itself partly caught in the trap of orientalizing reconstructions that have been a factor in forging the country’s tourist success*
 
-*Most people working in video games in South Africa are white (90 percent of them!), and this is even more pronounced in positions of authority*
+- Djinns, danseuses du ventre, minarets, Bédouins, bazars, harems, etc.
 
-*Ultimately, the fact that so much remains to be done also means there is a great opportunity to build new imaginaries. At a time when pan-Africanism is finding new relays, both intellectually and in civil society, at a time when artists from various horizons are returning to decolonial movements to rethink their creative practices, the African continent has a specific card to play. This involves decolonizing the imaginary but also decentering the history of video games and computer science in general*
+  L'imagination occidentale perçoit l'Orient comme une entité historique unique
+
+  L'intrigue commence souvent par l'enlèvement d'une femme par un personnage malveillant, suivi de l'intervention d'un héros qui la sauve
+
+- Cultures arabes exotiques
+
+- Jeux vidéo utilisent et renforcent ces stéréotypes par des représentations caricaturales
+
+
 
 Mehdi Derfoufi, The Difficult Emergence of African Video Games, pp.152-162
 
+- *Rangi*, premier jeu africain en réalité virtuelle, propose une Afrique stéréotypée avec des décors de désert et de musique "tribale" -> le jeu reproduit une exotisation problématique de l'africanité
 
+- Culture marocaine contemporaine influencée par des reconstructions orientalistes liées au  tourisme
+
+- En Afrique du Sud, 90 % des créateurs de jeux vidéo sont blancs, surtout dans les postes de pouvoir
+
+- L'Afrique a une opportunité de décoloniser et redéfinir l'histoire des jeux vidéo dans un contexte panafricaniste
 
 
 
@@ -170,17 +200,21 @@ Mehdi Derfoufi, The Difficult Emergence of African Video Games, pp.152-162
 
 CyberOrient
 
-- Djinns, danseuses du ventre, minarets, Bédouins, bazars, harems, etc.
+- Orientalisme critique la construction occidentale de l'Orient comme mystérieux et exotique
+- Peuples orientaux perçus comme irrationnels en opposition à la rationalité des Occidentaux
+- Représentations souvent liées aux religions et croyances orientales simplifiées et stéréotypées.
 
-  L'imagination occidentale perçoit l'Orient comme une entité historique unique.
 
-  L'intrigue commence souvent par l'enlèvement d'une femme par un personnage malveillant, suivi de l'intervention d'un héros qui la sauve.
-
-- Cultures arabes exotiques
-
-- Jeux vidéo utilisent et renforcent ces stéréotypes par des représentations caricaturales
 
 *"It's not just the portrayal of Muslims that is problematic. In several video games, images of the Arab and Muslim world are often inaccurate. The above screenshoot of Karachi in Call of Duty: Modern Warfare 2 , for example, has Arabic written over it. But Arabic isn't spoken in Pakistan, which is where Karachi is located. In fact, Pakistanis speak mostly in English and Urdu. Farah Khalaf, a Palestinian-Iraqi game developer from New Zealand, said that she often wishes games would depict Middle Eastern cities as they really are, instead of sandy deserts. "If you show people an image of Beirut, they'll be surprised that it's modern!"*
+
+- Représentation des musulmans dans les jeux vidéo est problématique, mais pas le seul problème
+
+- CallOf Modern Warfare 2 -  Karachi (ville pakistanaise) représentée avec de l'arabe alors qu'on y parle anglais et ourdou
+
+- Représentation des villes du Moyen-Orient, souvent réduites à des déserts
+
+- Villes modernes sont rarement montrées de manière réaliste dans les jeux
 
 
 
@@ -191,7 +225,34 @@ CyberOrient
 
 **2.3.3 Guerre du golf, 11 septembre,... : Quel impact ?**
 
-- la perception des arabes comme terroristes
+- Guerre du golf : 
+- Première guerre médiatisée ?
+- Point de vue très américain,  romantisée, désinformation, propagande, (Douglas Kellner)
+
+The Persian Gulf TV War Revisited, Kellner Douglas, UCLA, 1992 https://pages.gseis.ucla.edu/faculty/kellner/papers/gulfwarrevisited.htm
+
+
+
+- la perception des arabes comme terroristes --> pourquoi
+  - Islam est lié à terrorisme 
+  - *Début 2017, dans le cadre de l’étude «Sicherheit 2017», l’Académie militaire à l’ETH de Zurich et le CSS ont demandé à environ 1200 personnes si, selon elles, l’islam constituait une menace pour la sécurité de la Suisse. Près de la moitié des personnes interrogées (47%) ont répondu par l’affirmative* (CSS, 2018)
+  - Andreas Tunger-Zanetti, spécialiste des religions Université de Lucerne : attentats du 11-Septembre comme une césure dans l’histoire des relations entre l’Occident et le monde musulman. 
+  - *"La propagande djihadiste a ensuite apporté de l’eau au moulin de celles et ceux qui ont commencé de diaboliser l’Islam dans son ensemble, avance Andreas Tunger-Zanetti. Habillés selon leur croyance religieuse, c’est alors que de plus en plus de musulmans sont devenus aussi visibles dans le paysage. «On pouvait ainsi vite remarquer si quelqu’un était pratiquant, a fortiori les femmes». Des associations d’idées et constructions mentales se sont ancrées dans les esprits. Jusqu’à une seule perception de l’Islam dans la tête de beaucoup, estime-t-il."*
+  - Islam et musulmans étaient déjà plutôt mal considérés avant les attentats du 11 septembre
+  - 14% des personnes interrogées ont une attitude négative à l’égard des musulmans -  noirs et juifs, respectivement à 10% et 8%.
+  - l’essor des réseaux sociaux et des journaux gratuits a considérablement modifié le paysage de l’information et contribué à placer le débat politique sur un mode plus affectif ==> rôle jeux vidéos
+
+
+
+
+<img src="DATA\ARTICLES\Islam_Suisse.png" alt="Islam_Suisse" width="400" />
+
+[*11-Septembre: Comment la peur des musulmans s’est immiscée dans le paysage*](https://www.swissinfo.ch/fre/societe/11-septembre-comment-la-peur-des-musulmans-s-est-immiscée-dans-le-paysage/46937960), May Elmahdi Lichtsteiner,  SwissInfo, 2021
+
+*[Le terrorisme et les attitudes à l’égard de l’islam](https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/CSSAnalyse226-FR.pdf)*, Darius Farman and Enzo Nussio, Center for Security Studies (CSS) & ETH Zurich, 2018
+
+
+
 - Jeux vidéos utilise cette peur par des scénarios où les arabes sont systématiquement des terroristes 
 
 Jeux d'action tels que "War in the Gulf", "Delta Force", "Conflict Desert Storm", "Full Spectrum Warrior", "Kuma/War" et "Conflict: Global Terror" : Ces jeux se déroulent au Moyen-Orient ou dans des décors ostensiblement anonymes mais clairement inspirés par le Moyen-Orient.
@@ -210,21 +271,7 @@ Les conflits entre les États-Unis et le Moyen-Orient, tels que représentés da
 
 https://controverses.sciences-po.fr/cours/com_2016/jeuxvideos/article-5.html
 
-​	**2.3.2 Étude de cas : Prince of Persia, Assassin's Creed et d'autres exemples notables.**
 
-- Prince of Persia : Orientalisme romantique, héro occidentalisé
-- Assassin's Creed : Tentative de diversité mais reproduction de stéréotypes
-- Autres exemples : Jeux de guerres où les arabes sont systématiquement représentés comme des terroristes. Armée américaine VS Moyen-Orient
-
-<img src="IMAGES\Prince_Of_Persia.jpeg" alt="Prince_Of_Persia" style="zoom:80%;" />
-
-*Prince Of Persia, Les Sables Oubliés*
-
-
-
-<img src="IMAGES\Assassins_Creed.jpg" alt="Assassins_Creed" style="zoom:45%;" />
-
-*Assassin's Creed Revelations* 
 
 
 
@@ -232,9 +279,9 @@ https://controverses.sciences-po.fr/cours/com_2016/jeuxvideos/article-5.html
 
 *"We are often just reduced to four or five stereotypes," said Dr. Romana Ramzan, a game design lecturer at Glasgow Caledonian University in the UK. "It's usually summed up by the clothes we wear. So if you're a woman, you wear a hijab [...] If you're a man, you have a beard or wear your national dress." She added that Muslims are also often portrayed as aggressive and violent. "In games, we will be represented as the 'other' people who are the ones you have to kill. Usually it's a slightly dark-skinned character shouting Allahu Akbar, carrying an AK-47. Or he has a camel or a goat."*
 
+Nicole Lee, Shooting the Arabs: How video games perpetuate Muslim stereotypes
 
 
-Nicole Lee, Shooting the Arabs: How video games perpetuate Muslim stereotypes, 
 
 ​	**2.4.1 La figure de l'Arabe : bon Arabe, mauvais Arabe, et ambivalence morale.**
 
@@ -242,7 +289,7 @@ Nicole Lee, Shooting the Arabs: How video games perpetuate Muslim stereotypes,
 - Mauvais arabe : ennemi 
 - Ambivalence morale : personnages arabes gentils ont souvent des côtés sombres 
 
-​	**2.4.2 Évolution des Représentations : De 2008 à 2024**
+​	(**2.4.2 Évolution des Représentations : De 2008 à 2024**)??
 
 - Analyse des changements dans la représentation des Arabes et des musulmans dans les jeux vidéo entre 2008 et 2024.
 - Étude comparative basée sur l'article de Sisler (2008) : quels progrès, stagnations ou régressions ont été observés ?
@@ -308,7 +355,7 @@ Et les femmes arabes :
 
 <img src="DATA\INTERVIEW\Persos_Crées\Kevin_PersoPrinc.jpg" alt="Kevin_PersoPrinc" width="300" />
 
-<img src="DATA\INTERVIEW\Persos_Crées\Lionel_PersoPrinc.png" alt="Lionel_PersoPrinc" width="250" /><img src="DATA\INTERVIEW\Persos_Crées\Steve_PersoPrinc.png" alt="Steve_PersoPrinc" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Myriam_PersoPrinc.jpg" alt="Myriam_PersoPrinc" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lulu_PersoPrinc.png" alt="Lulu_PersoPrinc" width="200" />
+<img src="DATA\INTERVIEW\Persos_Crées\Lionel_PersoPrinc.png" alt="Lionel_PersoPrinc" width="250" /><img src="DATA\INTERVIEW\Persos_Crées\Steve_PersoPrinc.png" alt="Steve_PersoPrinc" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Andy_PersoPrinc.png" alt="Andy_PersoPrinc" width="200" /><img src="DATA\INTERVIEW\Persos_Crées\Myriam_PersoPrinc.jpg" alt="Myriam_PersoPrinc" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lulu_PersoPrinc.png" alt="Lulu_PersoPrinc" width="200" />
 
 
 
@@ -320,9 +367,7 @@ Et les femmes arabes :
 
 **Terroriste**
 
-<img src="DATA\INTERVIEW\Persos_Crées\Myriam_Terroriste.jpg" alt="Myriam_Terroriste" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lionel_Terroriste.png" alt="Lionel_Terroriste" width="200" />
-
-
+<img src="DATA\INTERVIEW\Persos_Crées\Andy_Terroriste.png" alt="Andy_Terroriste" width="200" /><img src="DATA\INTERVIEW\Persos_Crées\Myriam_Terroriste.jpg" alt="Myriam_Terroriste" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lionel_Terroriste.png" alt="Lionel_Terroriste" width="200" />
 
 
 
@@ -337,10 +382,14 @@ Et les femmes arabes :
 **Résultats**: 
 
 - La plupart des personnes disaient ne pas vouloir être dans les clichés
+
 - Une seule femme, le participant : *"Pour moi le plus stylé c'est que le terroriste se soit une femme fatale. Elle use de son charme pour faire tomber les autres"*
+
 - La personne qui a fait le terroriste dans les clichés : *"je sais quoi mettre pour le terroriste. Je veux pas faire un truc cliché, je suis pas un gars comme ça. Après tu m'as dit GTA like c'est des gros clichés"*
 
 - Le russe. "*Tu m'as dit terroriste et jeu style GTA, donc c'est forcément dans les clichés. C'est soit un arabe soit un russe. Je vais faire le russe*"
+
+  
 
 **DrugDealer**
 
@@ -348,7 +397,7 @@ Et les femmes arabes :
 
 <img src="DATA\INTERVIEW\Persos_Crées\Steve_DrugDealer.png" alt="Steve_DrugDealer" width="300"/>
 
-<img src="DATA\INTERVIEW\Persos_Crées\Kevin_DrugDealer.jpg" alt="Kevin_DrugDealer" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lulu_DrugDealer.png" alt="Lulu_DrugDealer" width="200" />
+<img src="DATA\INTERVIEW\Persos_Crées\Andy_DrugDealer.png" alt="Andy_DrugDealer" width="200" /><img src="DATA\INTERVIEW\Persos_Crées\Kevin_DrugDealer.jpg" alt="Kevin_DrugDealer" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lulu_DrugDealer.png" alt="Lulu_DrugDealer" width="200" />
 
 <img src="DATA\INTERVIEW\Persos_Crées\Gab_DrugDealer.png" alt="Gab_DrugDealer" width="300" />
 
@@ -363,7 +412,7 @@ Et les femmes arabes :
 
 **PNJ**
 
-<img src="DATA\INTERVIEW\Persos_Crées\Myriam_PNJ.jpg" alt="Myriam_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lulu_PNJ.png" alt="Lulu_PNJ" width="200" /><img src="DATA\INTERVIEW\Persos_Crées\Lionel_PNJ.png" alt="Lionel_PNJ" width="200"/><img src="DATA\INTERVIEW\Persos_Crées\Kevin_PNJ.jpg" alt="Kevin_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Steve_PNJ.png" alt="Steve_PNJ" width="300" />
+<img src="DATA\INTERVIEW\Persos_Crées\Andy_PNJ.png" alt="Andy_PNJ" width="00" /><img src="DATA\INTERVIEW\Persos_Crées\Myriam_PNJ.jpg" alt="Myriam_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lulu_PNJ.png" alt="Lulu_PNJ" width="200" /><img src="DATA\INTERVIEW\Persos_Crées\Lionel_PNJ.png" alt="Lionel_PNJ" width="200"/><img src="DATA\INTERVIEW\Persos_Crées\Kevin_PNJ.jpg" alt="Kevin_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Steve_PNJ.png" alt="Steve_PNJ" width="300" />
 <img src="DATA\INTERVIEW\Persos_Crées\Gab_PNJ.png" alt="Gab_PNJ" width="300" />
 
 
@@ -373,6 +422,12 @@ Et les femmes arabes :
 - 100% d'hommes, et quasiment que des hommes blanc 
 
 - Pour la plupart des interviewés, le PNJ était le "personnage par défaut"
+
+
+
+- Pour les personnages principals -> plutôt variés
+- Plus on avançait moins les gens faisaient attention
+- Lors de la création des personnages principaux, les personnes faisaient attention de ne pas être dans les clichés, elles le verbalisaient "je sais qu'un terroriste c'est comme ca dans les clichés alors je ne veux pas le faire ", "c'est toujours des personnages blancs/des hommes comme personnage principal alors je ne veux pas le faire". Cependant quand ils étaient amenés à faire le PNJ, les personnes prenaient beaucoup moins le temps d'y réfléchir "ca sera le personnage qui sert à rien", "c'est celui qui se fait shooté par une voiture", et elles le faisaient instinctivement. A ce moment la, c'est quasiment toujours un homme blanc. 
 
 **_Interviews, réponses à la question crée un synopsis avec ces 5 personnages_**
 
@@ -390,7 +445,7 @@ Et les femmes arabes :
 
 
 
-**3.2. Sexisme et intersectionnalité dans le jeux vidéo.**
+**3.3. Sexisme et intersectionnalité dans le jeux vidéo.**
 
 **Personne F** : "*Après avoir fini tous ses personnages (fait de manière assez rapide) : "Ahhhhhh je suis un batard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne*". 
 
@@ -399,8 +454,9 @@ Et les femmes arabes :
 - Quand elles apparaissent, elles ont presque systématiquement un rôle secondaire
 - Subissent à la fois du racisme et du sexisme dans leur représentation
 
-- 
-
+- Les hommes blancs de manière très générales parlaient peu des problèmes de représentations, les personnes concernées en parlaient beaucoup plus
+  - quand je demandais ce qu'il faudrait rajouter aux jeux, les personnes non issues de minorités avaient tendances à parler de l'histoire, de la profondeur des personnages, etc...
+  - les personnes issues de minorités amenaient d'elles-même le sujet, disaient qu'il manquait de représentation (racisée + lgbt)
 
 
 
@@ -429,6 +485,8 @@ L'idée de "Personnage par défaut" revenait souvent.
 - Entreprises intègrent la diversité pour élargir leur public
 - Risque d'une diversité superficielle, caricaturale qui ne reflète pas réellement la complexité des identités
 
+**Personne G** : *"j'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ils comprennent pas ce qu'il y en ait besoin. Par contre quand on les représentent pas ils sont outrés. C'est un peu le  serpent qui se mord la queue [...] ca m'a fait plaisir black panther et que le cast soit entièrement noir. "* 
+
 **5.2. Stratégies de diversité : entre inclusion et opportunisme commercial**
 
 - Certains joueurs voient la diversité comme une évolution des normes sociales
@@ -444,6 +502,11 @@ L'idée de "Personnage par défaut" revenait souvent.
 
 - Réception mitigée
   - Inclusivité forcée ?
+  - Yasuke
+  
+  **Personne G** : *"C'est vrai que ya beaucoup d'histoires de blancs qui vont tuer en terre étrangère et ca passe comme une lettre à la poste par contre pour yasuke ca passe pas"*
+  
+  
   
   Jeux vidéos ont progressés mais reste en retard par apport à d'autres médias
 
@@ -454,7 +517,7 @@ L'idée de "Personnage par défaut" revenait souvent.
 #### Conclusion
 
 - Synthèse des résultats.
-- Évolution des représentations : de la marginalisation à l'inclusion.
-- Recommandations pour une meilleure représentation dans les jeux vidéo.
+- Évolution des représentations 
+- Recommandations pour une meilleure représentation dans les jeux vidéo
 - Perspectives pour les futures recherches et actions.
 
