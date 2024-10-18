@@ -319,7 +319,7 @@ Application de l’intersectionnalité pour expliquer pourquoi certaines minorit
 
 #### 1.7 Lara Croft 
 
-Seule figure féminine emblématique dans les jeux vidéo, mais elle reste une femme blanche.
+Seule figure féminine emblématique dans les jeux vidéo, mais elle reste une femme blanche hypersexualisée.
 
 
 
