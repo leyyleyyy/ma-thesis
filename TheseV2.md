@@ -123,7 +123,7 @@ Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilemen
 
 <img src="IMAGES\siamois_aristochat.jpg" alt="siamois_aristochat" style="zoom:40%;" />
 
-<img src="C:IMAGES\marchand_de_tapis.jpg" style="zoom:45%;" />
+<img src="IMAGES\marchand_de_tapis.jpg" style="zoom:45%;" />
 
 
 
