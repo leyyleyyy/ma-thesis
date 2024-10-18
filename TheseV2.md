@@ -70,7 +70,7 @@
 
 #### 	2.2 Propositions pour une diversité plus authentique 
 
-### Conclusion
+## Conclusion
 
 
 
@@ -95,7 +95,7 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 ---
 
-### Introduction
+## Introduction
 
 - **Contexte** : L'importance des jeux vidéo comme medium culturel majeur influençant les perceptions sociales et les identités.
 - **Raison de la recherche** : Anecdotes personnelles, processus pour en arriver là 
@@ -105,11 +105,11 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 
 
-### I. Les stéréotypes et l'industrie vidéoludique
+## I. Les stéréotypes et l'industrie vidéoludique
 
-#### 1. **Médias et stéréotypes**
+### 1. **Médias et stéréotypes**
 
-##### 1.1 Les minorités dans les médias traditionnels 
+#### 1.1 Les minorités dans les médias traditionnels 
 
 Afin de comprendre le rôle des jeux vidéo dans la perpétuation des clichés et stéréotypes, il est essentiel de d'abord se pencher sur les médias traditionnels, comme la télévision, le cinéma ou la presse, qui ont posé les fondements de ces représentations biaisées. Ces médias ont, pendant des décennies et jusqu'à aujourd'hui, contribué à façonner l'imaginaire collectif et véhiculer des représentations stéréotypées des minorités. Nous allons ici essayer de comprendre comment les médias de manière générale contribuent à forger ces visions et l'impact qu'ils ont sur les perceptions sociales et les identités *(?? je sais pas encore comment le dire, je veux exprimer l'impact que ça a sur la manière dont les personnes issues de minorités se perçoivent + comment les autres les perçoivent)*. 
 
@@ -149,9 +149,9 @@ Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Pr
 
 
 
-##### 1.2 L'influence des jeux vidéos comme média moderne 
+#### 1.2 L'influence des jeux vidéos comme média moderne 
 
-​	*1.2.1 L'effet amplificateur de l'interactivité*s
+##### 	*1.2.1 L'effet amplificateur de l'interactivité*s
 
 - Dans le jeux vidéo, nous ne sommes pas spectateurs comme d'autres médias tels que la TV ou le cinéma mais nous sommes joueurs, donc actif. 
 - En incarnant les personnages = ne se contente pas d'observer les stéréotypes mais on les vit
@@ -159,7 +159,7 @@ Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Pr
 
  
 
-​	*1.2.2 L'impact de l'immersion prolongée sur les perceptions*
+##### 	*1.2.2 L'impact de l'immersion prolongée sur les perceptions*
 
 - Immersion n'est pas seulement ponctuelle (comme la TV ou le cinéma), mais les joueurs peuvent passer des dizaines, voir des centaines d'heures à incarner le même personnage
 - Renforce la fixation de stéréotypes
@@ -167,9 +167,9 @@ Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Pr
 
 
 
-#### 2. **Diversité dans l'industrie du jeux vidéos**
+### 2. **Diversité dans l'industrie du jeux vidéos**
 
-##### 2.1 Sous-représentation des minorités parmi les créateurs
+#### 2.1 Sous-représentation des minorités parmi les créateurs
 
 Minority in the video game industry
 
@@ -190,7 +190,7 @@ Williams, Dmitri, et al. (2009). *The virtual census: Representations of gender,
 
 - Si les développeurs eux-même ne sont pas issues de la diversité crée une plus grande chance
 
-##### 	2.2 L'impact des créateurs sur la représentation dans les jeux
+#### 	2.2 L'impact des créateurs sur la représentation dans les jeux
 
 [Diversity in Gaming Report: An Analysis of Diversity in Video Game Characters](https://diamondlobby.com/geeky-stuff/diversity-in-gaming/)
 
@@ -242,11 +242,11 @@ Devine, Patricia G. (1989). *Stereotypes and prejudice: Their automatic and cont
 
 
 
-### II. Représentation des minorités dans les jeux vidéo : entre invisibilité et stéréotypes
+## II. Représentation des minorités dans les jeux vidéo : entre invisibilité et stéréotypes
 
-#### 1. Les archétypes
+### 1. Les archétypes
 
-##### 1.1 Le personnage par défaut
+#### 1.1 Le personnage par défaut
 
 - **Description** : L’homme blanc est souvent le modèle par défaut pour les personnages principaux, renforçant une hiérarchie raciale implicite.
 - **Analyse théorique** : **Normativité blanche** (Richard Dyer) : L'homme blanc est vu comme la norme universelle dans les médias, et cela se traduit dans les jeux vidéo.
@@ -270,7 +270,7 @@ mentionnent tous deux des personnages qui sont vus comme des PNJ, à cause de le
 
 
 
-##### 1.2 Le sauveur
+#### 1.2 Le sauveur
 
  **Resident Evil 5** (Partie 5) ici. Mimi critique le fait qu’un jeu qui se déroule en Afrique présente un antagoniste blond au lieu d’un chef de guerre noir, mettant en lumière un manque de cohérence entre le cadre et les représentations raciales, renforçant l’idée de "sauveur blanc" dans des environnements exotiques.
 
@@ -279,13 +279,13 @@ mentionnent tous deux des personnages qui sont vus comme des PNJ, à cause de le
 
 
 
-##### 1.3 Le meilleur ami
+#### 1.3 Le meilleur ami
 
 Les personnages issus de minorités sont souvent relégués à des rôles secondaires comme le "meilleur ami" du héros.
 
 
 
-##### 1.4 Le terroriste né
+#### 1.4 Le terroriste né
 
 **Andy** : "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" – biais automatique enraciné.
 
@@ -299,7 +299,7 @@ Les personnages issus de minorités sont souvent relégués à des rôles second
 
 
 
-##### 1.5 La demoiselle en détresse
+#### 1.5 La demoiselle en détresse
 
 Princesse à aller sauver  -> Princesse Peach, représentant le stéréotype de la femme passive qui doit être sauvée par un héros masculin (& blanc)
 
@@ -307,21 +307,21 @@ Princesse à aller sauver  -> Princesse Peach, représentant le stéréotype de 
 
 
 
-##### 1.6 L'inexistant.e
+#### 1.6 L'inexistant.e
 
 Application de l’intersectionnalité pour expliquer pourquoi certaines minorités, comme les Sud-Asiatiques, sont souvent absentes des représentations.
 
 
 
-##### 1.7 Lara Croft 
+#### 1.7 Lara Croft 
 
 Seule figure féminine emblématique dans les jeux vidéo, mais elle reste une femme blanche.
 
 
 
-#### 2. Représentations dans les jeux vidéos
+### 2. Représentations dans les jeux vidéos
 
-##### 2.1 Représentation unique d'une communauté par un personnage
+#### 2.1 Représentation unique d'une communauté par un personnage
 
 - **Description** : Dans les jeux vidéo, un seul personnage peut représenter une communauté entière, créant ainsi un archétype.
 - **Analyse théorique** : **Théorie des représentations sociales** (Moscovici) : Ces personnages deviennent des figures représentatives dans l'imaginaire collectif, renforçant des stéréotypes.
@@ -340,7 +340,7 @@ Seule figure féminine emblématique dans les jeux vidéo, mais elle reste une f
 
 
 
-##### 2.2 L'orientalisme dans la création vidéoludique 
+#### 2.2 L'orientalisme dans la création vidéoludique 
 
 - **Description** : L’influence de l’orientalisme dans la représentation des personnages arabes et musulmans comme "l’autre" exotique ou dangereux.
 - **Analyse théorique** : **Orientalisme** (Edward Said) : Réduction de cultures non occidentales à des stéréotypes simplistes et souvent déshumanisants.
@@ -362,7 +362,7 @@ Huggan, Graham (2001). *The Postcolonial Exotic: Marketing the Margins*.
 
 
 
-##### 2.3 Personnages secondaires ou invisibles
+#### 2.3 Personnages secondaires ou invisibles
 
 - **Description** : Les minorités ethniques et raciales apparaissent souvent dans des rôles secondaires, stéréotypés ou invisibles.
 - **Analyse théorique** : **Théorie de la sous-représentation** (Stuart Hall) et **concept d'invisibilité** (Ralph Ellison) : La sous-représentation des minorités renforce leur invisibilité dans les récits vidéoludiques.
@@ -378,7 +378,7 @@ Steve : Sa difficulté à nommer des personnages racisés montre une certaine di
 
 
 
-#### 3. L'impact de l'exposition régulière à des personnages stéréotypés
+### 3. L'impact de l'exposition régulière à des personnages stéréotypés
 
 Exposition régulière à des personnages de jeux vidéo stéréotypés :
 nocivité et régulation étatique : l'esquisse d'une proposition libérale
@@ -389,11 +389,11 @@ régulation étatique : l’esquisse d’une proposition libérale d’intervent
 
 -> médias contribuent à forger notre représentation mentale de certains groupes, même si on en fait parti ---> Kevin & Andy
 
-##### 3.1 Sur la perception sociale
+#### 3.1 Sur la perception sociale
 
 
 
-##### 3.2 Sur l'identité des joueurs
+#### 3.2 Sur l'identité des joueurs
 
 [La mixité et la diversité dans les entreprises de jeux vidéo, 8 juillet 2023,  Martinique Games Festival](https://afjv.com/news/11404_conference-mixite-diversite-entreprises-jeux-video.htm)
 
@@ -407,9 +407,9 @@ Source : Newzoo, 2020
 
 
 
-### III. Le marketing de la diversité 
+## III. Le marketing de la diversité 
 
-#### 1. Entre inclusion et opportunisme commercial 
+### 1. Entre inclusion et opportunisme commercial 
 
 - **Description** : L'intégration de personnages de minorités est parfois perçue comme une réponse forcée à la demande de diversité, suscitant des critiques sur le "tokenisme".
 - **Analyse théorique** : **Tokenisme** (Shani Orgad) : L'inclusivité devient un outil marketing plutôt qu'un véritable effort d'authenticité culturelle.
@@ -432,7 +432,7 @@ Source : Newzoo, 2020
 
 **Steve** : *"Juste les mecs nuls dont on s'en fout, c'est des blancs. Le reste c'est toutes les autres ethnies. Là encore une fois, ça me dérange pas mais genre au bout d'un moment lâcher nous la grappe aussi on est pas tous des fils de pute. Dans les derniers jeux que j'ai joué, à part minecraft où le perso principal de base il est blanc mais après tu peux en faire ce que tu veux. j'ai pas eu beaucoup de héros blanc. Dans les jeux récents."*
 
-#### 2. Représentation médiatique et enjeux identitaires : l'importance d'une inclusion authentique
+### 2. Représentation médiatique et enjeux identitaires : l'importance d'une inclusion authentique
 
 - **Description** : Une inclusion authentique dans les médias est cruciale pour éviter la déshumanisation des personnages issus de minorités. Les personnages doivent être construits de manière complexe et multidimensionnelle, plutôt que d'être simplement des avatars représentatifs d'une ethnie ou d'une identité.
 
@@ -446,7 +446,7 @@ Source : Newzoo, 2020
 
 -> La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
 
-#### 3. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
+### 3. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
 
 Les médias, y compris les jeux vidéo, ont un rôle central dans la construction des identités et des perceptions sociales des minorités. La représentation des minorités ne se réduit pas à une question de chiffre. Il faut s'interroger sur la visibilité des populations marginalisées mais il est surtout nécessaire d'étudier l'aspect qualitatif de ces représentations. Il faut être vigilant à ne pas reproduire des représentations caricaturales et stéréotypées. 
 
@@ -459,7 +459,7 @@ Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cin�
 
 ---
 
-### Conclusion
+## Conclusion
 - **Synthèse des résultats** : Le double rôle des jeux vidéo dans la reproduction et la déconstruction des stéréotypes concernant les minorités.
 - **Impact sur la perception sociétale et identitaire** : Comment ces représentations influencent la manière dont les minorités sont perçues et comment elles influencent la formation des identités.
 - **Perspectives futures** 
