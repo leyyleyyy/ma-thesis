@@ -101,7 +101,7 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 
 
-## I. Les stéréotypes et l'industrie vidéoludique
+## I. Les stéréotypes dans l'industrie vidéoludique
 
 ### 1. **Médias et stéréotypes**
 
