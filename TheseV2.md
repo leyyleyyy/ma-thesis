@@ -133,11 +133,9 @@ En dehors des dessins animés, ces rôles stéréotypés se manifestent de mani�
 
 
 
-Une évolution est en cours, comme par exemple avec la série *Chérif* qui met en scène un personnage maghrébin en tant que héros non stéréotypé. Cet exemple est cependant suffisamment rare pour qu'on en vienne à le souligner. 
+Certains contre-exemples existent, comme par exemple la série *Chérif* qui met en scène un personnage maghrébin en tant que héros non stéréotypé. Cet exemple est cependant suffisamment rare pour qu'on en vienne à le souligner. 
 
 On peut aussi observer un schéma récurrent dans certaines fictions où un enfant issu de l’immigration est sauvé par une famille blanche, que ce soit parce qu'il fuit un pays en guerre ou parce qu'il est malheureux dans un foyer précaire. Ce schéma repose sur l'idée que les minorités ont besoin d'être secourues par une figure occidentale, consolidant ainsi des rapports de pouvoir.
-
-Maintenant que nous avons éclairer la manière dont les médias jouent des stéréotypes, nous allons nous pencher sur l'impact des jeux vidéos dans cette problématique. En tant que média interactif, le jeu vidéo reprend et amplifie ces mêmes clichés,  en ayant la capacité unique d'engager activement les joueurs dans ces récits.
 
 
 
@@ -151,17 +149,15 @@ Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Pr
 
 #### 1.2 L'influence des jeux vidéos comme média interactif 
 
-##### 
+Avec l'évolution rapide des technologies numériques, le jeu vidéo s'est progressivement imposé comme l'un des médias les plus influents et les plus répandus du 21e siècle (*source*). Alors que la télévision, le cinéma ou la presse ont longtemps été les principales sources de diffusion de récits, le jeu vidéo a ouvert un nouveau champ d’interaction. Ce média n'est plus seulement un divertissement passif, mais engage activement le joueur dans des univers où il peut incarner des personnages, faire des choix et interagir avec son environnement. Le jeu vidéo se distingue des autres médias par sa capacité à offrir une immersion totale, modifiant ainsi la manière dont les récits perçus et vécus.
 
-- Dans le jeux vidéo, nous ne sommes pas spectateurs comme d'autres médias tels que la TV ou le cinéma mais nous sommes joueurs, donc actif. 
-- En incarnant les personnages = ne se contente pas d'observer les stéréotypes mais on les vit
-- Ex : stéréotypes de guerre. Ne se contente pas d'être exposé aux stéréotypes mais on les contrôle -> ancre d'autant plus 
+Contrairement à la télévision ou au cinéma, où le spectateur est dans un rôle d’observateur, le jeu vidéo permet à l'utilisateur d'avoir un rôle actif. Cela lui permet de ne pas seulement assister à la représentation de stéréotypes, mais d’y participer activement. Dans un jeu vidéo, le joueur devient le protagoniste et, de ce fait, il est directement impliqué dans la façon dont les personnages interagissent avec le monde virtuel. Le joueur ne voit plus seulement les stéréotypes mais il les vit directement. 
 
- 
+Prenons, par exemple, les jeux de guerre, où l’on retrouve fréquemment des ennemis racisés représentés comme des menaces terroristes. Dans ces jeux, le joueur ne se contente pas de voir ces personnages : il est encouragé à les combattre, renforçant l'idée que ces groupes sont liés à la violence et au danger. Le joueur devient non seulement témoin des stéréotypes mais aussi acteur de leur perpétuation. 
 
-- Immersion n'est pas seulement ponctuelle (comme la TV ou le cinéma), mais les joueurs peuvent passer des dizaines, voir des centaines d'heures à incarner le même personnage
-- Renforce la fixation de stéréotypes
-- Encore plus lorsque ce sont des jeunes joueurs -> peut avoir un impact sur le très long terme 
+Cette immersion est d’autant plus renforcée par le temps passé dans les jeux vidéo. Contrairement à un film qui ne dure que quelques heures, un jeu vidéo peut occuper le joueur sur des dizaines voir des centaines d'heures. Cette répétition couplée à l'interaction active, peut fixer les stéréotypes dans l'esprit des joueurs de manière beaucoup plus durable. Cela est particulièrement vrai pour les jeunes joueurs dont la perception du monde peut être plus profondément influencée par les représentations qu’ils intègrent.
+
+Les jeux vidéo, en tant que média interactif possèdent donc une capacité unique à engager les joueurs dans des stéréotypes, souvent hérités des médias traditionnels, mais amplifiés par leur nature immersive et participative.
 
 
 
