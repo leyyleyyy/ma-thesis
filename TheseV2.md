@@ -293,7 +293,7 @@ Les personnages issus de minorités sont souvent relégués à des rôles second
 
 **Andy** : "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" – biais automatique enraciné.
 
- **Mimi** : *"J'ai plusieurs teams, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe."*
+ **Mimi** : *"J'ai plusieurs teams, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dis univers GTA, c'est rempli de clichés."*
 
 => met en lumière le rôle récurrent des clichés racistes dans les jeux vidéo, particulièrement dans la représentation des "terroristes".
 
