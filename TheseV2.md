@@ -8,7 +8,7 @@
 
 #### 	1.1 Les médias traditionnels et les minorités
 
-#### 	1.2 L'influence des jeux vidéos comme média moderne 
+#### 	1.2 L'influence des jeux vidéos comme média interactif 
 
 ### 2. Diversité dans l'industrie du jeux vidéos
 
@@ -149,7 +149,7 @@ Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Pr
 
 
 
-#### 1.2 L'influence des jeux vidéos comme média moderne 
+#### 1.2 L'influence des jeux vidéos comme média interactif 
 
 ##### 
 
