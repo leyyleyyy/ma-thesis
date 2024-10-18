@@ -119,11 +119,11 @@ Dès l'enfance, nous sommes exposés à des médias (comme les dessins animés o
 
 Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilement publiables, il existe encore des exemples récents, bien connus, remplis de stéréotypes. Prenons, par exemple, *Aladdin* qui perpétue des clichés orientalisme *(voir chapitre 2 2.2)*, les siamois dans *Les Aristochats*, représentés en stéréotypes de personnes asiatiques jouant du piano avec des baguettes. On retrouve également les Amérindiens dans *Peter Pan*, moqués ouvertement pour leur culture.
 
-<img src="IMAGES\peterpan_amerindiens.jpg" style="zoom:50%;" />
+<img src="IMAGES\peterpan_amerindiens.jpg" width="400" />
 
-<img src="IMAGES\siamois_aristochat.jpg" alt="siamois_aristochat" style="zoom:40%;" />
+<img src="IMAGES\siamois_aristochat.jpg" alt="siamois_aristochat" width="400" />
 
-<img src="IMAGES\marchand_de_tapis.jpg" style="zoom:45%;" />
+<img src="IMAGES\marchand_de_tapis.jpg" width="400" />
 
 
 
