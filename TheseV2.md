@@ -159,11 +159,17 @@ Cette immersion est d’autant plus renforcée par le temps passé sur les jeux 
 
 Les jeux vidéo, en tant que média interactif possèdent donc une capacité unique à engager les joueurs dans des stéréotypes, souvent hérités des médias traditionnels, mais amplifiés par leur nature immersive et participative.
 
+Face à ce constat, il est nécessaire de se poser une question fondamentale : comment peut-on pallier à ce problème et offrir des représentations plus justes et variées des minorités dans les jeux vidéo ?
 
+Le premier point à examiner est sans aucun doute la diversité parmi les créateurs de jeux eux-mêmes. Si les récits et les personnages sont souvent stéréotypés, c'est en grande partie parce que l'industrie vidéoludique reste largement homogène. La majorité des créateurs, développeurs et designers de jeux appartiennent à des groupes dominants, ce qui influe directement sur les types de récits et de personnages mis en avant. 
 
-### 2. **Diversité dans l'industrie du jeux vidéos**
+### 2. Diversité dans l'industrie du jeu vidéo
 
 #### 2.1 Sous-représentation des minorités parmi les créateurs
+
+Les statistiques révèlent un déséquilibre frappant au sein de l'industrie du jeu vidéo. D'après une étude récente (IDGA), environ 79 % des professionnels du secteur sont blancs et les minorités ethniques, quant à elles, sont sous-représentées : 7 % des créateurs sont hispaniques, 7 % asiatiques de l'Est, 4 % afro-américains ou issus de la diaspora africaine, et seulement 3 % viennent d'Asie du Sud-Est. De plus, l'industrie reste largement dominée par les hommes (63 %). 
+
+
 
 Minority in the video game industry
 
