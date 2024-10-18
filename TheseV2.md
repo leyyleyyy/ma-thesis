@@ -113,7 +113,7 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 Afin de comprendre le rôle des jeux vidéo dans la perpétuation des clichés et stéréotypes, il est essentiel de d'abord se pencher sur les médias traditionnels, comme la télévision, le cinéma ou la presse, qui ont posé les fondements de ces représentations biaisées. Ces médias ont, pendant des décennies et jusqu'à aujourd'hui, contribué à façonner l'imaginaire collectif et véhiculer des représentations stéréotypées des minorités. Nous allons ici essayer de comprendre comment les médias de manière générale contribuent à forger ces visions. 
 
-Dès l'enfance, nous sommes exposés à des médias (comme les dessins animés ou les livres) qui nous font prendre conscience de l'existence de certains groupes et des caractéristiques qui leur sont attribués. Nous pouvons prendre le célèbre exemple de Tintin au Congo, vivement critiqué pour sa version raciste et colonialiste de l'Afrique. 
+Dès l'enfance, nous sommes exposés à des médias (comme les dessins animés ou les livres) qui nous font prendre conscience de l'existence de certains groupes et des caractéristiques qui leur sont attribués. Nous pouvons prendre le célèbre exemple de Tintin au Congo, vivement critiqué pour sa vision raciste et colonialiste de l'Afrique. 
 
 <img src="IMAGES\Tintin_Congo.jpg" />
 
