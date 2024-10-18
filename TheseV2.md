@@ -111,11 +111,37 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 ##### 1.1 Les minorités dans les médias traditionnels 
 
-- « la vision que l’on se fait d’un groupe est le résultat d’un contact répété avec des représentations tantôt construites de toutes pièces, tantôt filtrées par le discours des médias » (Amossy et Herschberg-Pierrot, 2011, p. 26).
-- Domination de "l'homme blanc hétérosexuel contribue à orienter notre perception de la réalité" --> femmes & hommes biaisés par leur vision acceptent des positionnements sociaux qu'ils considèrent comme évidents (Haslanger, 1993)
-- Tendance à prendre le rôle qui nous est destiné 
+Afin de comprendre le rôle des jeux vidéo dans la perpétuation des clichés et stéréotypes, il est essentiel de d'abord se pencher sur les médias traditionnels, comme la télévision, le cinéma ou la presse, qui ont posé les fondements de ces représentations biaisées. Ces médias ont, pendant des décennies et jusqu'à aujourd'hui, contribué à façonner l'imaginaire collectif et véhiculer des représentations stéréotypées des minorités. Nous allons ici essayer de comprendre comment les médias de manière générale contribuent à forger ces visions et l'impact qu'ils ont sur les perceptions sociales et les identités *(?? je sais pas encore comment le dire, je veux exprimer l'impact que ça a sur la manière dont les personnes issues de minorités se perçoivent + comment les autres les perçoivent)*. 
 
-Référence additionnelle : Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Practices*
+Dès l'enfance, nous sommes exposés à des médias (comme les dessins animés ou les livres) qui nous font prendre conscience de l'existence de certains groupes et des caractéristiques qui leur sont attribués. Nous pouvons prendre le célèbre exemple de Tintin au Congo, vivement critiqué pour sa version raciste et colonialiste de l'Afrique. 
+
+![](IMAGES\Tintin_Congo.jpg)
+
+Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilement publiables, il existe encore des exemples récents, bien connus, remplis de stéréotypes. Prenons, par exemple, *Aladdin* qui perpétue des clichés orientalisme *(voir chapitre 2 2.2)*, les siamois dans *Les Aristochats*, représentés en stéréotypes de personnes asiatiques jouant du piano avec des baguettes. On retrouve également les Amérindiens dans *Peter Pan*, moqués ouvertement pour leur culture.
+
+<img src="IMAGES\peterpan_amerindiens.jpg" style="zoom:50%;" />
+
+<img src="IMAGES\siamois_aristochat.jpg" alt="siamois_aristochat" style="zoom:40%;" />
+
+<img src="C:IMAGES\marchand_de_tapis.jpg" style="zoom:45%;" />
+
+Depuis, les grands studios de cinéma, notamment Disney, s'efforcent d'être plus inclusifs dans leurs films. Tiana, dans *La Princesse et la Grenouille*, était la première princesse Disney noire, tandis que *Coco* a introduit le premier héros mexicain.
+
+Cependant, malgré ces efforts de la part des géants du cinéma ces dernières années, il est frappant de constater que lorsque le protagoniste d'un film est issu d'une minorité, une grande partie de son histoire tourne souvent autour de sa culture. Les œuvres où l'ethnie du personnage n'influence pas le récit restent rares mais se font de plus en plus fréquentes.
+
+Ces rôles stéréotypés se manifestent de manière marquante dans des productions populaires. On peut observer un schéma récurrent dans certaines fictions où un enfant issu de l’immigration est sauvé par une famille blanche, que ce soit parce qu'il fuit un pays en guerre ou parce qu'il est malheureux dans un foyer précaire. Ce schéma repose sur l'idée que les minorités ont besoin d'être secourues par une figure occidentale, consolidant ainsi des rapports de pouvoir.
+
+Un autre exemple parlant est celui des rôles donnés maghrébins dans la télévision et le cinéma français. Ils apparaissent souvent comme des ouvriers, des délinquants, ou des immigrants en difficulté. Une évolution est en cours, comme par exemple avec la série *Chérif* qui met en scène un personnage maghrébin en tant que héros non stéréotypé. Cet exemple est cependant suffisamment rare pour qu'on en vienne à le souligner. 
+
+Ces représentations simplifiées et caricaturales des minorités se heurtent à un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France, ce qui renforce l’ancrage de ces stéréotypes dans l’imaginaire collectif. 
+
+
+
+Références : 
+
+*Institut National de L'audiovisuel (INA)*
+
+Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Practices*
 
 
 
@@ -418,9 +444,12 @@ Source : Newzoo, 2020
 
 #### 3. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
 
-- **Description** : Les médias, y compris les jeux vidéo, ont un rôle central dans la construction des identités et des perceptions sociales des minorités.
+Les médias, y compris les jeux vidéo, ont un rôle central dans la construction des identités et des perceptions sociales des minorités. La représentation des minorités ne se réduit pas à une question de chiffre. Il faut s'interroger sur la visibilité des populations marginalisées mais il est surtout nécessaire d'étudier l'aspect qualitatif de ces représentations. Il faut être vigilant à ne pas reproduire des représentations caricaturales et stéréotypées. 
+
+Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cinéma, dans le jeu vidéo ou n'importe quel autre média, est l'aspect sur lequel il faudrait se pencher. Il est encore rare de voir des héros faisant parti d'une population marginalisée qui soit non-stéréotypé et pas réduit à son ethnie. 
+
 - **Analyse théorique** : **Théorie des médias** (Manuel Castells) : Le pouvoir des jeux vidéo en tant que média façonnant les représentations sociales et identitaires est indéniable.
-- **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther
+- **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther, Baromètre de la diversité CSA 
 
 
 
