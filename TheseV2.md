@@ -10,10 +10,6 @@
 
 #### 	1.2 L'influence des jeux vidéos comme média moderne 
 
-##### 		*1.2.1 L'effet amplificateur de l'interactivité*
-
-##### 		*1.2.2 L'immersion prolongée et son impact sur les perceptions sociales*
-
 ### 2. Diversité dans l'industrie du jeux vidéos
 
 #### 	2.1 Sous-représentation des minorités parmi les créateurs
@@ -155,15 +151,13 @@ Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Pr
 
 #### 1.2 L'influence des jeux vidéos comme média moderne 
 
-##### 	*1.2.1 L'effet amplificateur de l'interactivité*s
+##### 
 
 - Dans le jeux vidéo, nous ne sommes pas spectateurs comme d'autres médias tels que la TV ou le cinéma mais nous sommes joueurs, donc actif. 
 - En incarnant les personnages = ne se contente pas d'observer les stéréotypes mais on les vit
 - Ex : stéréotypes de guerre. Ne se contente pas d'être exposé aux stéréotypes mais on les contrôle -> ancre d'autant plus 
 
  
-
-##### 	*1.2.2 L'impact de l'immersion prolongée sur les perceptions*
 
 - Immersion n'est pas seulement ponctuelle (comme la TV ou le cinéma), mais les joueurs peuvent passer des dizaines, voir des centaines d'heures à incarner le même personnage
 - Renforce la fixation de stéréotypes
