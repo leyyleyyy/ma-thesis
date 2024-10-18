@@ -125,15 +125,19 @@ Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilemen
 
 <img src="C:IMAGES\marchand_de_tapis.jpg" style="zoom:45%;" />
 
+
+
 Depuis, les grands studios de cinéma, notamment Disney, s'efforcent d'être plus inclusifs dans leurs films. Tiana, dans *La Princesse et la Grenouille*, était la première princesse Disney noire, tandis que *Coco* a introduit le premier héros mexicain.
 
 Cependant, malgré ces efforts de la part des géants du cinéma ces dernières années, il est frappant de constater que lorsque le protagoniste d'un film est issu d'une minorité, une grande partie de son histoire tourne souvent autour de sa culture. Les œuvres où l'ethnie du personnage n'influence pas le récit restent rares mais se font de plus en plus fréquentes.
 
-Ces rôles stéréotypés se manifestent de manière marquante dans des productions populaires. On peut observer un schéma récurrent dans certaines fictions où un enfant issu de l’immigration est sauvé par une famille blanche, que ce soit parce qu'il fuit un pays en guerre ou parce qu'il est malheureux dans un foyer précaire. Ce schéma repose sur l'idée que les minorités ont besoin d'être secourues par une figure occidentale, consolidant ainsi des rapports de pouvoir.
+En dehors des dessins animés, ces rôles stéréotypés se manifestent de manière marquante dans des productions populaires. On peut observer un schéma récurrent dans certaines fictions où un enfant issu de l’immigration est sauvé par une famille blanche, que ce soit parce qu'il fuit un pays en guerre ou parce qu'il est malheureux dans un foyer précaire. Ce schéma repose sur l'idée que les minorités ont besoin d'être secourues par une figure occidentale, consolidant ainsi des rapports de pouvoir.
 
 Un autre exemple parlant est celui des rôles donnés maghrébins dans la télévision et le cinéma français. Ils apparaissent souvent comme des ouvriers, des délinquants, ou des immigrants en difficulté. Une évolution est en cours, comme par exemple avec la série *Chérif* qui met en scène un personnage maghrébin en tant que héros non stéréotypé. Cet exemple est cependant suffisamment rare pour qu'on en vienne à le souligner. 
 
 Ces représentations simplifiées et caricaturales des minorités se heurtent à un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France, ce qui renforce l’ancrage de ces stéréotypes dans l’imaginaire collectif. 
+
+Maintenant que nous avons éclairer la manière dont les médias jouent des stéréotypes, nous allons nous pencher sur l'impact des jeux vidéos dans cette problématique. En tant que média interactif, le jeu vidéo reprend et amplifie ces mêmes clichés,  en ayant la capacité unique d'engager activement les joueurs dans ces récits.
 
 
 
