@@ -1,76 +1,76 @@
 # Thèse
 
-### Introduction
+## Introduction
 
-### I. Les stéréotypes et l'industrie vidéoludique
+## I. Les stéréotypes et l'industrie vidéoludique
 
-#### 1. Le rôle des médias dans la diffusion de stéréotypes  
+### 1. Le rôle des médias dans la diffusion de stéréotypes  
 
-##### 	1.1 Les médias traditionnels et les minorités
+#### 	1.1 Les médias traditionnels et les minorités
 
-##### 	1.2 L'influence des jeux vidéos comme média moderne 
+#### 	1.2 L'influence des jeux vidéos comme média moderne 
 
-​		*1.2.1 L'effet amplificateur de l'interactivité*
+##### 		*1.2.1 L'effet amplificateur de l'interactivité*
 
-​		*1.2.2 L'immersion prolongée et son impact sur les perceptions sociales*
+##### 		*1.2.2 L'immersion prolongée et son impact sur les perceptions sociales*
 
-#### 2. Diversité dans l'industrie du jeux vidéos
+### 2. Diversité dans l'industrie du jeux vidéos
 
-##### 	2.1 Sous-représentation des minorités parmi les créateurs
+#### 	2.1 Sous-représentation des minorités parmi les créateurs
 
-##### 	2.2 L'impact des créateurs sur la représentation dans les jeux
+#### 	2.2 L'impact des créateurs sur la représentation dans les jeux
 
-​		*2.2.1 Racisme systémique et biais inconscients*
+##### 		*2.2.1 Racisme systémique et biais inconscients*
 
-​		*2.2.2 Reproductions de stéréotypes dans la création de personnages*
+##### 		*2.2.2 Reproductions de stéréotypes dans la création de personnages*
 
-### II. Représentation des minorités dans les jeux vidéo : entre invisibilité et stéréotypes
+## II. Représentation des minorités dans les jeux vidéo : entre invisibilité et stéréotypes
 
-#### 2. Les rôles attribués aux minorités 
+### 2. Les rôles attribués aux minorités 
 
-##### 	2.1 Le personnage par défaut
+#### 	2.1 Le personnage par défaut
 
-##### 	2.2 Le sauveur
+#### 	2.2 Le sauveur
 
-##### 	2.3 Le meilleur ami
+#### 	2.3 Le meilleur ami
 
-##### 	2.4 Le terroriste né
+#### 	2.4 Le terroriste né
 
-##### 	2.5 La demoiselle en détresse
+#### 	2.5 La demoiselle en détresse
 
-##### 	2.6 L'inexistant.e
+#### 	2.6 L'inexistant.e
 
-##### 	2.7 Lara Croft ??
+#### 	2.7 Lara Croft ??
 
-#### 2. Représentations dans les jeux vidéos
+### 2. Représentations dans les jeux vidéos
 
-##### 	2.1 Représentation unique d'une communauté par un personnage
+#### 	2.1 Représentation unique d'une communauté par un personnage
 
-##### 	2.2 L'orientalisme dans la création vidéoludique 
+#### 	2.2 L'orientalisme dans la création vidéoludique 
 
-##### 	2.3 Personnages secondaires ou invisibles
+#### 	2.3 Personnages secondaires ou invisibles
 
-#### 3. L'impact de l'exposition régulière à des personnages stéréotypés
+### 3. L'impact de l'exposition régulière à des personnages stéréotypés
 
-##### 	3.1 Sur la perception sociale
+#### 	3.1 Sur la perception sociale
 
-##### 	3.2 Sur l'identité des joueurs
+#### 	3.2 Sur l'identité des joueurs
 
-### III. Le marketing de la diversité 
+## III. Le marketing de la diversité 
 
-#### 1. Entre inclusion et opportunisme commercial 
+### 1. Entre inclusion et opportunisme commercial 
 
-##### 1.1 Inclusion authentique ou opportunisme ?
+#### 1.1 Inclusion authentique ou opportunisme ?
 
-##### 1.2 Stratégies de promotions de jeux "diversifiés"
+#### 1.2 Stratégies de promotions de jeux "diversifiés"
 
-#### 2. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
+### 2. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
 
-##### 	2.1 Comparaison avec d'autres médias
+#### 	2.1 Comparaison avec d'autres médias
 
-##### 	2.2 Propositions pour une diversité plus authentique 
+#### 	2.2 Propositions pour une diversité plus authentique 
 
-#### Conclusion
+### Conclusion
 
 
 
