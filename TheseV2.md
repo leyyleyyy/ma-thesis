@@ -182,7 +182,7 @@ Source : The International Game Developers Association (IGDA) Developer Satisfac
 
 Williams, Dmitri, et al. (2009). *The virtual census: Representations of gender, race and age in video games*
 
-- Si les développeurs eux-même ne sont pas issues de la diversité crée une plus grande chance
+- Si les développeurs eux-même ne sont pas issues de la diversité = plus grande chance de manque de diversité dans le jeu
 
 #### 	2.2 L'impact des créateurs sur la représentation dans les jeux
 
@@ -207,11 +207,13 @@ Leurs conclusions sont les suivantes :
 
 
 
-​	*2.2.1 Racisme systémique et biais inconscients*
+##### 	*2.2.1 Racisme systémique et biais inconscients*
 
-- **Théorie** : Application de la théorie du **racisme systémique** (Gilmore) pour comprendre pourquoi ces biais perdurent. Les créateurs reproduisent des structures de domination sans nécessairement en être conscients. Notion de biais inconscients 
+- Racisme systémique (Gilmore) pour comprendre pourquoi ces biais perdurent. Les créateurs reproduisent des structures de domination sans nécessairement en être conscients. Notion de biais inconscients 
 
-Le racisme systémique
+
+
+**Citations Interview** : 
 
 **Lionel** : *"Il doit avoir les cheveux longs et sales. […] Alors après, je pourrais me la jouer lausannois et faire un Africain. Mais c'est pas l'idée."*
 => montre comment des caractéristiques physiques stéréotypées sont utilisées pour construire un personnage de "drug dealer", illustrant comment certains groupes ethniques sont associés à des traits ou des rôles négatifs dans les jeux.
@@ -224,13 +226,13 @@ Le racisme systémique
 
 
 
-​	*2.2.2 Reproductions de stéréotypes dans la création de personnages*
+##### 	*2.2.2 Reproductions de stéréotypes dans la création de personnages*
 
-**Description** : Malgré des intentions explicites de ne pas reproduire de clichés, les créateurs de jeux vidéo tombent souvent dans des stéréotypes.
+- Malgré des intentions explicites de ne pas reproduire de clichés, les créateurs de jeux vidéo tombent souvent dans des stéréotypes.
 
-- 
 
-Steve reconnaît les maladresses des développeurs, mais minimise l'impact raciste, attribuant cela à des erreurs involontaires. Cette approche défensive montre comment certains joueurs préfèrent interpréter ces représentations comme des accidents plutôt que des manifestations de racisme systémique.
+
+*Steve reconnaît les maladresses des développeurs, mais minimise l'impact raciste, attribuant cela à des erreurs involontaires. Cette approche défensive montre comment certains joueurs préfèrent interpréter ces représentations comme des accidents plutôt que des manifestations de racisme systémique.* (Chat GPT)
 
 Devine, Patricia G. (1989). *Stereotypes and prejudice: Their automatic and controlled components*
 
@@ -243,10 +245,10 @@ Devine, Patricia G. (1989). *Stereotypes and prejudice: Their automatic and cont
 #### 1.1 Le personnage par défaut
 
 - **Description** : L’homme blanc est souvent le modèle par défaut pour les personnages principaux, renforçant une hiérarchie raciale implicite.
-- **Analyse théorique** : **Normativité blanche** (Richard Dyer) : L'homme blanc est vu comme la norme universelle dans les médias, et cela se traduit dans les jeux vidéo.
-- **Exemples** : Citation : "*c'est celui qui se fait shooté par une voiture*", un PNJ anonyme, toujours homme blanc. Les interviewés ont cités tous des hommes blancs différents lorsqu'on leur demandait des personnages. 
 
-mentionnent tous deux des personnages qui sont vus comme des PNJ, à cause de leur manque de charisme ou d’un design trop générique
+- **Normativité blanche** (Richard Dyer) : L'homme blanc est vu comme la norme universelle dans les médias, et cela se traduit dans les jeux vidéo.
+
+  **Citations** :  "*c'est celui qui se fait shooté par une voiture*", un PNJ anonyme, toujours homme blanc. Les interviewés ont cités tous des hommes blancs différents lorsqu'on leur demandait des personnages. 
 
 **Mimi** : *"Pour moi ça c'est vraiment le PNJ sans intérêt. Lisse, mec blanc, jeune, tee shirt sans motifs [...] c'est un mec que tu croiserais dans la rue et tu te retournerais pas."*
 
@@ -262,11 +264,9 @@ mentionnent tous deux des personnages qui sont vus comme des PNJ, à cause de le
 
 
 
-
-
 #### 1.2 Le sauveur
 
- **Resident Evil 5** (Partie 5) ici. Mimi critique le fait qu’un jeu qui se déroule en Afrique présente un antagoniste blond au lieu d’un chef de guerre noir, mettant en lumière un manque de cohérence entre le cadre et les représentations raciales, renforçant l’idée de "sauveur blanc" dans des environnements exotiques.
+**Resident Evil 5** Mimi critique le fait qu’un jeu qui se déroule en Afrique présente un antagoniste blond au lieu d’un chef de guerre noir, mettant en lumière un manque de cohérence entre le cadre et les représentations raciales, renforçant l’idée de "sauveur blanc" dans des environnements exotiques.
 
 **Lionel** : *Mais je trouve que ça représente assez bien le problème du monde occidental qui est tellement ancré dans ses convictions, qui comprends pas en quoi c'est insultant."*
 => sur "Resident Evil 5", met en lumière comment les critiques occidentales échouent à reconnaître la portée raciste ou colonialiste de certaines représentations, un sujet clé dans ta partie sur les polémiques.
@@ -283,7 +283,7 @@ Les personnages issus de minorités sont souvent relégués à des rôles second
 
 **Andy** : "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" – biais automatique enraciné.
 
- **Mimi** : *"J'ai plusieurs teams, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dis univers GTA, c'est rempli de clichés."*
+**Mimi** : *"J'ai plusieurs teams, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dis univers GTA, c'est rempli de clichés."*
 
 => met en lumière le rôle récurrent des clichés racistes dans les jeux vidéo, particulièrement dans la représentation des "terroristes".
 
@@ -318,15 +318,12 @@ Seule figure féminine emblématique dans les jeux vidéo, mais elle reste une f
 #### 2.1 Représentation unique d'une communauté par un personnage
 
 - **Description** : Dans les jeux vidéo, un seul personnage peut représenter une communauté entière, créant ainsi un archétype.
-- **Analyse théorique** : **Théorie des représentations sociales** (Moscovici) : Ces personnages deviennent des figures représentatives dans l'imaginaire collectif, renforçant des stéréotypes.
+- Les joueurs sont souvent amenés à incarner des personnages de minorités de manière stéréotypée (terroristes, guerriers) ou réduits à un seul rôle.
+- **Théorie des représentations sociales** (Moscovici) : Ces personnages deviennent des figures représentatives dans l'imaginaire collectif, renforçant des stéréotypes.
 - **Interviews** : Altaïr (personnage arabe), Barett (personnage noir), Lara Croft (femme), ...
 - **Citations**: "*Ahhh, mais si il y a Prince of Persia, je suis bête, il y a forcément des personnages arabes dedans.*", "*Je crois qu'il y a un marchand qui arnaque tout le monde dans Le Chevalier de Baphomet ... et dans Call of Duty, il y en a un il me semble.*"(homme arabe), "*Une meuf avec qui tu travailles dans la campagne de Call of Duty.*"(femme arabe), "*Sûrement un PNJ dans Assassin's Creed.*"(homme arabe), "*Je dois t'avouer je connais vraiment aucun perso femme arabe*", "*putain, y'en a qu'une qui me vient en tête et c'est pas une que j'apprécie particulièrement.. mais-.. mais …. ca me soule… ah Isabella dans Dragon Age 2*"(femme noire), *"Une miss qui fait du vaudou dans monkey island 2"*(femme noire), "*Le meilleur ami du personnage principal dans Cyberpunk 2077*"(homme latino), "*Abou dans le jeu des simpson*"(homme asie du sud ouest), "*Dans call of tu travailles avec un indien"*(homme asie du sud ouest). 
 
-
-
-- **Description** : Les joueurs sont souvent amenés à incarner des personnages de minorités de manière stéréotypée (terroristes, guerriers) ou réduits à un seul rôle.
-- **Analyse théorique** : **Orientalisme** et **essentialisme** : Ces personnages sont réduits à des stéréotypes, empêchant une représentation multidimensionnelle.
-- **Citations** : "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" – biais automatique enraciné.
+ "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" – biais automatique enraciné.
 
 --> Quand un jeu vidéo propose le seul personnage noir, ou arabe, il devient automatiquement emblématique de toute sa communauté, un poids qui n’est pas réparti équitablement entre les groupes ethniques.
 
@@ -336,34 +333,30 @@ Seule figure féminine emblématique dans les jeux vidéo, mais elle reste une f
 
 #### 2.2 L'orientalisme dans la création vidéoludique 
 
-- **Description** : L’influence de l’orientalisme dans la représentation des personnages arabes et musulmans comme "l’autre" exotique ou dangereux.
-- **Analyse théorique** : **Orientalisme** (Edward Said) : Réduction de cultures non occidentales à des stéréotypes simplistes et souvent déshumanisants.
+- L’influence de l’orientalisme dans la représentation des personnages arabes et musulmans comme "l’autre" exotique ou dangereux.
+- **Orientalisme** (Edward Said) : Réduction de cultures non occidentales à des stéréotypes simplistes et souvent déshumanisants.
+- Fétichisation des cultures exotiques (Prince of persia)
 - **Exemples** : Personnages arabes réduits à des rôles secondaires comme des marchands, terroristes ou guerriers dans des jeux comme "Prince of Persia" ou "Le Chevalier de Baphomet".
 - **Citations**: Cite 2x Gerudo dans Zelda en tant que femme arabe (Sachant qu'elles empruntent des caractéristiques physique de femmes du moyen-orient sans que l'on sache d'où elles viennent réellement : *Les Gerudos ont toutes le teint mat, les cheveux roux et les yeux dorés. Elles sont dites très belles, et ont de nombreux admirateurs, [...]. Ce sont des guerrières, sans doutes inspirées des Amazones*) 
 
-
-
 - Joueurs associent immédiatement certains traits (vêtements, ethnicité) à des archétypes spécifiques : terroristes du Moyen-Orient, chefs de guerre africains, ou encore mafieux italiens. Myriam : choisit le "terroriste classique" du Moyen-Orient ou le chef de guerre russe, ce qui montre une forme d’essentialisation des rôles pour ces groupes.
 - **Lionel** : *"Bon ben on va dire que... le C c'est parce qu'il a presque un côté marchand de tapis pour être dans les gros clichés."*
-- **Personnages principaux et rôles secondaires** : Steve illustre une dynamique commune où les personnages blancs continuent à dominer les rôles principaux. Sa difficulté à nommer des personnages racisés montre une certaine dissonance entre la perception d'une diversification et la réalité du marché des jeux. Bien qu'il évoque des exemples récents de diversité, son incapacité à se souvenir de personnages non-blancs témoigne des lacunes persistantes dans les représentations.
 
-- Fétichisation des cultures exotiques (Prince of persia)
+- **Lionel** : *"Arabe : 'Baaaah il y a la série Assassin's Creed qui a tout de suite mis 2-3 personnages. [...] un jeune qui arnaque tout le monde en Syrie. Je le connais, mais j'ai pas son nom.'"*
+  => révèle la rareté des personnages arabes dans les jeux vidéo, ainsi que leur représentation en tant que personnages secondaires stéréotypés, comme des arnaqueurs ou des terroristes. 
 
 Huggan, Graham (2001). *The Postcolonial Exotic: Marketing the Margins*.
-
-**Lionel** : *"Arabe : 'Baaaah il y a la série Assassin's Creed qui a tout de suite mis 2-3 personnages. [...] un jeune qui arnaque tout le monde en Syrie. Je le connais, mais j'ai pas son nom.'"*
-=> révèle la rareté des personnages arabes dans les jeux vidéo, ainsi que leur représentation en tant que personnages secondaires stéréotypés, comme des arnaqueurs ou des terroristes. 
 
 
 
 #### 2.3 Personnages secondaires ou invisibles
 
-- **Description** : Les minorités ethniques et raciales apparaissent souvent dans des rôles secondaires, stéréotypés ou invisibles.
-- **Analyse théorique** : **Théorie de la sous-représentation** (Stuart Hall) et **concept d'invisibilité** (Ralph Ellison) : La sous-représentation des minorités renforce leur invisibilité dans les récits vidéoludiques.
+- Les minorités ethniques et raciales apparaissent souvent dans des rôles secondaires, stéréotypés ou invisibles.
+-  **Théorie de la sous-représentation** (Stuart Hall) et **concept d'invisibilité** (Ralph Ellison) : La sous-représentation des minorités renforce leur invisibilité dans les récits vidéoludiques.
 - **Exemples** : Absence de personnages féminins racisé notables
 - **Citations** : Joueurs incapables/difficulté de nommer des personnages féminins racisés importants.
 
-Steve : Sa difficulté à nommer des personnages racisés montre une certaine dissonance entre la perception d'une diversification et la réalité du marché des jeux. Bien qu'il évoque des exemples récents de diversité, son incapacité à se souvenir de personnages non-blancs témoigne des lacunes persistantes dans les représentations
+**Steve** : Sa difficulté à nommer des personnages racisés montre une certaine dissonance entre la perception d'une diversification et la réalité du marché des jeux. Bien qu'il évoque des exemples récents de diversité, son incapacité à se souvenir de personnages non-blancs témoigne des lacunes persistantes dans les représentations
 
 => reflète l'utilisation récurrente de stéréotypes visuels et culturels pour attribuer des rôles spécifiques aux personnages non-occidentaux. Cela peut illustrer comment les préjugés inconscients des créateurs se manifestent dans les jeux.
 
@@ -374,14 +367,14 @@ Steve : Sa difficulté à nommer des personnages racisés montre une certaine di
 
 ### 3. L'impact de l'exposition régulière à des personnages stéréotypés
 
-Exposition régulière à des personnages de jeux vidéo stéréotypés :
-nocivité et régulation étatique : l'esquisse d'une proposition libérale
-d'intervention
+- Exposition régulière à des personnages de jeux vidéo stéréotypés :
+  nocivité et régulation étatique : l'esquisse d'une proposition libérale
+  d'intervention
+
+- médias contribuent à forger notre représentation mentale de certains groupes, même si on en fait parti ---> Kevin & Andy
 
 COLACO, Joris Manuel. Exposition régulière à des personnages de jeux vidéo stéréotypés : nocivité et
 régulation étatique : l’esquisse d’une proposition libérale d’intervention. Master, 2018.
-
--> médias contribuent à forger notre représentation mentale de certains groupes, même si on en fait parti ---> Kevin & Andy
 
 #### 3.1 Sur la perception sociale
 
@@ -405,8 +398,8 @@ Source : Newzoo, 2020
 
 ### 1. Entre inclusion et opportunisme commercial 
 
-- **Description** : L'intégration de personnages de minorités est parfois perçue comme une réponse forcée à la demande de diversité, suscitant des critiques sur le "tokenisme".
-- **Analyse théorique** : **Tokenisme** (Shani Orgad) : L'inclusivité devient un outil marketing plutôt qu'un véritable effort d'authenticité culturelle.
+- L'intégration de personnages de minorités est parfois perçue comme une réponse forcée à la demande de diversité, suscitant des critiques sur le "tokenisme".
+- **Tokenisme** (Shani Orgad) : L'inclusivité devient un outil marketing plutôt qu'un véritable effort d'authenticité culturelle.
 - **Citations** : "*Il faut de la diversité à tout prix uniquement à des fins marketing*"-> Steve :  d'une part, il semble approuver la diversité, mais critique les choix marketing qui, selon lui, se concentrent trop sur l'apparence des personnages au détriment de la qualité narrative.
 
 => Les entreprises de jeux vidéo utilisent parfois la diversité comme argument de vente, sans réelle volonté de déconstruire les stéréotypes.
@@ -428,9 +421,9 @@ Source : Newzoo, 2020
 
 ### 2. Représentation médiatique et enjeux identitaires : l'importance d'une inclusion authentique
 
-- **Description** : Une inclusion authentique dans les médias est cruciale pour éviter la déshumanisation des personnages issus de minorités. Les personnages doivent être construits de manière complexe et multidimensionnelle, plutôt que d'être simplement des avatars représentatifs d'une ethnie ou d'une identité.
+- Une inclusion authentique dans les médias est cruciale pour éviter la déshumanisation des personnages issus de minorités. Les personnages doivent être construits de manière complexe et multidimensionnelle, plutôt que d'être simplement des avatars représentatifs d'une ethnie ou d'une identité.
 
-- **Analyse** : Stuart Hall souligne l'importance de la représentation réflexive plutôt que instrumentale. Les personnages ne sont pas uniquement des symboles de diversité, mais qu'ils incarnent des histoires, des expériences et des nuances humaines.
+- **Stuart Hall** souligne l'importance de la représentation réflexive plutôt que instrumentale. Les personnages ne sont pas uniquement des symboles de diversité, mais qu'ils incarnent des histoires, des expériences et des nuances humaines.
 
   
 
@@ -446,10 +439,8 @@ Les médias, y compris les jeux vidéo, ont un rôle central dans la constructio
 
 Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cinéma, dans le jeu vidéo ou n'importe quel autre média, est l'aspect sur lequel il faudrait se pencher. Il est encore rare de voir des héros faisant parti d'une population marginalisée qui soit non-stéréotypé et pas réduit à son ethnie. 
 
-- **Analyse théorique** : **Théorie des médias** (Manuel Castells) : Le pouvoir des jeux vidéo en tant que média façonnant les représentations sociales et identitaires est indéniable.
+- **Théorie des médias** (Manuel Castells) : Le pouvoir des jeux vidéo en tant que média façonnant les représentations sociales et identitaires est indéniable.
 - **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther, Baromètre de la diversité CSA 
-
-
 
 A mettre quelque part : Ces représentations simplifiées et caricaturales des minorités se heurtent à un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France, ce qui renforce l’ancrage de ces stéréotypes dans l’imaginaire collectif. 
 
