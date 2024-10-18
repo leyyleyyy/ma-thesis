@@ -115,7 +115,7 @@ Afin de comprendre le rôle des jeux vidéo dans la perpétuation des clichés e
 
 Dès l'enfance, nous sommes exposés à des médias (comme les dessins animés ou les livres) qui nous font prendre conscience de l'existence de certains groupes et des caractéristiques qui leur sont attribués. Nous pouvons prendre le célèbre exemple de Tintin au Congo, vivement critiqué pour sa version raciste et colonialiste de l'Afrique. 
 
-![](IMAGES\Tintin_Congo.jpg)
+<img src="IMAGES\Tintin_Congo.jpg" />
 
 Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilement publiables, il existe encore des exemples récents, bien connus, remplis de stéréotypes. Prenons, par exemple, *Aladdin* qui perpétue des clichés orientalisme *(voir chapitre 2 2.2)*, les siamois dans *Les Aristochats*, représentés en stéréotypes de personnes asiatiques jouant du piano avec des baguettes. On retrouve également les Amérindiens dans *Peter Pan*, moqués ouvertement pour leur culture.
 
