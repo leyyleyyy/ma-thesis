@@ -107,13 +107,13 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 Pour saisir le rôle des jeux vidéo dans la perpétuation des clichés et des stéréotypes, il est essentiel de d'abord examiner les médias traditionnels, tels que la télévision, le cinéma ou la presse, qui ont établi les bases de ces représentations biaisées. 
 
-Ces médias exercent une influence fondamentale sur notre vision du monde, en modelant les attitudes, les croyances et les comportements de la population. Cette dynamique peut être éclairée par la théorie de la culture, qui postule qu'une exposition répétée à des contenus médiatiques peut profondément modifier notre compréhension des réalités sociales *(Cheng J.W., Mitomo H., Otsuka T., Jeon S.Y. Cultivation effects of mass and social media on perceptions and behavioral intentions in post-disaster recovery)*. En effet, ceux qui consomment régulièrement des médias tendent à façonner leur perception du monde en fonction des représentations qu'ils rencontrent. Ainsi, des images biaisées, souvent véhiculées par ces médias, peuvent engendrer des attitudes négatives à l'égard des groupes minoritaires et renforcer des stéréotypes ancrés. En d'autres termes, une consommation excessive de contenus qui privilégient des thèmes stéréotypés, qu'ils soient positifs ou négatifs, influence de manière significative les perceptions des individus.
+Ces médias exercent une influence fondamentale sur notre vision du monde, en modelant les croyances et les comportements de la population. Cette dynamique peut être éclairée par la théorie de la culture, qui postule qu'une exposition répétée à des contenus médiatiques peut profondément modifier notre compréhension des réalités sociales *(Cheng J.W., Mitomo H., Otsuka T., Jeon S.Y. Cultivation effects of mass and social media on perceptions and behavioral intentions in post-disaster recovery)*. En effet, ceux qui consomment régulièrement des médias tendent à façonner leur perception du monde en fonction des représentations qu'ils rencontrent. Ainsi, des images biaisées, souvent véhiculées par ces médias, peuvent engendrer des attitudes négatives à l'égard des groupes minoritaires et renforcer des stéréotypes ancrés. 
 
 Dès notre enfance, nous sommes exposés à divers médias, tels que les dessins animés ou les livres, qui nous sensibilisent à certains groupes et aux caractéristiques qui leur sont souvent attribuées. Un exemple emblématique est *Tintin au Congo*, vivement critiqué pour sa représentation raciste et colonialiste de l'Afrique.
 
 <img src="IMAGES\Tintin_Congo.jpg" />
 
-Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilement publiables, il existe encore des exemples récents, bien connus, remplis de stéréotypes. Prenons, par exemple, *Aladdin* qui perpétue des clichés orientalisme *(voir chapitre 2 2.2)*, les siamois dans *Les Aristochats*, représentés en stéréotypes de personnes asiatiques jouant du piano avec des baguettes. On retrouve également les Amérindiens dans *Peter Pan*, moqués ouvertement pour leur culture.
+Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilement publiables, il existe encore des exemples récents, bien connus, remplis de stéréotypes. Prenons, par exemple, *Aladdin* qui perpétue des clichés orientalistes *(voir chapitre 2 2.2)*, les siamois dans *Les Aristochats*, représentés en stéréotypes de personnes asiatiques jouant du piano avec des baguettes. On retrouve également les Amérindiens dans *Peter Pan*, moqués ouvertement pour leur culture, pour ne citer qu'eux. 
 
 <img src="IMAGES\peterpan_amerindiens.jpg" width="400" />
 
@@ -133,11 +133,13 @@ En dehors des dessins animés, ces rôles stéréotypés se manifestent de mani�
 
 Certains contre-exemples existent, comme par exemple la série *Chérif* qui met en scène un personnage maghrébin en tant que héros non stéréotypé. Cet exemple est cependant suffisamment rare pour qu'on en vienne à le souligner. 
 
-On peut aussi observer un schéma récurrent dans certaines fictions où un enfant issu de l’immigration est sauvé par une famille blanche, que ce soit parce qu'il fuit un pays en guerre ou parce qu'il est malheureux dans un foyer précaire. Ce schéma repose sur l'idée que les minorités ont besoin d'être secourues par une figure occidentale, consolidant ainsi des rapports de pouvoir.
+Cette dynamique de représentation et d’influence dans les médias traditionnels nous amène à nous interroger sur la manière dont le jeu vidéo, en tant que média interactif, s'inscrit dans ce schéma. 
 
 
 
 Références : 
+
+*Cheng J.W., Mitomo H., Otsuka T., Jeon S.Y. Cultivation effects of mass and social media on perceptions and behavioral intentions in post-disaster recovery*
 
 *Institut National de L'audiovisuel (INA)*
 
@@ -147,7 +149,7 @@ Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Pr
 
 #### 1.2 L'influence des jeux vidéos comme média interactif 
 
-Avec l'évolution rapide des technologies numériques, le jeu vidéo s'est progressivement imposé comme l'un des médias les plus influents et les plus répandus du 21e siècle. Avant d'explorer les stéréotypes véhiculés par ce média, il est essentiel de saisir son impact sur la population générale des jeux vidéos et l'ampleur de son influence sur les individus.
+Avec l'évolution rapide des technologies numériques, le jeu vidéo s'est progressivement imposé comme l'un des médias les plus influents et les plus répandus du 21e siècle. Avant d'explorer les stéréotypes véhiculés par ce média, il est essentiel de saisir son impact sur la population générale et l'ampleur de son influence sur les individus.
 
 Selon une étude du SELL menée en France, 70 % des Français et 95 % des enfants entre 10 et 17 ans jouent régulièrement aux jeux vidéos. Ces chiffres importants s'expliquent par l'accessibilité accrue des jeux, la majorité des joueurs utilisant des smartphones ou des ordinateurs pour y jouer *(56% de joueurs jouent sur smartphone, 38% sur ordinateur et 22% sur tablette. 46% des joueurs ne jouent PAS sur une console. Source : SELL)*. Contrairement à il y a quelques années, où les consoles de salon étaient le principal support, les smartphones et ordinateurs, désormais omniprésents dans presque tous les foyers, ont permis une démocratisation du jeu vidéo. Le fait que tout le monde ait pratiquement un accès instantané à ce média lui confère un pouvoir d'influence unique.
 
@@ -288,6 +290,8 @@ Devine, Patricia G. (1989). *Stereotypes and prejudice: Their automatic and cont
 => sur "Resident Evil 5", met en lumière comment les critiques occidentales échouent à reconnaître la portée raciste ou colonialiste de certaines représentations, un sujet clé dans ta partie sur les polémiques.
 
 
+
+**Films** : On peut aussi observer un schéma récurrent dans certaines fictions où un enfant issu de l’immigration est sauvé par une famille blanche, que ce soit parce qu'il fuit un pays en guerre ou parce qu'il est malheureux dans un foyer précaire. Ce schéma repose sur l'idée que les minorités ont besoin d'être secourues par une figure occidentale, consolidant ainsi des rapports de pouvoir.
 
 #### 1.3 Le meilleur ami
 
