@@ -1,74 +1,6 @@
-# Thèse
+**Table des matières**
 
-## Introduction
-
-## I. Les stéréotypes et l'industrie vidéoludique
-
-### 1. Le rôle des médias dans la diffusion de stéréotypes  
-
-#### 	1.1 Les médias traditionnels et les minorités
-
-#### 	1.2 L'influence des jeux vidéos comme média interactif 
-
-### 2. Diversité dans l'industrie du jeux vidéos
-
-#### 	2.1 Sous-représentation des minorités parmi les créateurs
-
-#### 	2.2 L'impact des créateurs sur la représentation dans les jeux
-
-##### 		*2.2.1 Racisme systémique et biais inconscients*
-
-##### 		*2.2.2 Reproductions de stéréotypes dans la création de personnages*
-
-## II. Représentation des minorités dans les jeux vidéo : entre invisibilité et stéréotypes
-
-### 2. Les rôles attribués aux minorités 
-
-#### 	2.1 Le personnage par défaut
-
-#### 	2.2 Le sauveur
-
-#### 	2.3 Le meilleur ami
-
-#### 	2.4 Le terroriste né
-
-#### 	2.5 La demoiselle en détresse
-
-#### 	2.6 L'inexistant.e
-
-#### 	2.7 Lara Croft ??
-
-### 2. Représentations dans les jeux vidéos
-
-#### 	2.1 Représentation unique d'une communauté par un personnage
-
-#### 	2.2 L'orientalisme dans la création vidéoludique 
-
-#### 	2.3 Personnages secondaires ou invisibles
-
-### 3. L'impact de l'exposition régulière à des personnages stéréotypés
-
-#### 	3.1 Sur la perception sociale
-
-#### 	3.2 Sur l'identité des joueurs
-
-## III. Le marketing de la diversité 
-
-### 1. Entre inclusion et opportunisme commercial 
-
-#### 1.1 Inclusion authentique ou opportunisme ?
-
-#### 1.2 Stratégies de promotions de jeux "diversifiés"
-
-### 2. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
-
-#### 	2.1 Comparaison avec d'autres médias
-
-#### 	2.2 Propositions pour une diversité plus authentique 
-
-## Conclusion
-
-
+[TOC]
 
 ----
 
@@ -103,7 +35,7 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 ## I. Les stéréotypes dans l'industrie vidéoludique
 
-### 1. **Médias et stéréotypes**
+### 1. Médias et stéréotypes
 
 #### 1.1 Les minorités dans les médias traditionnels 
 
@@ -149,7 +81,9 @@ Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Pr
 
 #### 1.2 L'influence des jeux vidéos comme média interactif 
 
-Avec l'évolution rapide des technologies numériques, le jeu vidéo s'est progressivement imposé comme l'un des médias les plus influents et les plus répandus du 21e siècle (*source*). Alors que la télévision, le cinéma ou la presse ont longtemps été les principales sources de diffusion de récits, le jeu vidéo a ouvert un nouveau champ d’interaction. Ce média n'est pas seulement un divertissement passif, mais engage activement le joueur dans des univers où il peut incarner des personnages, faire des choix et interagir avec son environnement. Le jeu vidéo se distingue donc des autres médias par sa capacité à offrir une immersion totale, modifiant ainsi la manière dont les récits perçus et vécus.
+Avec l'évolution rapide des technologies numériques, le jeu vidéo s'est progressivement imposé comme l'un des médias les plus influents et les plus répandus du 21e siècle (*source*). Selon le SELL, 70 % des Français jouent aux jeux vidéo et 95 % des enfants entre 10 et 17 ans y consacrent régulièrement du temps.  Ainsi, les jeux vidéo ont un impact direct sur la population, en particulier les plus jeunes, dont l'identité et les perceptions sociales sont en pleine formation. 
+
+Alors que la télévision, le cinéma ou la presse ont longtemps été les principales sources de diffusion de récits, le jeu vidéo a ouvert un nouveau champ d’interaction. Ce média n'est pas seulement un divertissement passif, mais engage activement le joueur dans des univers où il peut incarner des personnages, faire des choix et interagir avec son environnement. Le jeu vidéo se distingue donc des autres médias par sa capacité à offrir une immersion totale, modifiant ainsi la manière dont les récits perçus et vécus.
 
 Contrairement à la télévision ou au cinéma, où le spectateur est dans un rôle d’observateur, le jeu vidéo permet à l'utilisateur d'avoir un rôle actif. Cela lui permet de ne pas seulement assister à la représentation de stéréotypes, mais d’y participer activement. Dans un jeu vidéo, le joueur devient le protagoniste et, de ce fait, est directement impliqué dans la façon dont les personnages interagissent avec son univers. Le joueur ne voit plus seulement les stéréotypes mais il les vit directement. 
 
@@ -162,6 +96,8 @@ Les jeux vidéo, en tant que média interactif possèdent donc une capacité uni
 Face à ce constat, il est nécessaire de se poser une question fondamentale : comment peut-on pallier à ce problème et offrir des représentations plus justes et variées des minorités dans les jeux vidéo ?
 
 Le premier point à examiner est sans aucun doute la diversité parmi les créateurs de jeux eux-mêmes. Si les récits et les personnages sont souvent stéréotypés, c'est en grande partie parce que l'industrie vidéoludique reste largement homogène. La majorité des créateurs, développeurs et designers de jeux appartiennent à des groupes dominants, ce qui influe directement sur les types de récits et de personnages mis en avant. 
+
+Source : [Le SELL(Syndicat des Éditeurs de Logiciels de Loisirs), L'essentiel du jeux vidéo, octobre 2024](https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_octobre_2024.pdf)
 
 ### 2. Diversité dans l'industrie du jeu vidéo
 
@@ -184,11 +120,19 @@ Minority in the video game industry
 
 777 people, 58% worked in US/Canada
 
+85% Felt that diversity in the workplace was important
+
+85% Felt that diversity in game content was important
+
 Source : The International Game Developers Association (IGDA) Developer Satisfaction Survey 2023,  The International Game Developers Association (IGDA) Diversity Survey 2021
 
 Williams, Dmitri, et al. (2009). *The virtual census: Representations of gender, race and age in video games*
 
 - Si les développeurs eux-même ne sont pas issues de la diversité = plus grande chance de manque de diversité dans le jeu
+
+- Il est donc essentiel de se pencher sur cette question et de prendre conscience de l'importance d'une plus grande diversité parmi les créateurs de jeux vidéo. Plus ces équipes seront variées en termes de sexe, d'ethnicité et d'expériences de vie, plus elles seront en mesure de produire des récits nuancés et de proposer des personnages plus authentiques, évitant ainsi la perpétuation de stéréotypes limitants. Le jeu vidéo, par son influence grandissante dans la vie quotidienne, surtout chez les jeunes, doit devenir un espace de diversité et d'inclusion afin de mieux refléter la richesse du monde réel.
+
+  
 
 #### 	2.2 L'impact des créateurs sur la représentation dans les jeux
 
