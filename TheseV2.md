@@ -105,9 +105,11 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 #### 1.1 Les minorités dans les médias traditionnels 
 
-Afin de comprendre le rôle des jeux vidéo dans la perpétuation des clichés et stéréotypes, il est essentiel de d'abord se pencher sur les médias traditionnels, comme la télévision, le cinéma ou la presse, qui ont posé les fondements de ces représentations biaisées. Ces médias ont, pendant des décennies et jusqu'à aujourd'hui, contribué à façonner l'imaginaire collectif et véhiculer des représentations stéréotypées des minorités. Nous allons ici essayer de comprendre comment les médias de manière générale contribuent à forger ces visions. 
+Pour saisir le rôle des jeux vidéo dans la perpétuation des clichés et des stéréotypes, il est essentiel de d'abord examiner les médias traditionnels, tels que la télévision, le cinéma ou la presse, qui ont établi les bases de ces représentations biaisées. 
 
-Dès l'enfance, nous sommes exposés à des médias (comme les dessins animés ou les livres) qui nous font prendre conscience de l'existence de certains groupes et des caractéristiques qui leur sont attribués. Nous pouvons prendre le célèbre exemple de Tintin au Congo, vivement critiqué pour sa vision raciste et colonialiste de l'Afrique. 
+Ces médias exercent une influence fondamentale sur notre vision du monde, en modelant les attitudes, les croyances et les comportements de la population. Cette dynamique peut être éclairée par la théorie de la culture, qui postule qu'une exposition répétée à des contenus médiatiques peut profondément modifier notre compréhension des réalités sociales *(Cheng J.W., Mitomo H., Otsuka T., Jeon S.Y. Cultivation effects of mass and social media on perceptions and behavioral intentions in post-disaster recovery)*. En effet, ceux qui consomment régulièrement des médias tendent à façonner leur perception du monde en fonction des représentations qu'ils rencontrent. Ainsi, des images biaisées, souvent véhiculées par ces médias, peuvent engendrer des attitudes négatives à l'égard des groupes minoritaires et renforcer des stéréotypes ancrés. En d'autres termes, une consommation excessive de contenus qui privilégient des thèmes stéréotypés, qu'ils soient positifs ou négatifs, influence de manière significative les perceptions des individus.
+
+Dès notre enfance, nous sommes exposés à divers médias, tels que les dessins animés ou les livres, qui nous sensibilisent à certains groupes et aux caractéristiques qui leur sont souvent attribuées. Un exemple emblématique est *Tintin au Congo*, vivement critiqué pour sa représentation raciste et colonialiste de l'Afrique.
 
 <img src="IMAGES\Tintin_Congo.jpg" />
 
@@ -118,8 +120,6 @@ Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilemen
 <img src="IMAGES\siamois_aristochat.jpg" alt="siamois_aristochat" width="400" />
 
 <img src="IMAGES\marchand_de_tapis.jpg" width="400" />
-
-
 
 Depuis, les grands studios de cinéma, notamment Disney, s'efforcent d'être plus inclusifs dans leurs films. Tiana, dans *La Princesse et la Grenouille*, était la première princesse Disney noire, tandis que *Coco* a introduit le premier héros mexicain.
 
@@ -147,21 +147,19 @@ Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Pr
 
 #### 1.2 L'influence des jeux vidéos comme média interactif 
 
-Avec l'évolution rapide des technologies numériques, le jeu vidéo s'est progressivement imposé comme l'un des médias les plus influents et les plus répandus du 21e siècle. Selon une étude du SELL menée en France, 70 % des Français et 95 % des enfants entre 10 et 17 ans jouent régulièrement aux jeux vidéos. Ces chiffres important sont dû au fait que majorité de ces joueurs jouent sur smartphone ou ordinateur, rendant ce média bien plus accessible qu'il y a quelques années. 
+Avec l'évolution rapide des technologies numériques, le jeu vidéo s'est progressivement imposé comme l'un des médias les plus influents et les plus répandus du 21e siècle. Avant d'explorer les stéréotypes véhiculés par ce média, il est essentiel de saisir son impact sur la population générale des jeux vidéos et l'ampleur de son influence sur les individus.
 
-Ainsi, les jeux vidéo ont un impact direct sur la population, en particulier les plus jeunes, dont l'identité et les perceptions sociales sont encore en construction. Contrairement à des médias passifs comme la télévision ou le cinéma, les jeux vidéo engagent activement le joueur, lui offrant la possibilité d'incarner des personnages, de faire des choix et d'interagir avec son environnement.
+Selon une étude du SELL menée en France, 70 % des Français et 95 % des enfants entre 10 et 17 ans jouent régulièrement aux jeux vidéos. Ces chiffres importants s'expliquent par l'accessibilité accrue des jeux, la majorité des joueurs utilisant des smartphones ou des ordinateurs pour y jouer *(56% de joueurs jouent sur smartphone, 38% sur ordinateur et 22% sur tablette. 46% des joueurs ne jouent PAS sur une console. Source : SELL)*. Contrairement à il y a quelques années, où les consoles de salon étaient le principal support, les smartphones et ordinateurs, désormais omniprésents dans presque tous les foyers, ont permis une démocratisation du jeu vidéo. Le fait que tout le monde ait pratiquement un accès instantané à ce média lui confère un pouvoir d'influence unique.
 
-Ce qui différencie le jeu vidéo des autres médias, c'est sa capacité à plonger totalement le joueur dans un univers, transformant ainsi la manière dont les récits sont non seulement perçus, mais aussi vécus. Par cette interactivité, les joueurs ne se contentent plus d'observer des histoires ou des stéréotypes : ils les incarnent. 
+La particularité des jeux vidéos et que, contrairement à des médias passifs comme la télévision ou le cinéma, ils activement le joueur, lui offrant la possibilité d'incarner des personnages, de faire des choix et d'interagir avec son environnement. Ils permettent au joueur de se plonger totalement dans un univers, transformant ainsi la manière dont les récits sont non seulement perçus, mais aussi vécus. Par cette interactivité, les joueurs ne se contentent plus d'observer des histoires ou des stéréotypes : ils les incarnent. 
 
 Prenons, par exemple, les jeux de guerre, où les ennemis racisés sont souvent dépeints comme des menaces. Dans ces jeux, le joueur ne fait pas que voir ces personnages : il est poussé à les combattre, renforçant ainsi l'idée que ces groupes sont intrinsèquement liés à la violence et au danger. Le joueur devient alors non seulement spectateur de ces stéréotypes, mais aussi acteur dans leur perpétuation.
 
 Cette immersion est encore plus marquante en raison du temps passé sur les jeux vidéo. Contrairement à un film qui dure quelques heures, un jeu vidéo peut occuper le joueur pendant des dizaines, voire des centaines d'heures *(Temps moyen/hebdomadaire des joueurs français entre 15-24 ans  : 6h56 (source : SELL))*.
 
-Cette répétition, combinée à l'interaction active, peut influencer sur les manières de penser des joueurs. Cela est d’autant plus vrai pour les plus jeunes, dont la perception du monde est encore en formation.
+C'est donc cette combinaison de facteurs – accessibilité, immersion totale, et durée prolongée – qui exige une attention particulière aux messages véhiculés par ce média.  Cela est d’autant plus important pour les plus jeunes, dont la perception du monde est encore en formation. En tant que média interactif, les jeux vidéo possèdent une capacité unique à immerger les joueurs dans des récits, souvent hérités des médias traditionnels, mais amplifiés par leur dimension participative et immersive.
 
-C'est donc cette combinaison de facteurs – accessibilité, immersion totale, et durée prolongée – qui exige une attention particulière aux messages véhiculés par ce média.  En tant que média interactif, les jeux vidéo possèdent une capacité unique à immerger les joueurs dans des récits, souvent hérités des médias traditionnels, mais amplifiés par leur dimension participative et immersive.
-
-Face à ce constat, une question essentielle s’impose : comment peut-on offrir des représentations plus justes et diversifiées des minorités dans les jeux vidéo ?
+Face à ce constat, une question essentielle s’impose : comment peut-on offrir des représentations justes et diversifiées des minorités dans les jeux vidéo ?
 
 Le premier point à examiner est sans aucun doute la diversité parmi les créateurs de jeux eux-mêmes. Si les récits et les personnages sont souvent stéréotypés, c'est en grande partie parce que l'industrie vidéoludique reste largement homogène. La majorité des créateurs, développeurs et designers de jeux appartiennent à des groupes dominants, ce qui influe directement sur les types de récits et de personnages mis en avant. 
 
