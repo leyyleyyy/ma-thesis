@@ -1,11 +1,11 @@
-# Note d’intention
+### Note d’intention
 
-Questions de départ : 
+Questions de départ :
 
 - Dans quelle mesure la représentation des minorités dans les jeux vidéo reflète-t-elle les stéréotypes et les perceptions de la vie réelle ?
-- Dans quelle mesure les jeux vidéo contribuent-ils à renforcer ou à déconstruire les stéréotypes concernant les minorités, en particulier Arabes et les Musulmanes, et quel impact ces représentations ont-elles sur la perception sociale et les questions identitaires liées à ces groupes ?
+- Dans quelle mesure les jeux vidéo contribuent-ils à renforcer ou à déconstruire les stéréotypes concernant les minorités, et quel impact ces représentations ont-elles sur la perception sociale et les questions identitaires liées à ces groupes ?
 
-Le but de cette recherche est d'analyser les biais et tendances dans la représentation des personnes issues de minorités, en particulier des Arabes et des Musulmans, dans les jeux vidéo. Elle vise également à examiner les impacts de ces représentations sur la perception qu'en a la société et sur les questions identitaires qu'elles soulèvent.
+Le but de cette recherche est d'analyser les biais et tendances dans la représentation des personnes issues de minorités dans les jeux vidéo. Elle vise à examiner les impacts de ces représentations sur la perception qu'en a la société et sur les questions identitaires qu'elles soulèvent.
 
 Les jeux vidéo, en tant que reflet de la culture populaire, offrent un angle d'analyse pertinent pour comprendre comment ces stéréotypes sont renforcés ou, dans certains cas, déconstruits. Ils participent à façonner les représentations collectives, notamment après certains événements historiques , qui ont eu une influence majeure sur la manière dont les minorités sont perçues, y compris dans les médias vidéoludiques.
 
