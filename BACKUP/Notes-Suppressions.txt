@@ -100,3 +100,26 @@ Thèse Notes
 - Renforce la fixation de stéréotypes
 - Encore plus lorsque ce sont des jeunes joueurs -> peut avoir un impact sur le très long terme 
 
+2.1 Minority in the video game industry
+
+- 79% White, Caucasian or European 
+- 7% Hispanic or Latino/Latina/Latine/Latinx 
+- 7% East Asian
+- 4% Black, African American, African, or Afro-Caribbean
+- 3% South-East Asian
+- 63% Men
+- 31% Women
+- 8% Non-binary, gender fluid, genderqueer, ...
+
+777 people, 58% worked in US/Canada
+
+85% Felt that diversity in the workplace was important
+
+85% Felt that diversity in game content was important
+
+Source : The International Game Developers Association (IGDA) Developer Satisfaction Survey 2023,  The International Game Developers Association (IGDA) Diversity Survey 2021
+
+Williams, Dmitri, et al. (2009). *The virtual census: Representations of gender, race and age in video games*
+
+- Si les développeurs eux-même ne sont pas issues de la diversité = plus grande chance de manque de diversité dans le jeu
+- Il est donc essentiel de se pencher sur cette question et de prendre conscience de l'importance d'une plus grande diversité parmi les créateurs de jeux vidéo. Plus ces équipes seront variées en termes de sexe, d'ethnicité et d'expériences de vie, plus elles seront en mesure de produire des récits nuancés et de proposer des personnages plus authentiques, évitant ainsi la perpétuation de stéréotypes limitants. Le jeu vidéo, par son influence grandissante dans la vie quotidienne, surtout chez les jeunes, doit devenir un espace de diversité et d'inclusion afin de mieux refléter la richesse du monde réel.
