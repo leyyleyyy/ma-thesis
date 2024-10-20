@@ -1,76 +1,4 @@
-# Thèse
-
-## Introduction
-
-## I. Les stéréotypes et l'industrie vidéoludique
-
-### 1. Le rôle des médias dans la diffusion de stéréotypes  
-
-#### 	1.1 Les médias traditionnels et les minorités
-
-#### 	1.2 L'influence des jeux vidéos comme média interactif 
-
-### 2. Diversité dans l'industrie du jeux vidéos
-
-#### 	2.1 Sous-représentation des minorités parmi les créateurs
-
-#### 	2.2 L'impact des créateurs sur la représentation dans les jeux
-
-##### 		*2.2.1 Racisme systémique et biais inconscients*
-
-##### 		*2.2.2 Reproductions de stéréotypes dans la création de personnages*
-
-## II. Représentation des minorités dans les jeux vidéo : entre invisibilité et stéréotypes
-
-### 2. Les rôles attribués aux minorités 
-
-#### 	2.1 Le personnage par défaut
-
-#### 	2.2 Le sauveur
-
-#### 	2.3 Le meilleur ami
-
-#### 	2.4 Le terroriste né
-
-#### 	2.5 La demoiselle en détresse
-
-#### 	2.6 L'inexistant.e
-
-#### 	2.7 Lara Croft ??
-
-### 2. Représentations dans les jeux vidéos
-
-#### 	2.1 Représentation unique d'une communauté par un personnage
-
-#### 	2.2 L'orientalisme dans la création vidéoludique 
-
-#### 	2.3 Personnages secondaires ou invisibles
-
-### 3. L'impact de l'exposition régulière à des personnages stéréotypés
-
-#### 	3.1 Sur la perception sociale
-
-#### 	3.2 Sur l'identité des joueurs
-
-## III. Le marketing de la diversité 
-
-### 1. Entre inclusion et opportunisme commercial 
-
-#### 1.1 Inclusion authentique ou opportunisme ?
-
-#### 1.2 Stratégies de promotions de jeux "diversifiés"
-
-### 2. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
-
-#### 	2.1 Comparaison avec d'autres médias
-
-#### 	2.2 Propositions pour une diversité plus authentique 
-
-## Conclusion
-
-
-
-
+[TOC]
 
 ## Introduction
 
@@ -87,8 +15,6 @@ Cette sensation, je l'ai également retrouvée avec la série *Floricienta*. La 
 Ces anecdotes, aussi simples qu'elles puissent paraître, illustre l'importance profonde de la représentation. Elles ont façonné, sans que je m’en rende compte, ma perception de moi-même. C'est en partie ce qui m'a amenée à m'intéresser aux représentations des minorités dans les jeux vidéo, un média culturel aujourd'hui omniprésent. Il a une influence unique sur la perception sociale et l'identité, surtout chez les jeunes qui grandissent avec ces images.
 
 C'est dans cet esprit que je mène cette recherche. Mon objectif est de comprendre et d'analyser comment les jeux vidéo participent à la construction ou à la déconstruction des stéréotypes liés aux minorités. À travers des interviews de joueurs et joueuses, ainsi que l'analyse de jeux vidéo populaires, j'explore ces représentations pour mieux saisir leur impact sur la perception sociale et les identités. Ma problématique centrale est la suivante : dans quelle mesure les jeux vidéo renforcent-ils ou déconstruisent-ils les stéréotypes sur les minorités, et quel est l'impact de ces représentations sur les identités des groupes concernés ?
-
-
 
 ## I. Les stéréotypes dans l'industrie vidéoludique
 
@@ -136,8 +62,6 @@ Références :
 
 Hall, Stuart (1997). *Representation: Cultural Representations and Signifying Practices*
 
-
-
 #### 1.2 L'influence des jeux vidéos comme média interactif 
 
 Avec l'évolution rapide des technologies numériques, le jeu vidéo s'est progressivement imposé comme l'un des médias les plus influents et les plus répandus du 21e siècle. Avant d'explorer les stéréotypes véhiculés par ce média, il est essentiel de saisir son impact sur la population générale et l'ampleur de son influence sur les individus.
@@ -172,26 +96,28 @@ L'absence de diversité parmi les créateurs limite également les chances d'une
 
 ##### 2.2.1 Racisme systémique et biais inconscients
 
-Pour comprendre la persistance de ces biais dans l'industrie du jeu vidéo, il est essentiel d'explorer le concept de racisme systémique, tel que l’a théorisé Ruth Wilson Gilmore. J'ai pris conscience de cette notion en assistant aux assises sur l'immigration dans le canton de Vaud. Moi qui n'étais pas forcément familière avec ce sujet, j'ai réalisé à quel point le racisme était présent dans notre quotidien et pouvait influencer de nombreux domaines. Même en tant que personne racisée, j'ai découvert que des éléments de racisme pouvaient être ancrés en moi. Cela montre que ces biais ne proviennent pas nécessairement de mauvaises intentions, mais plutôt d’une exposition répétée à des stéréotypes et des préjugés qui façonnent nos perceptions. Un exemple parlant et récurant de racisme systémique est le fait de
+Pour comprendre la persistance de ces biais dans l'industrie du jeu vidéo, il est essentiel d'explorer le concept de racisme systémique, tel que l’a théorisé Ruth Wilson Gilmore. J'ai pris conscience de cette notion en assistant aux assises sur l'immigration dans le canton de Vaud. Moi qui n'étais pas forcément familière avec ce sujet, j'ai réalisé à quel point le racisme était présent dans notre quotidien et pouvait influencer de nombreux domaines. Même en tant que personne racisée, j'ai découvert que des éléments de racisme pouvaient être ancrés en moi de manière inconsciente. Cela montre que ces biais ne proviennent pas nécessairement de mauvaises intentions, mais plutôt d’une exposition répétée à des stéréotypes et des préjugés qui façonnent nos perceptions. Un exemple révélateur et récurrent de racisme systémique est le refus de logements à des personnes en fonction de leur ethnie, ou encore la pratique de soumettre les personnes racisées à des contrôles plus fréquents à l'aéroport par rapport à leurs homologues blancs.
 
+Lors des entretiens que j'ai mené auprès de joueurs sur leur perception des minorités dans les jeux vidéos, j'ai découvert que la plupart des interviewés avaient eux aussi, soit conscience de ce phénomène, soit en étaient victime "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" ou encore *"Les gens c'est des racistes. Comme d'hab on joue sur les biais. Si tu le vois tu te dis aaaah ce gars c'est vraiment un drugdealer il a des draids et il s'habille large olalala"*. 
 
+De la même manière, les développeurs de jeux vidéo ne sont pas à l'abri de ces biais. En évoluant dans un milieu où la diversité est souvent limitée, ils peuvent reproduire sans s'en rendre compte des stéréotypes et des représentations biaisées dans leurs créations.
 
 ##### 2.2.2 Reproductions de stéréotypes dans la création de personnages
 
 Mais comment est-ce que, concrètement, ce manque de diversité influence sur la manière dont les personnages sont crées et perçus ? L'association *Diamond Lobby* a mené une étude analysant 100 jeux vidéo sortis entre 2017 et 2021, en se concentrant sur la diversité des personnages. Les résultats sont révélateurs :
 
-- 79,2 % des personnages principaux sont des hommes, laissant une part de seulement 20,8 % pour les femmes.
-- 54,2 % des personnages principaux sont blancs, tandis que seulement 8,3 % des jeux présentent une femme non blanche en tant que personnage principal.
-- 66,5 % des personnages de jeux sont des hommes, 27,7 % des femmes et 5,8 % des personnages non-binaires ou non identifiés.
-- 61,2 % des personnages de jeux sont blancs, laissant 38,8 % pour toutes les autres ethnies combinées.
-
-Ces statistiques montrent clairement une surreprésentation des personnages masculins blancs, renforçant ainsi les structures de domination qui existent dans la société. Ce déséquilibre peut être expliqué par certaines notions théorique comme le racisme systémique et les biais inconscients. 
-
-Malgré des efforts de la part de certains créateurs pour éviter les clichés, la reproduction de stéréotypes reste fréquente. Les maladresses dans la création de personnages révèlent une incapacité à sortir des schémas préétablis, renforcée par l'absence de diversité au sein des équipes créatives.
-
-L'exemple de Steve, qui minimise l’impact raciste en l’attribuant à des erreurs involontaires, montre à quel point certains joueurs et créateurs préfèrent voir ces représentations comme des accidents plutôt que comme des manifestations du racisme systémique. Cette attitude reflète une forme de **défense cognitive** face à l'idée que les stéréotypes, même involontaires, ont des conséquences réelles sur la perception sociale et l'expérience des joueurs.
-
-Ces observations soulignent l’importance d’une prise de conscience collective au sein de l’industrie du jeu vidéo pour faire évoluer les représentations. En augmentant la diversité des équipes de créateurs, il devient possible de déconstruire ces schémas répétitifs et de proposer des récits véritablement inclusifs et représentatifs de la pluralité des identités humaines.
+- 79.2% des personnages principaux sont des hommes (-> 20.8% des femmes)
+- 54.2% des personnages principaux sont blancs
+- 8.3% des jeux ont un personnage principal femme qui n'est pas blanche. 
+- 66.5% des personnages de jeux sont des hommes
+- 27.7% des personnages de jeux sont des femmes
+- 5.8% des personnages de jeux sont non-binaires/non-identifiés
+- 31.7% des jeux ont uniquement des personnages homme
+- 5% des jeux ont uniquement des personnages femme
+- 61.2% des personnages de jeux sont blancs
+- 38.8% des personnages de jeux sont d'une autre ethnie, toutes combinées
+- 9.5% des jeux ont uniquement des personnages jouables blancs
+- 5.3% des jeux n'ont pas de jouables personnages blancs
 
 
 
@@ -199,9 +125,9 @@ Là je peux entrer les interviews == Comment les joueurs voient ca  ===> Intervi
 
 
 
-Des extraits d'interviews illustrent bien cette idée. **Lionel**, par exemple, souligne l’utilisation de caractéristiques physiques stéréotypées pour construire certains personnages : *"Il doit avoir les cheveux longs et sales. […] Alors après, je pourrais me la jouer lausannois et faire un Africain. Mais c'est pas l'idée."* Ici, l'association de traits physiques avec un rôle stéréotypé de « dealer » démontre comment certains groupes ethniques sont immédiatement associés à des rôles négatifs.
+- *"Il doit avoir les cheveux longs et sales. […] Alors après, je pourrais me la jouer lausannois et faire un Africain. Mais c'est pas l'idée."* Ici, l'association de traits physiques avec un rôle stéréotypé de « dealer » démontre comment certains groupes ethniques sont immédiatement associés à des rôles négatifs.
 
-De son côté, **Steve** relativise une polémique concernant la représentation raciale dans *Resident Evil 5* : *"Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse."* Ce commentaire montre comment les biais raciaux, bien que souvent inconscients, sont profondément ancrés dans les structures culturelles et narratives des jeux vidéo. Même sans intention explicite, ces biais participent à la perpétuation des stéréotypes.
+- Relativise une polémique concernant la représentation raciale dans *Resident Evil 5* : *"Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse."* Ce commentaire montre comment les biais raciaux, bien que souvent inconscients, sont profondément ancrés dans les structures culturelles et narratives des jeux vidéo. Même sans intention explicite, ces biais participent à la perpétuation des stéréotypes.
 
 
 
