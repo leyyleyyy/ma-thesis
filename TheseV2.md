@@ -68,26 +68,9 @@
 
 ## Conclusion
 
-----
-
-### Note d’intention
-
-Questions de départ :
-
-- Dans quelle mesure la représentation des minorités dans les jeux vidéo reflète-t-elle les stéréotypes et les perceptions de la vie réelle ?
-- Dans quelle mesure les jeux vidéo contribuent-ils à renforcer ou à déconstruire les stéréotypes concernant les minorités, et quel impact ces représentations ont-elles sur la perception sociale et les questions identitaires liées à ces groupes ?
-
-Le but de cette recherche est d'analyser les biais et tendances dans la représentation des personnes issues de minorités dans les jeux vidéo. Elle vise à examiner les impacts de ces représentations sur la perception qu'en a la société et sur les questions identitaires qu'elles soulèvent.
-
-Les jeux vidéo, en tant que reflet de la culture populaire, offrent un angle d'analyse pertinent pour comprendre comment ces stéréotypes sont renforcés ou, dans certains cas, déconstruits. Ils participent à façonner les représentations collectives, notamment après certains événements historiques , qui ont eu une influence majeure sur la manière dont les minorités sont perçues, y compris dans les médias vidéoludiques.
-
-Mon approche se structurera en plusieurs volets. D'abord, je m'appuierai sur des interviews de joueurs et joueuses plus ou moins expérimentés pour recueillir leurs impressions et expériences concernant la représentation des personnages issus de minorités et comprendre leurs propres biais. Ensuite, j'analyserai une sélection de jeux populaires pour évaluer comment ces personnages sont représentés et quel rôle ils jouent. Le choix des jeux se fera en fonction de leur impact sur l'industrie et leur audience. Enfin, je mobiliserai des sources théoriques, notamment sur des concepts comme l'orientalisme et l'intersectionnalité, pour contextualiser et enrichir mon analyse.
-
-Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi personnel, car elle me permet de lier mes expériences en tant que personne maghrébine avec une analyse critique des médias.
 
 
 
----
 
 ## Introduction
 
