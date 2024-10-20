@@ -93,11 +93,11 @@ Cette recherche s'inscrit non seulement dans un cadre académique, mais aussi pe
 
 Quand j’étais petite, sans vraiment m’en rendre compte, j’avais déjà un besoin vital de me retrouver à travers les personnages que je voyais à l’écran. Mon dessin animé préféré, *Winx Club*, m’a particulièrement marquée. Le jour où une nouvelle Winx a été introduite, une qui portait mon nom, *Layla* et me ressemblait physiquement, je me souviens d’avoir été submergée de joie. Elle est tout de suite devenue mon personnage favori. Moi qui, jusque-là, voulais tellement être comme Bloom, le personnage principal, avec une apparence pourtant si différente de la mienne, j’ai soudain abandonné cette envie. *Layla*, avec ses traits qui me rappelaient les miens, m’a aidée à voir ma propre beauté. Je me sentais fière de mon apparence, et tous ceux qui me disaient que c’était « mon personnage » me rendaient confiante de qui j'étais. Une autre fois, c’est la série *Floricienta* qui m’a donné cette sensation. La protagoniste avait les cheveux bouclés comme moi, et grâce au succès de la série, je recevais de nombreux compliments sur mes cheveux. C’est là que j’ai commencé à les aimer et à en être fière.
 
-<img src="IMAGES\Layla.png" alt="Layla" width="300" />
+<img src="IMAGES\Layla.png" alt="Layla" width="200" />
 
-<img src="IMAGES\Bloom.jpg" alt="Bloom" width="400" />
+<img src="IMAGES\Bloom.jpg" alt="Bloom" width="300" />
 
-<img src="IMAGES\Floricienta.jpg" alt="Floricienta" width="400" />
+<img src="IMAGES\Floricienta.jpg" alt="Floricienta" width="300" />
 
 Ces anecdotes, aussi simples qu’elles puissent paraître, montrent l’importance profonde de la représentation. Elles ont façonné, sans que je m’en rende compte, ma perception de moi-même. C’est en partie ce qui m’a poussée à m’intéresser aux représentations des minorités dans les jeux vidéo, un médium culturel devenu omniprésent. En tant que média interactif, il a une influence unique sur les perceptions sociales et l’identité, en particulier pour les jeunes, qui grandissent avec ces images et ces récits.
 
