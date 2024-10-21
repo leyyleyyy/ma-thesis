@@ -123,3 +123,61 @@ Williams, Dmitri, et al. (2009). *The virtual census: Representations of gender,
 
 - Si les développeurs eux-même ne sont pas issues de la diversité = plus grande chance de manque de diversité dans le jeu
 - Il est donc essentiel de se pencher sur cette question et de prendre conscience de l'importance d'une plus grande diversité parmi les créateurs de jeux vidéo. Plus ces équipes seront variées en termes de sexe, d'ethnicité et d'expériences de vie, plus elles seront en mesure de produire des récits nuancés et de proposer des personnages plus authentiques, évitant ainsi la perpétuation de stéréotypes limitants. Le jeu vidéo, par son influence grandissante dans la vie quotidienne, surtout chez les jeunes, doit devenir un espace de diversité et d'inclusion afin de mieux refléter la richesse du monde réel.
+
+Ainsi, plus les équipes de développement seront diversifiées en termes de sexe, d'ethnicité et d'orientation sexuelle, plus elles seront capables de produire des récits nuancés, d’éviter les stéréotypes simplistes et de proposer des personnages authentiques. Cette diversité au sein des équipes créatives permettrait de refléter la richesse et la complexité du monde réel dans les jeux vidéo, rendant ces récits plus inclusifs et représentatifs de l'ensemble des joueurs.
+
+
+
+
+
+#### 	2.2 L'impact des créateurs sur la représentation dans les jeux
+
+[Diversity in Gaming Report: An Analysis of Diversity in Video Game Characters](https://diamondlobby.com/geeky-stuff/diversity-in-gaming/)
+
+L'association *Diamond Lobby* a sélectionné 100 jeux qui sont sortis entre **2017 et 2021**, dont 10 jeux phares pour chaque année et a fait une analyse de la diversité des personnages dans ces derniers. 
+
+Leurs conclusions sont les suivantes : 
+
+- 79.2% des personnages principaux sont des hommes (-> 20.8% des femmes)
+- 54.2% des personnages principaux sont blancs
+- 8.3% des jeux ont un personnage principal femme qui n'est pas blanche. 
+- 66.5% des personnages de jeux sont des hommes
+- 27.7% des personnages de jeux sont des femmes
+- 5.8% des personnages de jeux sont non-binaires/non-identifiés
+- 31.7% des jeux ont uniquement des personnages homme
+- 5% des jeux ont uniquement des personnages femme
+- 61.2% des personnages de jeux sont blancs
+- 38.8% des personnages de jeux sont d'une autre ethnie, toutes combinées
+- 9.5% des jeux ont uniquement des personnages jouables blancs
+- 5.3% des jeux n'ont pas de jouables personnages blancs
+
+
+
+##### 	*2.2.1 Racisme systémique et biais inconscients*
+
+- Racisme systémique (Gilmore) pour comprendre pourquoi ces biais perdurent. Les créateurs reproduisent des structures de domination sans nécessairement en être conscients. Notion de biais inconscients 
+
+
+
+**Citations Interview** : 
+
+**Lionel** : *"Il doit avoir les cheveux longs et sales. […] Alors après, je pourrais me la jouer lausannois et faire un Africain. Mais c'est pas l'idée."*
+=> montre comment des caractéristiques physiques stéréotypées sont utilisées pour construire un personnage de "drug dealer", illustrant comment certains groupes ethniques sont associés à des traits ou des rôles négatifs dans les jeux.
+
+
+
+**Steve ** : *"Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse. Je préfère attribuer ça à une grosse blague."*
+
+=> critiques adressées à "Resident Evil 5" en relativisant l'intention raciste derrière la représentation des personnages africains. Biais racistes peuvent être inconscients mais profondément ancrés dans les structures culturelles et narratives des jeux.  Développeurs ne réalisent pas toujours les implications racistes de leurs choix créatifs, soutenant ainsi l'argument selon lequel les stéréotypes raciaux persistent de manière systémique, même lorsqu'ils ne sont pas explicitement intentionnels.
+
+
+
+##### 	*2.2.2 Reproductions de stéréotypes dans la création de personnages*
+
+- Malgré des intentions explicites de ne pas reproduire de clichés, les créateurs de jeux vidéo tombent souvent dans des stéréotypes.
+
+
+
+*Steve reconnaît les maladresses des développeurs, mais minimise l'impact raciste, attribuant cela à des erreurs involontaires. Cette approche défensive montre comment certains joueurs préfèrent interpréter ces représentations comme des accidents plutôt que des manifestations de racisme systémique.* (Chat GPT)
+
+Devine, Patricia G. (1989). *Stereotypes and prejudice: Their automatic and controlled components*
