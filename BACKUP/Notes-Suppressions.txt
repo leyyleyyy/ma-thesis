@@ -181,3 +181,40 @@ Leurs conclusions sont les suivantes :
 *Steve reconnaît les maladresses des développeurs, mais minimise l'impact raciste, attribuant cela à des erreurs involontaires. Cette approche défensive montre comment certains joueurs préfèrent interpréter ces représentations comme des accidents plutôt que des manifestations de racisme systémique.* (Chat GPT)
 
 Devine, Patricia G. (1989). *Stereotypes and prejudice: Their automatic and controlled components*
+
+2.2.2
+Interview : 
+
+-  "Je trouve ça bizarre de mettre un tout un environnement hostile, des personnes du peuple noir et que le méchant de ce genre, un blond. Ouais ouais, moi je me serais attendu comme un chef de guerre ou quelque chef de guerre africain ou quelqu'un, ça aurait fait plus de sens des gens qui sont en Afrique."
+-  "Je préfère partir du principe que l'humain est pas foncièrement mauvais. Ouais, il y a des défauts dans tout c'est clair, mais que la plupart du temps c'est pas c'est pas voulu que la fin c'est juste des gens qui ont pas pensé."
+- "Dans les jeux jusqu'à 2016, c'est vrai ça il n'y a pas de doutes[que les blancs ont toujours le rôle de sauveur/personnage principal], depuis là c'est plus le cas justement parce que les jeux se passent aux USA. " (contredis les résultats de l'étude, biais, est-ce que c'est parce qu'on a tellement l'habitude de voir des personnages blancs que lorsqu'il y en a de couleurs on les remarque plus et donc on a l'impression que les persos blancs ont disparu ? alors qu'au final pas du tout ? la question est ouverte)
+- "On a vu justement dans les jeux vidéos tous les personnages principaux qui ont été créé jusqu'à aujourd'hui ce sont des personnages blancs. Déjà les personnes qui créent les personnages sont souvent blancs, déjà la il y a un biais, ils vont créer un personnage qui leur ressemble. Et il y a ce truc où les gens qui jouent aux jeux vidéos sont principalement de pays occidentaux et ils ont pas envie d'incarner autre chose que des blancs. Dès le moment où on change le truc, lorsqu'on met des noirs, des arabes, des asiats, les asiats ça va étonnamment. [...] Si c'est un jeu qui se passe en Asie, si c'est un blanc ça va, un blanc peut aller en Asie. On peut jouer un blanc en Asie, un asiatique en Asie, mais on peut pas jouer un noir en Asie ou un personnage basané. Etrange comme personnage principal. "C'est pas cohérent, comment ils sont allé là bas. Il y a une sorte d'ignorance. " (les joueurs eux-mêmes sont conscients de ce phénomène)
+- 
+
+
+
+
+
+- 79.2% des personnages principaux sont des hommes (-> 20.8% des femmes)
+- 54.2% des personnages principaux sont blancs
+- 8.3% des jeux ont un personnage principal femme qui n'est pas blanche. 
+- 66.5% des personnages de jeux sont des hommes
+- 27.7% des personnages de jeux sont des femmes
+- 5.8% des personnages de jeux sont non-binaires/non-identifiés
+- 31.7% des jeux ont uniquement des personnages homme
+- 5% des jeux ont uniquement des personnages femme
+- 61.2% des personnages de jeux sont blancs
+- 38.8% des personnages de jeux sont d'une autre ethnie, toutes combinées
+- 9.5% des jeux ont uniquement des personnages jouables blancs
+- 5.3% des jeux n'ont pas de jouables personnages blancs
+
+
+
+Là je peux entrer les interviews == Comment les joueurs voient ca  ===> Interviews, Lionel, Kevin, Steve ? 
+
+
+
+
+
+- Relativise une polémique concernant la représentation raciale dans *Resident Evil 5* : *"Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse."* Ce commentaire montre comment les biais raciaux, bien que souvent inconscients, sont profondément ancrés dans les structures culturelles et narratives des jeux vidéo. Même sans intention explicite, ces biais participent à la perpétuation des stéréotypes.
+

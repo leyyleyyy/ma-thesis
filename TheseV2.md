@@ -98,42 +98,47 @@ L'absence de diversité parmi les créateurs limite également les chances d'une
 
 Pour comprendre la persistance de ces biais dans l'industrie du jeu vidéo, il est essentiel d'explorer le concept de racisme systémique, tel que l’a théorisé Ruth Wilson Gilmore. J'ai pris conscience de cette notion en assistant aux assises sur l'immigration dans le canton de Vaud. Moi qui n'étais pas forcément familière avec ce sujet, j'ai réalisé à quel point le racisme était présent dans notre quotidien et pouvait influencer de nombreux domaines. Même en tant que personne racisée, j'ai découvert que des éléments de racisme pouvaient être ancrés en moi de manière inconsciente. Cela montre que ces biais ne proviennent pas nécessairement de mauvaises intentions, mais plutôt d’une exposition répétée à des stéréotypes et des préjugés qui façonnent nos perceptions. Un exemple révélateur et récurrent de racisme systémique est le refus de logements à des personnes en fonction de leur ethnie, ou encore la pratique de soumettre les personnes racisées à des contrôles plus fréquents à l'aéroport par rapport à leurs homologues blancs.
 
-Lors des entretiens que j'ai mené auprès de joueurs sur leur perception des minorités dans les jeux vidéos, j'ai découvert que la plupart des interviewés avaient eux aussi, soit conscience de ce phénomène, soit en étaient victime "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" ou encore *"Les gens c'est des racistes. Comme d'hab on joue sur les biais. Si tu le vois tu te dis aaaah ce gars c'est vraiment un drugdealer il a des draids et il s'habille large olalala"*. 
+Lors des entretiens que j'ai mené auprès de joueurs sur leur perception des minorités dans les jeux vidéos, j'ai découvert que la plupart des interviewés avaient eux aussi, soit conscience de ce phénomène, soit en étaient victime. Lorsqu'ils ont eu le rôle de *character designer* et devaient créer des personnages comme un terroriste ou un dealer, la discussion sur les clichés s'est rapidement installée. Des remarques comme "*Je m’imagine quelqu’un de noir ou arabe pour le terroriste, et ça m’énerve*", "*Les gens sont racistes. Comme d’habitude, on joue sur les biais. Si tu le vois, tu te dis : aaaah, ce gars, c’est vraiment un dealer, il a des dreadlocks et il s’habille large, olala*" ou encore *"Je pourrais me la jouer lausannois et faire un Africain, mais c'est pas l'idée (pour le dealer)"* illustrent à quel point ces stéréotypes ressurgissent naturellement. 
 
 De la même manière, les développeurs de jeux vidéo ne sont pas à l'abri de ces biais. En évoluant dans un milieu où la diversité est souvent limitée, ils peuvent reproduire sans s'en rendre compte des stéréotypes et des représentations biaisées dans leurs créations.
 
 ##### 2.2.2 Reproductions de stéréotypes dans la création de personnages
 
-Mais comment est-ce que, concrètement, ce manque de diversité influence sur la manière dont les personnages sont crées et perçus ? L'association *Diamond Lobby* a mené une étude analysant 100 jeux vidéo sortis entre 2017 et 2021, en se concentrant sur la diversité des personnages. Les résultats sont révélateurs :
+Mais comment ce phénomène se manifeste-t-il concrètement ? Une étude menée par l’association *Diamond Lobby* met en lumière les déséquilibres flagrants dans la représentation des personnages dans les jeux vidéo. En analysant 100 jeux sortis entre 2017 et 2021, cette étude révèle que 79,2 % des personnages principaux sont des hommes, et 54,2 % sont blancs. En revanche, seulement 8,3 % des jeux mettent en avant une femme non blanche en tant que personnage principal. Ces chiffres témoignent de l’invisibilité persistante des femmes racisées dans l’industrie vidéoludique, reflétant les normes et biais culturels dominants.
 
-- 79.2% des personnages principaux sont des hommes (-> 20.8% des femmes)
-- 54.2% des personnages principaux sont blancs
-- 8.3% des jeux ont un personnage principal femme qui n'est pas blanche. 
-- 66.5% des personnages de jeux sont des hommes
-- 27.7% des personnages de jeux sont des femmes
-- 5.8% des personnages de jeux sont non-binaires/non-identifiés
-- 31.7% des jeux ont uniquement des personnages homme
-- 5% des jeux ont uniquement des personnages femme
-- 61.2% des personnages de jeux sont blancs
-- 38.8% des personnages de jeux sont d'une autre ethnie, toutes combinées
-- 9.5% des jeux ont uniquement des personnages jouables blancs
-- 5.3% des jeux n'ont pas de jouables personnages blancs
+La surreprésentation des personnages masculins (66,5 %) et blancs (61,2 %) renforce une vision homogène des protagonistes, limitant ainsi la diversité des perspectives et des récits. Bien que 38,8 % des personnages soient issus de minorités ethniques, ils se retrouvent souvent cantonnés à des rôles secondaires ou stéréotypés. De plus, 9,5 % des jeux analysés n’incluent que des personnages jouables blancs, soulignant l'absence de diversité au cœur même du gameplay.
 
+Cette dynamique ne passe pas inaperçue chez les joueurs.
 
+> "Je trouve ça bizarre de mettre tout un environnement hostile, avec des personnes du peuple noir, et que le méchant soit un blond. Moi, je me serais attendu à un chef de guerre africain. Ça aurait fait plus de sens dans ce contexte."
 
-Là je peux entrer les interviews == Comment les joueurs voient ca  ===> Interviews, Lionel, Kevin, Steve ? 
+Certaines personnes perçoivent ce manque de diversité comme une omission involontaire de la part des développeurs,
+
+> "La plupart du temps, ce n'est pas voulu, c’est juste que les gens n’y ont pas pensé."
+
+tandis que d'autres sont moins indulgents en terme de responsabilité. 
+
+> "On pourrait être plus diversifiés dans les jeux vidéo, comme dans le cinéma. Ça manque de représentation de tellement de cultures. Ils [les développeurs] doivent être capables de dépasser certains biais qu'ils ont au niveau des apparences et des stéréotypes."
 
 
 
-- *"Il doit avoir les cheveux longs et sales. […] Alors après, je pourrais me la jouer lausannois et faire un Africain. Mais c'est pas l'idée."* Ici, l'association de traits physiques avec un rôle stéréotypé de « dealer » démontre comment certains groupes ethniques sont immédiatement associés à des rôles négatifs.
+Un autre joueur propose une perspective intrigante, soulignant que certains jeux, notamment ceux se déroulant aux États-Unis, présentent une plus grande diversité, ce qui pourrait donner l'impression que les personnages blancs deviennent moins visibles :
 
-- Relativise une polémique concernant la représentation raciale dans *Resident Evil 5* : *"Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse."* Ce commentaire montre comment les biais raciaux, bien que souvent inconscients, sont profondément ancrés dans les structures culturelles et narratives des jeux vidéo. Même sans intention explicite, ces biais participent à la perpétuation des stéréotypes.
+> "Dans les jeux jusqu'à 2016, c'est vrai qu'il n'y a pas de doute [que les personnages blancs dominaient]. Mais depuis, ce n'est plus le cas, surtout parce que les jeux se passent aux USA. Les mecs nuls dont on s'en fout, c'est des blancs. Le reste c'est toutes les autres ethnies."
+
+Cette observation soulève une question intéressante : l’augmentation de la diversité dans quelques jeux suffit-elle à créer l’illusion d’une diminution des personnages principaux blancs, alors que ces derniers restent toujours majoritaires ?
 
 
 
 ## II. Représentation des minorités dans les jeux vidéo : entre invisibilité et stéréotypes
 
 ### 1. Les archétypes
+
+Face à ces données révélatrices concernant, il est crucial de se demander comment ces dynamiques se traduisent dans l'univers narratif. C'est ici que les archétypes prennent toute leur importance. Un archétype peut être défini comme un "*modèle primitif, idéal ou le plus répandu, exemple-type d'une situation ou d'une réalité donnée*" (L'internaute). L'absence de diversité parmi les personnages principaux résulte souvent de l'adoption de certains archétypes qui privilégient une vision stéréotypée et réductrice des individus issus de minorités, loin de refléter la richesse de la diversité humaine.
+
+Cette tendance à s'appuyer sur des archétypes simplistes renforce l'idée que les personnages issus de  minorités doivent s'inscrire dans des cases prédéfinies. Ils sont, de ce fait, amenés à être cantonnés à des rôles stéréotypés, tels que le "meilleur ami", le "sauveur" ou même le "terroriste", ce qui nuit à leur complexité et à leur représentativité. 
+
+Ainsi, dans la section qui suit, nous explorerons plus en détail les différents archétypes présents dans les jeux vidéo, en mettant en lumière comment ces modèles contribuent à la construction d'une vision limitée des personnages et des récits. 
 
 #### 1.1 Le personnage par défaut
 
@@ -154,6 +159,14 @@ Là je peux entrer les interviews == Comment les joueurs voient ca  ===> Intervi
 ==> Personnage blanc par défaut que ce soit le principal, ou le secondaire. Même dans des environnements non occidentaux.  Biais des développeurs qui ont tendance à normaliser les personnages blancs dans un contexte où cela pourrait sembler incongru. Héro standardisé + représentations coloniales. 
 
 **Gabriel** : *"Ahhhhhh je suis un batard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne"*
+
+
+
+Enfin, une remarque particulièrement révélatrice concerne la "cohérence" perçue des personnages en fonction de leur origine ethnique et du cadre narratif :
+
+> "Si on met un blanc dans un jeu qui se passe en Asie, personne ne trouve cela étrange. Mais si on met un Arabe ou un Noir dans ce même jeu, les gens vont se demander ce qu’ils font là, comme si leur présence n'était pas légitime."
+
+Cette observation révèle une indignation sélective concernant la diversité dans les jeux vidéo. Les personnages issus de minorités ethniques sont souvent considérés incohérents dans certains contextes, tandis que les personnages blancs, même placés dans des environnements éloignés de leur origine, sont perçus comme naturellement légitimes. 
 
 
 
@@ -291,7 +304,7 @@ Source : Newzoo, 2020
 
 ## III. Le marketing de la diversité 
 
-### 1. Entre inclusion et opportunisme commercial 
+### 1. Entre inclusion et opportunisme commercial - Polémiques et tout
 
 - L'intégration de personnages de minorités est parfois perçue comme une réponse forcée à la demande de diversité, suscitant des critiques sur le "tokenisme".
 - **Tokenisme** (Shani Orgad) : L'inclusivité devient un outil marketing plutôt qu'un véritable effort d'authenticité culturelle.
@@ -314,6 +327,10 @@ Source : Newzoo, 2020
 
 **Steve** : *"Juste les mecs nuls dont on s'en fout, c'est des blancs. Le reste c'est toutes les autres ethnies. Là encore une fois, ça me dérange pas mais genre au bout d'un moment lâcher nous la grappe aussi on est pas tous des fils de pute. Dans les derniers jeux que j'ai joué, à part minecraft où le perso principal de base il est blanc mais après tu peux en faire ce que tu veux. j'ai pas eu beaucoup de héros blanc. Dans les jeux récents."*
 
+
+
+**Kevin** : "La communauté des jeux vidéos restent majoritairement des hommes blancs et c'est une communauté qui malheureusement est très sexiste, très homophobe, très racistes sur certains points. J'ai l'impression c'est majoritairement des hommes blancs qui gueulent."
+
 ### 2. Représentation médiatique et enjeux identitaires : l'importance d'une inclusion authentique
 
 - Une inclusion authentique dans les médias est cruciale pour éviter la déshumanisation des personnages issus de minorités. Les personnages doivent être construits de manière complexe et multidimensionnelle, plutôt que d'être simplement des avatars représentatifs d'une ethnie ou d'une identité.
@@ -327,6 +344,8 @@ Source : Newzoo, 2020
 **Andy** : "J'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ils comprennent pas ce qu'il y en ait besoin. Par contre quand on les représentent pas ils sont outrés. C'est un peu le  serpent qui se mord la queue [...] ca m'a fait plaisir dans black panther que le cast soit entièrement noir. "
 
 -> La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
+
+**Kevin** : "Je garderai le même personnage que je t'ai cité de LOL mais je prendrais une origine qui est plus proche de moi, ouais un métisse. Il y a pas beaucoup de métisses dans les jeux, il y a pas beaucoup de métissage, pas beaucoup de mélanges. Le rendre métissé asiat afrique. Pour joindre un peu les  deux bouts les deux communautés. (5mn57) Dans LOL il n'y a pas beaucoup de personnages de couleur masculins qui n'ont pas des traits hyper caricaturaux. Si c'est des personnages méchants ils ont des draids, si c'est des gentils ils ont des buzzcut, ils ont vla les bijoux, c'est pas que ça tu vois. "
 
 ### 3. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
 
