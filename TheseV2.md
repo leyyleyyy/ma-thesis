@@ -110,7 +110,7 @@ La surreprésentation des personnages masculins (66,5 %) et blancs (61,2 %) renf
 
 Cette dynamique ne passe pas inaperçue chez les joueurs.
 
-> "Je trouve ça bizarre de mettre tout un environnement hostile, avec des personnes du peuple noir, et que le méchant soit un blond. Moi, je me serais attendu à un chef de guerre africain. Ça aurait fait plus de sens dans ce contexte."
+> "Je me serais attendu à avoir un méchant noir. [...] Là, les deux personnages principaux, méchant, gentil et PNJ principal sont tous blancs, mais dans un milieu africain, c'est ça qui me choque."
 
 Certaines personnes perçoivent ce manque de diversité comme une omission involontaire de la part des développeurs,
 
@@ -142,31 +142,17 @@ Ainsi, dans la section qui suit, nous explorerons plus en détail les différent
 
 #### 1.1 Le personnage par défaut
 
-- **Description** : L’homme blanc est souvent le modèle par défaut pour les personnages principaux, renforçant une hiérarchie raciale implicite.
+Dans le cadre de mes interviews, j'ai demandé aux participants de créer quatre types de personnages : un personnage principal, un terroriste, un dealer de drogue et un PNJ (personnage non joueur). Sans grande surprise, 100 % des interviewés ont choisi de représenter le PNJ sous les traits d'un homme blanc. Cela témoigne, à mon avis, d'une vision inconsciente où le personnage par défaut est considéré comme un homme blanc, renforçant ainsi l'idée que cette représentation constitue la norme de base dans l'imaginaire collectif.
 
-- **Normativité blanche** (Richard Dyer) : L'homme blanc est vu comme la norme universelle dans les médias, et cela se traduit dans les jeux vidéo.
+Lorsque je demandais aux joueurs leur choix de design quant à leur personnage, les descriptions sont souvent identiques : des personnages "génériques", souvent perçus comme lisses et sans caractéristiques marquantes *"Pour moi ça c'est vraiment le PNJ sans intérêt. Lisse, mec blanc, jeune, tee-shirt sans motifs [...] c'est un mec que tu croiserais dans la rue et tu ne te retournerais pas.*" ou encore *"Il s'appelle Dave, il faut lui mettre les habits les plus banal. C'est le genre de perso que je pourrais shooter."* 
 
-  **Citations** :  "*c'est celui qui se fait shooté par une voiture*", un PNJ anonyme, toujours homme blanc. Les interviewés ont cités tous des hommes blancs différents lorsqu'on leur demandait des personnages. 
+D'autres commentaires comme: *"Ahhhhhh je suis un bâtard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne."* Cette prise de conscience tardive révèle que, malgré leur désir de diversité, les créateurs de personnages se laissent influencer par une culture où les hommes demeurent la norme. 
 
-**Mimi** : *"Pour moi ça c'est vraiment le PNJ sans intérêt. Lisse, mec blanc, jeune, tee shirt sans motifs [...] c'est un mec que tu croiserais dans la rue et tu te retournerais pas."*
+Cette tendance à représenter systématiquement de personnages  blancs, même dans des rôles secondaires comme ceux des PNJ, trouve son écho dans la notion de normativité blanche, telle que décrite par Richard Dyer. Dans les médias, l'homme blanc est souvent perçu comme la norme universelle, ce qui se traduit directement dans les jeux vidéo. Ce phénomène crée une hiérarchie raciale implicite, où les personnages issus de minorités sont souvent considérés comme des exceptions à la règle, et sont fréquemment cantonnés à des rôles stéréotypés ou secondaires.
 
-=> personnages "génériques" sont souvent des hommes blancs, renforçant ainsi une norme invisible dans l’industrie.
+La question de la "cohérence" des personnages est également révélatrice. Un joueur a remarqué que "*Si on met un blanc dans un jeu qui se passe en Asie, personne ne trouve cela étrange. Mais si on met un Arabe ou un Noir dans ce même jeu, les gens vont se demander ce qu’ils font là, comme si leur présence n'était pas légitime.*" Ce constat met en lumière une indignation sélective vis-à-vis de la diversité dans les jeux vidéo, où les personnages issus de minorités ethniques sont souvent jugés comme incohérents dans certains contextes, tandis que les personnages blancs sont perçus comme naturellement légitimes, même dans des environnements éloignés de leur origine. 
 
-
-
-**Mimi** : *"Je me serais attendu à avoir un méchant noir. [...] Là, les deux personnages principaux, méchant, gentil et PNJ principal sont tous blancs, mais dans un milieu africain, c'est ça qui me choque."*
-
-==> Personnage blanc par défaut que ce soit le principal, ou le secondaire. Même dans des environnements non occidentaux.  Biais des développeurs qui ont tendance à normaliser les personnages blancs dans un contexte où cela pourrait sembler incongru. Héro standardisé + représentations coloniales. 
-
-**Gabriel** : *"Ahhhhhh je suis un batard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne"*
-
-
-
-Enfin, une remarque particulièrement révélatrice concerne la "cohérence" perçue des personnages en fonction de leur origine ethnique et du cadre narratif :
-
-> "Si on met un blanc dans un jeu qui se passe en Asie, personne ne trouve cela étrange. Mais si on met un Arabe ou un Noir dans ce même jeu, les gens vont se demander ce qu’ils font là, comme si leur présence n'était pas légitime."
-
-Cette observation révèle une indignation sélective concernant la diversité dans les jeux vidéo. Les personnages issus de minorités ethniques sont souvent considérés incohérents dans certains contextes, tandis que les personnages blancs, même placés dans des environnements éloignés de leur origine, sont perçus comme naturellement légitimes. 
+Ainsi, le personnage blanc devient le modèle par défaut, une norme qui s'impose même dans des récits censés refléter une diversité culturelle. 
 
 
 

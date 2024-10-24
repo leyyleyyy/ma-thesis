@@ -218,3 +218,50 @@ Là je peux entrer les interviews == Comment les joueurs voient ca  ===> Intervi
 
 - Relativise une polémique concernant la représentation raciale dans *Resident Evil 5* : *"Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse."* Ce commentaire montre comment les biais raciaux, bien que souvent inconscients, sont profondément ancrés dans les structures culturelles et narratives des jeux vidéo. Même sans intention explicite, ces biais participent à la perpétuation des stéréotypes.
 
+
+### Partie 2
+
+
+- **Description** : L’homme blanc est souvent le modèle par défaut pour les personnages principaux, renforçant une hiérarchie raciale implicite.
+
+- **Normativité blanche** (Richard Dyer) : L'homme blanc est vu comme la norme universelle dans les médias, et cela se traduit dans les jeux vidéo.
+
+  **Citations** :  
+
+=> personnages "génériques" sont souvent des hommes blancs, renforçant ainsi une norme invisible dans l’industrie.
+
+ 
+
+Enfin, une remarque particulièrement révélatrice concerne la "cohérence" perçue des personnages en fonction de leur origine ethnique et du cadre narratif :
+
+> "Si on met un blanc dans un jeu qui se passe en Asie, personne ne trouve cela étrange. Mais si on met un Arabe ou un Noir dans ce même jeu, les gens vont se demander ce qu’ils font là, comme si leur présence n'était pas légitime."
+
+
+
+> "Je me serais attendu à avoir un méchant noir. [...] Là, les deux personnages principaux, méchant, gentil et PNJ principal sont tous blancs, mais dans un milieu africain, c'est ça qui me choque."
+
+==> Cette observation révèle une indignation sélective concernant la diversité dans les jeux vidéo. Les personnages issus de minorités ethniques sont souvent considérés incohérents dans certains contextes, tandis que les personnages blancs, même placés dans des environnements éloignés de leur origine, sont perçus comme naturellement légitimes. 
+
+
+
+==> Personnage blanc par défaut que ce soit le principal, ou le secondaire. Même dans des environnements non occidentaux.  Biais des développeurs qui ont tendance à normaliser les personnages blancs dans un contexte où cela pourrait sembler incongru. Héro standardisé + représentations coloniales.
+
+
+
+- Lors de mes interviews, j'ai demandé aux joueurs de faire 4 personnages. Un perso principal, un terroriste, un drogue dealer et un PNJ.  100% des interviewés on fait un homme blanc, bien qu'ils aient fait des personnages diversifiés pour toutes les autres catégories. Concernant leur choix de design j'ai eu des remarques telles que : 
+
+  > "*c'est celui qui se fait shooté par une voiture*", un PNJ anonyme, toujours homme blanc. Les interviewés ont cités tous des hommes blancs différents lorsqu'on leur demandait des personnages. 
+
+
+
+> *"Pour moi ça c'est vraiment le PNJ sans intérêt. Lisse, mec blanc, jeune, tee shirt sans motifs [...] c'est un mec que tu croiserais dans la rue et tu te retournerais pas."*
+
+
+
+
+
+Ou encore, 
+
+>  "Ahhhhhh je suis un batard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne"
+
+==> montre qu'il l'a fait inconsciemment mais qu'au final il s'en rend ocmpte une fois qu'il les as tous devant lui
