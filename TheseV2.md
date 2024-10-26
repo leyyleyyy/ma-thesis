@@ -134,28 +134,62 @@ La question de la "cohérence" des personnages est également révélatrice. Un 
 
 Cependant, un participant soulève une remarque intrigante allant à l’encontre des données de l’étude présentée dans le chapitre précédent, suggérant que les jeux récents montrent une diversité accrue invisibilisant ainsi les personnages blancs *"Dans les jeux jusqu'à 2016, c'est vrai qu'il n'y a pas de doute [que les hommes blancs dominaient]. Mais depuis, ce n'est plus le cas, surtout parce que les jeux se passent aux USA. Les mecs nuls dont on s'en fout, c'est des blancs. Le reste, c'est toutes les autres ethnies."*
 
-Cette perception pose la question de savoir si l’augmentation de la diversité dans quelques jeux suffit à créer l’illusion que les personnages blancs disparaissent, alors qu’ils restent majoritaires.
+Cette perception pose la question de savoir si l’augmentation de la diversité dans quelques jeux suffit à créer l’illusion que les personnages blancs disparaissent, alors qu’ils restent majoritaires.<img src="DATA\INTERVIEW\Persos_Crées\Steve_PNJ.png" alt="Steve_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Andy_PNJ.png" alt="Andy_PNJ" width="200"/><img src="DATA\INTERVIEW\Persos_Crées\Gab_PNJ.png" alt="Gab_PNJ" width="300"/>
+
+<img src="DATA\INTERVIEW\Persos_Crées\Kevin_PNJ.jpg" alt="Kevin_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lionel_PNJ.png" alt="Lionel_PNJ" width="200"/><img src="DATA\INTERVIEW\Persos_Crées\Lulu_PNJ.png" alt="Lulu_PNJ" width="200" /> <img src="DATA\INTERVIEW\Persos_Crées\Myriam_PNJ.jpg" alt="Myriam_PNJ" width="300"/>
 
 #### 1.2 Le sauveur
 
-**Resident Evil 5** Mimi critique le fait qu’un jeu qui se déroule en Afrique présente un antagoniste blond au lieu d’un chef de guerre noir, mettant en lumière un manque de cohérence entre le cadre et les représentations raciales, renforçant l’idée de "sauveur blanc" dans des environnements exotiques.
+Dans de nombreux récits de jeux vidéo, la figure du "sauveur" revient presque systématiquement à un personnage blanc, souvent masculin, qui incarne une figure héroïque venant en aide à des populations perçues comme vulnérables ou en difficulté.
+
+Dans *Far Cry 3*, par exemple, le joueur incarne Jason Brody, un Américain blanc échoué sur une île étrangère. Jason se voit rapidement propulsé au rang de sauveur des habitants locaux, les Rakyat, en lutte contre un chef de gang menaçant. Bien que n’ayant aucune connaissance de leur culture, Jason prend naturellement la tête de la résistance et devient le héros central de leur libération. Ce schéma de « sauveur blanc » marginalise les Rakyat, qui sont relégués à des rôles de soutien ou d’assistance dans un combat qui les concerne pourtant directement.
+
+<img src="IMAGES\jason_brody.jpg" alt="jason_brody" width="300" /> <img src="IMAGES\Far_Cry3.jpg" alt="Far_Cry3" width="300" />
+
+Le jeu *Resident Evil 5* a lui aussi suscité des critiques pour son usage du "white saviorism". Situé en Afrique, il met en scène Chris Redfield, un Américain blanc, chargé de contenir une épidémie virale. Bien qu’accompagné de Sheva Alomar, une partenaire originaire de la région, Chris est le personnage qui mène l’action principale. Plutôt que d’incarner un personnage autonome et un héros dans son propre environnement, Sheva est mise en avant comme l'alliée qui facilite l'entrée de Chris dans ce monde inconnu et dangereux.
+
+Un autre point important à relever est que Sheva, pourtant issue de cette région, est représentée avec un teint de peau plus clair et des traits moins "africains", semblant destinés à la rendre plus acceptable aux yeux du public occidental. Les habitants de la région, eux, les victimes infectées, sont représentés avec des traits plus marqués et peu d’entre eux sont dotés de rôles significatifs ou de personnalités propres.
+
+Cette représentation de l'Afrique renforce l'idée que les populations locales nécessitent une intervention extérieure pour être sauvées. Le cadre du jeu se limite à une vision de l'Afrique "primitive", périlleuse et remplie de dangers. Cela véhicule l’image problématique d’un continent en proie au chaos, dépendant de l’intervention de l’Occident pour retrouver la stabilité.
+
+<img src="IMAGES\Resident_Evil_5_Zombies.jpg" alt="Resident_Evil_5_Zombies" width="450" /> <img src="IMAGES\Sheva_Alomar.png" alt="Sheva_Alomar" width="150" />
 
 
 
-> 
+Les retours des joueurs montrent des perceptions variées face à ce schéma narratif. Je leur ai demandé leur avis sur le jeu Resident Evil 5.  *« Ça représente assez bien le problème du monde occidental qui est tellement ancré dans ses convictions, qui ne comprend pas en quoi c'est insultant. »* ou encore *« Je me serais attendu à avoir un méchant noir. [...] Là, les deux personnages principaux, méchant, gentil et PNJ principal sont tous blancs, mais dans un milieu africain, c'est ça qui me choque. »*
 
-**Lionel** : *Mais je trouve que ça représente assez bien le problème du monde occidental qui est tellement ancré dans ses convictions, qui comprends pas en quoi c'est insultant."*
-=> sur "Resident Evil 5", met en lumière comment les critiques occidentales échouent à reconnaître la portée raciste ou colonialiste de certaines représentations, un sujet clé dans ta partie sur les polémiques.
+Certains sont plus indulgents :  *« Alors de sur ce grand méchant, il existe déjà depuis le premier, ça c'est pas nouveau. C'est une polémique qui a quinze ans. Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse. »* D'autres, en revanche, ont admis ne pas voir de problème : *« Ah oui j'y ai joué avec un pote, et non j'ai rien vu de problématique. [...] Si l'histoire se passe en Afrique, il n'y a pas trop de miracle HAHAHAHA... ça m'aurait plus offensé si c'était des blancs qui se faisaient tuer en terre africaine. »*
+
+Ce schéma n’est pas exclusif aux jeux vidéo. On le retrouve dans de nombreux films, où un enfant issu de l’immigration, souvent en fuite d’un pays en guerre ou vivant dans des conditions précaires, est recueilli et « sauvé » par une famille blanche occidentale. Ces récits suggèrent que les minorités ont besoin d’être secourues par une figure blanche, consolidant ainsi des rapports de pouvoir implicites qui confortent la supériorité morale de l’Occident.
 
 
 
-**Films** : On peut aussi observer un schéma récurrent dans certaines fictions où un enfant issu de l’immigration est sauvé par une famille blanche, que ce soit parce qu'il fuit un pays en guerre ou parce qu'il est malheureux dans un foyer précaire. Ce schéma repose sur l'idée que les minorités ont besoin d'être secourues par une figure occidentale, consolidant ainsi des rapports de pouvoir.
+
+
+Sauveur blanc == réseaux sociaux 
+
+J'ai demandé à chatGPT de faire une synthèse des rôles donnés par les interviewés. Voici ce qu'il m'a dit : 
+
+### Synthèse générale des rôles
+
+- **Ami.e/Aide** : Un rôle fréquent pour le personnage 1 et 3, montrant une tendance à attribuer des rôles de soutien.
+- **Antagoniste/Méchant** : Attribué massivement au personnage 5, qui est perçu comme l'opposant principal.
+- **Personnage Principal/Héros** : Souvent attribué aux personnages 1, 2, 3, et 4, avec une préférence pour le 4.
+- **Familier ou Relation proche** : Personnage 2 est fréquemment associé à un rôle familial (père, frère), suggérant des liens familiaux au sein des narrations.
+
+Ces statistiques révèlent une inclination à placer les personnages 1, 3 et 4 dans des rôles de soutien ou de proches, tandis que les personnages 2 et 5 reçoivent davantage de rôles d'antagonistes et de figures familiales, respectivement.
+
+
 
 #### 1.3 Le meilleur ami
 
+ChatGPT : "Le rôle du **meilleur ami** est attribué le plus souvent au **personnage 3**". 
+
+
+
 Les personnages issus de minorités sont souvent relégués à des rôles secondaires comme le "meilleur ami" du héros.
 
-
+ 
 
 #### 1.4 Le terroriste né
 

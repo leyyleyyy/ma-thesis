@@ -265,3 +265,56 @@ Ou encore,
 >  "Ahhhhhh je suis un batard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne"
 
 ==> montre qu'il l'a fait inconsciemment mais qu'au final il s'en rend ocmpte une fois qu'il les as tous devant lui
+
+
+1.2
+*"Je me serais attendu à avoir un méchant noir. [...] Là, les deux personnages principaux, méchant, gentil et PNJ principal sont tous blancs, mais dans un milieu africain, c'est ça qui me choque."*
+
+**Resident Evil 5** Mimi critique le fait qu’un jeu qui se déroule en Afrique présente un antagoniste blond au lieu d’un chef de guerre noir, mettant en lumière un manque de cohérence entre le cadre et les représentations raciales, renforçant l’idée de "sauveur blanc" dans des environnements exotiques.
+
+**Lionel** : *Mais je trouve que ça représente assez bien le problème du monde occidental qui est tellement ancré dans ses convictions, qui comprends pas en quoi c'est insultant."*
+=> sur "Resident Evil 5", met en lumière comment les critiques occidentales échouent à reconnaître la portée raciste ou colonialiste de certaines représentations, un sujet clé dans ta partie sur les polémiques.
+
+**Films** : On peut aussi observer un schéma récurrent dans certaines fictions où un enfant issu de l’immigration est sauvé par une famille blanche, que ce soit parce qu'il fuit un pays en guerre ou parce qu'il est malheureux dans un foyer précaire. Ce schéma repose sur l'idée que les minorités ont besoin d'être secourues par une figure occidentale, consolidant ainsi des rapports de pouvoir.
+
+
+
+Dans de nombreux récits, le rôle de « sauveur » revient systématiquement à un personnage blanc, souvent masculin, qui incarne la figure héroïque venant au secours de populations perçues comme vulnérables, issues de milieux étrangers. 
+
+
+
+Le joueur incarne Jason Brody, un Américain blanc qui, après s’être échoué sur une île, est appelé à aider les habitants locaux, les Rakyat, à lutter contre un chef de gang. Jason devient rapidement un héros pour cette communauté, malgré le fait qu’il vient tout juste d’arriver et ne connaît presque rien de leur culture. Ce narratif suit un schéma de "sauveur blanc" où le personnage extérieur prend la tête de la lutte, réduisant les Rakyat à des rôles secondaires dans leur propre libération.
+
+
+
+RE5 --> *Resident Evil 5* a souvent été critiqué pour des éléments de *white saviorism*, en particulier en raison de son cadre africain et de la façon dont le récit place les personnages occidentaux au centre de la lutte contre le virus zombie. Le jeu met en scène Chris Redfield, un Américain blanc, qui arrive en Afrique pour lutter contre une épidémie virale et une organisation bioterroriste, qui exploitent la région pour leurs expériences. Chris, accompagné de sa partenaire Sheva Alomar (qui est originaire de la région ), est l'un des personnages principaux qui prend en charge la lutte contre le virus. Même si Sheva est locale, son personnage est souvent relégué au second plan et perçu davantage comme une alliée que comme une héroïne autonome.
+
+Un autre point à relever sur cette heroïne, 
+
+-  Bien que Sheva soit originaire de la région, son rôle est souvent celui d'un soutien pour Chris, le protagoniste occidental qui mène l’action principale. Sheva est mise en avant comme l'alliée qui facilite l'entrée de Chris dans ce monde inconnu et dangereux. Elle est donc cantonnée à un rôle d'assistante, ce qui réduit sa position en tant que représentante de sa propre culture et de sa propre terre.
+- teint de peau plus clair et des traits physiquement moins "africains" pour la rendre plus "acceptable" ou plus facile à identifier pour un public occidental
+- le choix esthétique semble diluer l'identité africaine de Sheva au lieu de la représenter pleinement.
+
+- Les habitants africains sont principalement représentés comme des victimes ou des infectés, et peu d’entre eux sont montrés comme des personnages ayant un rôle déterminant dans leur propre survie. Cela renforce l’idée que les personnes locales ont besoin d’une intervention extérieure pour être sauvées.
+
+- Le cadre africain est dépeint avec des images qui évoquent des clichés de l’Afrique "primitive", souvent sombre et dangereuse. La majorité des ennemis sont des Africains infectés, ce qui a suscité des critiques pour sa représentation stéréotypée et problématique de l'Afrique en tant que continent chaotique et sauvage nécessitant une intervention occidentale.
+
+
+
+<img src="IMAGES\Resident_Evil_5_Zombies.jpg" alt="Resident_Evil_5_Zombies" width="500" />
+
+<img src="IMAGES\Sheva_Alomar.png" alt="Sheva_Alomar" width="200" />
+
+
+
+ Interview :  *"ça représente assez bien le problème du monde occidental qui est tellement ancré dans ses convictions, qui ne comprend pas en quoi c'est insultant."* 
+
+*"Je me serais attendu à avoir un méchant noir. [...] Là, les deux personnages principaux, méchant, gentil et PNJ principal sont tous blancs, mais dans un milieu africain, c'est ça qui me choque."*
+
+*"Alors de sur ce grand méchant, il existe déjà depuis le premier, ça c'est pas nouveau. C'est une polémique qui a quinze ans. Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse. "*
+
+*"Ah oui j'y ai joué avec un pote, et non j'ai rien vu de problèmatique. [...] Si l'histoire se passe en Afrique il y a pas trop de miracle HAHAHAHAHAHAHAHAHHAHAHA, ça m'aurait plus offensé si c'était des blancs qui se faisaient tuer en terre africaine. Comme c'est des personnages qui sont déjà établis, il y a pas de miracle"*
+
+
+
+Ce schéma n’est pas exclusif aux jeux vidéo. On le retrouve dans de nombreux films, où un enfant issu de l’immigration, souvent en fuite d’un pays en guerre ou vivant dans des conditions précaires, est recueilli et « sauvé » par une famille blanche occidentale. Ou encore une personne issue de l'immagration se met en couple avec une personne blanche et est présentée comme étant sauvée de sa culture.  Ces récits suggèrent que les minorités ont besoin d’être secourues par une figure blanche, consolidant ainsi des rapports de pouvoir implicites qui confortent la supériorité morale de l’Occident. Ce type de représentation véhicule l’idée que le bonheur ou le salut des personnages minoritaires ne peut venir que de l’extérieur, renforçant ainsi une dépendance imaginaire envers l’Occident.
