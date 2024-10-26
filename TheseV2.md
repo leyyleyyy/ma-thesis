@@ -6,11 +6,7 @@ Quand j'étais petite, sans vraiment en avoir conscience, je cherchais à me ret
 
 Cette sensation, je l'ai également retrouvée avec la série *Floricienta*. La protagoniste avait des cheveux bouclés comme les miens. Grâce au succès de la série, on me faisait de nombreux compliments sur mes cheveux, et c'est à ce moment-là que j'ai vraiment commencé à les aimer et à en être fière.
 
-<img src="IMAGES\Layla.png" alt="Layla" width="200" />
-
-<img src="IMAGES\Bloom.jpg" alt="Bloom" width="300" />
-
-<img src="IMAGES\Floricienta.jpg" alt="Floricienta" width="300" />
+<img src="IMAGES\Layla.png" alt="Layla" width="200" /><img src="IMAGES\Bloom.jpg" alt="Bloom" width="300" /><img src="IMAGES\Floricienta.jpg" alt="Floricienta" width="300" />
 
 Ces anecdotes, aussi simples qu'elles puissent paraître, illustre l'importance profonde de la représentation. Elles ont façonné, sans que je m’en rende compte, ma perception de moi-même. C'est en partie ce qui m'a amenée à m'intéresser aux représentations des minorités dans les jeux vidéo, un média culturel aujourd'hui omniprésent. Il a une influence unique sur la perception sociale et l'identité, surtout chez les jeunes qui grandissent avec ces images.
 
@@ -30,13 +26,7 @@ Dès notre enfance, nous sommes exposés à divers médias, tels que les dessins
 
 <img src="IMAGES\Tintin_Congo.jpg" />
 
-Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilement publiables, il existe encore des exemples récents, bien connus, remplis de stéréotypes. Prenons, par exemple, *Aladdin* qui perpétue des clichés orientalistes *(voir chapitre 2 2.2)*, les siamois dans *Les Aristochats*, représentés en stéréotypes de personnes asiatiques jouant du piano avec des baguettes. On retrouve également les Amérindiens dans *Peter Pan*, moqués ouvertement pour leur culture, pour ne citer qu'eux. 
-
-<img src="IMAGES\peterpan_amerindiens.jpg" width="400" />
-
-<img src="IMAGES\siamois_aristochat.jpg" alt="siamois_aristochat" width="400" />
-
-<img src="IMAGES\marchand_de_tapis.jpg" width="400" />
+Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilement publiables, il existe encore des exemples récents, bien connus, remplis de stéréotypes. Prenons, par exemple, *Aladdin* qui perpétue des clichés orientalistes *(voir chapitre 2 2.2)*, les siamois dans *Les Aristochats*, représentés en stéréotypes de personnes asiatiques jouant du piano avec des baguettes. On retrouve également les Amérindiens dans *Peter Pan*, moqués ouvertement pour leur culture, pour ne citer qu'eux. <img src="IMAGES\peterpan_amerindiens.jpg" width="400" /><img src="IMAGES\siamois_aristochat.jpg" alt="siamois_aristochat" width="450" /><img src="IMAGES\marchand_de_tapis.jpg" width="400" />
 
 Depuis, les grands studios de cinéma, notamment Disney, s'efforcent d'être plus inclusifs dans leurs films. Tiana, dans *La Princesse et la Grenouille*, était la première princesse Disney noire, tandis que *Coco* a introduit le premier héros mexicain.
 
@@ -124,13 +114,13 @@ Dans la section qui suit, nous explorerons plus en détail les différents arch�
 
 #### 1.1 Le personnage par défaut
 
-Dans le cadre de mes interviews, j'ai demandé aux participants de créer quatre types de personnages : un personnage principal, un terroriste, un dealer de drogue et un PNJ (personnage non joueur). Sans grande surprise, 100 % des interviewés ont choisi de représenter le PNJ sous les traits d'un homme blanc. Cela témoigne, à mon avis, d'une vision inconsciente où le personnage par défaut est considéré comme un homme blanc, renforçant ainsi l'idée que cette représentation constitue la norme de base dans l'imaginaire collectif.
+Dans le cadre de mes interviews, j'ai demandé aux participants de créer quatre types de personnages : un personnage principal, un terroriste, un dealer de drogue et un PNJ (personnage non joueur). Sans grande surprise, 100 % des interviewés ont choisi de représenter le PNJ sous les traits d'un homme, blanc pour la grande majorité. Cela témoigne, à mon avis, d'une vision inconsciente où le personnage par défaut est considéré comme un homme blanc, renforçant ainsi l'idée que cette représentation constitue la norme de base dans l'imaginaire collectif.
 
-Lorsque je demandais aux joueurs leur choix de design quant à ce personnage, les descriptions étaient souvent identiques : des personnages "génériques", souvent perçus comme lisses et sans caractéristiques marquantes. Un participant a commenté : *"Pour moi, ça c'est vraiment le PNJ sans intérêt. Lisse, mec blanc, jeune, tee-shirt sans motifs [...] c'est un mec que tu croiserais dans la rue et tu ne te retournerais pas."* Un autre a ajouté : *"Il s'appelle Dave, il faut lui mettre les habits les plus banals. C'est le genre de perso que je pourrais shooter."*
+Lorsque je demandais aux joueurs leur choix de design quant à ce personnage, les descriptions étaient souvent identiques : des personnages "génériques", souvent perçus comme lisses et sans caractéristiques marquantes. Un participant a commenté : *"Pour moi, ça c'est vraiment le PNJ sans intérêt. Lisse, mec blanc, jeune, tee-shirt sans motifs [...] c'est un mec que tu croiserais dans la rue et tu ne te retournerais pas."* Un autre a précisé : *"Il s'appelle Dave, il faut lui mettre les habits les plus banals. C'est le genre de perso que je pourrais shooter."*
 
 D'autres commentaires, comme *"Ahhhhhh je suis un bâtard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne,"* mettent ici en lumière la normativité masculine dans l'inconscient collectif. Cette prise de conscience tardive révèle que, malgré le désir de diversité, les créateurs de personnages se laissent souvent influencer par une culture où les hommes demeurent la norme.
 
-La question de la "cohérence" des personnages est également révélatrice. Un joueur a remarqué : *"Si on met un blanc dans un jeu qui se passe en Asie, personne ne trouve cela étrange. Mais si on met un Arabe ou un Noir dans ce même jeu, les gens vont se demander ce qu’ils font là, comme si leur présence n'était pas légitime."* Ce constat montre que les personnages issus de minorités ethniques sont souvent jugés comme incohérents dans certains contextes, tandis que les personnages blancs sont perçus comme naturellement légitimes, même dans des environnements à l'opposé de leur origine. Une autre participante a ajouté, concernant un jeu de guerre se déroulant en Afrique : *"Je me serais attendu à avoir un méchant noir. [...] Là, les deux personnages principaux, méchant, gentil et PNJ principal sont tous blancs, mais dans un milieu africain, c'est ça qui me choque."*
+La question de la "cohérence" des personnages est également révélatrice. Un joueur a remarqué : *"Si on met un blanc dans un jeu qui se passe en Asie, personne ne trouve cela étrange. Mais si on met un Arabe ou un Noir dans ce même jeu, les gens vont se demander ce qu’ils font là, comme si leur présence n'était pas légitime."* Ce constat montre que les personnages issus de minorités ethniques sont souvent jugés comme incohérents dans certains contextes, tandis que les personnages blancs sont perçus comme naturellement légitimes, même dans des environnements à l'opposé de leur origine. 
 
 Cependant, un participant soulève une remarque intrigante allant à l’encontre des données de l’étude présentée dans le chapitre précédent, suggérant que les jeux récents montrent une diversité accrue invisibilisant ainsi les personnages blancs *"Dans les jeux jusqu'à 2016, c'est vrai qu'il n'y a pas de doute [que les hommes blancs dominaient]. Mais depuis, ce n'est plus le cas, surtout parce que les jeux se passent aux USA. Les mecs nuls dont on s'en fout, c'est des blancs. Le reste, c'est toutes les autres ethnies."*
 
@@ -140,21 +130,19 @@ Cette perception pose la question de savoir si l’augmentation de la diversité
 
 #### 1.2 Le sauveur
 
-Dans de nombreux récits de jeux vidéo, la figure du "sauveur" revient presque systématiquement à un personnage blanc, souvent masculin, qui incarne une figure héroïque venant en aide à des populations perçues comme vulnérables ou en difficulté.
+Dans de nombreux récits de jeux vidéo, la figure du "sauveur" revient presque systématiquement à un personnage blanc, souvent masculin, qui incarne une figure héroïque venant en aide à des populations perçues comme vulnérables ou en difficulté. Ce schéma est directement lié au phénomène observé dans le chapitre précédent, où l'homme blanc est souvent considéré comme la norme, en soulignant ainsi une dynamique de pouvoir similaire.
 
-Dans *Far Cry 3*, par exemple, le joueur incarne Jason Brody, un Américain blanc échoué sur une île étrangère. Jason se voit rapidement propulsé au rang de sauveur des habitants locaux, les Rakyat, en lutte contre un chef de gang menaçant. Bien que n’ayant aucune connaissance de leur culture, Jason prend naturellement la tête de la résistance et devient le héros central de leur libération. Ce schéma de « sauveur blanc » marginalise les Rakyat, qui sont relégués à des rôles de soutien ou d’assistance dans un combat qui les concerne pourtant directement.
+Prenons l'exemple de *Far Cry 3*, où le joueur incarne Jason Brody, un Américain blanc échoué sur une île étrangère. Jason se voit rapidement propulsé au rang de sauveur des habitants locaux, les Rakyat, en lutte contre un chef de gang menaçant. Bien que n’ayant aucune connaissance de leur culture, Jason devient le héros central de leur libération. Ce schéma de « sauveur blanc » marginalise les Rakyat, qui sont relégués à des rôles de soutien ou d’assistance dans un combat qui les concerne pourtant directement.
 
 <img src="IMAGES\jason_brody.jpg" alt="jason_brody" width="300" /> <img src="IMAGES\Far_Cry3.jpg" alt="Far_Cry3" width="300" />
 
 Le jeu *Resident Evil 5* a lui aussi suscité des critiques pour son usage du "white saviorism". Situé en Afrique, il met en scène Chris Redfield, un Américain blanc, chargé de contenir une épidémie virale. Bien qu’accompagné de Sheva Alomar, une partenaire originaire de la région, Chris est le personnage qui mène l’action principale. Plutôt que d’incarner un personnage autonome et un héros dans son propre environnement, Sheva est mise en avant comme l'alliée qui facilite l'entrée de Chris dans ce monde inconnu et dangereux.
 
-Un autre point important à relever est que Sheva, pourtant issue de cette région, est représentée avec un teint de peau plus clair et des traits moins "africains", semblant destinés à la rendre plus acceptable aux yeux du public occidental. Les habitants de la région, eux, les victimes infectées, sont représentés avec des traits plus marqués et peu d’entre eux sont dotés de rôles significatifs ou de personnalités propres.
+Un autre point important à relever est que Sheva, pourtant issue de cette région, est représentée avec un teint de peau plus clair et des traits moins "africains", semblant destinés à la rendre plus acceptable aux yeux du public occidental. Les victimes infectées qui sont des habitants de la région, sont représentées avec des traits plus marqués et peu d’entre eux sont dotés de rôles significatifs ou de personnalités propres.
 
 Cette représentation de l'Afrique renforce l'idée que les populations locales nécessitent une intervention extérieure pour être sauvées. Le cadre du jeu se limite à une vision de l'Afrique "primitive", périlleuse et remplie de dangers. Cela véhicule l’image problématique d’un continent en proie au chaos, dépendant de l’intervention de l’Occident pour retrouver la stabilité.
 
 <img src="IMAGES\Resident_Evil_5_Zombies.jpg" alt="Resident_Evil_5_Zombies" width="450" /> <img src="IMAGES\Sheva_Alomar.png" alt="Sheva_Alomar" width="150" />
-
-
 
 Les retours des joueurs montrent des perceptions variées face à ce schéma narratif. Je leur ai demandé leur avis sur le jeu Resident Evil 5.  *« Ça représente assez bien le problème du monde occidental qui est tellement ancré dans ses convictions, qui ne comprend pas en quoi c'est insultant. »* ou encore *« Je me serais attendu à avoir un méchant noir. [...] Là, les deux personnages principaux, méchant, gentil et PNJ principal sont tous blancs, mais dans un milieu africain, c'est ça qui me choque. »*
 
@@ -164,13 +152,15 @@ Ce schéma n’est pas exclusif aux jeux vidéo. On le retrouve dans de nombreux
 
 
 
+#### 1.3 Le meilleur ami
+
+Lors de mes entretiens, j'ai demandés aux participants de créer un synopsis de jeu basé sur ces 5 personnages. 
 
 
-Sauveur blanc == réseaux sociaux 
 
 J'ai demandé à chatGPT de faire une synthèse des rôles donnés par les interviewés. Voici ce qu'il m'a dit : 
 
-### Synthèse générale des rôles
+**Synthèse générale des rôles**
 
 - **Ami.e/Aide** : Un rôle fréquent pour le personnage 1 et 3, montrant une tendance à attribuer des rôles de soutien.
 - **Antagoniste/Méchant** : Attribué massivement au personnage 5, qui est perçu comme l'opposant principal.
@@ -181,8 +171,6 @@ Ces statistiques révèlent une inclination à placer les personnages 1, 3 et 4 
 
 
 
-#### 1.3 Le meilleur ami
-
 ChatGPT : "Le rôle du **meilleur ami** est attribué le plus souvent au **personnage 3**". 
 
 
@@ -191,7 +179,7 @@ Les personnages issus de minorités sont souvent relégués à des rôles second
 
  
 
-#### 1.4 Le terroriste né
+#### 1.4 L'ennemi
 
 **Andy** : "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" – biais automatique enraciné.
 
@@ -216,12 +204,6 @@ Princesse à aller sauver  -> Princesse Peach, représentant le stéréotype de 
 #### 1.6 L'inexistant.e
 
 Application de l’intersectionnalité pour expliquer pourquoi certaines minorités, comme les Sud-Asiatiques, sont souvent absentes des représentations.
-
-
-
-#### 1.7 Lara Croft 
-
-Seule figure féminine emblématique dans les jeux vidéo, mais elle reste une femme blanche hypersexualisée.
 
 
 
@@ -361,8 +343,6 @@ Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cin�
 - **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther, Baromètre de la diversité CSA 
 
 A mettre quelque part : Ces représentations simplifiées et caricaturales des minorités se heurtent à un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France, ce qui renforce l’ancrage de ces stéréotypes dans l’imaginaire collectif. 
-
----
 
 ## Conclusion
 - **Synthèse des résultats** : Le double rôle des jeux vidéo dans la reproduction et la déconstruction des stéréotypes concernant les minorités.
