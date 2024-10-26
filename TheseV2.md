@@ -80,7 +80,7 @@ Les statistiques mettent en lumière un déséquilibre flagrant au sein de l'ind
 
 Lorsqu'une majorité de créateurs partage des expériences et des perspectives similaires, il devient difficile d’intégrer des histoires véritablement inclusives. Les minorités ethniques, de genre ou sexuelles voient ainsi leurs réalités souvent mal comprises, marginalisées, voire complètement ignorées. Cela se traduit par des personnages stéréotypés, des rôles secondaires limités, ou même l'absence totale de certaines communautés.
 
-L'absence de diversité parmi les créateurs limite également les chances d'une représentation authentique dans les contenus des jeux. Par exemple, des créateurs blancs, masculins, et issus de pays occidentaux auront tendance à concevoir des personnages et des récits basés sur leur propre expérience du monde. Ce phénomène, connu sous le nom de *cultural cloning*, perpétue des visions réductrices et uniformisées des personnages et des histoires. 
+L'absence de diversité parmi les créateurs limite également les chances d'une représentation authentique dans les contenus des jeux. Par exemple, des créateurs blancs, masculins, et issus de pays occidentaux auront tendance à concevoir des personnages et des récits basés sur leur propre expérience du monde.
 
 #### 2.2 L'impact des créateurs sur la représentation dans les jeux
 
@@ -100,15 +100,13 @@ La surreprésentation des personnages masculins (66,5 %) et blancs (61,2 %) renf
 
 Certaines personnes perçoivent ce manque de diversité comme une omission involontaire de la part des développeurs, *"La plupart du temps, ce n'est pas voulu, c’est juste que les gens n’y ont pas pensé."* tandis que d'autres sont moins indulgents vis à vis de cette thématique : *"On pourrait être plus diversifiés dans les jeux vidéo, comme dans le cinéma. Ça manque de représentation de tellement de cultures. Ils [les développeurs] doivent être capables de dépasser certains biais qu'ils ont au niveau des apparences et des stéréotypes."*
 
-
-
 ## II. Représentation des minorités dans les jeux vidéo : entre invisibilité et stéréotypes
 
 ### 1. Les archétypes
 
 Face à ces données révélatrices, il est crucial de se demander comment ces dynamiques se traduisent dans l'univers narratif. C'est ici que les archétypes prennent toute leur importance. Un archétype peut être défini comme un "*modèle primitif, idéal ou le plus répandu, exemple-type d'une situation ou d'une réalité donnée*" (L'internaute). L'absence de diversité parmi les personnages principaux résulte souvent de l'adoption de certains archétypes qui privilégient une vision stéréotypée et réductrice des individus issus de minorités, loin de refléter la richesse de la diversité humaine.
 
-Cette tendance à s'appuyer sur des archétypes simplistes renforce l'idée que les personnages issus de minorités doivent s'inscrire dans des cases prédéfinies. Ils sont ainsi cantonnés à des rôles stéréotypés, tels que le "meilleur ami", la "demoiselle en détresse" ou même le "terroriste", ce qui nuit à leur complexité et à leur représentativité.
+Cette tendance à s'appuyer sur des archétypes simplistes renforce l'idée que les personnages issus de minorités doivent s'inscrire dans des cases prédéfinies. Ils sont ainsi cantonnés à des rôles stéréotypés qui nuisent à leur complexité et à leur représentativité.
 
 Dans la section qui suit, nous explorerons plus en détail les différents archétypes présents dans les jeux vidéo, en mettant en lumière comment ces modèles contribuent à la construction d'une vision limitée des personnages et des récits.
 
@@ -146,13 +144,13 @@ Cette représentation de l'Afrique renforce l'idée que les populations locales 
 
 Les retours des joueurs montrent des perceptions variées face à ce schéma narratif. Je leur ai demandé leur avis sur le jeu Resident Evil 5.  *« Ça représente assez bien le problème du monde occidental qui est tellement ancré dans ses convictions, qui ne comprend pas en quoi c'est insultant. »* ou encore *« Je me serais attendu à avoir un méchant noir. [...] Là, les deux personnages principaux, méchant, gentil et PNJ principal sont tous blancs, mais dans un milieu africain, c'est ça qui me choque. »*
 
-Certains sont plus indulgents :  *« Alors de sur ce grand méchant, il existe déjà depuis le premier, ça c'est pas nouveau. C'est une polémique qui a quinze ans. Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse. »* D'autres, en revanche, ont admis ne pas voir de problème : *« Ah oui j'y ai joué avec un pote, et non j'ai rien vu de problématique. [...] Si l'histoire se passe en Afrique, il n'y a pas trop de miracle HAHAHAHA... ça m'aurait plus offensé si c'était des blancs qui se faisaient tuer en terre africaine. »*
+Certains sont plus indulgents :  *« Alors de sur ce grand méchant, il existe déjà depuis le premier, ça c'est pas nouveau. C'est une polémique qui a quinze ans. Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse. »* ou encore *« Ah oui j'y ai joué avec un pote, et non j'ai rien vu de problématique. [...] Si l'histoire se passe en Afrique, il n'y a pas trop de miracle HAHAHAHA... ça m'aurait plus offensé si c'était des blancs qui se faisaient tuer en terre africaine. »*
 
-Ce schéma n’est pas exclusif aux jeux vidéo. On le retrouve dans de nombreux films, où un enfant issu de l’immigration, souvent en fuite d’un pays en guerre ou vivant dans des conditions précaires, est recueilli et « sauvé » par une famille blanche occidentale. Ces récits suggèrent que les minorités ont besoin d’être secourues par une figure blanche, consolidant ainsi des rapports de pouvoir implicites qui confortent la supériorité morale de l’Occident.
+Ce schéma n’est pas exclusif aux jeux vidéo. On le retrouve dans de nombreux films, où un enfant issu de l’immigration, souvent en fuite d’un pays en guerre ou vivant dans des conditions précaires, est recueilli et « sauvé » par une famille blanche occidentale. 
 
 #### 1.3 Le meilleur ami
 
-Lors de mes entretiens, j'ai demandé aux participants de créer un synopsis de jeu basé sur cinq personnages en se détachant au maximum de leurs rôles de base, pour ceux qui les connaissaient déjà. Les résultats de ces créations offrent un aperçu révélateur des biais inconscients dans la manière dont les personnages racisés sont perçus et intégrés
+Lors de mes entretiens, j'ai demandé aux participants de créer un synopsis de jeu basé sur cinq personnages en se détachant au maximum de leurs rôles de base, pour ceux qui les connaissaient déjà. Les résultats de ces créations offrent un aperçu révélateur des biais inconscients dans la manière dont les personnages racisés sont perçus et intégrés.
 
 **Personnage 1** : 
 
@@ -195,13 +193,13 @@ Les résultats de cette analyse soulignent un biais persistant dans la conceptio
 
 Cette dynamique est également observable dans Resident Evil 5, examiné dans le chapitre précédent, où Sheva Alomar, l'alliée de Chris, est limitée à un rôle d'aide, et ce, même dans son propre environnement. Bien que Chris soit le protagoniste dans plusieurs jeux de la série Resident Evil, cette situation illustre une dynamique courante dans de nombreux jeux, films et séries.
 
-
+On peut citer d'autres exemples de films ou séries, qui sont conscient qu'il 
 
 #### 1.4 L'ennemi
 
 **Andy** : "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" – biais automatique enraciné.
 
-**Mimi** : *"J'ai plusieurs teams, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dis univers GTA, c'est rempli de clichés."*
+**Mimi** : *"J'ai plusieurs team, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dis univers GTA, c'est rempli de clichés."*
 
 => met en lumière le rôle récurrent des clichés racistes dans les jeux vidéo, particulièrement dans la représentation des "terroristes".
 
@@ -229,8 +227,7 @@ Application de l’intersectionnalité pour expliquer pourquoi certaines minorit
 
 #### 2.1 Représentation unique d'une communauté par un personnage
 
-- **Description** : Dans les jeux vidéo, un seul personnage peut représenter une communauté entière, créant ainsi un archétype.
-- Les joueurs sont souvent amenés à incarner des personnages de minorités de manière stéréotypée (terroristes, guerriers) ou réduits à un seul rôle.
+- Les joueurs sont souvent amenés à incarner des personnages de minorités de manière stéréotypée ou réduits à un seul rôle. ==> exemple : gay = hyper efféminé, arabe = violent, métisse/noir = meilleur ami du protagoniste, 
 - **Théorie des représentations sociales** (Moscovici) : Ces personnages deviennent des figures représentatives dans l'imaginaire collectif, renforçant des stéréotypes.
 - **Interviews** : Altaïr (personnage arabe), Barett (personnage noir), Lara Croft (femme), ...
 - **Citations**: "*Ahhh, mais si il y a Prince of Persia, je suis bête, il y a forcément des personnages arabes dedans.*", "*Je crois qu'il y a un marchand qui arnaque tout le monde dans Le Chevalier de Baphomet ... et dans Call of Duty, il y en a un il me semble.*"(homme arabe), "*Une meuf avec qui tu travailles dans la campagne de Call of Duty.*"(femme arabe), "*Sûrement un PNJ dans Assassin's Creed.*"(homme arabe), "*Je dois t'avouer je connais vraiment aucun perso femme arabe*", "*putain, y'en a qu'une qui me vient en tête et c'est pas une que j'apprécie particulièrement.. mais-.. mais …. ca me soule… ah Isabella dans Dragon Age 2*"(femme noire), *"Une miss qui fait du vaudou dans monkey island 2"*(femme noire), "*Le meilleur ami du personnage principal dans Cyberpunk 2077*"(homme latino), "*Abou dans le jeu des simpson*"(homme asie du sud ouest), "*Dans call of tu travailles avec un indien"*(homme asie du sud ouest). 
