@@ -14,7 +14,7 @@ C'est dans cet esprit que je mène cette recherche. Mon objectif est de comprend
 
 ## I. Les stéréotypes dans l'industrie vidéoludique
 
-### 1. **Médias et stéréotypes**
+### 1. Médias et stéréotypes
 
 #### 1.1 Les minorités dans les médias traditionnels 
 
@@ -150,34 +150,52 @@ Certains sont plus indulgents :  *« Alors de sur ce grand méchant, il existe d
 
 Ce schéma n’est pas exclusif aux jeux vidéo. On le retrouve dans de nombreux films, où un enfant issu de l’immigration, souvent en fuite d’un pays en guerre ou vivant dans des conditions précaires, est recueilli et « sauvé » par une famille blanche occidentale. Ces récits suggèrent que les minorités ont besoin d’être secourues par une figure blanche, consolidant ainsi des rapports de pouvoir implicites qui confortent la supériorité morale de l’Occident.
 
-
-
 #### 1.3 Le meilleur ami
 
-Lors de mes entretiens, j'ai demandés aux participants de créer un synopsis de jeu basé sur ces 5 personnages. 
+Lors de mes entretiens, j'ai demandé aux participants de créer un synopsis de jeu basé sur cinq personnages en se détachant au maximum de leurs rôles de base, pour ceux qui les connaissaient déjà. Les résultats de ces créations offrent un aperçu révélateur des biais inconscients dans la manière dont les personnages racisés sont perçus et intégrés
+
+**Personnage 1** : 
+
+<img src="DATA\INTERVIEW\Personnages\Part2\P1.png" alt="P1" width="300" />
+
+**Personnage 2** :
+
+<img src="DATA\INTERVIEW\Personnages\Part2\P2.png" alt="P2" width="400" />
+
+**Personnage 3** : 
+
+<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\INTERVIEW\Personnages\Part2\P3.png" alt="P3" width="400" />
+
+**Personnage 4** : 
+
+<img src="DATA\INTERVIEW\Personnages\Part2\P4.png" alt="P4" width="300" />
+
+**Personnage 5** : 
+
+<img src="DATA\INTERVIEW\Personnages\Part2\P5.png" alt="P5" width="400" />
+
+J'ai demandé à ChatGPT de faire une synthèse des rôles donnés par les interviewés. Voici ce qu'il m'a dit : 
+
+***Synthèse générale des rôles***
+
+- ***Ami.e/Aide** : Un rôle fréquent pour le personnage 1 et 3, montrant une tendance à attribuer des rôles de soutien.*
+- ***Antagoniste/Méchant** : Attribué massivement au personnage 5, qui est perçu comme l'opposant principal.*
+- ***Personnage Principal/Héros** : Souvent attribué aux personnages 1, 2, 3, et 4, avec une préférence pour le 4.*
+- ***Familier ou Relation proche** : Personnage 2 est fréquemment associé à un rôle familial (père, frère), suggérant des liens familiaux au sein des narrations.*
+
+*Ces statistiques révèlent une inclination à placer les personnages 1, 3 et 4 dans des rôles de soutien ou de proches, tandis que les personnages 2 et 5 reçoivent davantage de rôles d'antagonistes et de figures familiales, respectivement.*
+
+Et je lui ai en suite demandé à qui était donné majoritairement le rôle du meilleur ami. 
+
+*ChatGPT : "Le rôle du **meilleur ami** est attribué le plus souvent au **personnage 3**".*
+
+Cette dynamique met en évidence la tendance à reléguer les personnages issus de minorités à des rôles secondaires, alors que les protagonistes principaux demeurent majoritairement blancs. Cette pratique, qui cantonne souvent les personnages racisés à des rôles d'ami.e ou de soutien, contribue à leur invisibilisation.
+
+Les résultats de cette analyse soulignent un biais persistant dans la conception des personnages dans les jeux vidéo, où les figures racisées sont fréquemment perçues comme des soutiens ou des antagonistes. Le fait que les personnages 1 et 3, tous deux racisés, se voient attribuer des rôles de soutien, tandis que le personnage 5 est réduit au statut d'ennemi *(voir le chapitre suivant)*, révèle une tendance à minimiser leur importance dans le récit principal.
+
+Cette dynamique est également observable dans Resident Evil 5, examiné dans le chapitre précédent, où Sheva Alomar, l'alliée de Chris, est limitée à un rôle d'aide, et ce, même dans son propre environnement. Bien que Chris soit le protagoniste dans plusieurs jeux de la série Resident Evil, cette situation illustre une dynamique courante dans de nombreux jeux, films et séries.
 
 
-
-J'ai demandé à chatGPT de faire une synthèse des rôles donnés par les interviewés. Voici ce qu'il m'a dit : 
-
-**Synthèse générale des rôles**
-
-- **Ami.e/Aide** : Un rôle fréquent pour le personnage 1 et 3, montrant une tendance à attribuer des rôles de soutien.
-- **Antagoniste/Méchant** : Attribué massivement au personnage 5, qui est perçu comme l'opposant principal.
-- **Personnage Principal/Héros** : Souvent attribué aux personnages 1, 2, 3, et 4, avec une préférence pour le 4.
-- **Familier ou Relation proche** : Personnage 2 est fréquemment associé à un rôle familial (père, frère), suggérant des liens familiaux au sein des narrations.
-
-Ces statistiques révèlent une inclination à placer les personnages 1, 3 et 4 dans des rôles de soutien ou de proches, tandis que les personnages 2 et 5 reçoivent davantage de rôles d'antagonistes et de figures familiales, respectivement.
-
-
-
-ChatGPT : "Le rôle du **meilleur ami** est attribué le plus souvent au **personnage 3**". 
-
-
-
-Les personnages issus de minorités sont souvent relégués à des rôles secondaires comme le "meilleur ami" du héros.
-
- 
 
 #### 1.4 L'ennemi
 
