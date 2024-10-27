@@ -145,7 +145,7 @@ Steve -> s'est pas posé de questions sur l couleur de peau
     - baret, intendante monster hunter
     - baret, miss qui fait du vaudou dans monkey island 2
   - homme/femme latino
-    - farkry 3 perso principal, little miss fortune perso principale
+    - farcry 3 perso principal, little miss fortune perso principale
     - cyberpunk lucio overwatch - gta, latina GTA VI(pas retenu)
     - rico rodrigues, taina perreira 
     - juarez (cyberpunk), meilleur ami perso principal cyberpunk 2077 jacky wallace, julie alvarez

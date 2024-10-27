@@ -185,7 +185,7 @@ Et je lui ai en suite demandé à qui était donné majoritairement le rôle du 
 
 *ChatGPT : "Le rôle du **meilleur ami** est attribué le plus souvent au **personnage 3**".*
 
-Avant de continuer mon analyse, il est essentiel de prendre ces résultats avec des pincettes. Bien que l'on puisse percevoir une tendance générale et supposer que l'origine joue un rôle, d'autres critères entrent en jeu. L’habit, le décor, ou même la notoriété de certains personnages influencent ces résultats. Ceci étant précisé, nous pouvons reprendre. 
+Avant de continuer mon analyse, il est essentiel de prendre ces résultats avec des pincettes. Bien que l'on puisse apercevoir une tendance générale et supposer que l'origine joue un rôle, d'autres critères entrent en jeu. L’habit, le décor, ou même la notoriété de certains personnages influencent ces résultats. Ceci étant précisé, nous pouvons reprendre. 
 
 Une tendance persistante est observable : les personnages issus de minorités sont souvent relégués à des rôles secondaires ou de soutien, tandis que les protagonistes principaux demeurent majoritairement blancs. Ce biais contribue à une invisibilisation subtile des personnages racisés, souvent cantonnés à des rôles de soutien ou d’allié dans la construction narrative. Le fait que les personnages 1 et 3, tous deux racisés, se voient attribuer des rôles de soutien, tandis que le personnage 5 est réduit au statut d'ennemi *(voir le chapitre suivant)*, révèle une tendance à minimiser leur importance dans le récit principal.
 
@@ -209,7 +209,7 @@ Il faut tout de même noter qu'une réelle évolution est en train de prendre pl
 
 Cette confession, faite à contrecœur, illustre à quel point certains archétypes sont enracinés dans l'inconscient collectif, même au sein des minorités concernées.  Les représentations médiatiques, tendent à associer des origines spécifiques – maghrébines, africaines, ou même russes – à des figures criminelles ou violentes. Une autre participante explique d’ailleurs, concernant la création du personnage "Terroriste" : *"J'ai plusieurs team, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dit univers GTA, c'est rempli de clichés."* 
 
-Les figures du "terroriste moyen-oriental," du "trafiquant africain," ou du "mercenaire russe" sont devenues des personnages récurrents dans les jeux d'action et de guerre. Ces stéréotypes plongent leurs racines dans un contexte historique de conflits géopolitiques. Par exemple, la guerre froide a contribué à établir le "mercenaire russe" comme une menace pour le monde occidental, tandis que les interventions militaires en Irak, en Afghanistan et les conflits au Moyen-Orient ont ancré dans l'imaginaire collectif l'image du "terroriste arabe." Bien que de nombreux groupes soient touchés par ces clichés, la majorité des jeux de guerre se focalisent sur des ennemis du Moyen-Orient, renforçant ainsi une vision négative de cette région.
+Les figures du "terroriste moyen-oriental," du "trafiquant africain," ou du "mercenaire russe" sont devenues des personnages récurrents dans les jeux d'action et de guerre. Ces stéréotypes plongent leurs racines dans un contexte historique de conflits géopolitiques. Par exemple, la guerre froide a contribué à établir le "mercenaire russe" comme une menace pour le monde occidental, tandis que les interventions militaires en Irak, en Afghanistan et les conflits au Moyen-Orient ont ancré dans l'imaginaire collectif l'image du "terroriste arabe." Bien que plusieurs groupes soient touchés par ces clichés, la majorité des jeux de guerre se focalisent sur des ennemis du Moyen-Orient, renforçant ainsi une vision négative de cette région.
 
 <img src="IMAGES\ConflictDesertStorm.jpg" alt="ConflictDesertStorm" width="500" />
 
@@ -217,21 +217,36 @@ Les figures du "terroriste moyen-oriental," du "trafiquant africain," ou du "mer
 
 <img src="IMAGES\Kuma_War.jpg" alt="Kuma_War" width="400" />
 
-De nombreux jeux exploitent ces dynamiques : *Call of Duty*, *Conflict Desert Storm*, *Medal of Honor: Warfighter*, *Kuma\War*, *War in the Gulf*, ou encore *Full Spectrum Warrior* en sont quelques exemples. Dans ces titres, le joueur incarne le plus souvent les forces américaines, tandis que les ennemis sont caractérisés par des éléments visuels rappelant les cultures arabes ou musulmanes : couvre-chefs, vêtements amples et peau foncée. Ces détails sont associés de manière répétée au terrorisme ou à l’extrémisme islamiste, créant des raccourcis visuels qui renforcent ces stéréotypes.
+*Call of Duty*, *Conflict Desert Storm*, *Medal of Honor: Warfighter*, *Kuma\War*, *War in the Gulf*, ou encore *Full Spectrum Warrior* sont quelques exemples de jeux exploitant cette dynamique . Dans ces titres, le joueur incarne le plus souvent les forces américaines, tandis que les ennemis sont caractérisés par des éléments visuels rappelant les cultures arabes ou musulmanes : couvre-chefs, vêtements amples et peau foncée.  Les décors de ces jeux, situés au Moyen-Orient ou dans des lieux clairement inspirés de cette région, sont souvent représentés comme des lieux dangereux. 
 
-Les décors de ces jeux, situés au Moyen-Orient ou dans des lieux anonymes clairement inspirés de cette région, sont souvent représentés comme des environnements dangereux , ancrant davantage cette perception stéréotypée.
+Ces différents éléments, associés de manière répétée au terrorisme ou à l’extrémisme islamiste, créent des raccourcis visuels qui renforcent ces stéréotypes.
 
 #### 1.5 La demoiselle en détresse
 
 Princesse à aller sauver  -> Princesse Peach, représentant le stéréotype de la femme passive qui doit être sauvée par un héros masculin (& blanc)
-
-s
 
 
 
 #### 1.6 L'inexistant.e
 
 Application de l’intersectionnalité pour expliquer pourquoi certaines minorités, comme les Sud-Asiatiques, sont souvent absentes des représentations.
+
+- **Concept d'invisibilité** (Ralph Ellison) : La sous-représentation des minorités renforce leur invisibilité dans les récits vidéoludiques.
+- **Exemples** : Absence de personnages féminins racisé notables
+- **Citations** : Joueurs incapables/difficulté de nommer des personnages féminins racisés importants.
+
+|                     | Lionel                                                       | Myriam                                              | Steve                             | Kevin      | Andy                           | Gab                              | Lucas                                   | Enzo |
+| ------------------- | ------------------------------------------------------------ | --------------------------------------------------- | --------------------------------- | ---------- | ------------------------------ | -------------------------------- | --------------------------------------- | ---- |
+| **Homme blanc**     | Joël                                                         | Link                                                | Vaas Montenegro                   | Max Payne  | Arthur Morgan                  | Solid Snake                      | Snake                                   |      |
+| **Femme blanche**   | Sniper                                                       | Alice                                               | Lara Croft                        | Lara Croft | Aerith Gainsbourg              | Lara Croft                       | Lara Croft                              |      |
+| **Homme noir**      | Barrett                                                      | -                                                   | Barrett Wallace                   | Lucian     | Barrett                        | Barrett Walace                   | Jax                                     |      |
+| **Femme noire**     | "Femme qui fait du voudou  dans Monkey Island"               | -                                                   | "L'héroïne dans Walking Dead"     | Senna      | Isabela (Google)               | "Intendante dans Monster Hunter" | "J'ai pas de nom c'est souvent des PNJ" |      |
+| **Homme latino**    | Carlos                                                       | "Le personnage principal dans Far Cry 3... Pedro ?" | Rico Rodriguez (Google)           | -          | James Vega                     | Lucio Overwatch                  | Oktan                                   |      |
+| **Femme latina**    | "Une femme dans Far Cry"                                     | Carmen                                              | "Une hispanique dans Borderlands" | -          | Ashley Williams (Google)       | "Latina dans GTA VI"             | Raze (Google)                           |      |
+| **Homme arabe**     | "Un terroriste dans Call Of", "Un marchand qui arnaque tout le monde en Syrie dans les chevaliers de Baphomet" | Altaïr (Assassin's Creed)                           | Altaïr (Assassin's Creed)         | -          | Bassim (Assassin's Creed)      |                                  | -                                       |      |
+| **Femme arabe**     | "Sûrement un PNJ dans Assassin's Creed"                      | Gerudo dans Zelda                                   | Sanaa El Mektoub                  | -          | Layla (Assassin's Creed)       |                                  | -                                       |      |
+| **Homme asiatique** | Liu Kang                                                     | "Il y en a pas mal dans la licence Yakuza"          | "Dokai Bi"                        | Seikiro    | Kiryu                          |                                  | Sage                                    |      |
+| **Femme asiatique** |                                                              | "Il y en a pas mal dans la licence Yakuza"          |                                   | Sean Lee   | "L'héroïne dans Stellar Blade" |                                  | Sekira                                  |      |
 
 
 
@@ -244,7 +259,7 @@ Application de l’intersectionnalité pour expliquer pourquoi certaines minorit
 - **Interviews** : Altaïr (personnage arabe), Barett (personnage noir), Lara Croft (femme), ...
 - **Citations**: "*Ahhh, mais si il y a Prince of Persia, je suis bête, il y a forcément des personnages arabes dedans.*", "*Je crois qu'il y a un marchand qui arnaque tout le monde dans Le Chevalier de Baphomet ... et dans Call of Duty, il y en a un il me semble.*"(homme arabe), "*Une meuf avec qui tu travailles dans la campagne de Call of Duty.*"(femme arabe), "*Sûrement un PNJ dans Assassin's Creed.*"(homme arabe), "*Je dois t'avouer je connais vraiment aucun perso femme arabe*", "*putain, y'en a qu'une qui me vient en tête et c'est pas une que j'apprécie particulièrement.. mais-.. mais …. ca me soule… ah Isabella dans Dragon Age 2*"(femme noire), *"Une miss qui fait du vaudou dans monkey island 2"*(femme noire), "*Le meilleur ami du personnage principal dans Cyberpunk 2077*"(homme latino), "*Abou dans le jeu des simpson*"(homme asie du sud ouest), "*Dans call of tu travailles avec un indien"*(homme asie du sud ouest). 
 
- "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" – biais automatique enraciné.
+
 
 --> Quand un jeu vidéo propose le seul personnage noir, ou arabe, il devient automatiquement emblématique de toute sa communauté, un poids qui n’est pas réparti équitablement entre les groupes ethniques.
 
@@ -267,21 +282,6 @@ Application de l’intersectionnalité pour expliquer pourquoi certaines minorit
   => révèle la rareté des personnages arabes dans les jeux vidéo, ainsi que leur représentation en tant que personnages secondaires stéréotypés, comme des arnaqueurs ou des terroristes. 
 
 Huggan, Graham (2001). *The Postcolonial Exotic: Marketing the Margins*.
-
-
-
-#### 2.3 L'invisibilité 
-
-- **Théorie de la sous-représentation** (Stuart Hall) et **concept d'invisibilité** (Ralph Ellison) : La sous-représentation des minorités renforce leur invisibilité dans les récits vidéoludiques.
-- **Exemples** : Absence de personnages féminins racisé notables
-- **Citations** : Joueurs incapables/difficulté de nommer des personnages féminins racisés importants.
-
-**Steve** : Sa difficulté à nommer des personnages racisés montre une certaine dissonance entre la perception d'une diversification et la réalité du marché des jeux. Bien qu'il évoque des exemples récents de diversité, son incapacité à se souvenir de personnages non-blancs témoigne des lacunes persistantes dans les représentations
-
-=> reflète l'utilisation récurrente de stéréotypes visuels et culturels pour attribuer des rôles spécifiques aux personnages non-occidentaux. Cela peut illustrer comment les préjugés inconscients des créateurs se manifestent dans les jeux.
-
-**Lionel** : *"Mais là j'ai pas de personnage latina féminin qui me vienne en tête."*
-=> Le manque de personnages latinos ou latinas mémorables montre l'invisibilité de certaines communautés dans les jeux, un aspect important de la représentation des minorités.
 
 
 
