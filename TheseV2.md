@@ -193,15 +193,15 @@ Cette dynamique, évoquée dans le chapitre précédent sur *Resident Evil 5*, i
 
 Des exemples similaires se retrouvent également dans des séries et films qui se veulent inclusifs, comme *Sex Education*, où le personnage d’Eric, meilleur ami d’Otis (personnage principal), est noir et fait partie de la communauté LGBTQIA+. Bien que sa représentation soit un progrès, je trouve qu'il a tendance à être réduit au "personnage noir et gay", comme si son identité se résumait à ces caractéristiques. 
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\IMAGES\sex_education.jpeg" alt="sex_education" style="zoom:50%;" />
+<img src="IMAGES\sex_education.jpeg" alt="sex_education" width="500" />
 
 On observe un schéma similaire dans le dessin animé *Miraculous Ladybug*. Ce qui distingue cette série d'animation de la précédente, c'est qu'elle parvient à intégrer des personnages issus de minorités sans en faire des stéréotypes. Bien qu’ils occupent des rôles secondaires, leur ethnie n’est jamais au centre de l’intrigue..
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\IMAGES\Miraculous.jpg" alt="Miraculous" style="zoom:50%;" />
+<img src="IMAGES\Miraculous.jpg" alt="Miraculous" width="500" />
 
 Il faut tout de même noter qu'une réelle évolution est en train de prendre place. Les boîtes de production sont de plus en plus conscientes de ces problématiques et font le nécessaire pour y remédier. La série *Lupin* sur Netflix, avec Omar Sy en tête d'affiche, en est un excellent exemple. Assane Diop, incarné par Sy, est un héros dont la couleur de peau ne définit pas le fond du personnage. *Lupin* est personnage principal racisé qui brille par sa complexité et son intelligence. 
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\IMAGES\Lupin.jpg" alt="Lupin" style="zoom:50%;" />
+<img src="IMAGES\Lupin.jpg" alt="Lupin" width="400"/>
 
 #### 1.4 L'ennemi
 
@@ -210,6 +210,12 @@ Il faut tout de même noter qu'une réelle évolution est en train de prendre pl
 Cette confession, faite à contrecœur, illustre à quel point certains archétypes sont enracinés dans l'inconscient collectif, même au sein des minorités concernées.  Les représentations médiatiques, tendent à associer des origines spécifiques – maghrébines, africaines, ou même russes – à des figures criminelles ou violentes. Une autre participante explique d’ailleurs, concernant la création du personnage "Terroriste" : *"J'ai plusieurs team, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dit univers GTA, c'est rempli de clichés."* 
 
 Les figures du "terroriste moyen-oriental," du "trafiquant africain," ou du "mercenaire russe" sont devenues des personnages récurrents dans les jeux d'action et de guerre. Ces stéréotypes plongent leurs racines dans un contexte historique de conflits géopolitiques. Par exemple, la guerre froide a contribué à établir le "mercenaire russe" comme une menace pour le monde occidental, tandis que les interventions militaires en Irak, en Afghanistan et les conflits au Moyen-Orient ont ancré dans l'imaginaire collectif l'image du "terroriste arabe." Bien que de nombreux groupes soient touchés par ces clichés, la majorité des jeux de guerre se focalisent sur des ennemis du Moyen-Orient, renforçant ainsi une vision négative de cette région.
+
+<img src="IMAGES\SpecOps.jpg" alt="SpecOps" width="500" />
+
+<img src="IMAGES\FullSpectrumWarrior.jpg" alt="FullSpectrumWarrior" width="500" />
+
+<img src="IMAGES\Kuma_War.jpg" alt="Kuma_War" width="400" />
 
 De nombreux jeux exploitent ces dynamiques : *Call of Duty*, *Battlefield 3*, *Medal of Honor: Warfighter*, *Kuma\War*, *Spec Ops: The Line*, ou encore *Full Spectrum Warrior* en sont quelques exemples. Les ennemis sont souvent des groupes armés originaires du Moyen-Orient, représentés comme des terroristes menaçant l’ordre du monde occidental. Ces personnages sont donc associés à des lieux spécifiques, contribuant à renforcer les stéréotypes lié à leur culture.
 
