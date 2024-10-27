@@ -122,7 +122,7 @@ La question de la "cohérence" des personnages est également révélatrice. Un 
 
 Cependant, un participant soulève une remarque allant à l’encontre des données de l’étude présentée dans le chapitre précédent, suggérant que les jeux récents montrent une diversité accrue invisibilisant ainsi les personnages blancs *"Dans les jeux jusqu'à 2016, c'est vrai qu'il n'y a pas de doute [que les hommes blancs dominaient]. Mais depuis, ce n'est plus le cas, surtout parce que les jeux se passent aux USA. Les mecs nuls dont on s'en fout, c'est des blancs. Le reste, c'est toutes les autres ethnies."*
 
-Cette perception pose la question de savoir si l’augmentation de la diversité dans quelques jeux suffit à créer l’illusion que les personnages blancs disparaissent, alors qu’ils restent majoritaires.
+Cette Cette perception pose la question de savoir si l’augmentation de la diversité dans quelques jeux suffit à créer l’illusion que les personnages blancs disparaissent, alors qu’ils restent majoritaires. 
 
 #### 1.2 Le sauveur
 
@@ -205,15 +205,13 @@ Il faut tout de même noter qu'une réelle évolution est en train de prendre pl
 
 #### 1.4 L'ennemi
 
-"*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça m'énerve*". Voilà la 
+*"Dans ma tête tu me dis un terroriste, c'est horrible hein, mais j'imagine pas une personne blanche. Ohh mon dieu, ça me soûle parce que je lutte contre ces clichés. On sait que c'est faux, mais j'imagine une personne maghrébine, voir un black, et c'est horrible hein, mais même le black je le verrais comme drug dealer AHHAH, alors que je suis moi-même black. Et j'imagine une personne qui parle même pas français de base. Ca me soule moi-même parce que je me dis que ça n'a aucun sens. Et c'est bien que je fasse cet exercice parce que je me rend compte que oui c'est vraiment ancré."*
 
+Cette confession, faite à contrecœur, illustre à quel point certains archétypes sont enracinés dans l'inconscient collectif, même au sein des minorités concernées.  Les représentations médiatiques, tendent à associer des origines spécifiques – maghrébines, africaines, ou même russes – à des figures criminelles ou violentes. Une autre participante explique d’ailleurs, concernant la création du personnage "Terroriste" : *"J'ai plusieurs team, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dit univers GTA, c'est rempli de clichés."* 
 
+Les figures du "terroriste moyen-oriental," du "trafiquant africain," ou du "mercenaire russe" sont devenues des personnages récurrents dans les jeux d'action et de guerre. Ces stéréotypes plongent leurs racines dans un contexte historique de conflits géopolitiques. Par exemple, la guerre froide a contribué à établir le "mercenaire russe" comme une menace pour le monde occidental, tandis que les interventions militaires en Irak, en Afghanistan et les conflits au Moyen-Orient ont ancré dans l'imaginaire collectif l'image du "terroriste arabe." Bien que de nombreux groupes soient touchés par ces clichés, la majorité des jeux de guerre se focalisent sur des ennemis du Moyen-Orient, renforçant ainsi une vision négative de cette région.
 
-**Mimi** : *"J'ai plusieurs team, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dis univers GTA, c'est rempli de clichés."*
-
-=> met en lumière le rôle récurrent des clichés racistes dans les jeux vidéo, particulièrement dans la représentation des "terroristes".
-
-
+De nombreux jeux exploitent ces dynamiques : *Call of Duty*, *Battlefield 3*, *Medal of Honor: Warfighter*, *Kuma\War*, *Spec Ops: The Line*, ou encore *Full Spectrum Warrior* en sont quelques exemples. Les ennemis sont souvent des groupes armés originaires du Moyen-Orient, représentés comme des terroristes menaçant l’ordre du monde occidental. Ces personnages sont donc associés à des lieux spécifiques, contribuant à renforcer les stéréotypes lié à leur culture.
 
 #### 1.5 La demoiselle en détresse
 

@@ -44,3 +44,12 @@ Personnage 2 : Méchant, ennemi
 Personnage 3 : Protagoniste
 Personnage 4 : Love interest du protagoniste
 Personnage 5 : Rival, il serait pote mais aurait une rivalité pour savoir qui est le plus fort, il a l'air balèze. 
+
+#### Ines
+Personnage 1 : Marchande d'or
+Personnage 2 : Personnage principal
+Personnage 3 : Meilleur ami du personnage principal 
+Personnage 4 : Fille du roi 
+Personnage 5 : Braqueur de la marchande 
+
+
