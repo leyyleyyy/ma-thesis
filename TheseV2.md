@@ -146,11 +146,11 @@ Les retours des joueurs montrent des perceptions variées face à ce schéma nar
 
 Certains sont plus indulgents :  *« Alors de sur ce grand méchant, il existe déjà depuis le premier, ça c'est pas nouveau. C'est une polémique qui a quinze ans. Je vois bien, mais je suis pas sûr qu'il y avait des intentions racistes derrière. C'était plutôt une grosse maladresse. »* ou encore *« Ah oui j'y ai joué avec un pote, et non j'ai rien vu de problématique. [...] Si l'histoire se passe en Afrique, il n'y a pas trop de miracle HAHAHAHA... ça m'aurait plus offensé si c'était des blancs qui se faisaient tuer en terre africaine. »*
 
-Ce schéma n’est pas exclusif aux jeux vidéo. On le retrouve dans de nombreux films, où un enfant issu de l’immigration, souvent en fuite d’un pays en guerre ou vivant dans des conditions précaires, est recueilli et « sauvé » par une famille blanche occidentale. 
+Ce schéma n’est pas exclusif aux jeux vidéo, que ce soit dans l'histoire d'un enfant immigré recueilli par une famille blanche, ou d’une personne de minorité "sauvée" de sa culture par une relation amoureuse avec une personne occidental. Ce type de représentation perpétue l’idée selon laquelle la réussite des minorités ne peut venir que de l’extérieur de leur culture. 
 
 #### 1.3 Le meilleur ami
 
-Lors de mes entretiens, j'ai demandé aux participants de créer un synopsis de jeu basé sur cinq personnages en se détachant au maximum de leurs rôles de base, pour ceux qui les connaissaient déjà. Les résultats de ces créations offrent un aperçu révélateur des biais inconscients dans la manière dont les personnages racisés sont perçus et intégrés.
+Lors de mes entretiens, j'ai demandé aux participants de créer un synopsis de jeu basé sur cinq personnages en se détachant au maximum de leurs rôles de base, pour ceux qui les connaissaient déjà. Le but de cet exercice est de voir s'il existe des biais inconscients dans la manière dont les personnages racisés sont perçus et positionnés dans la narration.
 
 **Personnage 1** : 
 
@@ -187,13 +187,23 @@ Et je lui ai en suite demandé à qui était donné majoritairement le rôle du 
 
 *ChatGPT : "Le rôle du **meilleur ami** est attribué le plus souvent au **personnage 3**".*
 
-Cette dynamique met en évidence la tendance à reléguer les personnages issus de minorités à des rôles secondaires, alors que les protagonistes principaux demeurent majoritairement blancs. Cette pratique, qui cantonne souvent les personnages racisés à des rôles d'ami.e ou de soutien, contribue à leur invisibilisation.
+Avant de continuer mon analyse, il est essentiel de prendre ces résultats avec des pincettes. Bien que l'on puisse percevoir une tendance générale et supposer que l'origine joue un rôle, d'autres critères entrent en jeu. L’habit, le décor, ou même la notoriété de certains personnages influencent ces résultats. Ceci étant précisé, nous pouvons reprendre. 
 
-Les résultats de cette analyse soulignent un biais persistant dans la conception des personnages dans les jeux vidéo, où les figures racisées sont fréquemment perçues comme des soutiens ou des antagonistes. Le fait que les personnages 1 et 3, tous deux racisés, se voient attribuer des rôles de soutien, tandis que le personnage 5 est réduit au statut d'ennemi *(voir le chapitre suivant)*, révèle une tendance à minimiser leur importance dans le récit principal.
+Une tendance persistante est observable : les personnages issus de minorités sont souvent relégués à des rôles secondaires ou de soutien, tandis que les protagonistes principaux demeurent majoritairement blancs. Ce biais contribue à une invisibilisation subtile des personnages racisés, souvent cantonnés à des rôles de soutien ou d’allié dans la construction narrative. Le fait que les personnages 1 et 3, tous deux racisés, se voient attribuer des rôles de soutien, tandis que le personnage 5 est réduit au statut d'ennemi *(voir le chapitre suivant)*, révèle une tendance à minimiser leur importance dans le récit principal.
 
-Cette dynamique est également observable dans Resident Evil 5, examiné dans le chapitre précédent, où Sheva Alomar, l'alliée de Chris, est limitée à un rôle d'aide, et ce, même dans son propre environnement. Bien que Chris soit le protagoniste dans plusieurs jeux de la série Resident Evil, cette situation illustre une dynamique courante dans de nombreux jeux, films et séries.
+Cette dynamique, évoquée dans le chapitre précédent sur *Resident Evil 5*, illustre parfaitement ce schéma. Dans le jeu, Sheva Alomar, bien qu’étant locale, se voit réduite au rôle d’assistante face à Chris, le héros américain. Cette position de soutien dans son propre environnement témoigne d’une hiérarchisation implicite des personnages en fonction de leur origine. Bien que Chris soit le protagoniste dans plusieurs jeux de la série Resident Evil, cette situation illustre une dynamique courante dans de nombreux jeux, films et séries.
 
-On peut citer d'autres exemples de films ou séries, qui sont conscient qu'il 
+Des exemples similaires se retrouvent également dans des séries et films qui se veulent inclusifs, comme *Sex Education*, où le personnage d’Eric, meilleur ami d’Otis (personnage principal), est noir et fait partie de la communauté LGBTQIA+. Bien que sa représentation soit un progrès, je trouve qu'il a tendance à être réduit au "personnage noir et gay", comme si son identité se résumait à ces caractéristiques. 
+
+<img src="C:\Users\leyla\Desktop\ma-thesis\IMAGES\sex_education.jpeg" alt="sex_education" style="zoom:50%;" />
+
+On observe un schéma similaire dans le dessin animé *Miraculous Ladybug*. Ce qui distingue cette série d'animation de la précédente, c'est qu'elle parvient à intégrer des personnages issus de minorités sans en faire des stéréotypes. Bien qu’ils occupent des rôles secondaires, leur ethnie n’est jamais au centre de l’intrigue..
+
+<img src="C:\Users\leyla\Desktop\ma-thesis\IMAGES\Miraculous.jpg" alt="Miraculous" style="zoom:50%;" />
+
+Il faut tout de même noter qu'une réelle évolution est en train de prendre place. Les boîtes de production sont de plus en plus conscientes de ces problématiques et font le nécessaire pour y remédier. La série *Lupin* sur Netflix, avec Omar Sy en tête d'affiche, en est un excellent exemple. Assane Diop, incarné par Sy, est un héros dont la couleur de peau ne définit pas le fond du personnage. *Lupin* est personnage principal racisé qui brille par sa complexité et son intelligence.
+
+<img src="C:\Users\leyla\Desktop\ma-thesis\IMAGES\Lupin.jpg" alt="Lupin" style="zoom:50%;" />
 
 #### 1.4 L'ennemi
 
@@ -258,7 +268,7 @@ Huggan, Graham (2001). *The Postcolonial Exotic: Marketing the Margins*.
 
 
 
-#### 2.3 Personnages secondaires ou invisibles
+#### 2.3 L'invisibilité 
 
 - Les minorités ethniques et raciales apparaissent souvent dans des rôles secondaires, stéréotypés ou invisibles.
 -  **Théorie de la sous-représentation** (Stuart Hall) et **concept d'invisibilité** (Ralph Ellison) : La sous-représentation des minorités renforce leur invisibilité dans les récits vidéoludiques.
