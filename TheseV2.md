@@ -102,23 +102,27 @@ Face à ces données révélatrices, il est crucial de se demander comment ces d
 
 Cette tendance à s'appuyer sur des archétypes simplistes renforce l'idée que les personnages issus de minorités doivent s'inscrire dans des cases prédéfinies. Ils sont ainsi cantonnés à des rôles stéréotypés qui nuisent à leur complexité et à leur représentativité.
 
-Dans la section qui suit, nous explorerons plus en détail les différents archétypes présents dans les jeux vidéo, en mettant en lumière comment ces modèles contribuent à la construction d'une vision limitée des personnages et des récits.
+Dans la section qui suit, nous explorerons plus en détail les différents archétypes présents dans les jeux vidéo et autres médias, en mettant en lumière comment ces modèles contribuent à la construction d'une vision limitée des personnages.
 
 #### 1.1 Le personnage par défaut
 
-Dans le cadre de mes interviews, j'ai demandé aux participants de créer quatre types de personnages : un personnage principal, un terroriste, un dealer de drogue et un PNJ (personnage non joueur). Sans grande surprise, 100 % des interviewés ont choisi de représenter le PNJ sous les traits d'un homme, blanc pour la grande majorité. Cela témoigne, à mon avis, d'une vision inconsciente où le personnage par défaut est considéré comme un homme blanc, renforçant ainsi l'idée que cette représentation constitue la norme de base dans l'imaginaire collectif.
+Dans le cadre de mes interviews, j'ai demandé aux participants de créer quatre types de personnages : un personnage principal, un terroriste, un dealer de drogue et un PNJ (personnage non joueur). Sans grande surprise, 100 % des interviewés ont choisi de représenter le PNJ sous les traits d'un homme, blanc pour la grande majorité. Cela témoigne, à mon avis, d'une vision inconsciente où le personnage par défaut est considéré comme un homme blanc, renforçant ainsi l'idée que cette représentation constitue la norme.
 
 Lorsque je demandais aux joueurs leur choix de design quant à ce personnage, les descriptions étaient souvent identiques : des personnages "génériques", souvent perçus comme lisses et sans caractéristiques marquantes. Un participant a commenté : *"Pour moi, ça c'est vraiment le PNJ sans intérêt. Lisse, mec blanc, jeune, tee-shirt sans motifs [...] c'est un mec que tu croiserais dans la rue et tu ne te retournerais pas."* Un autre a précisé : *"Il s'appelle Dave, il faut lui mettre les habits les plus banals. C'est le genre de perso que je pourrais shooter."*
+
+<img src="DATA\INTERVIEW\Persos_Crées\Steve_PNJ.png" alt="Steve_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Andy_PNJ.png" alt="Andy_PNJ" width="200"/><img src="DATA\INTERVIEW\Persos_Crées\Gab_PNJ.png" alt="Gab_PNJ" width="300"/>
+
+
+
+<img src="DATA\INTERVIEW\Persos_Crées\Kevin_PNJ.jpg" alt="Kevin_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lionel_PNJ.png" alt="Lionel_PNJ" width="200"/><img src="DATA\INTERVIEW\Persos_Crées\Lulu_PNJ.png" alt="Lulu_PNJ" width="200" /> <img src="DATA\INTERVIEW\Persos_Crées\Myriam_PNJ.jpg" alt="Myriam_PNJ" width="300"/>
 
 D'autres commentaires, comme *"Ahhhhhh je suis un bâtard, je viens de capter que j'ai fait que des hommes. Tu pourras mettre dans ta thèse que je suis un gros misogyne,"* mettent ici en lumière la normativité masculine dans l'inconscient collectif. Cette prise de conscience tardive révèle que, malgré le désir de diversité, les créateurs de personnages se laissent souvent influencer par une culture où les hommes demeurent la norme.
 
 La question de la "cohérence" des personnages est également révélatrice. Un joueur a remarqué : *"Si on met un blanc dans un jeu qui se passe en Asie, personne ne trouve cela étrange. Mais si on met un Arabe ou un Noir dans ce même jeu, les gens vont se demander ce qu’ils font là, comme si leur présence n'était pas légitime."* Ce constat montre que les personnages issus de minorités ethniques sont souvent jugés comme incohérents dans certains contextes, tandis que les personnages blancs sont perçus comme naturellement légitimes, même dans des environnements à l'opposé de leur origine. 
 
-Cependant, un participant soulève une remarque intrigante allant à l’encontre des données de l’étude présentée dans le chapitre précédent, suggérant que les jeux récents montrent une diversité accrue invisibilisant ainsi les personnages blancs *"Dans les jeux jusqu'à 2016, c'est vrai qu'il n'y a pas de doute [que les hommes blancs dominaient]. Mais depuis, ce n'est plus le cas, surtout parce que les jeux se passent aux USA. Les mecs nuls dont on s'en fout, c'est des blancs. Le reste, c'est toutes les autres ethnies."*
+Cependant, un participant soulève une remarque allant à l’encontre des données de l’étude présentée dans le chapitre précédent, suggérant que les jeux récents montrent une diversité accrue invisibilisant ainsi les personnages blancs *"Dans les jeux jusqu'à 2016, c'est vrai qu'il n'y a pas de doute [que les hommes blancs dominaient]. Mais depuis, ce n'est plus le cas, surtout parce que les jeux se passent aux USA. Les mecs nuls dont on s'en fout, c'est des blancs. Le reste, c'est toutes les autres ethnies."*
 
-Cette perception pose la question de savoir si l’augmentation de la diversité dans quelques jeux suffit à créer l’illusion que les personnages blancs disparaissent, alors qu’ils restent majoritaires.<img src="DATA\INTERVIEW\Persos_Crées\Steve_PNJ.png" alt="Steve_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Andy_PNJ.png" alt="Andy_PNJ" width="200"/><img src="DATA\INTERVIEW\Persos_Crées\Gab_PNJ.png" alt="Gab_PNJ" width="300"/>
-
-<img src="DATA\INTERVIEW\Persos_Crées\Kevin_PNJ.jpg" alt="Kevin_PNJ" width="300" /><img src="DATA\INTERVIEW\Persos_Crées\Lionel_PNJ.png" alt="Lionel_PNJ" width="200"/><img src="DATA\INTERVIEW\Persos_Crées\Lulu_PNJ.png" alt="Lulu_PNJ" width="200" /> <img src="DATA\INTERVIEW\Persos_Crées\Myriam_PNJ.jpg" alt="Myriam_PNJ" width="300"/>
+Cette perception pose la question de savoir si l’augmentation de la diversité dans quelques jeux suffit à créer l’illusion que les personnages blancs disparaissent, alors qu’ils restent majoritaires.
 
 #### 1.2 Le sauveur
 
