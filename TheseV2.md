@@ -203,7 +203,7 @@ Il faut tout de même noter qu'une réelle évolution est en train de prendre pl
 
 <img src="IMAGES\Lupin.jpg" alt="Lupin" width="400"/>
 
-#### 1.4 L'ennemi
+#### 1.4 Le terroriste né
 
 *"Dans ma tête tu me dis un terroriste, c'est horrible hein, mais j'imagine pas une personne blanche. Ohh mon dieu, ça me soûle parce que je lutte contre ces clichés. On sait que c'est faux, mais j'imagine une personne maghrébine, voir un black, et c'est horrible hein, mais même le black je le verrais comme drug dealer AHHAH, alors que je suis moi-même black. Et j'imagine une personne qui parle même pas français de base. Ca me soule moi-même parce que je me dis que ça n'a aucun sens. Et c'est bien que je fasse cet exercice parce que je me rend compte que oui c'est vraiment ancré."*
 
@@ -211,19 +211,21 @@ Cette confession, faite à contrecœur, illustre à quel point certains archéty
 
 Les figures du "terroriste moyen-oriental," du "trafiquant africain," ou du "mercenaire russe" sont devenues des personnages récurrents dans les jeux d'action et de guerre. Ces stéréotypes plongent leurs racines dans un contexte historique de conflits géopolitiques. Par exemple, la guerre froide a contribué à établir le "mercenaire russe" comme une menace pour le monde occidental, tandis que les interventions militaires en Irak, en Afghanistan et les conflits au Moyen-Orient ont ancré dans l'imaginaire collectif l'image du "terroriste arabe." Bien que de nombreux groupes soient touchés par ces clichés, la majorité des jeux de guerre se focalisent sur des ennemis du Moyen-Orient, renforçant ainsi une vision négative de cette région.
 
-<img src="IMAGES\SpecOps.jpg" alt="SpecOps" width="500" />
+<img src="IMAGES\ConflictDesertStorm.jpg" alt="ConflictDesertStorm" width="500" />
 
 <img src="IMAGES\FullSpectrumWarrior.jpg" alt="FullSpectrumWarrior" width="500" />
 
 <img src="IMAGES\Kuma_War.jpg" alt="Kuma_War" width="400" />
 
-De nombreux jeux exploitent ces dynamiques : *Call of Duty*, *Battlefield 3*, *Medal of Honor: Warfighter*, *Kuma\War*, *Spec Ops: The Line*, ou encore *Full Spectrum Warrior* en sont quelques exemples. Les ennemis sont souvent des groupes armés originaires du Moyen-Orient, représentés comme des terroristes menaçant l’ordre du monde occidental. Ces personnages sont donc associés à des lieux spécifiques, contribuant à renforcer les stéréotypes lié à leur culture.
+De nombreux jeux exploitent ces dynamiques : *Call of Duty*, *Conflict Desert Storm*, *Medal of Honor: Warfighter*, *Kuma\War*, *War in the Gulf*, ou encore *Full Spectrum Warrior* en sont quelques exemples. Dans ces titres, le joueur incarne le plus souvent les forces américaines, tandis que les ennemis sont caractérisés par des éléments visuels rappelant les cultures arabes ou musulmanes : couvre-chefs, vêtements amples et peau foncée. Ces détails sont associés de manière répétée au terrorisme ou à l’extrémisme islamiste, créant des raccourcis visuels qui renforcent ces stéréotypes.
+
+Les décors de ces jeux, situés au Moyen-Orient ou dans des lieux anonymes clairement inspirés de cette région, sont souvent représentés comme des environnements dangereux , ancrant davantage cette perception stéréotypée.
 
 #### 1.5 La demoiselle en détresse
 
 Princesse à aller sauver  -> Princesse Peach, représentant le stéréotype de la femme passive qui doit être sauvée par un héros masculin (& blanc)
 
- https://www.revue-democratie.be/index.php?Itemid=134&catid=9&id=1408%3Ala-place-des-femmes-dans-les-jeux-video-inegalites-de-genre-et-sexisme&option=com_content&view=article
+s
 
 
 
@@ -270,8 +272,7 @@ Huggan, Graham (2001). *The Postcolonial Exotic: Marketing the Margins*.
 
 #### 2.3 L'invisibilité 
 
-- Les minorités ethniques et raciales apparaissent souvent dans des rôles secondaires, stéréotypés ou invisibles.
--  **Théorie de la sous-représentation** (Stuart Hall) et **concept d'invisibilité** (Ralph Ellison) : La sous-représentation des minorités renforce leur invisibilité dans les récits vidéoludiques.
+- **Théorie de la sous-représentation** (Stuart Hall) et **concept d'invisibilité** (Ralph Ellison) : La sous-représentation des minorités renforce leur invisibilité dans les récits vidéoludiques.
 - **Exemples** : Absence de personnages féminins racisé notables
 - **Citations** : Joueurs incapables/difficulté de nommer des personnages féminins racisés importants.
 
