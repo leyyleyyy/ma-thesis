@@ -8,9 +8,9 @@ Cette sensation, je l'ai également retrouvée avec la série *Floricienta*. La 
 
 <img src="IMAGES\Layla.png" alt="Layla" width="200" /><img src="IMAGES\Bloom.jpg" alt="Bloom" width="300" /><img src="IMAGES\Floricienta.jpg" alt="Floricienta" width="300" />
 
-Ces anecdotes, aussi simples qu'elles puissent paraître, illustre l'importance profonde de la représentation. Elles ont façonné, sans que je m’en rende compte, ma perception de moi-même. C'est en partie ce qui m'a amenée à m'intéresser aux représentations des minorités dans les jeux vidéo, un média culturel aujourd'hui omniprésent. Il a une influence unique sur la perception sociale et l'identité, surtout chez les jeunes qui grandissent avec ces images.
+Ces anecdotes, aussi simples qu'elles puissent paraître, illustrent l'importance profonde de la représentation. Elles ont façonné, sans que je m’en rende compte, ma perception de moi-même. C'est en partie ce qui m'a amenée à m'intéresser aux représentations des minorités dans les jeux vidéo, un média culturel aujourd'hui omniprésent. Il a une influence unique sur la perception sociale et l'identité, surtout chez les jeunes qui grandissent avec ces images.
 
-C'est dans cet esprit que je mène cette recherche. Mon objectif est de comprendre et d'analyser comment les jeux vidéo participent à la construction ou à la déconstruction des stéréotypes liés aux minorités. À travers des interviews de joueurs et joueuses, ainsi que l'analyse de jeux vidéo populaires, j'explore ces représentations pour mieux saisir leur impact sur la perception sociale et les identités. Ma problématique centrale est la suivante : dans quelle mesure les jeux vidéo renforcent-ils ou déconstruisent-ils les stéréotypes sur les minorités, et quel est l'impact de ces représentations sur les identités des groupes concernés ?
+C'est dans cet esprit que je mène cette recherche. Mon objectif est de comprendre et d'analyser comment les jeux vidéo participent à la construction ou à la déconstruction des stéréotypes liés aux minorités. À travers des interviews de joueurs et joueuses, ainsi que l'analyse de jeux vidéo et récits populaires, j'explore ces représentations pour mieux saisir leur impact sur la perception sociale et les identités.
 
 ## I. Les stéréotypes dans l'industrie vidéoludique
 
@@ -201,21 +201,19 @@ On observe un schéma similaire dans le dessin animé *Miraculous Ladybug*. Ce q
 
 <img src="C:\Users\leyla\Desktop\ma-thesis\IMAGES\Miraculous.jpg" alt="Miraculous" style="zoom:50%;" />
 
-Il faut tout de même noter qu'une réelle évolution est en train de prendre place. Les boîtes de production sont de plus en plus conscientes de ces problématiques et font le nécessaire pour y remédier. La série *Lupin* sur Netflix, avec Omar Sy en tête d'affiche, en est un excellent exemple. Assane Diop, incarné par Sy, est un héros dont la couleur de peau ne définit pas le fond du personnage. *Lupin* est personnage principal racisé qui brille par sa complexité et son intelligence.
+Il faut tout de même noter qu'une réelle évolution est en train de prendre place. Les boîtes de production sont de plus en plus conscientes de ces problématiques et font le nécessaire pour y remédier. La série *Lupin* sur Netflix, avec Omar Sy en tête d'affiche, en est un excellent exemple. Assane Diop, incarné par Sy, est un héros dont la couleur de peau ne définit pas le fond du personnage. *Lupin* est personnage principal racisé qui brille par sa complexité et son intelligence. 
 
 <img src="C:\Users\leyla\Desktop\ma-thesis\IMAGES\Lupin.jpg" alt="Lupin" style="zoom:50%;" />
 
 #### 1.4 L'ennemi
 
-**Andy** : "*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça énerve*" – biais automatique enraciné.
+"*Je m'imagine quelqu'un de noir ou arabe pour le terroriste et ça m'énerve*". Voilà la 
+
+
 
 **Mimi** : *"J'ai plusieurs team, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dis univers GTA, c'est rempli de clichés."*
 
 => met en lumière le rôle récurrent des clichés racistes dans les jeux vidéo, particulièrement dans la représentation des "terroristes".
-
-
-
-**Exemples :** Jeux de guerre où les ennemis sont souvent des personnages arabes ou noirs, stéréotypés comme terroristes ou antagonistes.
 
 
 
