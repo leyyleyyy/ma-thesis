@@ -191,15 +191,17 @@ Une tendance persistante est observable : les personnages issus de minorités so
 
 Cette dynamique, évoquée dans le chapitre précédent sur *Resident Evil 5*, illustre parfaitement ce schéma. Dans le jeu, Sheva Alomar, bien qu’étant locale, se voit réduite au rôle d’assistante face à Chris, le héros américain. Cette position de soutien dans son propre environnement témoigne d’une hiérarchisation implicite des personnages en fonction de leur origine. Bien que Chris soit le protagoniste dans plusieurs jeux de la série Resident Evil, cette situation illustre une dynamique courante dans de nombreux jeux, films et séries.
 
-Des exemples similaires se retrouvent également dans des séries et films qui se veulent inclusifs, comme *Sex Education*, où le personnage d’Eric, meilleur ami d’Otis (personnage principal), est noir et fait partie de la communauté LGBTQIA+. Bien que sa représentation soit un progrès, je trouve qu'il a tendance à être réduit au "personnage noir et gay", comme si son identité se résumait à ces caractéristiques. 
+Des exemples similaires se retrouvent également dans des séries et films qui se veulent inclusifs, comme *Sex Education*.  Le personnage d’Eric, meilleur ami d’Otis (personnage principal), est noir et fait partie de la communauté LGBTQIA+. Bien que sa représentation soit un progrès, je trouve qu'il a tendance à être réduit au "personnage noir et gay", comme si son identité se résumait à ces caractéristiques. 
 
 <img src="IMAGES\sex_education.jpeg" alt="sex_education" width="500" />
 
-On observe un schéma similaire dans le dessin animé *Miraculous Ladybug*. Ce qui distingue cette série d'animation de la précédente, c'est qu'elle parvient à intégrer des personnages issus de minorités sans en faire des stéréotypes. Bien qu’ils occupent des rôles secondaires, leur ethnie n’est jamais au centre de l’intrigue..
+On observe un schéma similaire dans le dessin animé *Miraculous Ladybug*. Ce qui distingue cette série d'animation de la précédente, c'est qu'elle parvient à intégrer des personnages issus de minorités sans en faire des stéréotypes. Cependant leur rôles restent secondaire, souvent limités à ceux d'amis aux personnages principaux.
 
 <img src="IMAGES\Miraculous.jpg" alt="Miraculous" width="500" />
 
 Il faut tout de même noter qu'une réelle évolution est en train de prendre place. Les boîtes de production sont de plus en plus conscientes de ces problématiques et font le nécessaire pour y remédier. La série *Lupin* sur Netflix, avec Omar Sy en tête d'affiche, en est un excellent exemple. Assane Diop, incarné par Sy, est un héros dont la couleur de peau ne définit pas le fond du personnage. *Lupin* est personnage principal racisé qui brille par sa complexité et son intelligence. 
+
+Des exemples de ce type deviennent plus fréquents dans le cinéma et la télévision, mais restent encore rares dans l'univers du jeu vidéo. 
 
 <img src="IMAGES\Lupin.jpg" alt="Lupin" width="400"/>
 
@@ -234,6 +236,10 @@ Application de l’intersectionnalité pour expliquer pourquoi certaines minorit
 - **Concept d'invisibilité** (Ralph Ellison) : La sous-représentation des minorités renforce leur invisibilité dans les récits vidéoludiques.
 - **Exemples** : Absence de personnages féminins racisé notables
 - **Citations** : Joueurs incapables/difficulté de nommer des personnages féminins racisés importants.
+
+
+
+Les personnes que j'ai interviewées jouent toutes entre 10 et 15 heures par semaines et se consièrenr pour la plupart comme de "gros gameurs". 
 
 |                     | Lionel                                                       | Myriam                                              | Steve                             | Kevin      | Andy                           | Gab                              | Lucas                                   | Enzo |
 | ------------------- | ------------------------------------------------------------ | --------------------------------------------------- | --------------------------------- | ---------- | ------------------------------ | -------------------------------- | --------------------------------------- | ---- |
