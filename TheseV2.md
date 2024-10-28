@@ -160,7 +160,7 @@ Lors de mes entretiens, j'ai demandé aux participants de créer un synopsis de 
 
 **Personnage 3** : 
 
-<img src="C:\Users\leyla\Desktop\ma-thesis\DATA\INTERVIEW\Personnages\Part2\P3.png" alt="P3" width="400" />
+<img src="DATA\INTERVIEW\Personnages\Part2\P3.png" alt="P3" width="400" />
 
 **Personnage 4** : 
 
@@ -237,7 +237,7 @@ Application de l’intersectionnalité pour expliquer pourquoi certaines minorit
 
 |                     | Lionel                                                       | Myriam                                              | Steve                             | Kevin      | Andy                           | Gab                              | Lucas                                   | Enzo |
 | ------------------- | ------------------------------------------------------------ | --------------------------------------------------- | --------------------------------- | ---------- | ------------------------------ | -------------------------------- | --------------------------------------- | ---- |
-| **Homme blanc**     | Joël                                                         | Link                                                | Vaas Montenegro                   | Max Payne  | Arthur Morgan                  | Solid Snake                      | Snake                                   |      |
+| **Homme blanc**     | Joël                                                         | Link                                                | Vaas Montenegro                   | Max Payne  | Arthur Morgan                  | Solid Snake                      | Solid Snake                             |      |
 | **Femme blanche**   | Sniper                                                       | Alice                                               | Lara Croft                        | Lara Croft | Aerith Gainsbourg              | Lara Croft                       | Lara Croft                              |      |
 | **Homme noir**      | Barrett                                                      | -                                                   | Barrett Wallace                   | Lucian     | Barrett                        | Barrett Walace                   | Jax                                     |      |
 | **Femme noire**     | "Femme qui fait du voudou  dans Monkey Island"               | -                                                   | "L'héroïne dans Walking Dead"     | Senna      | Isabela (Google)               | "Intendante dans Monster Hunter" | "J'ai pas de nom c'est souvent des PNJ" |      |
@@ -248,7 +248,7 @@ Application de l’intersectionnalité pour expliquer pourquoi certaines minorit
 | **Homme asiatique** | Liu Kang                                                     | "Il y en a pas mal dans la licence Yakuza"          | "Dokai Bi"                        | Seikiro    | Kiryu                          |                                  | Sage                                    |      |
 | **Femme asiatique** |                                                              | "Il y en a pas mal dans la licence Yakuza"          |                                   | Sean Lee   | "L'héroïne dans Stellar Blade" |                                  | Sekira                                  |      |
 
-
+ Pour ceux qui ont nommés Solid Snake & Lara Croft = peut être du au fait qu'ils étaient présents dans l'interview 
 
 ### 2. Représentations dans les jeux vidéos
 
