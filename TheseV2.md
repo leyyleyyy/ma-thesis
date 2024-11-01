@@ -201,7 +201,7 @@ On observe un schéma similaire dans le dessin animé *Miraculous Ladybug*. Ce q
 
 Il faut tout de même noter qu'une réelle évolution est en train de prendre place. Les boîtes de production sont de plus en plus conscientes de ces problématiques et font le nécessaire pour y remédier. La série *Lupin* sur Netflix, avec Omar Sy en tête d'affiche, en est un excellent exemple. Assane Diop, incarné par Sy, est un héros dont la couleur de peau ne définit pas le fond du personnage. *Lupin* est personnage principal racisé qui brille par sa complexité et son intelligence. 
 
-Des exemples de ce type deviennent plus fréquents dans le cinéma et la télévision, mais restent encore rares dans l'univers du jeu vidéo. 
+Des exemples de ce type deviennent plus fréquents dans les grosses productions au cinéma et la télévision, mais restent encore rares dans les jeux vidéos. 
 
 <img src="IMAGES\Lupin.jpg" alt="Lupin" width="400"/>
 
@@ -211,7 +211,7 @@ Des exemples de ce type deviennent plus fréquents dans le cinéma et la télév
 
 Cette confession, faite à contrecœur, illustre à quel point certains archétypes sont enracinés dans l'inconscient collectif, même au sein des minorités concernées.  Les représentations médiatiques, tendent à associer des origines spécifiques – maghrébines, africaines, ou même russes – à des figures criminelles ou violentes. Une autre participante explique d’ailleurs, concernant la création du personnage "Terroriste" : *"J'ai plusieurs team, soit je choisis le classique terroriste du Moyen-Orient, soit origine Afrique, soit russe. Tu m'as dit univers GTA, c'est rempli de clichés."* 
 
-Les figures du "terroriste moyen-oriental," du "trafiquant africain," ou du "mercenaire russe" sont devenues des personnages récurrents dans les jeux d'action et de guerre. Ces stéréotypes plongent leurs racines dans un contexte historique de conflits géopolitiques. Par exemple, la guerre froide a contribué à établir le "mercenaire russe" comme une menace pour le monde occidental, tandis que les interventions militaires en Irak, en Afghanistan et les conflits au Moyen-Orient ont ancré dans l'imaginaire collectif l'image du "terroriste arabe." Bien que plusieurs groupes soient touchés par ces clichés, la majorité des jeux de guerre se focalisent sur des ennemis du Moyen-Orient, renforçant ainsi une vision négative de cette région.
+Les figures du "terroriste arabe", du "dealer africain", ou du "mercenaire russe" sont devenues des personnages récurrents dans les jeux d'action et de guerre. Ces stéréotypes plongent leurs racines dans un contexte historique de conflits géopolitiques. Par exemple, la guerre froide a contribué à établir le "mercenaire russe" comme une menace pour le monde occidental, tandis que les interventions militaires américaine en Irak et en Afghanistan ont ancré dans l'imaginaire collectif l'image du "terroriste arabe." Bien que plusieurs groupes soient touchés par ces clichés, la majorité des jeux de guerre se focalisent sur des ennemis du Moyen-Orient renforçant ainsi une vision négative de cette région.
 
 <img src="IMAGES\ConflictDesertStorm.jpg" alt="ConflictDesertStorm" width="500" />
 
@@ -219,7 +219,7 @@ Les figures du "terroriste moyen-oriental," du "trafiquant africain," ou du "mer
 
 <img src="IMAGES\Kuma_War.jpg" alt="Kuma_War" width="400" />
 
-*Call of Duty*, *Conflict Desert Storm*, *Medal of Honor: Warfighter*, *Kuma\War*, *War in the Gulf*, ou encore *Full Spectrum Warrior* sont quelques exemples de jeux exploitant cette dynamique . Dans ces titres, le joueur incarne le plus souvent les forces américaines, tandis que les ennemis sont caractérisés par des éléments visuels rappelant les cultures arabes ou musulmanes : couvre-chefs, vêtements amples et peau foncée.  Les décors de ces jeux, situés au Moyen-Orient ou dans des lieux clairement inspirés de cette région, sont souvent représentés comme des lieux dangereux. 
+*Call of Duty*, *Conflict Desert Storm*, *Medal of Honor: Warfighter*, *Kuma\War*, *War in the Gulf*, ou encore *Full Spectrum Warrior* sont quelques exemples de jeux exploitant cette dynamique . Dans ces titres, le joueur incarne le plus souvent les forces américaines, tandis que les ennemis sont caractérisés par des éléments visuels rappelant les cultures arabes ou musulmanes. Les décors de ces jeux, situés au Moyen-Orient ou dans des lieux clairement inspirés de cette région, sont souvent représentés comme des lieux dangereux. 
 
 Ces différents éléments, associés de manière répétée au terrorisme ou à l’extrémisme islamiste, créent des raccourcis visuels qui renforcent ces stéréotypes.
 
@@ -231,15 +231,11 @@ Princesse à aller sauver  -> Princesse Peach, représentant le stéréotype de 
 
 #### 1.6 L'inexistant.e
 
-Application de l’intersectionnalité pour expliquer pourquoi certaines minorités, comme les Sud-Asiatiques, sont souvent absentes des représentations.
+Les joueurs que j’ai interrogés, dont beaucoup consacrent entre 10 et 15 heures par semaine au gaming, se considèrent comme des "gros gamers". Pourtant, même pour eux, la tâche de nommer un personnage racisé notable, en particulier féminin, se révèle ardue, voire impossible. Bien que des personnages comme Altaïr dans *Assassin's Creed*, Barret dans *Final Fantasy VII*, ou Lara Croft dans *Tomb Raider* soient emblématiques, ils n’incarnent qu’une petite portion des minorités. 
 
-- **Concept d'invisibilité** (Ralph Ellison) : La sous-représentation des minorités renforce leur invisibilité dans les récits vidéoludiques.
-- **Exemples** : Absence de personnages féminins racisé notables
-- **Citations** : Joueurs incapables/difficulté de nommer des personnages féminins racisés importants.
+Quand on leur demande de citer des personnages issus de minorités, les joueurs évoquent souvent des figures stéréotypées et limitées : "*Ahhh, mais si, il y a Prince of Persia, je suis bête, il y a forcément des personnages arabes dedans,*" ou encore "*Je me rappelle d'un marchand arnaqueur"* dans *Le Chevalier de Baphomet* et d’un autre dans *Call of Duty*." Ces réponses montrent combien les personnages racisés sont cantonnés à des représentations caricaturales, et les personnages féminins racisés, encore plus rares, sont souvent invisibles ou confinés à des rôles caricaturaux : *"Une meuf avec qui tu travailles dans la campagne de Call of Duty,"* ou *"Une miss qui fait du vaudou dans Monkey Island 2"*.
 
-
-
-Les personnes que j'ai interviewées jouent toutes entre 10 et 15 heures par semaines et se consièrenr pour la plupart comme de "gros gameurs". 
+Cette quasi-inexistence de personnages féminins racisés, et encore plus de personnages LGBTQ+ racisés, souligne un phénomène d’invisibilité intersectionnelle dans l'univers vidéoludique. Quand un jeu propose un personnage racisé, il devient ainsi le représentant unique de toute sa communauté, portant un poids symbolique qui gomme toute la diversité interne de ce groupe. Dans cette logique, un homme noir devient souvent "le meilleur ami du protagoniste," l'homme arabe est automatiquement perçu comme violent, et l’homme gay est systématiquement efféminé. En réduisant un personnage à son appartenance ethnique ou sexuelle, on finit par réduire l’ensemble de la communauté à ces caractéristiques figées, ignorant ainsi toute diversité possible et renforçant des clichés de manière durable.
 
 |                     | Lionel                                                       | Myriam                                              | Steve                             | Kevin      | Andy                           | Gab                              | Lucas                                   | Enzo |
 | ------------------- | ------------------------------------------------------------ | --------------------------------------------------- | --------------------------------- | ---------- | ------------------------------ | -------------------------------- | --------------------------------------- | ---- |
@@ -257,21 +253,6 @@ Les personnes que j'ai interviewées jouent toutes entre 10 et 15 heures par sem
  Pour ceux qui ont nommés Solid Snake & Lara Croft = peut être du au fait qu'ils étaient présents dans l'interview 
 
 ### 2. Représentations dans les jeux vidéos
-
-#### 2.1 Représentation unique d'une communauté par un personnage
-
-- Les joueurs sont souvent amenés à incarner des personnages de minorités de manière stéréotypée ou réduits à un seul rôle. ==> exemple : gay = hyper efféminé, arabe = violent, métisse/noir = meilleur ami du protagoniste, 
-- **Théorie des représentations sociales** (Moscovici) : Ces personnages deviennent des figures représentatives dans l'imaginaire collectif, renforçant des stéréotypes.
-- **Interviews** : Altaïr (personnage arabe), Barett (personnage noir), Lara Croft (femme), ...
-- **Citations**: "*Ahhh, mais si il y a Prince of Persia, je suis bête, il y a forcément des personnages arabes dedans.*", "*Je crois qu'il y a un marchand qui arnaque tout le monde dans Le Chevalier de Baphomet ... et dans Call of Duty, il y en a un il me semble.*"(homme arabe), "*Une meuf avec qui tu travailles dans la campagne de Call of Duty.*"(femme arabe), "*Sûrement un PNJ dans Assassin's Creed.*"(homme arabe), "*Je dois t'avouer je connais vraiment aucun perso femme arabe*", "*putain, y'en a qu'une qui me vient en tête et c'est pas une que j'apprécie particulièrement.. mais-.. mais …. ca me soule… ah Isabella dans Dragon Age 2*"(femme noire), *"Une miss qui fait du vaudou dans monkey island 2"*(femme noire), "*Le meilleur ami du personnage principal dans Cyberpunk 2077*"(homme latino), "*Abou dans le jeu des simpson*"(homme asie du sud ouest), "*Dans call of tu travailles avec un indien"*(homme asie du sud ouest). 
-
-
-
---> Quand un jeu vidéo propose le seul personnage noir, ou arabe, il devient automatiquement emblématique de toute sa communauté, un poids qui n’est pas réparti équitablement entre les groupes ethniques.
-
---> Leur rôle est réduit à celui être de telle ou telle ethnie - fait parti intégrante de l'identité du personnage. Réduit une personne à un groupe de personne -> réduit ce groupe de personne à des caractéristiques
-
-
 
 #### 2.2 L'orientalisme dans la création vidéoludique 
 
@@ -291,7 +272,7 @@ Huggan, Graham (2001). *The Postcolonial Exotic: Marketing the Margins*.
 
 
 
-### 3. L'impact de l'exposition régulière à des personnages stéréotypés
+### 2. L'impact de l'exposition régulière à des personnages stéréotypés
 
 - Exposition régulière à des personnages de jeux vidéo stéréotypés :
   nocivité et régulation étatique : l'esquisse d'une proposition libérale
@@ -302,11 +283,11 @@ Huggan, Graham (2001). *The Postcolonial Exotic: Marketing the Margins*.
 COLACO, Joris Manuel. Exposition régulière à des personnages de jeux vidéo stéréotypés : nocivité et
 régulation étatique : l’esquisse d’une proposition libérale d’intervention. Master, 2018.
 
-#### 3.1 Sur la perception sociale
+#### 2.1 Sur la perception sociale
 
 
 
-#### 3.2 Sur l'identité des joueurs
+#### 2.2 Sur l'identité des joueurs
 
 [La mixité et la diversité dans les entreprises de jeux vidéo, 8 juillet 2023,  Martinique Games Festival](https://afjv.com/news/11404_conference-mixite-diversite-entreprises-jeux-video.htm)
 
