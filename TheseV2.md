@@ -146,7 +146,7 @@ Certains sont plus indulgents :  *« Alors de sur ce grand méchant, il existe d
 
 Ce schéma n’est pas exclusif aux jeux vidéo, que ce soit dans l'histoire d'un enfant immigré recueilli par une famille blanche, ou d’une personne de minorité "sauvée" de sa culture par une relation amoureuse avec une personne occidental. Ce type de représentation perpétue l’idée selon laquelle la réussite des minorités ne peut venir que de l’extérieur de leur culture. 
 
-#### 1.3 Le meilleur ami
+#### 1.3 Le/a meilleur ami.e
 
 Lors de mes entretiens, j'ai demandé aux participants de créer un synopsis de jeu basé sur cinq personnages en se détachant au maximum de leurs rôles de base, pour ceux qui les connaissaient déjà. Le but de cet exercice est de voir s'il existe des biais inconscients dans la manière dont les personnages racisés sont perçus et positionnés dans la narration.
 
@@ -227,15 +227,13 @@ Ces différents éléments, associés de manière répétée au terrorisme ou à
 
 Princesse à aller sauver  -> Princesse Peach, représentant le stéréotype de la femme passive qui doit être sauvée par un héros masculin (& blanc)
 
-
-
 #### 1.6 L'inexistant.e
 
-Les joueurs que j’ai interrogés, dont beaucoup consacrent entre 10 et 15 heures par semaine au gaming, se considèrent comme des "gros gamers". Pourtant, même pour eux, la tâche de nommer un personnage racisé notable, en particulier féminin, se révèle ardue, voire impossible. Bien que des personnages comme Altaïr dans *Assassin's Creed*, Barret dans *Final Fantasy VII*, ou Lara Croft dans *Tomb Raider* soient emblématiques, ils n’incarnent qu’une petite portion des minorités. 
+Les joueurs que j’ai interrogés, dont la plupart consacrent entre 10 et 15 heures par semaine au gaming, se considèrent comme des "gros joueurs". Pourtant, même pour eux, la tâche de nommer un personnage racisé, en particulier féminin, se révèle difficile, voire impossible. Bien que des personnages comme Altaïr dans *Assassin's Creed*, Barret dans *Final Fantasy VII*, ou Lara Croft dans *Tomb Raider* soient emblématiques, ils n’incarnent qu’une petite portion des minorités. 
 
-Quand on leur demande de citer des personnages issus de minorités, les joueurs évoquent souvent des figures stéréotypées et limitées : "*Ahhh, mais si, il y a Prince of Persia, je suis bête, il y a forcément des personnages arabes dedans,*" ou encore "*Je me rappelle d'un marchand arnaqueur"* dans *Le Chevalier de Baphomet* et d’un autre dans *Call of Duty*." Ces réponses montrent combien les personnages racisés sont cantonnés à des représentations caricaturales, et les personnages féminins racisés, encore plus rares, sont souvent invisibles ou confinés à des rôles caricaturaux : *"Une meuf avec qui tu travailles dans la campagne de Call of Duty,"* ou *"Une miss qui fait du vaudou dans Monkey Island 2"*.
+Quand on leur demande de citer des personnages issus de minorités, les joueurs évoquent souvent des figures stéréotypées : "*Ahhh, mais si, il y a Prince of Persia, je suis bête, il y a forcément des personnages arabes dedans"* ou encore "*Je me rappelle d'un marchand arnaqueur, mais je me souviens plus de son nom"* dans *Le Chevalier de Baphomet*. Ces réponses montrent combien les personnages racisés sont rares cantonnés à des représentations caricaturales, et les personnages féminins racisés, encore plus rares, sont souvent invisibles : *"Une meuf avec qui tu travailles dans la campagne de Call of Duty"* ou encore *"Une miss qui fait du vaudou dans Monkey Island 2"*.
 
-Cette quasi-inexistence de personnages féminins racisés, et encore plus de personnages LGBTQ+ racisés, souligne un phénomène d’invisibilité intersectionnelle dans l'univers vidéoludique. Quand un jeu propose un personnage racisé, il devient ainsi le représentant unique de toute sa communauté, portant un poids symbolique qui gomme toute la diversité interne de ce groupe. Dans cette logique, un homme noir devient souvent "le meilleur ami du protagoniste," l'homme arabe est automatiquement perçu comme violent, et l’homme gay est systématiquement efféminé. En réduisant un personnage à son appartenance ethnique ou sexuelle, on finit par réduire l’ensemble de la communauté à ces caractéristiques figées, ignorant ainsi toute diversité possible et renforçant des clichés de manière durable.
+Cette quasi-inexistence de personnages féminins racisés, et encore plus de personnages LGBTQ+ racisés, souligne un phénomène d’invisibilité intersectionnelle dans l'univers vidéoludique. Quand un jeu propose un personnage racisé, il devient ainsi le représentant unique de toute sa communauté, effaçant toute la diversité interne de ce groupe. Dans cette logique, un homme noir devient souvent "le meilleur ami du protagoniste," l'homme arabe est automatiquement perçu comme violent, et l’homme gay est systématiquement efféminé. En réduisant un personnage à son appartenance ethnique ou sexuelle, on finit par réduire l’ensemble de la communauté à ces caractéristiques figées, ignorant ainsi toute diversité et renforçant des clichés.
 
 |                     | Lionel                                                       | Myriam                                              | Steve                             | Kevin      | Andy                           | Gab                              | Lucas                                   | Enzo |
 | ------------------- | ------------------------------------------------------------ | --------------------------------------------------- | --------------------------------- | ---------- | ------------------------------ | -------------------------------- | --------------------------------------- | ---- |
@@ -252,25 +250,7 @@ Cette quasi-inexistence de personnages féminins racisés, et encore plus de per
 
  Pour ceux qui ont nommés Solid Snake & Lara Croft = peut être du au fait qu'ils étaient présents dans l'interview 
 
-### 2. Représentations dans les jeux vidéos
-
-#### 2.2 L'orientalisme dans la création vidéoludique 
-
-- L’influence de l’orientalisme dans la représentation des personnages arabes et musulmans comme "l’autre" exotique ou dangereux.
-- **Orientalisme** (Edward Said) : Réduction de cultures non occidentales à des stéréotypes simplistes et souvent déshumanisants.
-- Fétichisation des cultures exotiques (Prince of persia)
-- **Exemples** : Personnages arabes réduits à des rôles secondaires comme des marchands, terroristes ou guerriers dans des jeux comme "Prince of Persia" ou "Le Chevalier de Baphomet".
-- **Citations**: Cite 2x Gerudo dans Zelda en tant que femme arabe (Sachant qu'elles empruntent des caractéristiques physique de femmes du moyen-orient sans que l'on sache d'où elles viennent réellement : *Les Gerudos ont toutes le teint mat, les cheveux roux et les yeux dorés. Elles sont dites très belles, et ont de nombreux admirateurs, [...]. Ce sont des guerrières, sans doutes inspirées des Amazones*) 
-
-- Joueurs associent immédiatement certains traits (vêtements, ethnicité) à des archétypes spécifiques : terroristes du Moyen-Orient, chefs de guerre africains, ou encore mafieux italiens. Myriam : choisit le "terroriste classique" du Moyen-Orient ou le chef de guerre russe, ce qui montre une forme d’essentialisation des rôles pour ces groupes.
-- **Lionel** : *"Bon ben on va dire que... le C c'est parce qu'il a presque un côté marchand de tapis pour être dans les gros clichés."*
-
-- **Lionel** : *"Arabe : 'Baaaah il y a la série Assassin's Creed qui a tout de suite mis 2-3 personnages. [...] un jeune qui arnaque tout le monde en Syrie. Je le connais, mais j'ai pas son nom.'"*
-  => révèle la rareté des personnages arabes dans les jeux vidéo, ainsi que leur représentation en tant que personnages secondaires stéréotypés, comme des arnaqueurs ou des terroristes. 
-
-Huggan, Graham (2001). *The Postcolonial Exotic: Marketing the Margins*.
-
-
+### 
 
 ### 2. L'impact de l'exposition régulière à des personnages stéréotypés
 
@@ -289,15 +269,7 @@ régulation étatique : l’esquisse d’une proposition libérale d’intervent
 
 #### 2.2 Sur l'identité des joueurs
 
-[La mixité et la diversité dans les entreprises de jeux vidéo, 8 juillet 2023,  Martinique Games Festival](https://afjv.com/news/11404_conference-mixite-diversite-entreprises-jeux-video.htm)
 
-- Les femmes représentent près de la moitié des joueu.rs.ses et occupent mois de 22% des postes dans le développement des jeux
-- 54% or 1.4 billion global players come from the Asia Pacific. On the other hand, 14% (377 million) come from the Middle East and Africa, and 14% (386 million) come from Europe. Lastly, only 8% or 210 million come from North America. (Newzoo, 2020)
-- Players from Germany spend an average of 6.92 hours each week playing video games. This is followed by players from the UK (6.89 hours) and Japan (6.64 hours). (Limelight Networks, 2020)
-- Players from Japan have the longest average duration of consecutive playing sessions at 5.33 hours. (Limelight Networks, 2020)
-- African Americans spend 32 minutes on weekdays playing games and using their computer for leisure. Asians spend 62 minutes while Hispanics spend 37 minutes on weekdays for the said activity. (U.S. BLS, 2019)
-
-Source : Newzoo, 2020
 
 
 
