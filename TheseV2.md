@@ -241,21 +241,68 @@ Ces différents éléments, associés de manière répétée au terrorisme ou à
 
 #### 1.5 La demoiselle en détresse
 
-Princesse à aller sauver  -> Princesse Peach, représentant le stéréotype de la femme passive qui doit être sauvée par un héros masculin (& blanc)
+En parallèle des stéréotypes liées à ethnicité, les jeux exploitent également des archétypes de genre, renforçant des rôles souvent limités et traditionnels pour les personnages féminins. L'image de la *demoiselle en détresse*, par exemple, est un autre stéréotype couramment utilisé. La stéréotypisation est liée autant à l'apparence qu'aux rôles et aux attitudes qu'elles possèdent. Dans des jeux comme *Super Mario* ou *The Legend of Zelda*, la femme, représentée comme une princesse, devient un personnage passif dont la seule mission est de se faire sauver par un héros masculin, incarné par le joueur. 
 
-- *la stéréotypisation des personnages de jeux vidéo n’est pas seulement liée à leur apparence, mais notamment aux rôles et aux caractères/attitudes qu’ils possèdent. En effet, plusieurs études montrent que les personnages masculins possèdent plus fréquemment le rôle du ‘‘héros de l’histoire’’ que les personnages féminins. En effet, ces derniers se voient plus souvent relayés à des rôles secondaires11 et fortement stéréotypés (Lynch et al., 2016), comme celui de la ‘‘princesse fragile’’ qui n’a que pour seule fonction d’attendre le sauvetage d’un personnage masculin (ex. la princesse Peach dans le jeu Mario Bross) (Dill et Thill, 2007). Ce type de représentation pourrait ainsi contribuer à la fixation d’une identité ‘‘masculine’’ et ‘‘féminine’’ fortement dichotomisée, et calquée sur un modèle traditionnel des rôles de genre, privilégiant la domination sociale de l’homme (Amossy et Herschberg-Pierrot, 2011).*
+On peut aussi noter que leur fonction se trouve dans leur nom : Princesse Peach, Princesse Zelda, contrairement aux "héros" : Mario, Link, qui ont eux de vrais prénoms. Elles sont limitées à leur fonction de princesse. 
+
+On peut aussi citer Amy Rose, 
+
+
+
+Amy Rose, son objectif dans la vie ? Se trouver un amoureux, si possible un héros ! Une femme avec un objectif de vie moderne, dont le nom rappelle sa sexualité. Au cas où..
+Rose, la couleur encore la douceur et le rose toujours associé à la gente féminine.
+
+Que ce soit Princess Peach ou Amy Rose, on retrouve 2 problèmes principaux : l’omniprésence du rose et une tenue explicitement féminine sociétale.
+
+Les créateurs ne CESSENT de nous rappeler que ce sont des filles (et non des femmes) et, par définition, des personnages moins forts que leurs héros
+
+<img src="IMAGES\Zelda.jpg" alt="Zelda" width="300" /><img src="IMAGES\Peach.png" alt="Peach" width="300" /><img src="IMAGES\Amy-Rose.jpg" alt="Amy-Rose" width="200"  />
+
+Les personnages féminins tendent pour leur part à avoir une palette de rôles assignés très spécifique et fortement stéréotypée : en effet, les personnages féminins sont généralement caricaturalement dichotomisés. D’un côté, il est possible d’identifier le rôle de ‘‘l’innocente’’ ou de la ‘‘vierge’’. De l’autre côté, l’on dénote le rôle de la ‘‘provocatrice’’,renvoyant au stéréotype de la femme tentatrice et objet de désir sexuel
+
+==> permet de passer à la partie suivante 
+
+
+
+
+
+- 
 - l’hypermasculinité et l’hyperféminité. Alors que l’hypermasculinité se définit comme « the exaggeration of ‘‘macho’’ characteristics, specifically hardened sexual attitudes toward romantic partners, a desire for action and danger, and the acceptance of physical violence as a part of male nature » (Dill et Thill 2007, p. 852), l’hyperféminité renvoie à « amplification of female stereotypes, with an emphasis on dependence, submissiveness, and sexuality as the basis of a woman’s value » (Dill et Thill, 2007, p. 852).
-- les personnages féminins tendent pour leur part à avoir une palette de rôles assignés très spécifique et fortement stéréotypée : en effet, les personnages féminins sont généralement caricaturalement dichotomisés. D’un côté, il est possible d’identifier le rôle de ‘‘l’innocente’’ ou de la ‘‘vierge’’. De l’autre côté, l’on dénote le rôle de la ‘‘provocatrice’’,renvoyant au stéréotype de la femme tentatrice et objet de désir sexuel
+- 
+
+#### 1.6 L'aguicheuse 
+
+Lara Croft, première héroïne dans un jeu d’action badass. Intelligente, sportive, experte en arts martiaux, archéologiste, toujours prête à affronter le danger !
+
+Et… en mini-short, débardeur moulant avec décolletée. Cela semble la tenue la plus adaptée non ? Je veux dire Indian Jones a la même tenue dans ses films ! HUM.
+
+Au delà de sa tenue inappropriée (pour son activité professionnelle entendons-nous bien), les développeurs ont accentué le corps de Lara pour qu’il soit « parfait » socialement. En conséquence la franchise nous offre de nombreux gros plans sur ses fesses et sa poitrine
+
+<img src="IMAGES\lara-croft.jpg" alt="lara-croft"/>
+
 - En effet, les apparences stéréotypées masculines mettent en avant des personnages aux physiques démesurément musclés. Par exemple, l’étude de Dill et Thill (2007) mesure l’hypermasculinité à travers le fait qu’un personnage masculin présente des caractéristiques physiques exagérées au niveau de certains muscles (tour de bras ou pectoraux surdéveloppés), ou encore à travers certaines postures ou expressions faciales représentant le pouvoir et la domination (p. 856).
   Les apparences stéréotypées féminines et l’hyperféminité sont pour leur part généralement mesurées à travers des caractéristiques physiques renvoyant à l’idéal de la beauté qu’Harrison (2003) appelle ‘‘curvaceous thin’’. Cet idéal est sans doute le mieux représenté par l’exemple de la femme au tour de poitrine extrêmement important et au faible tour de taille (Dill et Thill, 2007, p.852).
+
 - l’étude de Beasley et Standley (2002), portant à la fois sur des jeux pour adultes et pour adolescents, montre que 86 % des personnages féminins sont représentés avec des décolletés fortement révélateurs contre seulement 14 % des personnages masculins(Les auteurs parlent ici de tenues masculines permettant par exemple de laisser entrevoir un corps bien musclé.)
+
 - Plus récemment, Lynch et al. (2016) relèvent que la sexualisation des personnages féminins demeure toujours plus importante que celles des personnages masculins, mais semble néanmoins avoir perdu en intensité au cours des 30 dernières années
+
 - l’auto-objectification
+
 - Grand Theft Auto (GTA) (Collin, Brown et Collins, 2008). Cette dernière est fortement représentative de la violence faite aux femmes étant donné qu’elle incite/récompense le joueur à entretenir de tels comportements : si le héros du jeu tue des prostituées avec lesquelles il a eu des relations sexuelles, il peut récupérer son argent. « [w]hen a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back » (p. 1403).
+
+  <img src="IMAGES\GTA-V.jpg" alt="GTA-V" />
+
+-  Dans son rapport, le [Geena Davis Institute](https://seejane.org/research-informs-empowers/changing-the-narrative-why-representation-in-video-games-matters/) démontre par exemple que les femmes ont dix fois plus de chance d’être montrées dans des vêtements « sexys » que les personnages masculins, et également dix fois plus de chance d’apparaître dans des situations de nudité.
 - conçu originellement ‘‘pour les hommes’’,
 - études citées : participants la plupart sont des universitaires de premiers cycles aux États-Unis
+- Largest study of video games reveals men say twice as much as women, https://www.gla.ac.uk/news/archiveofnews/2023/may/headline_966589_en.html : Le résultat est sans appel : les hommes parlent en moyenne deux fois plus que les femmes. Plus édifiant encore, seuls 3 jeux sur 50 contenaient 50% de dialogues énoncés par des personnages féminins (en moyenne, la part de dialogues laissés aux femmes est de 35,16%). Et quand les femmes parlent, elles perpétuent plus largement des stéréotypes de genre : elles sont plus susceptibles d’être polies, de s’excuser, de flirter, ou encore de s’adresser exclusivement à des personnages masculins plutôt qu’à d’autres femmes
+- The study also found imbalances in who characters speak to. Male characters tend to talk to other male characters, but women talk to other women less than expected by chance, even factoring in the number of lines and female characters. This is similar to the pattern seen in many films that fail to pass the Bechdel test.
+- female characters are more likely to apologise, hesitate or be polite, perpetuating stereotypes about gendered behaviour
+- Some games let the player choose their character’s gender, but even choosing a female main character did not lead to more than 50% female dialogue in over half of these games.
+- More dialogue doesn’t guarantee better gender representation. In the recent remake of Final Fantasy VII, the female character Jessie has 10 times more dialogue than in the original, but most of it is spent flirting with the main character.
 
-#### 1.6 L'inexistant.e
+#### 1.7 L'inexistant.e
 
 Les joueurs que j’ai interrogés consacrent pour la plupart entre 10 et 15 heures par semaine au gaming et se considèrent donc comme de "gros joueurs". Pourtant, même pour eux, la tâche de nommer un personnage racisé, en particulier féminin, s'avère difficile, voire impossible. Cette quasi-invisibilité des personnages féminins racisés notables révèle en partie le phénomène d’intersectionnalité, qui désigne le cumul de plusieurs formes de discriminations — ici, le genre et la race — qui se superposent et donc se renforcent. Par souci de concision, je me suis plus penchée sur l'intersection genre et race, bien que de nombreuses autres existent (la classe sociale, l'orientation sexuelle, la religion, l'handicape, etc.)
 
@@ -280,7 +327,7 @@ Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage t
 
 
 
-Conck^lusion
+Conclusion
 
 - comme l’a démontré l’étude de Dill et Thill (2007), les personnages masculins endossent une palette de rôles divers et variés, qui ne se résume pas à confirmer les stéréotypes de rôles généralement attribués aux hommes, à savoir les rôles du guerrier ou du super-héros (p. 869)
 
@@ -318,8 +365,6 @@ médias contribuent à forger notre représentation mentale de certains groupes,
 ## III. Le marketing de la diversité 
 
 ### 1. Entre inclusion et opportunisme commercial - Polémiques et tout
-
-
 
 - L'intégration de personnages de minorités est parfois perçue comme une réponse forcée à la demande de diversité, suscitant des critiques sur le "tokenisme".
 - **Tokenisme** (Shani Orgad) : L'inclusivité devient un outil marketing plutôt qu'un véritable effort d'authenticité culturelle.
