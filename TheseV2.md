@@ -16,21 +16,9 @@ C'est dans cet esprit que je mène cette recherche. Mon objectif est de comprend
 
 ### 1. Médias et stéréotypes
 
-Qu'est-ce qu'un stéréotype : 
+Dans cette perspective, il est essentiel de définir la notion de stéréotype, terme qui sera utilisé tout au long de ma thèse. Selon le centre national de ressources textuelles et lexicales, un stéréotype est *"Idée, opinion toute faite, acceptée sans réflexion et répétée sans avoir été soumise à un examen critique, par une personne ou un groupe, et qui détermine, à un degré plus ou moins élevé, ses manières de penser, de sentir et d'agir"*. Il contribue à la création de catégories auxquels les individus se rattachent, via des caractéristiques comme la couleur de peau, la profession, l’origine ethnique, l’appartenance à un sexe (etc.). Cette notion, mentionnée pour la première fois par Walter Lippmann dans son ouvrage *Public Opinion* en 1922, est souvent confondue avec le préjugé, qui désigne une attitude négative plus chargée affectivement envers un groupe. Tous les stéréotypes ne sont pas nécessairement péjoratifs et peuvent parfois être associés à des identités sociales positives. Les médias jouent un rôle crucial dans la formation de ces représentations mentales en véhiculant des stéréotypes. 
 
-- Dans les sciences sociales, la notion de stéréotype s’est principalement développée à travers le champ de la psychologie sociale15, et plus particulièrement par l’intermédiaire du journaliste américain Walter Lippmann, qui, dans son livre Public Opinion, originellement paru en 1922, estimait que les stéréotypes étaient des « pictures in our heads » (Lippmann, 2010)16
-
-- Ainsi, les stéréotypes — ou représentations collectives figées17 — contribuent à la création de catégories auxquels les individus se rattachent. La couleur de peau, la profession exercée, l’origine ethnique, l’appartenance à un sexe (etc.) sont des catégories permettant à l’individu de se définir.
-
-- dans les sciences sociales, à une incompréhension de la signification de la notion de stéréotype, souvent considérée comme équivalente au terme ‘‘préjugé’’.
-
-- le préjugé apparaît comme une attitude19 ou une tendance émotionnelle considérée comme plus péjorative et plus chargée affectivement que la notion de stéréotype. Autrement dit, alors que le stéréotype d’un groupe de personne (ex. les ‘‘Noirs’’, les ‘‘Japonais’’, etc.) représente « l’image collective qui en circule, l’ensemble des traits caractéristiques qu’on lui attribue (…), le préjugé serait la tendance à juger défavorablement un Noir, un Japonais ou un Allemand par le seul fait de son appartenance de groupe » (Amossy et Herschberg-Pierrot, 2011, p. 25).
-
-- tous les stéréotypes ne sont pas à considérer comme essentiellement péjoratifs et peuvent notamment être liés à une identité sociale considérée comme positive. À présent, nous nous intéresserons plus particulièrement aux stéréotypes de genre et à la relation qu’ils entretiennent avec différents médias (télévision, clips, magazines, etc.) qui tendent à les véhiculer. => les médias contribuent à forger notre représentation mentale de certains groupes.
-
-  
-
-Source : Exposition régulière à des personnages de jeux vidéo stéréotypés : nocivité et régulation étatique : l'esquisse d'une proposition libérale d'intervention. Colaco, Joris Manuel
+Sources :https://www.cnrtl.fr/definition/stereotype,  Exposition régulière à des personnages de jeux vidéo stéréotypés : nocivité et régulation étatique : l'esquisse d'une proposition libérale d'intervention. Colaco, Joris Manuel
 
 #### 1.1 Les minorités dans les médias traditionnels 
 
@@ -243,38 +231,34 @@ Ces différents éléments, associés de manière répétée au terrorisme ou à
 
 Parallèlement aux stéréotypes liés à l'ethnicité, les jeux vidéo exploitent également des archétypes de genre, imposant des rôles souvent limités et traditionnels aux personnages féminins. L'image de la *demoiselle en détresse* constitue un exemple classique de ce type de stéréotype, dans lequel la stéréotypisation s'appuie autant sur l'apparence que sur le rôle et l'attitude des personnages. Dans des jeux comme *Super Mario* ou *The Legend of Zelda*, la femme, incarnée par une princesse, devient un personnage passif dont la seule mission est d'attendre d’être sauvée par un héros masculin, incarné par le joueur.
 
-Le nom de ces personnages souligne également leur fonction limitée : *Princesse Peach* et *Princesse Zelda*, réduites à leur statut de princesse, contrastent avec les héros comme *Mario* et *Link*, qui portent des prénoms distincts, leur donnannt davantage d’individualité. De la même manière, Amy Rose, personnage secondaire de la série *Sonic the Hedgehog*, illustre un autre stéréotype féminin : son principal objectif est de trouver un amoureux, de préférence le héros. Selon le site [Great Characters Wiki](https://great-characters.fandom.com/)  : "*Amy is a cheerful, though slightly erratic girl, with a positive attitude and boundless energy. However, she has a scary temper and her infatuation with Sonic makes her shortsighted and a bit obsessive about him, having followed him everywhere since meeting him.*"
+Le nom de ces personnages souligne également leur fonction limitée : *Princesse Peach* et *Princesse Zelda*, réduites à leur statut de princesse, contrastent avec les héros comme *Mario* et *Link*, qui portent des prénoms distincts, leur donnannt davantage d’individualité. De la même manière, Amy Rose, personnage secondaire de la série *Sonic the Hedgehog*, illustre un autre stéréotype féminin : son principal objectif est de trouver un amoureux, de préférence le héros. Selon le site [Great Characters Wiki](https://great-characters.fandom.com/)  : "*Amy is a cheerful, though slightly erratic girl, with a positive attitude and boundless energy. However, she has a scary temper and her infatuation with Sonic makes her shortsighted and a bit obsessive about him, having followed him everywhere since meeting him.*" Ces qualités sont éclipsées par son obsession pour Sonic, au point de définir sa personnalité autour de cet attachement. Ses actions et traits de caractère n'existant principalement qu'en relation avec le héros masculin. Elle est réduite à une figure stéréotypée de l'amour non réciproque et de la dépendance affective.
 
 Leur apparence véhicule aussi une certaine uniformité : toutes portent des robes roses, couleur associée à la douceur et traditionnellement liée à la féminité.
 
 <img src="IMAGES\Zelda.jpg" alt="Zelda" width="300" /><img src="IMAGES\Peach.png" alt="Peach" width="300" /><img src="IMAGES\Amy-Rose.jpg" alt="Amy-Rose" width="200"  />
 
-En général, les personnages féminins se voient attribuer des rôles très spécifiques et fortement stéréotypés. D'un côté, on trouve le rôle de la "vierge innocente", ou de la "princesse à sauver", tel qu'illustré précédemment. De l'autre, on observe le rôle de la "provocatrice", qui fait écho au stéréotype de la femme tentatrice, représentée comme un objet de désir sexuel, que nous allons traiter au chapitre suivant. 
+En général, les personnages féminins se voient attribuer des rôles très spécifiques et fortement stéréotypés. D'un côté, on trouve le rôle de la "princesse à sauver", ou de "l'éternelle amoureuse", tel qu'illustré précédemment. De l'autre, on observe le rôle de la "provocatrice", qui fait écho au stéréotype de la femme tentatrice, représentée comme un objet de désir sexuel, que nous allons traiter au chapitre suivant. 
 
 #### 1.6 L'aguicheuse 
 
-Lara Croft, première héroïne dans un jeu d’action badass. Intelligente, sportive, experte en arts martiaux, archéologiste, toujours prête à affronter le danger !
+Un exemple marquant de ce rôle est celui de Lara Croft. Présentée comme la première héroïne de jeu d’action, elle est intelligente, sportive, experte en arts martiaux, archéologue, toujours prête à affronter le danger. Cependant, son apparence a été conçue pour correspondre à des standards de beauté largement sexualisés. Vêtue d’un mini-short et d’un débardeur moulant au décolleté plongeant, elle incarne une représentation très éloignée de la tenue fonctionnelle que l’on pourrait attendre pour des activités d’archéologie et d’exploration.
 
-Et… en mini-short, débardeur moulant avec décolletée. Cela semble la tenue la plus adaptée non ? Je veux dire Indian Jones a la même tenue dans ses films ! HUM.
-
-Au delà de sa tenue inappropriée (pour son activité professionnelle entendons-nous bien), les développeurs ont accentué le corps de Lara pour qu’il soit « parfait » socialement. En conséquence la franchise nous offre de nombreux gros plans sur ses fesses et sa poitrine
+Au-delà du choix vestimentaire peu réaliste, les développeurs ont volontairement accentué les proportions de Lara pour en faire un « idéal » physique conforme aux attentes sociales, souvent souligné par des plans rapprochés sur ses fesses et sa poitrine.
 
 <img src="IMAGES\lara-croft.jpg" alt="lara-croft"/>
 
-- En effet, les apparences stéréotypées masculines mettent en avant des personnages aux physiques démesurément musclés. Par exemple, l’étude de Dill et Thill (2007) mesure l’hypermasculinité à travers le fait qu’un personnage masculin présente des caractéristiques physiques exagérées au niveau de certains muscles (tour de bras ou pectoraux surdéveloppés), ou encore à travers certaines postures ou expressions faciales représentant le pouvoir et la domination (p. 856).
-  Les apparences stéréotypées féminines et l’hyperféminité sont pour leur part généralement mesurées à travers des caractéristiques physiques renvoyant à l’idéal de la beauté qu’Harrison (2003) appelle ‘‘curvaceous thin’’. Cet idéal est sans doute le mieux représenté par l’exemple de la femme au tour de poitrine extrêmement important et au faible tour de taille (Dill et Thill, 2007, p.852).
+Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Plus récemment, une étude menée par Lynch et al. en 2016 (*Sexy, Strong, and Secondary: A Content Analysis of Female Characters in Video Games Across 31 Years*, 2016) relèvent une tendance similaire, bien que la sexualisation ait diminué en intensité ces trente dernières années.
 
-- l’étude de Beasley et Standley (2002), portant à la fois sur des jeux pour adultes et pour adolescents, montre que 86 % des personnages féminins sont représentés avec des décolletés fortement révélateurs contre seulement 14 % des personnages masculins(Les auteurs parlent ici de tenues masculines permettant par exemple de laisser entrevoir un corps bien musclé.)
+Dans son rapport, le [Geena Davis Institute](https://seejane.org/research-informs-empowers/changing-the-narrative-why-representation-in-video-games-matters/) démontre que les femmes ont dix fois plus de chance d’être montrées dans des vêtements sexualisant que les personnages masculins, et dix fois plus de chance d’apparaître dans des situations de nudité.
 
-- Plus récemment, Lynch et al. (2016) relèvent que la sexualisation des personnages féminins demeure toujours plus importante que celles des personnages masculins, mais semble néanmoins avoir perdu en intensité au cours des 30 dernières années
 
-- l’auto-objectification
 
 - Grand Theft Auto (GTA) (Collin, Brown et Collins, 2008). Cette dernière est fortement représentative de la violence faite aux femmes étant donné qu’elle incite/récompense le joueur à entretenir de tels comportements : si le héros du jeu tue des prostituées avec lesquelles il a eu des relations sexuelles, il peut récupérer son argent. « [w]hen a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back » (p. 1403).
 
   <img src="IMAGES\GTA-V.jpg" alt="GTA-V" />
 
--  Dans son rapport, le [Geena Davis Institute](https://seejane.org/research-informs-empowers/changing-the-narrative-why-representation-in-video-games-matters/) démontre par exemple que les femmes ont dix fois plus de chance d’être montrées dans des vêtements « sexys » que les personnages masculins, et également dix fois plus de chance d’apparaître dans des situations de nudité.
+
+
 - conçu originellement ‘‘pour les hommes’’,
 - études citées : participants la plupart sont des universitaires de premiers cycles aux États-Unis
 - Largest study of video games reveals men say twice as much as women, https://www.gla.ac.uk/news/archiveofnews/2023/may/headline_966589_en.html : Le résultat est sans appel : les hommes parlent en moyenne deux fois plus que les femmes. Plus édifiant encore, seuls 3 jeux sur 50 contenaient 50% de dialogues énoncés par des personnages féminins (en moyenne, la part de dialogues laissés aux femmes est de 35,16%). Et quand les femmes parlent, elles perpétuent plus largement des stéréotypes de genre : elles sont plus susceptibles d’être polies, de s’excuser, de flirter, ou encore de s’adresser exclusivement à des personnages masculins plutôt qu’à d’autres femmes
