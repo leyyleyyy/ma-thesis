@@ -249,31 +249,33 @@ Au-delà du choix vestimentaire peu réaliste, les développeurs ont volontairem
 
 Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Il faut tout de même noter que la sexualisation des femmes ont diminuées ces trente dernières années, bien que toujours très présente (*Sexy, Strong, and Secondary: A Content Analysis of Female Characters in Video Games Across 31 Years*, 2016) 
 
-Dans son rapport, le [Geena Davis Institute](https://seejane.org/research-informs-empowers/changing-the-narrative-why-representation-in-video-games-matters/) démontre que les femmes ont dix fois plus de chance d’être montrées dans des vêtements sexualisant ou dans des situations de nudité que les personnages masculins.
-
-Le célèbre jeu Grand Theft Auto (GTA), perpétue des clichés très problématiques liés aux femmes. Par exemple, si le héro du jeu tue des prostituées avec lesquelles il a eu des relations, il peut récupérer son argent :  *« When a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back »* *(Effects of exposure to sex-stereotyped video game characters on tolerance of sexual harassment*,2008). En mai 2024, GTA V s'est écoulé à près de 200 millions d'exemplaires, le plaçant à la deuxième place des jeux les plus vendus de tous les temps ([BFMTV](https://www.bfmtv.com/tech/gaming/gta-v-plus-de-10-ans-apres-sa-sortie-le-jeu-reste-l-un-des-plus-vendus-en-france_AV-202403210231.html#:~:text=Plus%20d%27une%20décennie%20après,s%27imposer%20à%20ce%20jour.)). 
+De plus, le Geena Davis Institute révèle que les femmes dans les jeux sont dix fois plus susceptibles d’être montrées en vêtements sexualisants ou dans des situations de nudité par rapport aux hommes. Des jeux comme *Grand Theft Auto* (GTA) renforcent ces clichés : par exemple, le joueur peut tuer des prostituées pour récupérer son argent, une dynamique qui banalise la violence sexuelle : *« When a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back »* *(Effects of exposure to sex-stereotyped video game characters on tolerance of sexual harassment*,2008). En mai 2024, GTA V comptait près de 200 millions de copies vendues, le plaçant parmi les jeux les plus populaires de tous les temps.
 
 <img src="IMAGES\GTA-V.jpg" alt="GTA-V" />
 
+Les hommes parlent en moyenne deux fois plus que les femmes, et lorsque les femmes s'expriment, c'est rarement entre elles. Et comme le souligne cette observation faites par des chercheurs de l'Université de Glasgow
 
+[^9]: Dr Stephanie Rennick & Dr Seán G. Roberts, "Largest study of video games reveals men say twice as much as women", 24 may 2023
 
-- conçu originellement ‘‘pour les hommes’’,
+ *"Some games let the player choose their character’s gender, but even choosing a female main character did not lead to more than 50% female dialogue in over half of these games."* De plus, lorsqu'elles prennent la parole, leurs répliques tendent souvent à renforcer des stéréotypes de genre : elles s’excusent, adoptent des postures polies ou flirteuses, perpétuant une vision limitée des femmes dans l’univers vidéoludique.
 
-  
+[^9]: 
 
-- Largest study of video games reveals men say twice as much as women, https://www.gla.ac.uk/news/archiveofnews/2023/may/headline_966589_en.html : Le résultat est sans appel : les hommes parlent en moyenne deux fois plus que les femmes. Plus édifiant encore, seuls 3 jeux sur 50 contenaient 50% de dialogues énoncés par des personnages féminins (en moyenne, la part de dialogues laissés aux femmes est de 35,16%). Et quand les femmes parlent, elles perpétuent plus largement des stéréotypes de genre : elles sont plus susceptibles d’être polies, de s’excuser, de flirter, ou encore de s’adresser exclusivement à des personnages masculins plutôt qu’à d’autres femmes
+On peut se référer au *Test de Bechdel* qui met en évidence la surreprésentation de protagonistes masculins. Ce test repose sur trois critères : 
 
-- The study also found imbalances in who characters speak to. Male characters tend to talk to other male characters, but women talk to other women less than expected by chance, even factoring in the number of lines and female characters. This is similar to the pattern seen in many films that fail to pass the Bechdel test.
+[^10]: « À votre avis, combien de films cannois respectent VRAIMENT l'égalité homme-femme ? », *[Le Huffington Post](https://fr.wikipedia.org/wiki/Le_HuffPost)*,‎ 19 mai 2018 ([lire en ligne](https://www.huffingtonpost.fr/2018/05/19/cannes-2018-a-votre-avis-combien-de-films-respectent-vraiment-legalite-homme-femme_a_23438484/?utm_hp_ref=fr-homepage) [[archive](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.huffingtonpost.fr%2F2018%2F05%2F19%2Fcannes-2018-a-votre-avis-combien-de-films-respectent-vraiment-legalite-homme-femme_a_23438484%2F%3Futm_hp_ref%3Dfr-homepage)]).
 
-- female characters are more likely to apologise, hesitate or be polite, perpetuating stereotypes about gendered behaviour
+- Y-a-t-il aux moins deux personnages féminins qui portent un nom?
+- Ces deux personnages parlent-ils ensemble?
+- Si oui, ces femmes parlent-elles d'autre chose que d'un homme?
 
-- Some games let the player choose their character’s gender, but even choosing a female main character did not lead to more than 50% female dialogue in over half of these games.
+Malgré des critères relativement bas, de nombreux jeux ne parviennent pas à franchir ce test, révélant ainsi la marginalisation des personnages féminins.
 
-- More dialogue doesn’t guarantee better gender representation. In the recent remake of Final Fantasy VII, the female character Jessie has 10 times more dialogue than in the original, but most of it is spent flirting with the main character.
+#### 1.7 L'inexistante
 
-#### 1.7 L'inexistant.e
+Cette marginalisation s’accentue davantage encore lorsque l'on prend en compte les personnages féminins racisés. Ceux-ci sont souvent inexistants ou cantonnés à des rôles de second plan stéréotypés. Cela reflète le phénomène d’intersectionnalité, qui désigne le cumul de plusieurs formes de discriminations — ici, le genre et la race — s’entremêlant et se renforçant. Dans cette section, je me concentre donc plutôt sur l'intersection genre et race, bien qu’il existe d’autres formes d’intersectionnalités tout aussi pertinentes, incluant la classe sociale, l’orientation sexuelle, la religion ou le handicap.
 
-Les joueurs que j’ai interrogés consacrent pour la plupart entre 10 et 15 heures par semaine au gaming et se considèrent donc comme de "gros joueurs". Pourtant, même pour eux, la tâche de nommer un personnage racisé, en particulier féminin, s'avère difficile, voire impossible. Cette quasi-invisibilité des personnages féminins racisés notables révèle en partie le phénomène d’intersectionnalité, qui désigne le cumul de plusieurs formes de discriminations — ici, le genre et la race — qui se superposent et donc se renforcent. Par souci de concision, je me suis plus penchée sur l'intersection genre et race, bien que de nombreuses autres existent (la classe sociale, l'orientation sexuelle, la religion, l'handicape, etc.)
+Les joueurs que j’ai interrogés, consacrant pour la plupart entre 10 et 15 heures par semaine aux jeux vidéo, se considèrent comme des "gros joueurs". Pourtant, même pour eux, nommer un personnage féminin racisé emblématique s’avère difficile, voire impossible, témoignant de cette quasi-invisibilité et du manque de représentation significative.
 
 Lorsque je demandais aux participants de citer des personnages issus de minorités, certains noms revenaient souvent : Altaïr dans *Assassin's Creed* pour représenter l’homme arabe, Barret dans *Final Fantasy VII* pour l’homme noir, ou Lara Croft dans *Tomb Raider* pour la femme blanche. Au-delà de ces figures emblématiques, les réponses prenaient souvent une tournure stéréotypée : "*Ahhh, mais si, il y a Prince of Persia, je suis bête, il y a forcément des personnages arabes dedans*" ou encore "*Je me rappelle d'un marchand arnaqueur, mais je me souviens plus de son nom*" dans *Le Chevalier de Baphomet*. Ce type de réponse souligne combien les personnages racisés restent confinés à des représentations caricaturales. Quant aux personnages féminins racisés, ils sont encore plus rares et presque invisibles : *"Une meuf avec qui tu travailles dans la campagne de Call of Duty"* ou encore *"Une miss qui fait du vaudou dans Monkey Island 2"*.  Toutes les réponses, parlantes à elles seules, sont regroupées dans le tableau à la page suivante. 
 
