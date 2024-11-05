@@ -241,34 +241,15 @@ Ces différents éléments, associés de manière répétée au terrorisme ou à
 
 #### 1.5 La demoiselle en détresse
 
-En parallèle des stéréotypes liées à ethnicité, les jeux exploitent également des archétypes de genre, renforçant des rôles souvent limités et traditionnels pour les personnages féminins. L'image de la *demoiselle en détresse*, par exemple, est un autre stéréotype couramment utilisé. La stéréotypisation est liée autant à l'apparence qu'aux rôles et aux attitudes qu'elles possèdent. Dans des jeux comme *Super Mario* ou *The Legend of Zelda*, la femme, représentée comme une princesse, devient un personnage passif dont la seule mission est de se faire sauver par un héros masculin, incarné par le joueur. 
+Parallèlement aux stéréotypes liés à l'ethnicité, les jeux vidéo exploitent également des archétypes de genre, imposant des rôles souvent limités et traditionnels aux personnages féminins. L'image de la *demoiselle en détresse* constitue un exemple classique de ce type de stéréotype, dans lequel la stéréotypisation s'appuie autant sur l'apparence que sur le rôle et l'attitude des personnages. Dans des jeux comme *Super Mario* ou *The Legend of Zelda*, la femme, incarnée par une princesse, devient un personnage passif dont la seule mission est d'attendre d’être sauvée par un héros masculin, incarné par le joueur.
 
-On peut aussi noter que leur fonction se trouve dans leur nom : Princesse Peach, Princesse Zelda, contrairement aux "héros" : Mario, Link, qui ont eux de vrais prénoms. Elles sont limitées à leur fonction de princesse. 
+Le nom de ces personnages souligne également leur fonction limitée : *Princesse Peach* et *Princesse Zelda*, réduites à leur statut de princesse, contrastent avec les héros comme *Mario* et *Link*, qui portent des prénoms distincts, leur donnannt davantage d’individualité. De la même manière, Amy Rose, personnage secondaire de la série *Sonic the Hedgehog*, illustre un autre stéréotype féminin : son principal objectif est de trouver un amoureux, de préférence le héros. Selon le site [Great Characters Wiki](https://great-characters.fandom.com/)  : "*Amy is a cheerful, though slightly erratic girl, with a positive attitude and boundless energy. However, she has a scary temper and her infatuation with Sonic makes her shortsighted and a bit obsessive about him, having followed him everywhere since meeting him.*"
 
-On peut aussi citer Amy Rose, personnage secondaire de la série de jeux vidéo *Sonic the Hedgehog*. Son seul objectif est le suivant : se trouver un amoureux, de préférence le héro. 
-
-
-
-Une femme avec un objectif de vie moderne, dont le nom rappelle sa sexualité. Au cas où..
-Rose, la couleur encore la douceur et le rose toujours associé à la gente féminine.
-
-Que ce soit Princess Peach ou Amy Rose, on retrouve 2 problèmes principaux : l’omniprésence du rose et une tenue explicitement féminine sociétale.
-
-Les créateurs ne CESSENT de nous rappeler que ce sont des filles (et non des femmes) et, par définition, des personnages moins forts que leurs héros
+Leur apparence véhicule aussi une certaine uniformité : toutes portent des robes roses, couleur associée à la douceur et traditionnellement liée à la féminité.
 
 <img src="IMAGES\Zelda.jpg" alt="Zelda" width="300" /><img src="IMAGES\Peach.png" alt="Peach" width="300" /><img src="IMAGES\Amy-Rose.jpg" alt="Amy-Rose" width="200"  />
 
-Les personnages féminins tendent pour leur part à avoir une palette de rôles assignés très spécifique et fortement stéréotypée : en effet, les personnages féminins sont généralement caricaturalement dichotomisés. D’un côté, il est possible d’identifier le rôle de ‘‘l’innocente’’ ou de la ‘‘vierge’’. De l’autre côté, l’on dénote le rôle de la ‘‘provocatrice’’,renvoyant au stéréotype de la femme tentatrice et objet de désir sexuel
-
-==> permet de passer à la partie suivante 
-
-
-
-
-
-- 
-- l’hypermasculinité et l’hyperféminité. Alors que l’hypermasculinité se définit comme « the exaggeration of ‘‘macho’’ characteristics, specifically hardened sexual attitudes toward romantic partners, a desire for action and danger, and the acceptance of physical violence as a part of male nature » (Dill et Thill 2007, p. 852), l’hyperféminité renvoie à « amplification of female stereotypes, with an emphasis on dependence, submissiveness, and sexuality as the basis of a woman’s value » (Dill et Thill, 2007, p. 852).
-- 
+En général, les personnages féminins se voient attribuer des rôles très spécifiques et fortement stéréotypés. D'un côté, on trouve le rôle de la "vierge innocente", ou de la "princesse à sauver", tel qu'illustré précédemment. De l'autre, on observe le rôle de la "provocatrice", qui fait écho au stéréotype de la femme tentatrice, représentée comme un objet de désir sexuel, que nous allons traiter au chapitre suivant. 
 
 #### 1.6 L'aguicheuse 
 
