@@ -16,6 +16,22 @@ C'est dans cet esprit que je mène cette recherche. Mon objectif est de comprend
 
 ### 1. Médias et stéréotypes
 
+Qu'est-ce qu'un stéréotype : 
+
+- Dans les sciences sociales, la notion de stéréotype s’est principalement développée à travers le champ de la psychologie sociale15, et plus particulièrement par l’intermédiaire du journaliste américain Walter Lippmann, qui, dans son livre Public Opinion, originellement paru en 1922, estimait que les stéréotypes étaient des « pictures in our heads » (Lippmann, 2010)16
+
+- Ainsi, les stéréotypes — ou représentations collectives figées17 — contribuent à la création de catégories auxquels les individus se rattachent. La couleur de peau, la profession exercée, l’origine ethnique, l’appartenance à un sexe (etc.) sont des catégories permettant à l’individu de se définir.
+
+- dans les sciences sociales, à une incompréhension de la signification de la notion de stéréotype, souvent considérée comme équivalente au terme ‘‘préjugé’’.
+
+- le préjugé apparaît comme une attitude19 ou une tendance émotionnelle considérée comme plus péjorative et plus chargée affectivement que la notion de stéréotype. Autrement dit, alors que le stéréotype d’un groupe de personne (ex. les ‘‘Noirs’’, les ‘‘Japonais’’, etc.) représente « l’image collective qui en circule, l’ensemble des traits caractéristiques qu’on lui attribue (…), le préjugé serait la tendance à juger défavorablement un Noir, un Japonais ou un Allemand par le seul fait de son appartenance de groupe » (Amossy et Herschberg-Pierrot, 2011, p. 25).
+
+- tous les stéréotypes ne sont pas à considérer comme essentiellement péjoratifs et peuvent notamment être liés à une identité sociale considérée comme positive. À présent, nous nous intéresserons plus particulièrement aux stéréotypes de genre et à la relation qu’ils entretiennent avec différents médias (télévision, clips, magazines, etc.) qui tendent à les véhiculer. => les médias contribuent à forger notre représentation mentale de certains groupes.
+
+  
+
+Source : Exposition régulière à des personnages de jeux vidéo stéréotypés : nocivité et régulation étatique : l'esquisse d'une proposition libérale d'intervention. Colaco, Joris Manuel
+
 #### 1.1 Les minorités dans les médias traditionnels 
 
 Pour saisir le rôle des jeux vidéo dans la perpétuation des clichés et des stéréotypes, il est essentiel de d'abord examiner les médias traditionnels, tels que la télévision, le cinéma ou la presse, qui ont établi les bases de ces représentations biaisées. 
@@ -36,7 +52,7 @@ En dehors des dessins animés, ces rôles stéréotypés se manifestent de mani�
 
 Cette dynamique de représentation et d’influence dans les médias traditionnels nous amène à nous interroger sur la manière dont le jeu vidéo, en tant que média interactif, s'inscrit dans ce schéma. 
 
-
+- « la vision que l’on se fait d’un groupe est le résultat d’un contact répété avec des représentations tantôt construites de toutes pièces, tantôt filtrées par le discours des médias » (Amossy et Herschberg-Pierrot, 2011, p. 26).
 
 Références : 
 
@@ -227,15 +243,25 @@ Ces différents éléments, associés de manière répétée au terrorisme ou à
 
 Princesse à aller sauver  -> Princesse Peach, représentant le stéréotype de la femme passive qui doit être sauvée par un héros masculin (& blanc)
 
+- *la stéréotypisation des personnages de jeux vidéo n’est pas seulement liée à leur apparence, mais notamment aux rôles et aux caractères/attitudes qu’ils possèdent. En effet, plusieurs études montrent que les personnages masculins possèdent plus fréquemment le rôle du ‘‘héros de l’histoire’’ que les personnages féminins. En effet, ces derniers se voient plus souvent relayés à des rôles secondaires11 et fortement stéréotypés (Lynch et al., 2016), comme celui de la ‘‘princesse fragile’’ qui n’a que pour seule fonction d’attendre le sauvetage d’un personnage masculin (ex. la princesse Peach dans le jeu Mario Bross) (Dill et Thill, 2007). Ce type de représentation pourrait ainsi contribuer à la fixation d’une identité ‘‘masculine’’ et ‘‘féminine’’ fortement dichotomisée, et calquée sur un modèle traditionnel des rôles de genre, privilégiant la domination sociale de l’homme (Amossy et Herschberg-Pierrot, 2011).*
+- l’hypermasculinité et l’hyperféminité. Alors que l’hypermasculinité se définit comme « the exaggeration of ‘‘macho’’ characteristics, specifically hardened sexual attitudes toward romantic partners, a desire for action and danger, and the acceptance of physical violence as a part of male nature » (Dill et Thill 2007, p. 852), l’hyperféminité renvoie à « amplification of female stereotypes, with an emphasis on dependence, submissiveness, and sexuality as the basis of a woman’s value » (Dill et Thill, 2007, p. 852).
+- les personnages féminins tendent pour leur part à avoir une palette de rôles assignés très spécifique et fortement stéréotypée : en effet, les personnages féminins sont généralement caricaturalement dichotomisés. D’un côté, il est possible d’identifier le rôle de ‘‘l’innocente’’ ou de la ‘‘vierge’’. De l’autre côté, l’on dénote le rôle de la ‘‘provocatrice’’,renvoyant au stéréotype de la femme tentatrice et objet de désir sexuel
+- En effet, les apparences stéréotypées masculines mettent en avant des personnages aux physiques démesurément musclés. Par exemple, l’étude de Dill et Thill (2007) mesure l’hypermasculinité à travers le fait qu’un personnage masculin présente des caractéristiques physiques exagérées au niveau de certains muscles (tour de bras ou pectoraux surdéveloppés), ou encore à travers certaines postures ou expressions faciales représentant le pouvoir et la domination (p. 856).
+  Les apparences stéréotypées féminines et l’hyperféminité sont pour leur part généralement mesurées à travers des caractéristiques physiques renvoyant à l’idéal de la beauté qu’Harrison (2003) appelle ‘‘curvaceous thin’’. Cet idéal est sans doute le mieux représenté par l’exemple de la femme au tour de poitrine extrêmement important et au faible tour de taille (Dill et Thill, 2007, p.852).
+- l’étude de Beasley et Standley (2002), portant à la fois sur des jeux pour adultes et pour adolescents, montre que 86 % des personnages féminins sont représentés avec des décolletés fortement révélateurs contre seulement 14 % des personnages masculins(Les auteurs parlent ici de tenues masculines permettant par exemple de laisser entrevoir un corps bien musclé.)
+- Plus récemment, Lynch et al. (2016) relèvent que la sexualisation des personnages féminins demeure toujours plus importante que celles des personnages masculins, mais semble néanmoins avoir perdu en intensité au cours des 30 dernières années
+- l’auto-objectification
+- Grand Theft Auto (GTA) (Collin, Brown et Collins, 2008). Cette dernière est fortement représentative de la violence faite aux femmes étant donné qu’elle incite/récompense le joueur à entretenir de tels comportements : si le héros du jeu tue des prostituées avec lesquelles il a eu des relations sexuelles, il peut récupérer son argent. « [w]hen a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back » (p. 1403).
+- conçu originellement ‘‘pour les hommes’’,
+- études citées : participants la plupart sont des universitaires de premiers cycles aux États-Unis
+
 #### 1.6 L'inexistant.e
 
 Les joueurs que j’ai interrogés consacrent pour la plupart entre 10 et 15 heures par semaine au gaming et se considèrent donc comme de "gros joueurs". Pourtant, même pour eux, la tâche de nommer un personnage racisé, en particulier féminin, s'avère difficile, voire impossible. Cette quasi-invisibilité des personnages féminins racisés notables révèle en partie le phénomène d’intersectionnalité, qui désigne le cumul de plusieurs formes de discriminations — ici, le genre et la race — qui se superposent et donc se renforcent. Par souci de concision, je me suis plus penchée sur l'intersection genre et race, bien que de nombreuses autres existent (la classe sociale, l'orientation sexuelle, la religion, l'handicape, etc.)
 
-Lorsque je demandais aux participants de citer des personnages issus de minorités, certains noms revenaient souvent : Altaïr dans *Assassin's Creed* pour représenter l’homme arabe, Barret dans *Final Fantasy VII* pour l’homme noir, ou Lara Croft dans *Tomb Raider* pour la femme blanche. Au-delà de ces figures emblématiques, les réponses prenaient souvent une tournure stéréotypée : "*Ahhh, mais si, il y a Prince of Persia, je suis bête, il y a forcément des personnages arabes dedans*" ou encore "*Je me rappelle d'un marchand arnaqueur, mais je me souviens plus de son nom*" dans *Le Chevalier de Baphomet*. Ce type de réponse souligne combien les personnages racisés restent confinés à des représentations caricaturales. Quant aux personnages féminins racisés, ils sont encore plus rares et presque invisibles : *"Une meuf avec qui tu travailles dans la campagne de Call of Duty"* ou encore *"Une miss qui fait du vaudou dans Monkey Island 2"*.  Toutes les réponses, parlantes à elles seules, sont regroupées dans le tableau à la page suivante
+Lorsque je demandais aux participants de citer des personnages issus de minorités, certains noms revenaient souvent : Altaïr dans *Assassin's Creed* pour représenter l’homme arabe, Barret dans *Final Fantasy VII* pour l’homme noir, ou Lara Croft dans *Tomb Raider* pour la femme blanche. Au-delà de ces figures emblématiques, les réponses prenaient souvent une tournure stéréotypée : "*Ahhh, mais si, il y a Prince of Persia, je suis bête, il y a forcément des personnages arabes dedans*" ou encore "*Je me rappelle d'un marchand arnaqueur, mais je me souviens plus de son nom*" dans *Le Chevalier de Baphomet*. Ce type de réponse souligne combien les personnages racisés restent confinés à des représentations caricaturales. Quant aux personnages féminins racisés, ils sont encore plus rares et presque invisibles : *"Une meuf avec qui tu travailles dans la campagne de Call of Duty"* ou encore *"Une miss qui fait du vaudou dans Monkey Island 2"*.  Toutes les réponses, parlantes à elles seules, sont regroupées dans le tableau à la page suivante. 
 
-Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage tend à devenir le représentant unique de toute sa communauté, réduisant la diversité interne de ce groupe. Dans cette logique, un homme noir devient souvent "le meilleur ami du protagoniste," l'homme arabe est systématiquement perçu comme violent, et l’homme gay est toujours efféminé. En réduisant un personnage à son appartenance ethnique ou sexuelle, on finit par réduire l’ensemble de la communauté dans des caractéristiques stéréotypées, ignorant toute sa diversité et renforçant des clichés persistants.
-
-
+Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage tend à devenir le représentant unique de toute sa communauté, réduisant la diversité interne de ce groupe. Dans cette logique, un homme noir devient souvent "le meilleur ami du protagoniste," l'homme arabe est systématiquement perçu comme violent, et l’homme gay est toujours efféminé. En réduisant un personnage à son appartenance ethnique ou sexuelle, on finit par réduire l’ensemble de la communauté dans des caractéristiques, ignorant toute sa diversité et renforçant des clichés persistants.
 
 |                     | Lionel                                                       | Myriam                                              | Steve                             | Kevin      | Andy                           | Gab                              | Lucas                                   | Enzo |
 | ------------------- | ------------------------------------------------------------ | --------------------------------------------------- | --------------------------------- | ---------- | ------------------------------ | -------------------------------- | --------------------------------------- | ---- |
@@ -252,32 +278,48 @@ Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage t
 
  Pour ceux qui ont nommés Solid Snake & Lara Croft = peut être du au fait qu'ils étaient présents dans l'interview 
 
+
+
+Conck^lusion
+
+- comme l’a démontré l’étude de Dill et Thill (2007), les personnages masculins endossent une palette de rôles divers et variés, qui ne se résume pas à confirmer les stéréotypes de rôles généralement attribués aux hommes, à savoir les rôles du guerrier ou du super-héros (p. 869)
+
 ### 
 
-### 2. L'impact de l'exposition régulière à des personnages stéréotypés
+### 2. L'impact de l'exposition régulière à des personnages stéréotypés sur l'identité des joueurs et les perceptions sociales
 
-- Exposition régulière à des personnages de jeux vidéo stéréotypés :
-  nocivité et régulation étatique : l'esquisse d'une proposition libérale
-  d'intervention
+#### 
 
-- médias contribuent à forger notre représentation mentale de certains groupes, même si on en fait parti ---> Kevin & Andy
-
-COLACO, Joris Manuel. Exposition régulière à des personnages de jeux vidéo stéréotypés : nocivité et
-régulation étatique : l’esquisse d’une proposition libérale d’intervention. Master, 2018.
-
-#### 2.1 Sur la perception sociale
+médias contribuent à forger notre représentation mentale de certains groupes, même si on en fait parti ---> Kevin & Andy
 
 
 
-#### 2.2 Sur l'identité des joueurs
+- le développement d’un certain nombre de problèmes de santé physique ou psychologique chez les joueuses (anorexie, dépression, honte corporelle, dépréciation de ses propres compétences, etc.) découlant en grande partie du phénomène d’auto-objectification, qui implique un excès de contrôle de sa propre apparence physique (Yao, Mahood et Linz, 2010 ; Fox et al., 2013 ; Fox et al., 2015).
+- L’étude de Behm-Morawitz et Mastro (2009) a cherché à intégrer les dimensions individuelles et sociales à travers une étude portant sur les effets des représentations plus ou moins sexualisées de personnages de jeux vidéo. Cette étude a été menée auprès de 328 étudiants27 (N=328) d’une université du Sud-ouest américain et a constaté que les femmes qui jouaient avec une héroïne sexualisée (Lara Croft) voyaient leur perception d’elles-mêmes
+  27 Les élèves ont été choisis aux hasards et répartis aléatoirement en trois groupes : le premier groupe jouait avec une héroïne ‘‘sexualisée’’, le second groupe une héroïne ‘‘non-sexualisée’’ et le troisième (groupe de contrôle) n’a pas joué au jeu vidéo. Les élèves ont ensuite eu à répondre à différents questionnaires sur leurs attitudes et croyances en termes de genre, afin de mesurer s’ils percevaient des différences homme-femme au niveau de leurs capacités cognitives, leurs capacités physiques, leurs apparences et leurs rôles de genre (ex. travailler à la maison versus faire une carrière professionnelle) (Behm-Morawitz et Mastro, 2009).
+  19
+  en matière de sentiment d’efficacité personnelle28 largement inférieur à celui des femmes qui jouaient avec une héroïne non sexualisée (niveau individuel). Cela peut être en partie expliqué par le fait que l’intériorisation des stéréotypes de genre « is related to lower feelings of efficacy, and this decreased self-efficacy is a function of holding stereotypic beliefs—not a person’s actual capabilities » (p. 810).
+  De plus, cette même étude a notamment constaté auprès des hommes comme des femmes, que le fait d’endosser un personnage féminin sexualisé était susceptible de renforcer la croyance selon laquelle les capacités cognitives des femmes étaient limitées, comparativement à ceux qui n’avaient pas du tout joué aux jeux vidéo ou ceux qui avaient joué avec des personnages féminins non sexualisés (niveau social) (Behm-Morawitz et Mastro, 2009, p.817). En d’autres termes, le fait d’incarner un personnage féminin sexualisé peut tendre à la fois à dégrader la perception que les femmes ont d’elles-mêmes en matière de capacités cognitives (niveau individuel), et à la fois à renforcer la croyance selon laquelle les femmes seraient cognitivement limitées (niveau social).
+- Les auteurs restent néanmoins prudents quant à la portée de leur résultat, étant donné qu’il ne s’agissait que d’une étude expérimentale. De plus, il convient de noter que cette étude n’a cherché à analyser les effets de l’intériorisation des stéréotypes de genre que d’un seul jeu vidéo, à savoir Tomb Raider : Legend (2006).
 
-
-
-
+- auto-objectification :
+  ➢ Troubles alimentaires30
+  ➢ Dépression31
+  ➢ Préoccupation corporelle accrue (peur de ne pas être conforme aux idéaux de la beauté)32
+  ➢ Diminution de la performance cognitive33
+- l’étude de Yao, Mahood et Linz (2010) a montré que les étudiants34 ayant été exposés à des jeux vidéo qui objectifiaient les femmes, contrairement à ceux qui avaient été assignés aux jeux non objectifiant, « may prime thoughts related to sex, encourage men to view women as sex objects, and lead to self reported, tendencies to behave inappropriately towards women in social situations » (Yao, Mahood et Linz, 2010, p.77).
+- l’effet Proteus37. Cet effet, qui trouve son origine dans la théorie de la perception de soi de Bem (1972), se produit lorsque la représentation qu’un joueur se fait de lui-même est modifiée significativement par l’avatar qu’il incarne.
+- Par exemple, puisque le fait de posséder une plus grande taille est perçu dans la société comme étant lié à une plus grande compétence (Young et French, 1996, cité par Yee et Bailenson, 2007, p. 276), certaines études montrent que le fait de posséder un avatar de grande taille rend l’utilisateur plus confiant lorsqu’il entre en négociation avec d’autres avatars, peu importe sa véritable taille dans le monde ‘‘réel’’.lorsque l’utilisateur possède un avatar attrayant, son attitude est généralement plus extravertie avec les autres (Yee et Bailenson, 2007, p. 276).
+- Comme le dénotent Fox et al. (2013), les mythes autour du viol sont des croyances répandues qui visent à donner des ‘‘justifications à un viol’’. En d’autres termes, si une femme a été violée, c’est ‘‘parce qu’elle l’a cherchée’’ à travers son comportement (ex. boire de l’alcool, sortir tard le soir, s’habiller de façon ‘‘provocante’’, avoir des ‘‘moeurs légères’’, etc.) ===> L’intériorisation de ces croyances, qui tendent à banaliser et à légitimer le viol, peuvent contribuent à renforcer certaines croyances et attitudes sexistes chez les hommes comme chez les femmes ==>L’étude de Fox, Bailenson et Tricase (2013) et l’étude de Fox, Ralston, Cooper et Jones (2015) ont confirmé, à travers l’effet Proteus, que les joueurs incarnant un avatar féminin sexualisé avaient tendance à accepter plus facilement les mythes autour du viol que celles qui incarnaient des avatars non sexualisés.
+- L’étude de Dill, Brown et Collins (2008)(L’étude porte sur un échantillon d’étudiants composé de 181 individus (N=181), dont 120 femmes et 61 hommes. Cette étude a été effectuée auprès d’étudiants d’un collège privé en Caroline du Nord, suivant un cours d’introduction à la psychologie) cherche à comprendre si l’exposition à des personnages de jeux vidéo stéréotypés contribue à renforcer la tolérance à des comportements de harcèlement sexuel à court terme et à long terme :premier groupe a été exposé à des images de personnages de jeux vidéo sexuellement stéréotypés et le second (groupe témoin) à des professionnels connus - membre du congrès ou parlement américains - habillés en tenue de travail non provocatrice. 
+- Après avoir été soumis aux stimuli visuels, les participants ont eu à lire une histoire réelle de harcèlement sexuel entre un professeur d’université et son étudiante, pour ensuite répondre à un questionnaire ayant pour objectif de mesurer leur degré de tolérance au harcèlement sexuel (Dill et Collins, 2008, p. 1404).
+  L’étude a montré que l’exposition à court terme à des images fortement sexualisées contre l’exposition à des images de ‘‘professionnels’’ a révélé une plus grande tolérance aux harcèlements (de la jeune femme vis-à-vis de son professeur) pour l’ensemble des groupes.
 
 ## III. Le marketing de la diversité 
 
 ### 1. Entre inclusion et opportunisme commercial - Polémiques et tout
+
+
 
 - L'intégration de personnages de minorités est parfois perçue comme une réponse forcée à la demande de diversité, suscitant des critiques sur le "tokenisme".
 - **Tokenisme** (Shani Orgad) : L'inclusivité devient un outil marketing plutôt qu'un véritable effort d'authenticité culturelle.
@@ -330,6 +372,8 @@ Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cin�
 - **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther, Baromètre de la diversité CSA 
 
 A mettre quelque part : Ces représentations simplifiées et caricaturales des minorités se heurtent à un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France, ce qui renforce l’ancrage de ces stéréotypes dans l’imaginaire collectif. 
+
+- Le rôle de l'Etat
 
 ## Conclusion
 - **Synthèse des résultats** : Le double rôle des jeux vidéo dans la reproduction et la déconstruction des stéréotypes concernant les minorités.
