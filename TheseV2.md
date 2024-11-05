@@ -247,24 +247,28 @@ Au-delà du choix vestimentaire peu réaliste, les développeurs ont volontairem
 
 <img src="IMAGES\lara-croft.jpg" alt="lara-croft"/>
 
-Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Plus récemment, une étude menée par Lynch et al. en 2016 (*Sexy, Strong, and Secondary: A Content Analysis of Female Characters in Video Games Across 31 Years*, 2016) relèvent une tendance similaire, bien que la sexualisation ait diminué en intensité ces trente dernières années.
+Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Il faut tout de même noter que la sexualisation des femmes ont diminuées ces trente dernières années, bien que toujours très présente (*Sexy, Strong, and Secondary: A Content Analysis of Female Characters in Video Games Across 31 Years*, 2016) 
 
-Dans son rapport, le [Geena Davis Institute](https://seejane.org/research-informs-empowers/changing-the-narrative-why-representation-in-video-games-matters/) démontre que les femmes ont dix fois plus de chance d’être montrées dans des vêtements sexualisant que les personnages masculins, et dix fois plus de chance d’apparaître dans des situations de nudité.
+Dans son rapport, le [Geena Davis Institute](https://seejane.org/research-informs-empowers/changing-the-narrative-why-representation-in-video-games-matters/) démontre que les femmes ont dix fois plus de chance d’être montrées dans des vêtements sexualisant ou dans des situations de nudité que les personnages masculins.
 
+Le célèbre jeu Grand Theft Auto (GTA), perpétue des clichés très problématiques liés aux femmes. Par exemple, si le héro du jeu tue des prostituées avec lesquelles il a eu des relations, il peut récupérer son argent :  *« When a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back »* *(Effects of exposure to sex-stereotyped video game characters on tolerance of sexual harassment*,2008). En mai 2024, GTA V s'est écoulé à près de 200 millions d'exemplaires, le plaçant à la deuxième place des jeux les plus vendus de tous les temps ([BFMTV](https://www.bfmtv.com/tech/gaming/gta-v-plus-de-10-ans-apres-sa-sortie-le-jeu-reste-l-un-des-plus-vendus-en-france_AV-202403210231.html#:~:text=Plus%20d%27une%20décennie%20après,s%27imposer%20à%20ce%20jour.)). 
 
-
-- Grand Theft Auto (GTA) (Collin, Brown et Collins, 2008). Cette dernière est fortement représentative de la violence faite aux femmes étant donné qu’elle incite/récompense le joueur à entretenir de tels comportements : si le héros du jeu tue des prostituées avec lesquelles il a eu des relations sexuelles, il peut récupérer son argent. « [w]hen a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back » (p. 1403).
-
-  <img src="IMAGES\GTA-V.jpg" alt="GTA-V" />
+<img src="IMAGES\GTA-V.jpg" alt="GTA-V" />
 
 
 
 - conçu originellement ‘‘pour les hommes’’,
-- études citées : participants la plupart sont des universitaires de premiers cycles aux États-Unis
+
+  
+
 - Largest study of video games reveals men say twice as much as women, https://www.gla.ac.uk/news/archiveofnews/2023/may/headline_966589_en.html : Le résultat est sans appel : les hommes parlent en moyenne deux fois plus que les femmes. Plus édifiant encore, seuls 3 jeux sur 50 contenaient 50% de dialogues énoncés par des personnages féminins (en moyenne, la part de dialogues laissés aux femmes est de 35,16%). Et quand les femmes parlent, elles perpétuent plus largement des stéréotypes de genre : elles sont plus susceptibles d’être polies, de s’excuser, de flirter, ou encore de s’adresser exclusivement à des personnages masculins plutôt qu’à d’autres femmes
+
 - The study also found imbalances in who characters speak to. Male characters tend to talk to other male characters, but women talk to other women less than expected by chance, even factoring in the number of lines and female characters. This is similar to the pattern seen in many films that fail to pass the Bechdel test.
+
 - female characters are more likely to apologise, hesitate or be polite, perpetuating stereotypes about gendered behaviour
+
 - Some games let the player choose their character’s gender, but even choosing a female main character did not lead to more than 50% female dialogue in over half of these games.
+
 - More dialogue doesn’t guarantee better gender representation. In the recent remake of Final Fantasy VII, the female character Jessie has 10 times more dialogue than in the original, but most of it is spent flirting with the main character.
 
 #### 1.7 L'inexistant.e
