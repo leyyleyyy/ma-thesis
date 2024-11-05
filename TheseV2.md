@@ -245,11 +245,11 @@ En parallèle des stéréotypes liées à ethnicité, les jeux exploitent égale
 
 On peut aussi noter que leur fonction se trouve dans leur nom : Princesse Peach, Princesse Zelda, contrairement aux "héros" : Mario, Link, qui ont eux de vrais prénoms. Elles sont limitées à leur fonction de princesse. 
 
-On peut aussi citer Amy Rose, 
+On peut aussi citer Amy Rose, personnage secondaire de la série de jeux vidéo *Sonic the Hedgehog*. Son seul objectif est le suivant : se trouver un amoureux, de préférence le héro. 
 
 
 
-Amy Rose, son objectif dans la vie ? Se trouver un amoureux, si possible un héros ! Une femme avec un objectif de vie moderne, dont le nom rappelle sa sexualité. Au cas où..
+Une femme avec un objectif de vie moderne, dont le nom rappelle sa sexualité. Au cas où..
 Rose, la couleur encore la douceur et le rose toujours associé à la gente féminine.
 
 Que ce soit Princess Peach ou Amy Rose, on retrouve 2 problèmes principaux : l’omniprésence du rose et une tenue explicitement féminine sociétale.
