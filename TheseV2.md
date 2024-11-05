@@ -281,6 +281,12 @@ Lorsque je demandais aux participants de citer des personnages issus de minorit�
 
 Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage tend à devenir le représentant unique de toute sa communauté, réduisant la diversité interne de ce groupe. Dans cette logique, un homme noir devient souvent "le meilleur ami du protagoniste," l'homme arabe est systématiquement perçu comme violent, et l’homme gay est toujours efféminé. En réduisant un personnage à son appartenance ethnique ou sexuelle, on finit par réduire l’ensemble de la communauté dans des caractéristiques, ignorant toute sa diversité et renforçant des clichés persistants.
 
+À l’inverse, comme l’a démontré l’étude de Dill et Thill (2007)
+
+[^11]: Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles
+
+, les personnages masculins échappent davantage à cette rigidité de rôles : ils incarnent une diversité de rôles, allant bien au-delà du guerrier ou du super-héros auxquels les hommes sont souvent cantonnés. 
+
 |                     | Lionel                                                       | Myriam                                              | Steve                             | Kevin      | Andy                           | Gab                              | Lucas                                   | Enzo |
 | ------------------- | ------------------------------------------------------------ | --------------------------------------------------- | --------------------------------- | ---------- | ------------------------------ | -------------------------------- | --------------------------------------- | ---- |
 | **Homme blanc**     | Joël                                                         | Link                                                | Vaas Montenegro                   | Max Payne  | Arthur Morgan                  | Solid Snake                      | Solid Snake                             |      |
@@ -294,19 +300,15 @@ Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage t
 | **Homme asiatique** | Liu Kang                                                     | "Il y en a pas mal dans la licence Yakuza"          | "Dokai Bi"                        | Seikiro    | Kiryu                          |                                  | Sage                                    |      |
 | **Femme asiatique** |                                                              | "Il y en a pas mal dans la licence Yakuza"          |                                   | Sean Lee   | "L'héroïne dans Stellar Blade" |                                  | Sekira                                  |      |
 
- Pour ceux qui ont nommés Solid Snake & Lara Croft = peut être du au fait qu'ils étaient présents dans l'interview 
+*Pour ceux qui ont nommés le combo Solid Snake & Lara Croft = peut être du au fait qu'ils étaient présents dans l'interview*
 
 
 
 Conclusion
 
-- comme l’a démontré l’étude de Dill et Thill (2007), les personnages masculins endossent une palette de rôles divers et variés, qui ne se résume pas à confirmer les stéréotypes de rôles généralement attribués aux hommes, à savoir les rôles du guerrier ou du super-héros (p. 869)
-
-### 
+- 
 
 ### 2. L'impact de l'exposition régulière à des personnages stéréotypés sur l'identité des joueurs et les perceptions sociales
-
-#### 
 
 médias contribuent à forger notre représentation mentale de certains groupes, même si on en fait parti ---> Kevin & Andy
 
