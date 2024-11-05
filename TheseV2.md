@@ -283,7 +283,7 @@ Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage t
 
 À l’inverse, comme l’a démontré l’étude de Dill et Thill (2007)
 
-[^11]: Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles
+[^1]: 
 
 , les personnages masculins échappent davantage à cette rigidité de rôles : ils incarnent une diversité de rôles, allant bien au-delà du guerrier ou du super-héros auxquels les hommes sont souvent cantonnés. 
 
@@ -399,4 +399,6 @@ A mettre quelque part : Ces représentations simplifiées et caricaturales des m
 - **Perspectives futures** 
 
 
+
+[^1]: Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles
 
