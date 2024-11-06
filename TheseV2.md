@@ -124,7 +124,7 @@ La question de la "cohérence" des personnages est également révélatrice. Un 
 
 Cependant, un participant soulève une remarque allant à l’encontre des données de l’étude présentée dans le chapitre précédent, suggérant que les jeux récents montrent une diversité accrue invisibilisant ainsi les personnages blancs *"Dans les jeux jusqu'à 2016, c'est vrai qu'il n'y a pas de doute [que les hommes blancs dominaient]. Mais depuis, ce n'est plus le cas, surtout parce que les jeux se passent aux USA. Les mecs nuls dont on s'en fout, c'est des blancs. Le reste, c'est toutes les autres ethnies."*
 
-Cette Cette perception pose la question de savoir si l’augmentation de la diversité dans quelques jeux suffit à créer l’illusion que les personnages blancs disparaissent, alors qu’ils restent majoritaires. 
+Cette perception pose la question de savoir si l’augmentation de la diversité dans quelques jeux suffit à créer l’illusion que les personnages blancs disparaissent, alors qu’ils restent majoritaires. 
 
 #### 1.2 Le sauveur
 
@@ -245,9 +245,9 @@ Au-delà du choix vestimentaire peu réaliste, les développeurs ont volontairem
 
 <img src="IMAGES\lara-croft.jpg" alt="lara-croft"/>
 
-Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Il faut tout de même noter que la sexualisation des femmes ont diminuées ces trente dernières années, bien que toujours très présente (*Sexy, Strong, and Secondary: A Content Analysis of Female Characters in Video Games Across 31 Years*, 2016) 
+Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Le Geena Davis Institute révèle que les femmes dans les jeux sont dix fois plus susceptibles d’être montrées en vêtements sexualisants ou dans des situations de nudité par rapport aux hommes. Il faut tout de même noter que la sexualisation des femmes ont diminuées ces trente dernières années, bien que toujours très présente (*Sexy, Strong, and Secondary: A Content Analysis of Female Characters in Video Games Across 31 Years*, 2016) 
 
-De plus, le Geena Davis Institute révèle que les femmes dans les jeux sont dix fois plus susceptibles d’être montrées en vêtements sexualisants ou dans des situations de nudité par rapport aux hommes. Des jeux comme *Grand Theft Auto* (GTA) renforcent ces clichés : par exemple, le joueur peut tuer des prostituées pour récupérer son argent, une dynamique qui banalise la violence sexuelle : *« When a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back »* *(Effects of exposure to sex-stereotyped video game characters on tolerance of sexual harassment*,2008). En mai 2024, GTA V comptait près de 200 millions de copies vendues, le plaçant parmi les jeux les plus populaires de tous les temps.
+Des jeux comme *Grand Theft Auto* (GTA) renforcent ces clichés : par exemple, le joueur peut tuer des prostituées pour récupérer son argent, une dynamique qui banalise la violence sexuelle : *« When a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back »* *(Effects of exposure to sex-stereotyped video game characters on tolerance of sexual harassment*,2008). En mai 2024, GTA V comptait près de 200 millions de copies vendues, le plaçant parmi les jeux les plus populaires de tous les temps.
 
 <img src="IMAGES\GTA-V.jpg" alt="GTA-V" />
 
@@ -269,9 +269,15 @@ On peut se référer au *Test de Bechdel* qui met en évidence la surreprésenta
 
 Malgré des critères relativement bas, de nombreux jeux ne parviennent pas à franchir ce test, révélant ainsi la marginalisation des personnages féminins.
 
+À l’inverse, comme l’a démontré l’étude de Dill et Thill (2007)
+
+[^12]: Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles
+
+, les personnages masculins échappent davantage à cette rigidité de rôles : ils incarnent une diversité de rôles, allant bien au-delà du guerrier ou du super-héros auxquels les hommes sont souvent cantonnés. 
+
 #### 1.7 L'inexistante
 
-Cette marginalisation s’accentue davantage encore lorsque l'on prend en compte les personnages féminins racisés. Ceux-ci sont souvent inexistants ou cantonnés à des rôles de second plan stéréotypés. Cela reflète le phénomène d’intersectionnalité, qui désigne le cumul de plusieurs formes de discriminations — ici, le genre et la race — s’entremêlant et se renforçant. Dans cette section, je me concentre donc plutôt sur l'intersection genre et race, bien qu’il existe d’autres formes d’intersectionnalités tout aussi pertinentes, incluant la classe sociale, l’orientation sexuelle, la religion ou le handicap.
+Cette marginalisation s’accentue davantage lorsque l'on prend en compte les personnages féminins racisés. Ceux-ci sont souvent inexistants ou cantonnés à des rôles de second plan stéréotypés. Cela reflète le phénomène d’intersectionnalité, qui désigne le cumul de plusieurs formes de discriminations — ici, le genre et la race — s’entremêlant et se renforçant. Dans cette section, je me concentre donc plutôt sur l'intersection genre et race, bien qu’il existe d’autres formes d’intersectionnalités tout aussi pertinentes, incluant la classe sociale, l’orientation sexuelle, la religion ou le handicap.
 
 Les joueurs que j’ai interrogés, consacrant pour la plupart entre 10 et 15 heures par semaine aux jeux vidéo, se considèrent comme des "gros joueurs". Pourtant, même pour eux, nommer un personnage féminin racisé emblématique s’avère difficile, voire impossible, témoignant de cette quasi-invisibilité et du manque de représentation significative.
 
@@ -279,11 +285,7 @@ Lorsque je demandais aux participants de citer des personnages issus de minorit�
 
 Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage tend à devenir le représentant unique de toute sa communauté, réduisant la diversité interne de ce groupe. Dans cette logique, un homme noir devient souvent "le meilleur ami du protagoniste," l'homme arabe est systématiquement perçu comme violent, et l’homme gay est toujours efféminé. En réduisant un personnage à son appartenance ethnique ou sexuelle, on finit par réduire l’ensemble de la communauté dans des caractéristiques, ignorant toute sa diversité et renforçant des clichés persistants.
 
-À l’inverse, comme l’a démontré l’étude de Dill et Thill (2007)
 
-[^12]: Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles
-
-, les personnages masculins échappent davantage à cette rigidité de rôles : ils incarnent une diversité de rôles, allant bien au-delà du guerrier ou du super-héros auxquels les hommes sont souvent cantonnés. 
 
 |                     | Lionel                                                       | Myriam                                              | Steve                             | Kevin      | Andy                           | Gab                              | Lucas                                   | Enzo |
 | ------------------- | ------------------------------------------------------------ | --------------------------------------------------- | --------------------------------- | ---------- | ------------------------------ | -------------------------------- | --------------------------------------- | ---- |
