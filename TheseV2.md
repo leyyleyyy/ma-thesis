@@ -102,9 +102,7 @@ Certaines personnes interviewées perçoivent ce manque de diversité comme une 
 
 ### 1. Les archétypes
 
-Face à ces données révélatrices, il est crucial de se demander comment ces dynamiques se traduisent dans l'univers narratif. C'est ici que les archétypes prennent toute leur importance. Un archétype peut être défini comme un "*modèle primitif, idéal ou le plus répandu, exemple-type d'une situation ou d'une réalité donnée*" (L'internaute). L'absence de diversité parmi les personnages principaux résulte souvent de l'adoption de certains archétypes qui privilégient une vision stéréotypée et réductrice des individus issus de minorités, loin de refléter la richesse de la diversité humaine.
-
-Cette tendance à s'appuyer sur des archétypes simplistes renforce l'idée que les personnages issus de minorités doivent s'inscrire dans des cases prédéfinies. Ils sont ainsi cantonnés à des rôles stéréotypés qui nuisent à leur complexité et à leur représentativité.
+Face à ces données révélatrices, il est crucial de se demander comment ces dynamiques se traduisent dans l'univers narratif. C'est ici que les archétypes prennent toute leur importance. Un archétype peut être défini comme un "*modèle primitif, idéal ou le plus répandu, exemple-type d'une situation ou d'une réalité donnée*" (L'internaute). L'absence de diversité parmi les personnages principaux résulte souvent de l'adoption de certains archétypes qui privilégient une vision stéréotypée et réductrice des individus issus de minorités.
 
 Dans la section qui suit, nous explorerons plus en détail les différents archétypes présents dans les jeux vidéo et autres médias, en mettant en lumière comment ces modèles contribuent à la construction d'une vision limitée des personnages.
 
