@@ -197,10 +197,6 @@ Des exemples similaires se retrouvent également dans des séries et films qui s
 
 <img src="IMAGES\sex_education.jpeg" alt="sex_education" width="500" />
 
-On observe un schéma similaire dans le dessin animé *Miraculous Ladybug*. Ce qui distingue cette série d'animation de la précédente, c'est qu'elle parvient à intégrer des personnages issus de minorités sans en faire des stéréotypes. Cependant leur rôles restent secondaire, souvent limités à ceux d'amis aux personnages principaux.
-
-<img src="IMAGES\Miraculous.jpg" alt="Miraculous" width="500" />
-
 Il faut tout de même noter qu'une réelle évolution est en train de prendre place. Les boîtes de production sont de plus en plus conscientes de ces problématiques et font le nécessaire pour y remédier. La série *Lupin* sur Netflix, avec Omar Sy en tête d'affiche, en est un excellent exemple. Assane Diop, incarné par Sy, est un héros dont la couleur de peau ne définit pas le fond du personnage. *Lupin* est personnage principal racisé qui brille par sa complexité et son intelligence. 
 
 Des exemples de ce type deviennent plus fréquents dans les grosses productions au cinéma et la télévision, mais restent encore rares dans les jeux vidéos. 
@@ -245,35 +241,13 @@ Au-delà du choix vestimentaire peu réaliste, les développeurs ont volontairem
 
 <img src="IMAGES\lara-croft.jpg" alt="lara-croft"/>
 
-Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Le Geena Davis Institute révèle que les femmes dans les jeux sont dix fois plus susceptibles d’être montrées en vêtements sexualisants ou dans des situations de nudité par rapport aux hommes. Il faut tout de même noter que la sexualisation des femmes ont diminuées ces trente dernières années, bien que toujours très présente (*Sexy, Strong, and Secondary: A Content Analysis of Female Characters in Video Games Across 31 Years*, 2016) 
+Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Le Geena Davis Institute révèle que les femmes dans les jeux sont dix fois plus susceptibles d’être montrées en vêtements sexualisant ou dans des situations de nudité par rapport aux hommes. 
 
-Des jeux comme *Grand Theft Auto* (GTA) renforcent ces clichés : par exemple, le joueur peut tuer des prostituées pour récupérer son argent, une dynamique qui banalise la violence sexuelle : *« When a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back »* *(Effects of exposure to sex-stereotyped video game characters on tolerance of sexual harassment*,2008). En mai 2024, GTA V comptait près de 200 millions de copies vendues, le plaçant parmi les jeux les plus populaires de tous les temps.
+Des jeux comme *Grand Theft Auto* (GTA), en plus de renforcer ces clichés, participent à la culture du viol. Par exemple, le joueur peut tuer des prostituées pour récupérer son argent : *« When a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back »* *(Effects of exposure to sex-stereotyped video game characters on tolerance of sexual harassment*,2008). GTA V, avec près de 200 millions d’exemplaires vendus en mai 2024, est l’un des jeux les plus populaires, contribuant ainsi largement à la propagation de ces stéréotypes.
 
 <img src="IMAGES\GTA-V.jpg" alt="GTA-V" />
 
-Les hommes parlent en moyenne deux fois plus que les femmes, et lorsque les femmes s'expriment, c'est rarement entre elles. Et comme le souligne cette observation faites par des chercheurs de l'Université de Glasgow
-
-[^9]: Dr Stephanie Rennick & Dr Seán G. Roberts, "Largest study of video games reveals men say twice as much as women", 24 may 2023
-
- *"Some games let the player choose their character’s gender, but even choosing a female main character did not lead to more than 50% female dialogue in over half of these games."* De plus, lorsqu'elles prennent la parole, leurs répliques tendent souvent à renforcer des stéréotypes de genre : elles s’excusent, adoptent des postures polies ou flirteuses, perpétuant une vision limitée des femmes dans l’univers vidéoludique.
-
-[^9]: 
-
-On peut se référer au *Test de Bechdel* qui met en évidence la surreprésentation de protagonistes masculins. Ce test repose sur trois critères : 
-
-[^10]: « À votre avis, combien de films cannois respectent VRAIMENT l'égalité homme-femme ? », *[Le Huffington Post](https://fr.wikipedia.org/wiki/Le_HuffPost)*,‎ 19 mai 2018 ([lire en ligne](https://www.huffingtonpost.fr/2018/05/19/cannes-2018-a-votre-avis-combien-de-films-respectent-vraiment-legalite-homme-femme_a_23438484/?utm_hp_ref=fr-homepage) [[archive](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.huffingtonpost.fr%2F2018%2F05%2F19%2Fcannes-2018-a-votre-avis-combien-de-films-respectent-vraiment-legalite-homme-femme_a_23438484%2F%3Futm_hp_ref%3Dfr-homepage)]).
-
-- Y-a-t-il aux moins deux personnages féminins qui portent un nom?
-- Ces deux personnages parlent-ils ensemble?
-- Si oui, ces femmes parlent-elles d'autre chose que d'un homme?
-
-Malgré des critères relativement bas, de nombreux jeux ne parviennent pas à franchir ce test, révélant ainsi la marginalisation des personnages féminins.
-
-À l’inverse, comme l’a démontré l’étude de Dill et Thill (2007)
-
-[^12]: Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles
-
-, les personnages masculins échappent davantage à cette rigidité de rôles : ils incarnent une diversité de rôles, allant bien au-delà du guerrier ou du super-héros auxquels les hommes sont souvent cantonnés. 
+À l’inverse, comme l’a démontré l’étude de Dill et Thill (*Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles,*2007), les personnages masculins échappent davantage à cette rigidité de rôles : ils incarnent une diversité de rôles, allant bien au-delà du guerrier ou du super-héros auxquels les hommes sont souvent cantonnés. 
 
 #### 1.7 L'inexistante
 
