@@ -304,25 +304,13 @@ Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage t
 
 ### 2. L'impact de l'exposition régulière à des personnages stéréotypés sur l'identité des joueurs et les perceptions sociales
 
-Les médias contribuent à forger notre représentation mentale de certains groupes, même si on en fait parti. La tristement célèbre étude de Clark & Clark (1947) a révélé une préférence des poupées à peau blanche chez environ trois quarts des enfants noirs de 3 à 7 ans, démontrant que, dès le plus jeune âge, ces enfants intègrent une dévalorisation de leur propre identité.
+On peut expliquer l'effet de ces stéréotypes sur les jours avec l’effet Proteus. Théorisé par les chercheurs Nick Yee et Jeremy Bailensee (*The Proteus Effect: The Effect of Transformed Self-Representation on Behavior, 2007*), cet effet suggère que lorsqu'un individu croit à certains stéréotypes liés à son avatar, il adoptera les comportements attendus en lien avec ces stéréotypes . Une menée par des chercheurs de l'Université de Stanford (*Jesse Fox, Jeremy N. Bailenson, Liz Tricase, The embodiment of sexualized virtual selves: The Proteus effect and experiences of self-objectification via avatars*) illustre ce phénomène. Les participantes se voyaient attribuer des avatars soit très sexualisés, soit non sexualisé, avec leur visage ou celui d'une inconnue.  Le résultat est sans appel : les participantes incarnant des personnages sexualisés à intérioriser ces caractéristiques et à s'auto-objectiver (*[L’auto-objectification](https://shs.cairn.info/revue-l-annee-psychologique-2020-3-page-321?lang=fr) définie par une attention accrue portée aux aspects physiques visibles (comme les mensurations ou le poids) plutôt qu'aux capacités ou à la santé, se manifestait par des préoccupations centrées sur l’apparence physique, au détriment des compétences et capacités*).
 
-Les effets de ces représentations sont démontrées ,par exemple,  à travers une méta-analyse de 134 études réalisées entre 1987 et 2007, qui souligne les effets de la discrimination. Elle conclut que la discrimination entraîne des conséquences négatives sur la santé physique et psychologique de la victime, provoquant un syndrome de stress psychologique et physiologique. (Pascal Wegner, *Les effets psychosociaux du racisme : l’étude de la stigmatisation*, ADMIN.CH).
+De plus, les participantes voyant leur propre visage sur un avatar sexualisé adhéraient davantage aux mythes du viol que les autres. (*L'adhésion aux mythes du viol désigne les attitudes qui tendent à rendre les victimes responsables des agressions sexuelles qu’elles subissent, minimisant ou justifiant ainsi les violences (*Bohner et al., 1998*). Cette étude souligne donc les effets profonds de l’identification aux avatars sur les perceptions et attitudes des individus envers eux-mêmes et les autres.*).
 
-Ces effets trouvent un écho dans les interviews que j'ai menées. Un participant explique : *"J'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ils ne comprennent pas pourquoi c'est nécessaire. Par contre, quand ils ne sont pas représentés, ils sont outrés. C'est un peu le serpent qui se mord la queue."*
+Cet effet s’applique potentiellement à toutes les minorités stéréotypées, renforçant les comportements et croyances associées aux stéréotypes des avatars. Comme le souligne un des participants de mes interviews : *"J'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ne comprennent pas pourquoi c'est nécessaire. Par contre, quand ils ne sont pas représentés, ils sont outrés. C'est un peu le serpent qui se mord la queue."* 
 
-- L’effet Proteus37. Cet effet, qui trouve son origine dans la théorie de la perception de soi de Bem (1972), se produit lorsque la représentation qu’un joueur se fait de lui-même est modifiée significativement par l’avatar qu’il incarne.
-- L’étude de Fox, Bailenson et Tricase (2013) et l’étude de Fox, Ralston, Cooper et Jones (2015) ont confirmé, à travers l’effet Proteus, que les joueurs incarnant un avatar féminin sexualisé avaient tendance à accepter plus facilement les mythes autour du viol que celles qui incarnaient des avatars non sexualisés.
-- Par exemple, puisque le fait de posséder une plus grande taille est perçu dans la société comme étant lié à une plus grande compétence (Young et French, 1996, cité par Yee et Bailenson, 2007, p. 276), certaines études montrent que le fait de posséder un avatar de grande taille rend l’utilisateur plus confiant lorsqu’il entre en négociation avec d’autres avatars, peu importe sa véritable taille dans le monde ‘‘réel’’.lorsque l’utilisateur possède un avatar attrayant, son attitude est généralement plus extravertie avec les autres (Yee et Bailenson, 2007, p. 276).
-
-
-
-- L’étude de Behm-Morawitz et Mastro (2009) a cherché à intégrer les dimensions individuelles et sociales à travers une étude portant sur les effets des représentations plus ou moins sexualisées de personnages de jeux vidéo. Cette étude a été menée auprès de 328 étudiants27 (N=328) d’une université du Sud-ouest américain et a constaté que les femmes qui jouaient avec une héroïne sexualisée (Lara Croft) voyaient leur perception d’elles-mêmes en matière de sentiment d’efficacité personnelle28 largement inférieur à celui des femmes qui jouaient avec une héroïne non sexualisée (niveau individuel). Cela peut être en partie expliqué par le fait que l’intériorisation des stéréotypes de genre « is related to lower feelings of efficacy, and this decreased self-efficacy is a function of holding stereotypic beliefs—not a person’s actual capabilities » (p. 810). De plus, cette même étude a notamment constaté auprès des hommes comme des femmes, que le fait d’endosser un personnage féminin sexualisé était susceptible de renforcer la croyance selon laquelle les capacités cognitives des femmes étaient limitées, comparativement à ceux qui n’avaient pas du tout joué aux jeux vidéo ou ceux qui avaient joué avec des personnages féminins non sexualisés (niveau social) (Behm-Morawitz et Mastro, 2009, p.817). En d’autres termes, le fait d’incarner un personnage féminin sexualisé peut tendre à la fois à dégrader la perception que les femmes ont d’elles-mêmes en matière de capacités cognitives (niveau individuel), et à la fois à renforcer la croyance selon laquelle les femmes seraient cognitivement limitées (niveau social).
-
-
-
-*Les auteurs restent néanmoins prudents quant à la portée de leur résultat, étant donné qu’il ne s’agissait que d’une étude expérimentale. De plus, il convient de noter que cette étude n’a cherché à analyser les effets de l’intériorisation des stéréotypes de genre que d’un seul jeu vidéo, à savoir Tomb Raider : Legend (2006).*
-
-
+Une inclusion authentique dans les médias est cruciale pour éviter la déshumanisation des personnages issus de minorités. Les personnages doivent être construits de manière complexe et multidimensionnelle, plutôt que d'être simplement des avatars représentatifs d'une ethnie ou d'une identité.
 
 ## III. Le marketing de la diversité 
 
@@ -353,21 +341,13 @@ Ces effets trouvent un écho dans les interviews que j'ai menées. Un participan
 
 **Kevin** : "La communauté des jeux vidéos restent majoritairement des hommes blancs et c'est une communauté qui malheureusement est très sexiste, très homophobe, très racistes sur certains points. J'ai l'impression c'est majoritairement des hommes blancs qui gueulent."
 
-### 2. Représentation médiatique et enjeux identitaires : l'importance d'une inclusion authentique
-
-- Une inclusion authentique dans les médias est cruciale pour éviter la déshumanisation des personnages issus de minorités. Les personnages doivent être construits de manière complexe et multidimensionnelle, plutôt que d'être simplement des avatars représentatifs d'une ethnie ou d'une identité.
-
-- **Stuart Hall** souligne l'importance de la représentation réflexive plutôt que instrumentale. Les personnages ne sont pas uniquement des symboles de diversité, mais qu'ils incarnent des histoires, des expériences et des nuances humaines.
-
-  
+### 3. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
 
 **Andy** : "Aaahh je te dis direct je suis biaisé parce que je suis noir, je vais vouloir mettre que des personnages noirs comme protagoniste".  
 
 -> La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
 
 **Kevin** : "Je garderai le même personnage que je t'ai cité de LOL mais je prendrais une origine qui est plus proche de moi, ouais un métisse. Il y a pas beaucoup de métisses dans les jeux, il y a pas beaucoup de métissage, pas beaucoup de mélanges. Le rendre métissé asiat afrique. Pour joindre un peu les  deux bouts les deux communautés. (5mn57) Dans LOL il n'y a pas beaucoup de personnages de couleur masculins qui n'ont pas des traits hyper caricaturaux. Si c'est des personnages méchants ils ont des draids, si c'est des gentils ils ont des buzzcut, ils ont vla les bijoux, c'est pas que ça tu vois. "
-
-### 3. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
 
 Les médias, y compris les jeux vidéo, ont un rôle central dans la construction des identités et des perceptions sociales des minorités. La représentation des minorités ne se réduit pas à une question de chiffre. Il faut s'interroger sur la visibilité des populations marginalisées mais il est surtout nécessaire d'étudier l'aspect qualitatif de ces représentations. Il faut être vigilant à ne pas reproduire des représentations caricaturales et stéréotypées. 
 
@@ -377,8 +357,6 @@ Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cin�
 - **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther, Baromètre de la diversité CSA 
 
 A mettre quelque part : Ces représentations simplifiées et caricaturales des minorités se heurtent à un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France, ce qui renforce l’ancrage de ces stéréotypes dans l’imaginaire collectif. 
-
-- Le rôle de l'Etat
 
 ## Conclusion
 - **Synthèse des résultats** : Le double rôle des jeux vidéo dans la reproduction et la déconstruction des stéréotypes concernant les minorités.
