@@ -283,7 +283,7 @@ Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage t
 
 À l’inverse, comme l’a démontré l’étude de Dill et Thill (2007)
 
-[^1]: 
+[^12]: Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles
 
 , les personnages masculins échappent davantage à cette rigidité de rôles : ils incarnent une diversité de rôles, allant bien au-delà du guerrier ou du super-héros auxquels les hommes sont souvent cantonnés. 
 
@@ -302,38 +302,27 @@ Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage t
 
 *Pour ceux qui ont nommés le combo Solid Snake & Lara Croft = peut être du au fait qu'ils étaient présents dans l'interview*
 
-
-
-Conclusion
-
-- 
-
 ### 2. L'impact de l'exposition régulière à des personnages stéréotypés sur l'identité des joueurs et les perceptions sociales
 
-médias contribuent à forger notre représentation mentale de certains groupes, même si on en fait parti ---> Kevin & Andy
+Les médias contribuent à forger notre représentation mentale de certains groupes, même si on en fait parti. La tristement célèbre étude de Clark & Clark (1947) a révélé une préférence des poupées à peau blanche chez environ trois quarts des enfants noirs de 3 à 7 ans, démontrant que, dès le plus jeune âge, ces enfants intègrent une dévalorisation de leur propre identité.
 
+Les effets de ces représentations sont démontrées ,par exemple,  à travers une méta-analyse de 134 études réalisées entre 1987 et 2007, qui souligne les effets de la discrimination. Elle conclut que la discrimination entraîne des conséquences négatives sur la santé physique et psychologique de la victime, provoquant un syndrome de stress psychologique et physiologique. (Pascal Wegner, *Les effets psychosociaux du racisme : l’étude de la stigmatisation*, ADMIN.CH).
 
+Ces effets trouvent un écho dans les interviews que j'ai menées. Un participant explique : *"J'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ils ne comprennent pas pourquoi c'est nécessaire. Par contre, quand ils ne sont pas représentés, ils sont outrés. C'est un peu le serpent qui se mord la queue."*
 
-- le développement d’un certain nombre de problèmes de santé physique ou psychologique chez les joueuses (anorexie, dépression, honte corporelle, dépréciation de ses propres compétences, etc.) découlant en grande partie du phénomène d’auto-objectification, qui implique un excès de contrôle de sa propre apparence physique (Yao, Mahood et Linz, 2010 ; Fox et al., 2013 ; Fox et al., 2015).
-- L’étude de Behm-Morawitz et Mastro (2009) a cherché à intégrer les dimensions individuelles et sociales à travers une étude portant sur les effets des représentations plus ou moins sexualisées de personnages de jeux vidéo. Cette étude a été menée auprès de 328 étudiants27 (N=328) d’une université du Sud-ouest américain et a constaté que les femmes qui jouaient avec une héroïne sexualisée (Lara Croft) voyaient leur perception d’elles-mêmes
-  27 Les élèves ont été choisis aux hasards et répartis aléatoirement en trois groupes : le premier groupe jouait avec une héroïne ‘‘sexualisée’’, le second groupe une héroïne ‘‘non-sexualisée’’ et le troisième (groupe de contrôle) n’a pas joué au jeu vidéo. Les élèves ont ensuite eu à répondre à différents questionnaires sur leurs attitudes et croyances en termes de genre, afin de mesurer s’ils percevaient des différences homme-femme au niveau de leurs capacités cognitives, leurs capacités physiques, leurs apparences et leurs rôles de genre (ex. travailler à la maison versus faire une carrière professionnelle) (Behm-Morawitz et Mastro, 2009).
-  19
-  en matière de sentiment d’efficacité personnelle28 largement inférieur à celui des femmes qui jouaient avec une héroïne non sexualisée (niveau individuel). Cela peut être en partie expliqué par le fait que l’intériorisation des stéréotypes de genre « is related to lower feelings of efficacy, and this decreased self-efficacy is a function of holding stereotypic beliefs—not a person’s actual capabilities » (p. 810).
-  De plus, cette même étude a notamment constaté auprès des hommes comme des femmes, que le fait d’endosser un personnage féminin sexualisé était susceptible de renforcer la croyance selon laquelle les capacités cognitives des femmes étaient limitées, comparativement à ceux qui n’avaient pas du tout joué aux jeux vidéo ou ceux qui avaient joué avec des personnages féminins non sexualisés (niveau social) (Behm-Morawitz et Mastro, 2009, p.817). En d’autres termes, le fait d’incarner un personnage féminin sexualisé peut tendre à la fois à dégrader la perception que les femmes ont d’elles-mêmes en matière de capacités cognitives (niveau individuel), et à la fois à renforcer la croyance selon laquelle les femmes seraient cognitivement limitées (niveau social).
-- Les auteurs restent néanmoins prudents quant à la portée de leur résultat, étant donné qu’il ne s’agissait que d’une étude expérimentale. De plus, il convient de noter que cette étude n’a cherché à analyser les effets de l’intériorisation des stéréotypes de genre que d’un seul jeu vidéo, à savoir Tomb Raider : Legend (2006).
-
-- auto-objectification :
-  ➢ Troubles alimentaires30
-  ➢ Dépression31
-  ➢ Préoccupation corporelle accrue (peur de ne pas être conforme aux idéaux de la beauté)32
-  ➢ Diminution de la performance cognitive33
-- l’étude de Yao, Mahood et Linz (2010) a montré que les étudiants34 ayant été exposés à des jeux vidéo qui objectifiaient les femmes, contrairement à ceux qui avaient été assignés aux jeux non objectifiant, « may prime thoughts related to sex, encourage men to view women as sex objects, and lead to self reported, tendencies to behave inappropriately towards women in social situations » (Yao, Mahood et Linz, 2010, p.77).
-- l’effet Proteus37. Cet effet, qui trouve son origine dans la théorie de la perception de soi de Bem (1972), se produit lorsque la représentation qu’un joueur se fait de lui-même est modifiée significativement par l’avatar qu’il incarne.
+- L’effet Proteus37. Cet effet, qui trouve son origine dans la théorie de la perception de soi de Bem (1972), se produit lorsque la représentation qu’un joueur se fait de lui-même est modifiée significativement par l’avatar qu’il incarne.
+- L’étude de Fox, Bailenson et Tricase (2013) et l’étude de Fox, Ralston, Cooper et Jones (2015) ont confirmé, à travers l’effet Proteus, que les joueurs incarnant un avatar féminin sexualisé avaient tendance à accepter plus facilement les mythes autour du viol que celles qui incarnaient des avatars non sexualisés.
 - Par exemple, puisque le fait de posséder une plus grande taille est perçu dans la société comme étant lié à une plus grande compétence (Young et French, 1996, cité par Yee et Bailenson, 2007, p. 276), certaines études montrent que le fait de posséder un avatar de grande taille rend l’utilisateur plus confiant lorsqu’il entre en négociation avec d’autres avatars, peu importe sa véritable taille dans le monde ‘‘réel’’.lorsque l’utilisateur possède un avatar attrayant, son attitude est généralement plus extravertie avec les autres (Yee et Bailenson, 2007, p. 276).
-- Comme le dénotent Fox et al. (2013), les mythes autour du viol sont des croyances répandues qui visent à donner des ‘‘justifications à un viol’’. En d’autres termes, si une femme a été violée, c’est ‘‘parce qu’elle l’a cherchée’’ à travers son comportement (ex. boire de l’alcool, sortir tard le soir, s’habiller de façon ‘‘provocante’’, avoir des ‘‘moeurs légères’’, etc.) ===> L’intériorisation de ces croyances, qui tendent à banaliser et à légitimer le viol, peuvent contribuent à renforcer certaines croyances et attitudes sexistes chez les hommes comme chez les femmes ==>L’étude de Fox, Bailenson et Tricase (2013) et l’étude de Fox, Ralston, Cooper et Jones (2015) ont confirmé, à travers l’effet Proteus, que les joueurs incarnant un avatar féminin sexualisé avaient tendance à accepter plus facilement les mythes autour du viol que celles qui incarnaient des avatars non sexualisés.
-- L’étude de Dill, Brown et Collins (2008)(L’étude porte sur un échantillon d’étudiants composé de 181 individus (N=181), dont 120 femmes et 61 hommes. Cette étude a été effectuée auprès d’étudiants d’un collège privé en Caroline du Nord, suivant un cours d’introduction à la psychologie) cherche à comprendre si l’exposition à des personnages de jeux vidéo stéréotypés contribue à renforcer la tolérance à des comportements de harcèlement sexuel à court terme et à long terme :premier groupe a été exposé à des images de personnages de jeux vidéo sexuellement stéréotypés et le second (groupe témoin) à des professionnels connus - membre du congrès ou parlement américains - habillés en tenue de travail non provocatrice. 
-- Après avoir été soumis aux stimuli visuels, les participants ont eu à lire une histoire réelle de harcèlement sexuel entre un professeur d’université et son étudiante, pour ensuite répondre à un questionnaire ayant pour objectif de mesurer leur degré de tolérance au harcèlement sexuel (Dill et Collins, 2008, p. 1404).
-  L’étude a montré que l’exposition à court terme à des images fortement sexualisées contre l’exposition à des images de ‘‘professionnels’’ a révélé une plus grande tolérance aux harcèlements (de la jeune femme vis-à-vis de son professeur) pour l’ensemble des groupes.
+
+
+
+- L’étude de Behm-Morawitz et Mastro (2009) a cherché à intégrer les dimensions individuelles et sociales à travers une étude portant sur les effets des représentations plus ou moins sexualisées de personnages de jeux vidéo. Cette étude a été menée auprès de 328 étudiants27 (N=328) d’une université du Sud-ouest américain et a constaté que les femmes qui jouaient avec une héroïne sexualisée (Lara Croft) voyaient leur perception d’elles-mêmes en matière de sentiment d’efficacité personnelle28 largement inférieur à celui des femmes qui jouaient avec une héroïne non sexualisée (niveau individuel). Cela peut être en partie expliqué par le fait que l’intériorisation des stéréotypes de genre « is related to lower feelings of efficacy, and this decreased self-efficacy is a function of holding stereotypic beliefs—not a person’s actual capabilities » (p. 810). De plus, cette même étude a notamment constaté auprès des hommes comme des femmes, que le fait d’endosser un personnage féminin sexualisé était susceptible de renforcer la croyance selon laquelle les capacités cognitives des femmes étaient limitées, comparativement à ceux qui n’avaient pas du tout joué aux jeux vidéo ou ceux qui avaient joué avec des personnages féminins non sexualisés (niveau social) (Behm-Morawitz et Mastro, 2009, p.817). En d’autres termes, le fait d’incarner un personnage féminin sexualisé peut tendre à la fois à dégrader la perception que les femmes ont d’elles-mêmes en matière de capacités cognitives (niveau individuel), et à la fois à renforcer la croyance selon laquelle les femmes seraient cognitivement limitées (niveau social).
+
+
+
+*Les auteurs restent néanmoins prudents quant à la portée de leur résultat, étant donné qu’il ne s’agissait que d’une étude expérimentale. De plus, il convient de noter que cette étude n’a cherché à analyser les effets de l’intériorisation des stéréotypes de genre que d’un seul jeu vidéo, à savoir Tomb Raider : Legend (2006).*
+
+
 
 ## III. Le marketing de la diversité 
 
@@ -374,8 +363,6 @@ médias contribuent à forger notre représentation mentale de certains groupes,
 
 **Andy** : "Aaahh je te dis direct je suis biaisé parce que je suis noir, je vais vouloir mettre que des personnages noirs comme protagoniste".  
 
-**Andy** : "J'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ils comprennent pas ce qu'il y en ait besoin. Par contre quand on les représentent pas ils sont outrés. C'est un peu le  serpent qui se mord la queue [...] ca m'a fait plaisir dans black panther que le cast soit entièrement noir. "
-
 -> La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
 
 **Kevin** : "Je garderai le même personnage que je t'ai cité de LOL mais je prendrais une origine qui est plus proche de moi, ouais un métisse. Il y a pas beaucoup de métisses dans les jeux, il y a pas beaucoup de métissage, pas beaucoup de mélanges. Le rendre métissé asiat afrique. Pour joindre un peu les  deux bouts les deux communautés. (5mn57) Dans LOL il n'y a pas beaucoup de personnages de couleur masculins qui n'ont pas des traits hyper caricaturaux. Si c'est des personnages méchants ils ont des draids, si c'est des gentils ils ont des buzzcut, ils ont vla les bijoux, c'est pas que ça tu vois. "
@@ -398,7 +385,4 @@ A mettre quelque part : Ces représentations simplifiées et caricaturales des m
 - **Impact sur la perception sociétale et identitaire** : Comment ces représentations influencent la manière dont les minorités sont perçues et comment elles influencent la formation des identités.
 - **Perspectives futures** 
 
-
-
-[^1]: Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles
 
