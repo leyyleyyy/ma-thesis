@@ -1,5 +1,3 @@
-Pour répondre à ton professeur de manière concise et claire, voici comment tu pourrais structurer chaque point :
-
 1. **Sujet de recherche et question finale :**  
 
    Mon sujet de recherche porte sur la manière dont les jeux vidéo contribuent à renforcer ou à déconstruire les stéréotypes concernant les minorités, ainsi que l'impact de ces représentations sur la perception sociale et les questions identitaires liées à ces groupes : *Dans quelle mesure les jeux vidéo façonnent-ils la perception sociale et l'identité des minorités à travers des stéréotypes ou des représentations diversifiées ?* 
