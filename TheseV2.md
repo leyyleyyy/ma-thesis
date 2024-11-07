@@ -241,13 +241,13 @@ Au-delà du choix vestimentaire peu réaliste, les développeurs ont volontairem
 
 <img src="IMAGES\lara-croft.jpg" alt="lara-croft"/>
 
-Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Le Geena Davis Institute révèle que les femmes dans les jeux sont dix fois plus susceptibles d’être montrées en vêtements sexualisant ou dans des situations de nudité par rapport aux hommes. 
+Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Plus récemment, le [Geena Davis Institute](https://geenadavisinstitute.org/wp-content/uploads/2024/01/2023-GDI-Gaming-Report-v2.pdf) révèle que les femmes dans les jeux sont dix fois plus susceptibles d’être montrées en vêtements sexualisant ou dans des situations de nudité par rapport aux hommes. 
 
 Des jeux comme *Grand Theft Auto* (GTA), en plus de renforcer ces clichés, participent à la culture du viol. Par exemple, le joueur peut tuer des prostituées pour récupérer son argent : *« When a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back »* *(Effects of exposure to sex-stereotyped video game characters on tolerance of sexual harassment*,2008). GTA V, avec près de 200 millions d’exemplaires vendus en mai 2024, est l’un des jeux les plus populaires, contribuant ainsi largement à la propagation de ces stéréotypes.
 
 <img src="IMAGES\GTA-V.jpg" alt="GTA-V" />
 
-À l’inverse, comme l’a démontré l’étude de Dill et Thill (*Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles,*2007), les personnages masculins échappent davantage à cette rigidité de rôles : ils incarnent une diversité de rôles, allant bien au-delà du guerrier ou du super-héros auxquels les hommes sont souvent cantonnés. 
+À l’inverse, comme l’a démontré l’étude de Dill et Thill (*Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles,*2007), les personnages masculins échappent davantage à cette stéréotypisation de leurs rôles  : ils incarnent une diversité de rôles, allant bien au-delà du guerrier ou du super-héros auxquels les hommes sont souvent cantonnés. 
 
 #### 1.7 L'inexistante
 
@@ -276,7 +276,7 @@ Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage t
 
 ### 2. L'impact de l'exposition régulière à des personnages stéréotypés sur l'identité des joueurs et les perceptions sociales
 
-On peut expliquer l'effet de ces stéréotypes sur les jours avec l’effet Proteus. Théorisé par les chercheurs Nick Yee et Jeremy Bailensee (*The Proteus Effect: The Effect of Transformed Self-Representation on Behavior, 2007*), cet effet suggère que lorsqu'un individu croit à certains stéréotypes liés à son avatar, il adoptera les comportements attendus en lien avec ces stéréotypes . Une menée par des chercheurs de l'Université de Stanford (*Jesse Fox, Jeremy N. Bailenson, Liz Tricase, The embodiment of sexualized virtual selves: The Proteus effect and experiences of self-objectification via avatars*) illustre ce phénomène. Les participantes se voyaient attribuer des avatars soit très sexualisés, soit non sexualisé, avec leur visage ou celui d'une inconnue.  Le résultat est sans appel : les participantes incarnant des personnages sexualisés à intérioriser ces caractéristiques et à s'auto-objectiver (*[L’auto-objectification](https://shs.cairn.info/revue-l-annee-psychologique-2020-3-page-321?lang=fr) définie par une attention accrue portée aux aspects physiques visibles (comme les mensurations ou le poids) plutôt qu'aux capacités ou à la santé, se manifestait par des préoccupations centrées sur l’apparence physique, au détriment des compétences et capacités*).
+On peut expliquer l'effet de ces stéréotypes sur les joueurs avec l’effet Proteus. Théorisé par les chercheurs Nick Yee et Jeremy Bailensee (*The Proteus Effect: The Effect of Transformed Self-Representation on Behavior, 2007*), cet effet suggère que lorsqu'un individu croit à certains stéréotypes liés à son avatar, il adoptera les comportements attendus en lien avec ces stéréotypes . Une menée par des chercheurs de l'Université de Stanford (*Jesse Fox, Jeremy N. Bailenson, Liz Tricase, The embodiment of sexualized virtual selves: The Proteus effect and experiences of self-objectification via avatars*) illustre ce phénomène. Les participantes se voyaient attribuer des avatars soit très sexualisés, soit non sexualisé, avec leur visage ou celui d'une inconnue.  Le résultat est sans appel : les participantes incarnant des personnages sexualisés à intérioriser ces caractéristiques et à s'auto-objectiver (*[L’auto-objectification](https://shs.cairn.info/revue-l-annee-psychologique-2020-3-page-321?lang=fr) définie par une attention accrue portée aux aspects physiques visibles (comme les mensurations ou le poids) plutôt qu'aux capacités ou à la santé, se manifestait par des préoccupations centrées sur l’apparence physique, au détriment des compétences et capacités*).
 
 De plus, les participantes voyant leur propre visage sur un avatar sexualisé adhéraient davantage aux mythes du viol que les autres. (*L'adhésion aux mythes du viol désigne les attitudes qui tendent à rendre les victimes responsables des agressions sexuelles qu’elles subissent, minimisant ou justifiant ainsi les violences (*Bohner et al., 1998*). Cette étude souligne donc les effets profonds de l’identification aux avatars sur les perceptions et attitudes des individus envers eux-mêmes et les autres.*).
 
@@ -284,9 +284,15 @@ Cet effet s’applique potentiellement à toutes les minorités stéréotypées,
 
 Une inclusion authentique dans les médias est cruciale pour éviter la déshumanisation des personnages issus de minorités. Les personnages doivent être construits de manière complexe et multidimensionnelle, plutôt que d'être simplement des avatars représentatifs d'une ethnie ou d'une identité.
 
-## III. Le marketing de la diversité 
+## III. Quelles solutions
 
-### 1. Entre inclusion et opportunisme commercial - Polémiques et tout
+### 1. Entre inclusion et opportunisme commercial 
+
+- Surtout d'anciens exemples mais sont ancrés dans l'imaginaire collectif - emblématiques
+- évolution jeu : 
+- Réception du public
+
+
 
 - L'intégration de personnages de minorités est parfois perçue comme une réponse forcée à la demande de diversité, suscitant des critiques sur le "tokenisme".
 - **Tokenisme** (Shani Orgad) : L'inclusivité devient un outil marketing plutôt qu'un véritable effort d'authenticité culturelle.
@@ -314,6 +320,12 @@ Une inclusion authentique dans les médias est cruciale pour éviter la déshuma
 **Kevin** : "La communauté des jeux vidéos restent majoritairement des hommes blancs et c'est une communauté qui malheureusement est très sexiste, très homophobe, très racistes sur certains points. J'ai l'impression c'est majoritairement des hommes blancs qui gueulent."
 
 ### 3. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
+
+- 
+
+
+
+
 
 **Andy** : "Aaahh je te dis direct je suis biaisé parce que je suis noir, je vais vouloir mettre que des personnages noirs comme protagoniste".  
 
