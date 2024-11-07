@@ -243,7 +243,7 @@ Au-delà du choix vestimentaire peu réaliste, les développeurs ont volontairem
 
 Cette représentation n’est pas unique. Une étude menée par Beasley et Standley (*Shirts vs. Skins: Clothing as an Indicator of Gender Role Stereotyping in Video Games*, 2002) montre que 86 % des personnages féminins sont représentés avec des décolletés révélateurs, contre seulement 14 % des personnages masculins  (tenues laissant entrevoir, par exemple, un corps très musclé). Plus récemment, le [Geena Davis Institute](https://geenadavisinstitute.org/wp-content/uploads/2024/01/2023-GDI-Gaming-Report-v2.pdf) révèle que les femmes dans les jeux sont dix fois plus susceptibles d’être montrées en vêtements sexualisant ou dans des situations de nudité par rapport aux hommes. 
 
-Des jeux comme *Grand Theft Auto* (GTA), en plus de renforcer ces clichés, participent à la culture du viol. Par exemple, le joueur peut tuer des prostituées pour récupérer son argent : *« When a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back »* *(Effects of exposure to sex-stereotyped video game characters on tolerance of sexual harassment*,2008). GTA V, avec près de 200 millions d’exemplaires vendus en mai 2024, est l’un des jeux les plus populaires, contribuant ainsi largement à la propagation de ces stéréotypes.
+Des jeux comme *Grand Theft Auto* (GTA), en plus de renforcer ces clichés, participent à la culture du viol. Par exemple, le joueur peut tuer des prostituées pour récupérer son argent : *« When a male character punches a female prostitute, she does not respond by screaming or saying “no,” — negative responses likely to happen in real social interactions — but rather is programmed to retort, “I like it rough” and to punch back »* *(Effects of exposure to sex-stereotyped video game characters on tolerance of sexual harassment*,2008). GTA V, avec près de 200 millions d’exemplaires vendus atteints en mai 2024, est l’un des jeux les plus populaires, contribuant ainsi largement à la propagation de ces stéréotypes.
 
 <img src="IMAGES\GTA-V.jpg" alt="GTA-V" />
 
@@ -282,13 +282,11 @@ De plus, les participantes voyant leur propre visage sur un avatar sexualisé ad
 
 Cet effet s’applique potentiellement à toutes les minorités stéréotypées, renforçant les comportements et croyances associées aux stéréotypes des avatars. Comme le souligne un des participants de mes interviews : *"J'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ne comprennent pas pourquoi c'est nécessaire. Par contre, quand ils ne sont pas représentés, ils sont outrés. C'est un peu le serpent qui se mord la queue."* 
 
-Une inclusion authentique dans les médias est cruciale pour éviter la déshumanisation des personnages issus de minorités. Les personnages doivent être construits de manière complexe et multidimensionnelle, plutôt que d'être simplement des avatars représentatifs d'une ethnie ou d'une identité.
-
-## III. Quelles solutions
+## III. Marketing de diversité
 
 ### 1. Entre inclusion et opportunisme commercial 
 
-- Surtout d'anciens exemples mais sont ancrés dans l'imaginaire collectif - emblématiques
+- Surtout d'anciens exemples mais sont ancrés dans l'imaginaire collectif - emblématiques. Des jeux récents sont plus inclusifs ==> futures productions
 - évolution jeu : 
 - Réception du public
 
@@ -321,10 +319,6 @@ Une inclusion authentique dans les médias est cruciale pour éviter la déshuma
 
 ### 3. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
 
-- 
-
-
-
 
 
 **Andy** : "Aaahh je te dis direct je suis biaisé parce que je suis noir, je vais vouloir mettre que des personnages noirs comme protagoniste".  
@@ -344,7 +338,7 @@ A mettre quelque part : Ces représentations simplifiées et caricaturales des m
 
 ## Conclusion
 - **Synthèse des résultats** : Le double rôle des jeux vidéo dans la reproduction et la déconstruction des stéréotypes concernant les minorités.
+- Conclure en reprenant les exemples de l'introduction (Winx, Floricienta) et montrer pourquoi ils sont problématiques
 - **Impact sur la perception sociétale et identitaire** : Comment ces représentations influencent la manière dont les minorités sont perçues et comment elles influencent la formation des identités.
 - **Perspectives futures** 
-
 
