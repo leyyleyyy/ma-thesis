@@ -219,7 +219,7 @@ Les figures du "terroriste arabe", du "dealer africain", ou du "mercenaire russe
 
 *Call of Duty*, *Conflict Desert Storm*, *Medal of Honor: Warfighter*, *Kuma\War*, *War in the Gulf*, ou encore *Full Spectrum Warrior* sont quelques exemples de jeux exploitant cette dynamique . Dans ces titres, le joueur incarne le plus souvent les forces américaines, tandis que les ennemis sont caractérisés par des éléments visuels rappelant les cultures arabes ou musulmanes. Les décors de ces jeux, situés au Moyen-Orient ou dans des lieux clairement inspirés de cette région, sont souvent représentés comme des lieux dangereux. 
 
-Ces différents éléments, associés de manière répétée au terrorisme ou à l’extrémisme islamiste, créent des raccourcis visuels qui renforcent ces stéréotypes.
+Ces différents éléments, associés de manière répétée au terrorisme ou à l’extrémisme islamiste, créent des raccourcis visuels qui renforcent ces stéréotypes. Cette dynamique fait écho au concept d'orientalisme, tel que théorisé par Edward Said. Dans son ouvrage, Said démontre comment l'Occident construit une représentation de l'Orient, et en particulier des cultures arabo-musulmanes, réduite à des caractéristiques exotiques, simplistes, et menaçantes. 
 
 #### 1.5 La demoiselle en détresse
 
@@ -276,11 +276,19 @@ Ainsi, lorsqu'un jeu propose un personnage issu d'une minorité, ce personnage t
 
 ### 2. L'impact de l'exposition régulière à des personnages stéréotypés sur l'identité des joueurs et les perceptions sociales
 
-On peut expliquer l'effet de ces stéréotypes sur les joueurs avec l’effet Proteus. Théorisé par les chercheurs Nick Yee et Jeremy Bailensee (*The Proteus Effect: The Effect of Transformed Self-Representation on Behavior, 2007*), cet effet suggère que lorsqu'un individu croit à certains stéréotypes liés à son avatar, il adoptera les comportements attendus en lien avec ces stéréotypes . Une menée par des chercheurs de l'Université de Stanford (*Jesse Fox, Jeremy N. Bailenson, Liz Tricase, The embodiment of sexualized virtual selves: The Proteus effect and experiences of self-objectification via avatars*) illustre ce phénomène. Les participantes se voyaient attribuer des avatars soit très sexualisés, soit non sexualisé, avec leur visage ou celui d'une inconnue.  Le résultat est sans appel : les participantes incarnant des personnages sexualisés à intérioriser ces caractéristiques et à s'auto-objectiver (*[L’auto-objectification](https://shs.cairn.info/revue-l-annee-psychologique-2020-3-page-321?lang=fr) définie par une attention accrue portée aux aspects physiques visibles (comme les mensurations ou le poids) plutôt qu'aux capacités ou à la santé, se manifestait par des préoccupations centrées sur l’apparence physique, au détriment des compétences et capacités*).
+On peut expliquer l'effet de ces stéréotypes sur les joueurs avec l’effet Proteus. Théorisé par les chercheurs Nick Yee et Jeremy Bailensee (*The Proteus Effect: The Effect of Transformed Self-Representation on Behavior, 2007*), cet effet suggère que lorsqu'un individu croit à certains stéréotypes liés à son avatar, il adoptera les comportements attendus en lien avec ces stéréotypes . Une menée par des chercheurs de l'Université de Stanford (*Jesse Fox, Jeremy N. Bailenson, Liz Tricase, The embodiment of sexualized virtual selves: The Proteus effect and experiences of self-objectification via avatars*) illustre ce phénomène. Les participantes se voyaient attribuer des avatars soit très sexualisés, soit non sexualisé, avec soit leur visage soit celui d'une inconnue.  Le résultat est sans appel : les participantes incarnant des personnages sexualisés tendaient à intérioriser ces caractéristiques et à s'auto-objectiver (*[L’auto-objectification](https://shs.cairn.info/revue-l-annee-psychologique-2020-3-page-321?lang=fr) définie par une attention accrue portée aux aspects physiques visibles (comme les mensurations ou le poids) plutôt qu'aux capacités ou à la santé, se manifestait par des préoccupations centrées sur l’apparence physique, au détriment des compétences et capacités*).
 
-De plus, les participantes voyant leur propre visage sur un avatar sexualisé adhéraient davantage aux mythes du viol que les autres. (*L'adhésion aux mythes du viol désigne les attitudes qui tendent à rendre les victimes responsables des agressions sexuelles qu’elles subissent, minimisant ou justifiant ainsi les violences (*Bohner et al., 1998*). Cette étude souligne donc les effets profonds de l’identification aux avatars sur les perceptions et attitudes des individus envers eux-mêmes et les autres.*).
+Lorsque leur propre visage était appliqué à l’avatar, l’adhésion aux mythes du viol augmentait. (Ce phénomène désigne une tendance à blâmer les victimes d’agressions sexuelles, justifiant implicitement ces violences (*Bohner et al., 1998*). Cette étude montre à quel point l’identification aux avatars affecte les perceptions et attitudes envers soi-même et autrui, avec des impacts profonds et insidieux.)
 
-Cet effet s’applique potentiellement à toutes les minorités stéréotypées, renforçant les comportements et croyances associées aux stéréotypes des avatars. Comme le souligne un des participants de mes interviews : *"J'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ne comprennent pas pourquoi c'est nécessaire. Par contre, quand ils ne sont pas représentés, ils sont outrés. C'est un peu le serpent qui se mord la queue."* 
+Cet effet peut être appliqué à toutes les minorités qui sont victime de stéréotypes. Comme le souligne un des participants de mes interviews : *"J'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ne comprennent pas pourquoi c'est nécessaire. Par contre, quand ils ne sont pas représentés, ils sont outrés. C'est un peu le serpent qui se mord la queue."* 
+
+Sources : 
+
+Jesse Fox, Jeremy N. Bailenson, Liz Tricase, *The embodiment of sexualized virtual selves: The Proteus effect and experiences of self-objectification via avatars*
+
+Nick Yee et Jeremy Bailensee, *The Proteus Effect: The Effect of Transformed Self-Representation on Behavior*, 2007
+
+S. Berjot a, E. Drozda-Senkowska, *Comment les étudiants se perçoivent-ils en fonction de leur origine sociale ? Étude de contenu du stéréotype*, 2007
 
 ## III. Marketing de diversité
 
@@ -288,7 +296,7 @@ Cet effet s’applique potentiellement à toutes les minorités stéréotypées,
 
 - Surtout d'anciens exemples mais sont ancrés dans l'imaginaire collectif - emblématiques. Des jeux récents sont plus inclusifs ==> futures productions
 - évolution jeu : 
-- Réception du public
+- Réception du public :
 
 
 
