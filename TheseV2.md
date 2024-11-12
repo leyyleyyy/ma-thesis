@@ -326,8 +326,9 @@ Et il ajoute : *"Ce qui m'énerve avec ces polémiques, c'est qu'à force de dir
 
 Exemples : 
 
-- Zelda heroïne de son jeu
+- Zelda heroïne de son jeu + Peach
 - Augmenter la diversité dans les créateurs de jeux vidéos ne va pas nécessairement faire augementer la diversité. Ce n'est pas parce que l'on fait parti d'un groupe minoritaire que l'on perpetue pas les clichés liés à ces derniers. 
+- Problème : beaucoup d'effort sont fait sur les minorités de genre et sexuelles (source : racisme dans le jeux video. Mehdi Derfoufi) mais il y  a toujours une tendance à perpétuer des rapports de pouvoir & colonialistes dans les représentations de minorités éthnique. 
 
 **Andy** : "Aaahh je te dis direct je suis biaisé parce que je suis noir, je vais vouloir mettre que des personnages noirs comme protagoniste".  
 
@@ -351,8 +352,6 @@ A mettre quelque part : Ces représentations simplifiées et caricaturales des m
   - WINX : **Unrealistic Body Proportions**, Gender stereotypes, **Focus on Appearance**
 
     == whitewashing
-
-- 
 
 - **Impact sur la perception sociétale et identitaire** : Comment ces représentations influencent la manière dont les minorités sont perçues et comment elles influencent la formation des identités.
 
