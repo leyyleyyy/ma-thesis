@@ -284,7 +284,7 @@ Pour mieux comprendre cet effet, on peut se tourner vers une étude menée par d
 
 Ce phénomène d'identification aux avatars a aussi révélé une tendance troublante : lorsque leur propre visage était appliqué à l'avatar sexualisé, l’adhésion aux mythes du viol augmentait, une perception qui consiste à blâmer les victimes d’agressions sexuelles et à justifier implicitement ces violences (*Bohner et al., 1998*). Cette étude démontre à quel point l'identification aux avatars peut affecter les perceptions et attitudes envers soi-même et autrui, avec des impacts insidieux et profonds.
 
-Cet effet ne se limite pas aux avatars sexualisés : il s'applique également aux minorités victimes de stéréotypes dans les jeux vidéo. Comme l’a souligné un des participants de mes interviews : *"J'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ne comprennent pas pourquoi c'est nécessaire. Par contre, quand ils ne sont pas représentés, ils sont outrés. C'est un peu le serpent qui se mord la queue."*
+Cet effet ne se limite pas aux avatars sexualisés : il s'applique également aux minorités victimes de stéréotypes dans les jeux vidéo. 
 
 Sources : 
 
@@ -298,40 +298,36 @@ S. Berjot a, E. Drozda-Senkowska, *Comment les étudiants se perçoivent-ils en 
 
 ### 1. Entre inclusion et opportunisme commercial 
 
-- Surtout d'anciens exemples mais sont ancrés dans l'imaginaire collectif - emblématiques. Des jeux récents sont plus inclusifs ==> futures productions
-- évolution jeu : 
-- Réception du public :
+Certaines critiques reprochent aux jeux vidéo d’intégrer des personnages issus de minorités de manière superficielle, souvent pour répondre à une demande de diversité perçue comme un outil de marketing. Cette "diversité de façade" donne l'impression que des personnages sont ajoutés pour "gagner des points" auprès du public sans réelle volonté de déconstruire les stéréotypes, ce qui peut parfois accentuer les clichés au lieu de les contester.
 
+Plusieurs participants à mon interview partagent ce sentiment : *"Le jeu vidéo était quand même coincé dans ce que le cinéma a aussi connu à la fin des années huitante et début des années nonante, de devoir mettre un personnage de chaque ethnie, mais de la manière la plus stéréotype."* ou encore  *"On a eu beaucoup d'œuvres et d'histoires très mal faites, très mal écrites, où le seul but marketing était de mettre en avant les différentes ethnies."*
 
+Un exemple que l’on pourrait qualifier de diversité "diluée" est celui de Marinette Dupain-Cheng, héroïne de *Miraculous Ladybug*. Bien que ce personnage soit décrit comme étant asiatique et française, elle présente des traits culturels et physiques principalement occidentaux, sans réel lien avec ses racines chinoises. Selon moi, ce choix semble indiquer que les personnages sont "à moitié blancs, à moitié peu importe", et les spectateurs pourraient même ignorer son héritage asiatique s’ils ne prêtent pas une attention particulière ou ne le recherchent pas en ligne. Dans un registre similaire, le personnage d'Altaïr dans la série *Assassin's Creed* est arabe et non stéréotypé, mais ses mouvements et sa voix sont animés par un homme blanc, Desmond. 
 
-- L'intégration de personnages de minorités est parfois perçue comme une réponse forcée à la demande de diversité, suscitant des critiques sur le "tokenisme".
-- **Tokenisme** (Shani Orgad) : L'inclusivité devient un outil marketing plutôt qu'un véritable effort d'authenticité culturelle.
-- **Citations** : "*Il faut de la diversité à tout prix uniquement à des fins marketing*"-> Steve :  d'une part, il semble approuver la diversité, mais critique les choix marketing qui, selon lui, se concentrent trop sur l'apparence des personnages au détriment de la qualité narrative.
+Ce phénomène touche aussi des studios se voulant progressistes. En 2016, par exemple, Microsoft a refusé de mettre une femme noire sur la jaquette de *Fable III*, jugeant que cela pourrait être un frein à l'achat. Cette décision a provoqué des questionnement quant à la sincérité des initiatives en faveur de la diversité, d'autant que le studio se revendiquait en faveur de l'inclusivité, ayant notamment permis des unions homosexuelles dans le jeu. 
 
-=> Les entreprises de jeux vidéo utilisent parfois la diversité comme argument de vente, sans réelle volonté de déconstruire les stéréotypes.
+Ces questions autour de la diversité se heurtent également à des réactions virulentes de la part de certaines communautés de joueurs, où les opinions radicales peuvent prendre le dessus. Le mouvement *Gamergate*, lancé en 2014, en est un exemple frappant. Sous couvert de lutter contre le "politiquement correct", il a pris pour cible plusieurs développeuses et joueuses en les accusant d’imposer une idéologie "woke" dans les jeux vidéo, entraînant une campagne de harcèlement, de menaces et de violences. 
 
-**Lionel ** : *"Le jeu vidéo était quand même coincé dans ce que le cinéma a aussi connu à la fin des années huitante et début des années nonante, de devoir mettre un personnage de chaque ethnie, mais de la manière la plus stéréotype."*
-=> reflète une critique des stratégies marketing basées sur la diversité de façade, où les personnages issus de minorités sont intégrés de manière stéréotypée. 
+Plus récemment, un "GamerGate2.0" a eu lieu. Début 2024, le studio canadien Sweet Baby Inc., spécialisé dans le conseil en diversité, a également fait l'objet de critiques et de harcèlement après avoir travaillé sur *Suicide Squad: Kill the Justice League*. Cette collaboration a déclenché un déferlement de commentaires hostiles et de cyberharcèlement, allant jusqu'à rebaptiser le jeu *Woke Squad* en raison de la présence de drapeaux LGBTQ+ et de personnages noirs. Le lanceur de cette vague de critiques avance même, dans une interview au site *Geeks and Gamers* :
 
+*"Quelques mois avant la sortie de Suicide Squad, j'ai commencé à remarquer des schémas dans certains jeux, comme des femmes laides et des personnages masculins affaiblis pour que les femmes aient l'air plus fortes."*
 
+Ubisoft, souvent perçue comme une société emblématique en matière de diversité, a aussi subi des polémiques. L'apparition de Yasuke, un samouraï noir historique du XVIe siècle dans un prochain jeu *Assassin's Creed*, qui a provoqué de vives réactions. 
 
-**Mimi** : *"Je trouve que c'est une excellente idée d'avoir accès sur ce personnage noir japonais parce qu'Ubisoft s'adresse pas à un public japonais. [...] Mais je pense aussi qu'il ne faut pas écouter ces vagues là parce que les gens qui viennent commenter, c'est des gens qui ne jouent pas."*
+Au Japon, une pétition a rassemblé près de 100 000 signatures critiquant cette représentation, arguant que la présence d'un samouraï noir constitue une "insulte à la culture et à l’histoire japonaise" et un signe de "propagande wokiste". Cette controverse souligne les tensions autour de la représentation des personnages de couleur dans des rôles historiques.
 
-=> décisions créatives peuvent susciter des débats sociétaux, souvent exacerbés par des réactions racistes ou nationalistes.
+J'ai recueilli l’avis des participants à mes interviews concernant cette polémique. L'un d'eux a réagi en soulignant : "*Déjà il y a Naoe là qui est l'héroïne, et on l'oublie tout le temps. Elle est japonaise, elle est native de là-bas, elle est dans la culture. Ça, je trouve que ça rend certaines critiques invalides. Là, je vais parler sans filtre hein. Je pense que s'ils avaient mis un homme asiatique et Yasuke, il y aurait eu autant de polémique. J'ai l'impression que ça énerve certains qu'on dise que Yasuke a le rôle de protagoniste alors que non, les deux sont les protagonistes. Quand j'ai vu le trailer, je me suis dit okay, y’a Yasuke, et je vois dans les commentaires : QUOOIIIIIII Y'A UN NOIIIIIIIR.*"
 
+Et il ajoute : *"Ce qui m'énerve avec ces polémiques, c'est qu'à force de dire oui, il y a des gays, des noirs, etc., on finit par déshumaniser ces groupes. Ils sont contents d'être enfin représentés dans les médias. Au final, ceux qui se plaignent de cette diversité en disant ne comprendre l'importance de ces représentations, ce sont les mêmes qui se plaignent qu'ils sont moins représentés. C’est le serpent qui se mord la queue. Moi, ça m'a fait plaisir de voir un cast presque entièrement noir dans Black Panther, plutôt qu'un rôle de sidekick ou de comic relief, même si ce n'est pas indispensable pour que j'apprécie une histoire."*
 
+De manière générale, ce genre de polémique est amplifiée par une minorité de joueurs bruyante.  Toutes les personnes que j'ai interviewées, bien qu'ayant des avis divergents sur de nombreux sujets, étaient unanimes pour dire que cette polémique n’avait pas lieu d’être.
 
-**Steve** : *"On a eu beaucoup d'œuvres et d'histoires très mal faites, très mal écrites, où le seul but marketing était de mettre en avant les différentes ethnies."*
+### 2. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
 
-**Steve** : *"Juste les mecs nuls dont on s'en fout, c'est des blancs. Le reste c'est toutes les autres ethnies. Là encore une fois, ça me dérange pas mais genre au bout d'un moment lâcher nous la grappe aussi on est pas tous des fils de pute. Dans les derniers jeux que j'ai joué, à part minecraft où le perso principal de base il est blanc mais après tu peux en faire ce que tu veux. j'ai pas eu beaucoup de héros blanc. Dans les jeux récents."*
+Exemples : 
 
-
-
-**Kevin** : "La communauté des jeux vidéos restent majoritairement des hommes blancs et c'est une communauté qui malheureusement est très sexiste, très homophobe, très racistes sur certains points. J'ai l'impression c'est majoritairement des hommes blancs qui gueulent."
-
-### 3. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
-
-
+- Zelda heroïne de son jeu
+- Augmenter la diversité dans les créateurs de jeux vidéos ne va pas nécessairement faire augementer la diversité. Ce n'est pas parce que l'on fait parti d'un groupe minoritaire que l'on perpetue pas les clichés liés à ces derniers. 
 
 **Andy** : "Aaahh je te dis direct je suis biaisé parce que je suis noir, je vais vouloir mettre que des personnages noirs comme protagoniste".  
 
@@ -343,14 +339,22 @@ Les médias, y compris les jeux vidéo, ont un rôle central dans la constructio
 
 Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cinéma, dans le jeu vidéo ou n'importe quel autre média, est l'aspect sur lequel il faudrait se pencher. Il est encore rare de voir des héros faisant parti d'une population marginalisée qui soit non-stéréotypé et pas réduit à son ethnie. 
 
-- **Théorie des médias** (Manuel Castells) : Le pouvoir des jeux vidéo en tant que média façonnant les représentations sociales et identitaires est indéniable.
 - **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther, Baromètre de la diversité CSA 
 
 A mettre quelque part : Ces représentations simplifiées et caricaturales des minorités se heurtent à un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France, ce qui renforce l’ancrage de ces stéréotypes dans l’imaginaire collectif. 
 
 ## Conclusion
 - **Synthèse des résultats** : Le double rôle des jeux vidéo dans la reproduction et la déconstruction des stéréotypes concernant les minorités.
+
 - Conclure en reprenant les exemples de l'introduction (Winx, Floricienta) et montrer pourquoi ils sont problématiques
+
+  - WINX : **Unrealistic Body Proportions**, Gender stereotypes, **Focus on Appearance**
+
+    == whitewashing
+
+- 
+
 - **Impact sur la perception sociétale et identitaire** : Comment ces représentations influencent la manière dont les minorités sont perçues et comment elles influencent la formation des identités.
+
 - **Perspectives futures** 
 
