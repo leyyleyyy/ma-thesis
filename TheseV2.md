@@ -312,7 +312,7 @@ Plus récemment, un "GamerGate2.0" a eu lieu. Début 2024, le studio canadien Sw
 
 *"Quelques mois avant la sortie de Suicide Squad, j'ai commencé à remarquer des schémas dans certains jeux, comme des femmes laides et des personnages masculins affaiblis pour que les femmes aient l'air plus fortes."*
 
-Ubisoft, souvent perçue comme une société emblématique en matière de diversité, a aussi subi des polémiques. L'apparition de Yasuke, un samouraï noir historique du XVIe siècle dans un prochain jeu *Assassin's Creed*, qui a provoqué de vives réactions. 
+Ubisoft, souvent perçue comme une société emblématique en matière de diversité, a aussi subi des polémiques. L'apparition de Yasuke, un samouraï noir historique du XVIe siècle dans un prochain jeu *Assassin's Creed*, a provoqué de vives réactions. 
 
 Au Japon, une pétition a rassemblé près de 100 000 signatures critiquant cette représentation, arguant que la présence d'un samouraï noir constitue une "insulte à la culture et à l’histoire japonaise" et un signe de "propagande wokiste". Cette controverse souligne les tensions autour de la représentation des personnages de couleur dans des rôles historiques.
 
