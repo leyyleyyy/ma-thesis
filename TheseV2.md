@@ -332,13 +332,11 @@ Exemples :
 
 **Andy** : "Aaahh je te dis direct je suis biaisé parce que je suis noir, je vais vouloir mettre que des personnages noirs comme protagoniste".  
 
--> La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
+
 
 **Kevin** : "Je garderai le même personnage que je t'ai cité de LOL mais je prendrais une origine qui est plus proche de moi, ouais un métisse. Il y a pas beaucoup de métisses dans les jeux, il y a pas beaucoup de métissage, pas beaucoup de mélanges. Le rendre métissé asiat afrique. Pour joindre un peu les  deux bouts les deux communautés. (5mn57) Dans LOL il n'y a pas beaucoup de personnages de couleur masculins qui n'ont pas des traits hyper caricaturaux. Si c'est des personnages méchants ils ont des draids, si c'est des gentils ils ont des buzzcut, ils ont vla les bijoux, c'est pas que ça tu vois. "
 
-Les médias, y compris les jeux vidéo, ont un rôle central dans la construction des identités et des perceptions sociales des minorités. La représentation des minorités ne se réduit pas à une question de chiffre. Il faut s'interroger sur la visibilité des populations marginalisées mais il est surtout nécessaire d'étudier l'aspect qualitatif de ces représentations. Il faut être vigilant à ne pas reproduire des représentations caricaturales et stéréotypées. 
 
-Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cinéma, dans le jeu vidéo ou n'importe quel autre média, est l'aspect sur lequel il faudrait se pencher. Il est encore rare de voir des héros faisant parti d'une population marginalisée qui soit non-stéréotypé et pas réduit à son ethnie. 
 
 - **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther, Baromètre de la diversité CSA 
 
@@ -346,6 +344,12 @@ A mettre quelque part : Ces représentations simplifiées et caricaturales des m
 
 ## Conclusion
 - **Synthèse des résultats** : Le double rôle des jeux vidéo dans la reproduction et la déconstruction des stéréotypes concernant les minorités.
+
+- Les médias, y compris les jeux vidéo, ont un rôle central dans la construction des identités et des perceptions sociales des minorités. La représentation des minorités ne se réduit pas à une question de chiffre. Il faut s'interroger sur la visibilité des populations marginalisées mais il est surtout nécessaire d'étudier l'aspect qualitatif de ces représentations. Il faut être vigilant à ne pas reproduire des représentations caricaturales et stéréotypées. 
+
+  Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cinéma, dans le jeu vidéo ou n'importe quel autre média, est l'aspect sur lequel il faudrait se pencher. Il est encore rare de voir des héros faisant parti d'une population marginalisée qui soit non-stéréotypé et pas réduit à son ethnie. 
+
+  -> La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
 
 - Conclure en reprenant les exemples de l'introduction (Winx, Floricienta) et montrer pourquoi ils sont problématiques
 
