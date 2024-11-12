@@ -314,7 +314,7 @@ Plus récemment, un "GamerGate2.0" a eu lieu. Début 2024, le studio canadien Sw
 
 Ubisoft, souvent perçue comme une société emblématique en matière de diversité, a aussi subi des polémiques. L'apparition de Yasuke, un samouraï noir historique du XVIe siècle dans un prochain jeu *Assassin's Creed*, a provoqué de vives réactions. 
 
-Au Japon, une pétition a rassemblé près de 100 000 signatures critiquant cette représentation, arguant que la présence d'un samouraï noir constitue une "insulte à la culture et à l’histoire japonaise" et un signe de "propagande wokiste". Cette controverse souligne les tensions autour de la représentation des personnages de couleur dans des rôles historiques.
+Au Japon, une pétition a rassemblé près de 100 000 signatures critiquant cette représentation, arguant que la présence d'un samouraï noir constitue une "insulte à la culture et à l’histoire japonaise" et un signe de "propagande wokiste". 
 
 J'ai recueilli l’avis des participants à mes interviews concernant cette polémique. L'un d'eux a réagi en soulignant : "*Déjà il y a Naoe là qui est l'héroïne, et on l'oublie tout le temps. Elle est japonaise, elle est native de là-bas, elle est dans la culture. Ça, je trouve que ça rend certaines critiques invalides. Là, je vais parler sans filtre hein. Je pense que s'ils avaient mis un homme asiatique et Yasuke, il y aurait eu autant de polémique. J'ai l'impression que ça énerve certains qu'on dise que Yasuke a le rôle de protagoniste alors que non, les deux sont les protagonistes. Quand j'ai vu le trailer, je me suis dit okay, y’a Yasuke, et je vois dans les commentaires : QUOOIIIIIII Y'A UN NOIIIIIIIR.*"
 
