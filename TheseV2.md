@@ -324,25 +324,23 @@ L'un d'eux a réagi en soulignant : "*Déjà il y a Naoe là qui est l'héroïne
 
 Et il ajoute : *"Ce qui m'énerve avec ces polémiques, c'est qu'à force de dire oui, il y a des gays, des noirs, etc., on finit par déshumaniser ces groupes. Ils sont contents d'être enfin représentés dans les médias. Au final, ceux qui se plaignent de cette diversité en disant ne comprendre l'importance de ces représentations, ce sont les mêmes qui se plaignent qu'ils sont moins représentés. C’est le serpent qui se mord la queue. Moi, ça m'a fait plaisir de voir un cast presque entièrement noir dans Black Panther, plutôt qu'un rôle de sidekick ou de comic relief, même si ce n'est pas indispensable pour que j'apprécie une histoire."*
 
-### 2. Jeux vidéo et autres médias : quelles solutions pour une meilleure représentation ?
+### 2. Quelles solutions pour une meilleure représentation ?
 
-Exemples : 
+Face aux représentation stéréotypée des minorités dans les jeux vidéo, l’une des solutions serait  d’augmenter la diversité parmi les créateurs, comme nous l'avons évoqué précédemment. Cependant, cette approche présente des limites : faire partie d’une minorité ne garantit pas forcément une vision non biaisée. Comme vu dans les chapitres précédents, même au sein des groupes minoritaires, des stéréotypes peuvent être reproduits inconsciemment. 
 
-- Zelda heroïne de son jeu + Peach
-- Augmenter la diversité dans les créateurs de jeux vidéos ne va pas nécessairement faire augementer la diversité. Ce n'est pas parce que l'on fait parti d'un groupe minoritaire que l'on perpetue pas les clichés liés à ces derniers. 
-- Problème : beaucoup d'effort sont fait sur les minorités de genre et sexuelles (source : racisme dans le jeux video. Mehdi Derfoufi) mais il y  a toujours une tendance à perpétuer des rapports de pouvoir & colonialistes dans les représentations de minorités éthnique. 
+Pour que la présence de personnages issus de minorités ne se limite pas à un simple remplissage, il est essentiel d’accompagner cette diversité d'une véritable réflexion sur leur design, leur histoire et leur personnalité. Les personnages doivent être construits avec attention afin d'éviter une représentation superficielle ou caricaturale. Chaque personnage doit être conçu de manière à offrir une image authentique à laquelle on peut s'identifier.
 
-**Andy** : "Aaahh je te dis direct je suis biaisé parce que je suis noir, je vais vouloir mettre que des personnages noirs comme protagoniste".  
+Cependant, un déséquilibre persiste au sein des efforts de diversité. Ces derniers tendent à se concentrer sur la représentation des minorités de genre et des communautés LGBTQ+, tandis que les minorités ethniques ont tendance à rester marginalisées. Les personnages venant d'Asie du Sud, par exemple, sont largement sous-représentés malgré la population importante de cette région. Lors de mes interviews, lorsque j'ai demandé aux participants de citer des personnages indiens, les seules réponses furent « Abou dans le jeu des Simpson » ou des PNJ. 
+
+Mehdi Derfoufi, dans ses recherches sur le racisme dans les jeux vidéo, observe que malgré les progrès pour les minorités de genre, la représentation des minorités ethniques est souvent figée dans des dynamiques de pouvoir et des stéréotypes hérités d’une vision colonialiste. Cette tendance se trouve exacerbée par un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France et aux Etats-Unis, où les représentations simplifiées et caricaturales s’enracinent dans l’imaginaire collectif, renforçant des préjugés au lieu de les déconstruire.
+
+Certains jeux indépendants parviennent à rompre avec ces schémas stéréotypés en proposant des représentations nuancées, authentiques et anti-colonialistes de personnages issus de minorités. Toutefois, ces exemples restent plus rares dans les jeux à gros budgets (AAA), qui captent une large part de l’attention et du marché. C’est notamment dans cette catégorie de jeux qu’il serait crucial de voir évoluer les représentations, car ils touchent un public bien plus vaste.
+
+Des studio comme celui Sweet Baby Inc, que nous avons évoqué précédemment,  montrent une voie prometteuse vers des personnages plus authentiques. Ce studio collabore avec des développeurs pour les aider à créer des personnages avec des identités marginalisées qui échappent aux clichés. Comme l'explique David Bédard, vice-président et cofondateur de Sweet Baby Inc : *"On fait vraiment un travail de consultation : on se fait engager par des clients qui ont déjà rendu leur jeu plus inclusif et qui veulent qu’il soit crédible."* Grâce à ce type d'accompagnement, des jeux peuvent proposer des personnages représentatifs, crédibles et respectueux des réalités vécues.
+
+En somme, une meilleure représentation dans les jeux vidéo implique non seulement une diversité dans les équipes créatives, mais aussi une réflexion approfondie sur chaque personnage. Malgré une minorité bruyante qui s’oppose à ces évolutions, la majorité des joueurs en sont reconnaissants et en demande davantage. 
 
 
-
-**Kevin** : "Je garderai le même personnage que je t'ai cité de LOL mais je prendrais une origine qui est plus proche de moi, ouais un métisse. Il y a pas beaucoup de métisses dans les jeux, il y a pas beaucoup de métissage, pas beaucoup de mélanges. Le rendre métissé asiat afrique. Pour joindre un peu les  deux bouts les deux communautés. (5mn57) Dans LOL il n'y a pas beaucoup de personnages de couleur masculins qui n'ont pas des traits hyper caricaturaux. Si c'est des personnages méchants ils ont des draids, si c'est des gentils ils ont des buzzcut, ils ont vla les bijoux, c'est pas que ça tu vois. "
-
-
-
-- **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther, Baromètre de la diversité CSA 
-
-A mettre quelque part : Ces représentations simplifiées et caricaturales des minorités se heurtent à un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France, ce qui renforce l’ancrage de ces stéréotypes dans l’imaginaire collectif. 
 
 ## Conclusion
 - **Synthèse des résultats** : Le double rôle des jeux vidéo dans la reproduction et la déconstruction des stéréotypes concernant les minorités.
