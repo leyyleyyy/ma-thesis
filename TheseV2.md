@@ -30,7 +30,9 @@ Dès notre enfance, nous sommes exposés à divers médias, tels que les dessins
 
 <img src="IMAGES\Tintin_Congo.jpg" />
 
-Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilement publiables, il existe encore des exemples récents, bien connus, remplis de stéréotypes. Prenons, par exemple, *Aladdin* qui perpétue des clichés orientalistes *(voir chapitre 2 2.2)*, les siamois dans *Les Aristochats*, représentés en stéréotypes de personnes asiatiques jouant du piano avec des baguettes. On retrouve également les Amérindiens dans *Peter Pan*, moqués ouvertement pour leur culture, pour ne citer qu'eux. <img src="IMAGES\peterpan_amerindiens.jpg" width="400" /><img src="IMAGES\siamois_aristochat.jpg" alt="siamois_aristochat" width="450" /><img src="IMAGES\marchand_de_tapis.jpg" width="400" />
+Bien qu'aujourd'hui, des récits ouvertement racistes seraient plus difficilement publiables, il existe encore des exemples récents, bien connus, remplis de stéréotypes. Prenons, par exemple, *Aladdin* qui perpétue des clichés orientalistes *(voir chapitre 2 2.2)*, les siamois dans *Les Aristochats*, représentés en stéréotypes de personnes asiatiques jouant du piano avec des baguettes. On retrouve également les Amérindiens dans *Peter Pan*, moqués ouvertement pour leur culture, pour ne citer qu'eux.
+
+ <img src="IMAGES\peterpan_amerindiens.jpg" width="400" /><img src="IMAGES\siamois_aristochat.jpg" alt="siamois_aristochat" width="450" /><img src="IMAGES\marchand_de_tapis.jpg" width="400" />
 
 Depuis, les grands studios de cinéma, notamment Disney, s'efforcent à être plus inclusifs dans leurs films. Tiana, dans *La Princesse et la Grenouille*, était la première princesse Disney noire, tandis que *Coco* a introduit le premier héros mexicain.
 
