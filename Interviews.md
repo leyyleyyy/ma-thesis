@@ -403,29 +403,23 @@ Personnage 5 :
 
 #### Partie 4
 
-1. 
-2. 
+1. LOL, KingRed
+2. Skyrim, plus de personnages hors normes, pas humainc, plus dérangeant
 
-3. **Blanc.he** :
-   **Noir.e** :
+3. **Blanc.he** : Arthur Morgan (Red Dead Redemption II), Lara Croft
+   **Noir.e** : Nazi (Skyrim), Stella (LOL)
 
-   **Latinx** :
-   **Arabe** :
-   **Asiatique sud est** :
+   **Latinx** :"Putain euh... attend...mon cerveau il marche en ralentit là.. Dans quel jeux il pourrait y avoir des latinos. Dans Cyberpunk mais j'ai pas les noms, dans GTA il doit y en avoir des milliards. Une latina dans GTAVI mais je connais pas son nom. "
+   **Arabe** :"Comment il s'appelle... le gars dans Assassin's Creed en Egypte...Bayek" "Une femme....comment elle s'appelle..j'en ai pas en tête" "ahhhh dans call of t'as la meuf avec qui tu travailles mais je sais plus comment elle s'appelle non plus, ah Farah"
+   **Asiatique sud est** : "Héro principal dans ghost of Tsutshima" "la meuf dans assassin's creed au japon, l'héroïne au japon. En vrai j'en ai 1000 autres mais je suis nul pour les noms"
 
-   **Asie du sud ouest** : 
-
-
+   **Asie du sud ouest** : "Call of black ops 2, il me semble que tu travailles avec un indien"
 
 #### Partie 5
 
-**Yasuke** :
+**Yasuke** : "Parler de factualité pour Assassin's Creed c'est un peu curieux parce que le jeu s'est toujours basé sur des faits historiques mélangés à de la fiction. J'ai pas entendu les français faire des scènes quand Unity est sorti et que y'a pleins de trucs historiquement qui n'allaient pas avec l'histoire de France. Et pour l'histoire de Yasuke, on sait pas aujourd'hui s'il a vraiment existé et s'il a vraiment été un samouraï, y'a des gens qui disent que oui et d'autre que non mais du coup pour Assassin's Creed ça marche. A ce niveau là je vois pas le soucis niveau factuel. Après, je peux comprendre que pour une fois qu'il y a un Assassin's Creed où il y a une communauté Asiat ça foute un peu le seum que ce ne soit pas un asiat, après le jeu est bien fait pour ça et il y a la meuf assassin qui est japonaise. Je me dis que ça reste un jeu. Je peux comprendre que quand c'est ta culture et que y'a plein de trucs qui matchent pas avec la réalité ça coince un peu mais faut aussi se mettre à la place des développeurs et faire en sorte que le jeu il soit cool quoi. J'arrive à comprendre les deux côtés mais de la à dire que c'est une insulte c'est très intense. "
 
 **RE5 **: 
-
-**Conclusion**
-
-
 
 ### Enzo
 
