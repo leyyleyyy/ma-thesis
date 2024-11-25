@@ -37,7 +37,7 @@ Thèse Notes
 
 #### 	2.6 L'inexistant.e
 
-#### 	2.7 Lara Croft ??
+#### 	2.7 
 
 ### 2. Représentations dans les jeux vidéos
 
@@ -353,3 +353,117 @@ Ce schéma n’est pas exclusif aux jeux vidéo. On le retrouve dans de nombreux
 Huggan, Graham (2001). *The Postcolonial Exotic: Marketing the Margins*.
 
 
+
+----
+La représentation de la parole dans les jeux vidéo illustre également des disparités de genre significatives. Les hommes parlent en moyenne deux fois plus que les femmes, et lorsque les femmes s'expriment, c'est rarement entre elles. Et comme le souligne cette observation faites par des chercheurs de l'Université de Glasgow
+
+[^9]: Dr Stephanie Rennick & Dr Seán G. Roberts, "Largest study of video games reveals men say twice as much as women", 24 may 2023
+
+ *"Some games let the player choose their character’s gender, but even choosing a female main character did not lead to more than 50% female dialogue in over half of these games."* De plus, lorsqu'elles prennent la parole, leurs répliques tendent souvent à renforcer des stéréotypes de genre : elles s’excusent, adoptent des postures polies ou flirteuses, perpétuant une vision limitée des femmes dans l’univers vidéoludique.
+
+[^9]: 
+
+On peut se référer au *Test de Bechdel* qui met en évidence la surreprésentation de protagonistes masculins. Ce test repose sur trois critères : 
+
+[^10]: « À votre avis, combien de films cannois respectent VRAIMENT l'égalité homme-femme ? », *[Le Huffington Post](https://fr.wikipedia.org/wiki/Le_HuffPost)*,‎ 19 mai 2018 ([lire en ligne](https://www.huffingtonpost.fr/2018/05/19/cannes-2018-a-votre-avis-combien-de-films-respectent-vraiment-legalite-homme-femme_a_23438484/?utm_hp_ref=fr-homepage) [[archive](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.huffingtonpost.fr%2F2018%2F05%2F19%2Fcannes-2018-a-votre-avis-combien-de-films-respectent-vraiment-legalite-homme-femme_a_23438484%2F%3Futm_hp_ref%3Dfr-homepage)]).
+
+- Y-a-t-il aux moins deux personnages féminins qui portent un nom?
+- Ces deux personnages parlent-ils ensemble?
+- Si oui, ces femmes parlent-elles d'autre chose que d'un homme?
+
+Malgré des critères relativement bas, de nombreux jeux ne parviennent pas à franchir ce test, révélant ainsi la marginalisation des personnages féminins.
+
+À l’inverse, comme l’a démontré l’étude de Dill et Thill (2007)
+
+[^12]: Dill, K. E., & Thill, K. P. (2007). Video game characters and the socialization of gender roles: Young people’s perceptions mirror sexist media depictions. Sex Roles
+
+
+
+Il faut tout de même noter que la sexualisation des femmes a diminué ces trente dernières années, bien que toujours très présente (*Sexy, Strong, and Secondary: A Content Analysis of Female Characters in Video Games Across 31 Years*, 2016) 
+
+
+
+
+
+L’impact des stéréotypes
+
+Une étude de Berjot et Drozda-Senkowska montre comment les étudiants sont perçu selon leur origine sociale, favorisée ou défavorisée. 
+
+
+
+.  à travers des attributs négatifs tels que “racailles,” “vulgaires,” ou “agressifs.” À l’inverse, ils peuvent aussi être considérés comme des personnes “courageuses,” “travailleuses,” et “déterminées,” notamment en raison des obstacles qu’ils affrontent. Néanmoins, ils sont généralement vus comme “moins intéressants” et “moins doués,” avec des capacités intellectuelles remises en question, et pour qui les études sembleraient plus difficiles. En revanche, les étudiants issus de milieux favorisés, bien que parfois stigmatisés par des termes comme “prétentieux,” “égoïstes,” ou “fils à papa,” bénéficient d’une image intellectuelle et culturelle valorisante. Ils sont perçus comme “intelligents,” “intéressants,” voire “brillants” (*Berjot et Drozda-Senkowska, 2007*).
+
+Dans les jeux vidéo, les personnages issus de minorités ethniques ou de classes populaires se voient souvent attribuer des rôles stéréotypés. Cette exposition répétée à des représentations limitées peut avoir un impact similaire, en poussant les joueurs à intégrer, voire à reproduire inconsciemment, les comportements associés à ces stéréotypes. L’effet Proteus illustre bien comment ces stéréotypes influencent les comportements. Théorisé par les chercheurs Nick Yee et Jeremy Bailenson (*The Proteus Effect: The Effect of Transformed Self-Representation on Behavior*, 2007), cet effet montre que lorsqu’un individu croit aux stéréotypes liés à son avatar, il tend à adopter des comportements en lien avec ces clichés.
+
+Une étude de l’Université de Stanford (*Jesse Fox, Jeremy N. Bailenson, Liz Tricase, The embodiment of sexualized virtual selves: The Proteus effect and experiences of self-objectification via avatars*) a illustré ce phénomène. Les participantes, attribuées à des avatars sexualisés ou non, avec soit leur visage, soit celui d'une inconnue, ont montré des comportements conformes aux stéréotypes associés. Les participantes incarnant des personnages sexualisés intégraient ces caractéristiques, manifestant ainsi de l'auto-objectification – une attention accrue aux aspects physiques visibles (mensurations, poids) au détriment des compétences et capacités (*[L’auto-objectification](https://shs.cairn.info/revue-l-annee-psychologique-2020-3-page-321?lang=fr)*).
+
+De plus, les participantes dont le visage était intégré à l’avatar sexualisé adhéraient davantage aux mythes du viol, illustrant une tendance à justifier les violences subies par les victimes (*Bohner et al., 1998*). Cette étude souligne l’effet profond de l’identification aux avatars sur les perceptions de soi et d’autrui, et l’impact insidieux des stéréotypes quand ils sont intégrés dans les représentations médiatiques.
+
+Ce mécanisme, où les individus sont influencés par les représentations stéréotypées auxquelles ils sont exposés, est renforcé par un phénomène de déshumanisation. Comme le souligne un participant de mes interviews : *"J'ai l'impression qu'on déshumanise les gens. Ils se plaignent qu'il y a trop de représentation et ne comprennent pas pourquoi c'est nécessaire. Par contre, quand ils ne sont pas représentés, ils sont outrés. C'est un peu le serpent qui se mord la queue."* Ce témoignage met en évidence une problématique récurrente : l’absence de représentations nuancées, qui contribue à créer des attentes irréalistes et des comportements stéréotypés, non seulement chez les spectateurs, mais aussi chez ceux qui se voient attribuer ces rôles simplistes.
+
+
+
+
+
+Ainsi, à 6 ans, environ 1 enfant sur 10 a conscience des stéréotypes socialement partagés alors qu’à 10 ans, cette proportion s’élève à environ 7 sur 10. Par ailleurs, quel que soit l’âge, les enfants appartenant à des groupes minoritaires (afro-américains ou latino-américains) présentent des scores de connaissance du stéréotype plus élevé
+
+
+
+Les travaux sur la menace du stéréotype ont amené une nouvelle interprétation des difficultés scolaires des groupes ethno-raciaux minoritaires d’un point de vue psychosocial. À leur lecture, le bilan semble plus négatif encore qu’il ne l’était avant : à chaque étape de sa scolarisation, l’élève est susceptible de voir ses apprentissages et évaluations affectés par l’image négative de son groupe d’appartenance, y compris lorsque lui-même n’adhère pas à ce stéréotype et présente un parcours scolaire antérieur marqué par la réussite.
+
+
+
+
+
+- L'intégration de personnages de minorités est parfois perçue comme une réponse forcée à la demande de diversité, suscitant des critiques sur le "tokenisme" (diversité de façade). => gagner des points d'ouverture, inexactitudes historique. Diversité de façade.  Interview : "*Il faut de la diversité à tout prix uniquement à des fins marketing*".  *"On a eu beaucoup d'œuvres et d'histoires très mal faites, très mal écrites, où le seul but marketing était de mettre en avant les différentes ethnies."*
+- => Les entreprises de jeux vidéo utilisent parfois la diversité comme argument de vente, sans réelle volonté de déconstruire les stéréotypes.
+
+- Gamer Gate & Gamer Gate 2.0 : Reddit & Twitter. Première utilisation de ce mot : Baldwin, pour lui le "Gamergate est avant tout une rébellion contre le "politiquement correct". Menant à du cyberharcèlement contre des femmes joueuses ou développeuses. Veulent éradiquer toute sorte de wokisme dans les jeux vidéos
+
+  Les joueurs les plus impliqués dans ce combat cherchent à éradiquer toute forme de "wokisme"
+
+- Ex : Sweet baby Inc - studio de jeux vidéo canadien qui aide à la mise en place de la diversité - consultants - ’ consultant pour studio de jeux video qui améliore l'authenticité des personnages issu de minorité - vague de cyberharcélement - travaillé sur de nombreux jeux à succès (), mais lors de la sortie de *Suicide Squad: Kill the Justice League*, très attendu par la communauté, est loin d’avoir connu le succès escompté. En plus de nombreux bogues de développement, des internautes l’ont rebaptisé *Woke Squad* en raison de la présence de drapeaux LGBTQ+ et de personnages noirs, notamment.
+
+  Leur déception s’est transformée en une colère sans filtre qui a pris pour cible Sweet Baby Inc, l'un des studios apparaissant au générique.
+
+  - *"Quelques mois avant la sortie de Suicide Squad, j'ai commencé à remarquer des schémas dans certains jeux, comme des femmes laides et des personnages masculins affaiblis pour que les femmes aient l'air plus fortes."* Kabrutus, créateur de contenu gaming et lanceur du groupe de discussion du nom de Sweet Baby Inc Detected, sur steam
+
+- La véhémence des partisans du Gamergate a par ailleurs donné lieu à des menaces de mort contre Sweet Baby Inc, mais également les développeurs des studios collaborant avec eux.
+
+  - Problème : réduit souvent à la place des femmes dans les jeux vidéos en ignorant toutes les autres minorités// enjeux raciaux & de classe rarement abordés 
+
+
+
+
+
+L’idée d’augmenter la diversité parmi les créateurs de jeux est souvent avancée comme solution pour enrichir la représentation des minorités dans ce média. Cependant, cette solution présente des limites : être issu d’une minorité ne garantit pas nécessairement une approche nuancée de cette diversité. En effet, même au sein des groupes minoritaires, des clichés peuvent être reproduits, comme nous l'avons vu dans les chapitres précédents. 
+
+La diversité dans les personnages doit s’accompagner d’une réflexion approfondie sur leur design, leur histoire et leurs traits de personnalité. Une simple présence de personnages minoritaire ne suffit pas.
+
+Il faut aussi souligner que les efforts de diversité ont tendance à se concentre sur la représentation des minorités de genre et sexuelles, tandis que les minorités ethniques demeurent encore marginalisées. Les personnages venant d'Inde par exemple sont sous représentés alors qu'ils représentent 1 milliard d'habitants. Par exemple, lorsque j'ai demandé aux interviewés des personnages venant de cette région, la seule réponse était "Abou dans le jeu des Simpson". Mehdi Derfoufi, dans ses travaux sur le racisme dans les jeux vidéo, souligne que bien que des progrès soient visibles pour les minorités de genre et LGBTQ+, la représentation des minorités ethniques reste souvent figée dans des rapports de pouvoir et des connotations colonialistes. Ces tendances révèlent un déséquilibre dans la manière dont l’industrie aborde les problématiques de diversité. La montée des idées d’extrême droite dans certains contextes sociopolitiques, notamment en France, renforce cette tendance. Les représentations simplifiées et caricaturales des minorités s’enracinent davantage dans l’imaginaire collectif, alimentant les préjugés au lieu de les déconstruire.
+
+Il existe de nombreux jeux indépendants cassant ces dynamiques colonialistes mais cela reste plus rare pour les jeux à gros budgets (AAA), sur lesquels nous sommes plus focalisés dans ce travail. 
+
+Des studios comme Sweet Baby Inc, que nous avons évoqué précédemment, aident les studios de jeux vidéos à créer des personnages authentiques avec une identité marginalisée. 
+
+*On fait vraiment un travail de consultation : on se fait engager par des clients qui ont déjà rendu leur jeu plus inclusif et qui veulent qu’il soit crédible.* David Bédard, vice-président et cofondateur de Sweet Baby Inc
+
+
+
+Exemples : 
+
+- nouveaux jeu  : Zelda heroïne de son jeu + Peach
+- Augmenter la diversité dans les créateurs de jeux vidéos ne va pas nécessairement faire augementer la diversité. Ce n'est pas parce que l'on fait parti d'un groupe minoritaire que l'on perpetue pas les clichés liés à ces derniers. 
+- Problème : beaucoup d'effort sont fait sur les minorités de genre et sexuelles (source : racisme dans le jeux video. Mehdi Derfoufi) mais il y  a toujours une tendance à perpétuer des rapports de pouvoir & colonialistes dans les représentations de minorités éthnique. 
+
+**Andy** : "Aaahh je te dis direct je suis biaisé parce que je suis noir, je vais vouloir mettre que des personnages noirs comme protagoniste".  
+
+
+
+**Kevin** : "Je garderai le même personnage que je t'ai cité de LOL mais je prendrais une origine qui est plus proche de moi, ouais un métisse. Il y a pas beaucoup de métisses dans les jeux, il y a pas beaucoup de métissage, pas beaucoup de mélanges. Le rendre métissé asiat afrique. Pour joindre un peu les  deux bouts les deux communautés. (5mn57) Dans LOL il n'y a pas beaucoup de personnages de couleur masculins qui n'ont pas des traits hyper caricaturaux. Si c'est des personnages méchants ils ont des draids, si c'est des gentils ils ont des buzzcut, ils ont vla les bijoux, c'est pas que ça tu vois. "
+
+
+
+- **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther, Baromètre de la diversité CSA 
+
+A mettre quelque part : Ces représentations simplifiées et caricaturales des minorités se heurtent à un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France, ce qui renforce l’ancrage de ces stéréotypes dans l’imaginaire collectif. 

@@ -10,7 +10,16 @@ Cette sensation, je l'ai également retrouvée avec la série *Floricienta*. La 
 
 Ces anecdotes, aussi simples qu'elles puissent paraître, illustrent l'importance profonde de la représentation. Elles ont façonné, sans que je m’en rende compte, ma perception de moi-même. C'est en partie ce qui m'a amenée à m'intéresser aux représentations des minorités dans les jeux vidéo, un média culturel aujourd'hui omniprésent. Il a une influence unique sur la perception sociale et l'identité, surtout chez les jeunes qui grandissent avec ces images.
 
-C'est dans cet esprit que je mène cette recherche. Mon objectif est de comprendre et d'analyser comment les jeux vidéo participent à la construction ou à la déconstruction des stéréotypes liés aux minorités. À travers des interviews de joueurs et joueuses, ainsi que l'analyse de jeux vidéo et récits populaires, j'explore ces représentations pour mieux saisir leur impact sur la perception sociale et les identités.
+C'est dans cet esprit que je mène cette recherche. Mon objectif est d’examiner comment les jeux vidéo participent à la construction ou à la déconstruction des stéréotypes liés aux minorités. Pour approfondir cette problématique, j’ai réalisé une série d’interviews auprès d’un échantillon varié de participants : des hommes et des femmes de différentes origines, tous se considérant comme de *gros joueurs*.
+
+1. **Analyse des personnages** : Les participants ont attribué des rôles (héros, méchant, PNJ) à des personnages prédéfinis, afin d’évaluer dans quelle mesure leur apparence et leur ethnie influençaient ces décisions.
+2. **Création de personnages** : Grâce à un outil en ligne, ils ont conçu des personnages selon des critères spécifiques (terroriste, dealer, héros, PNJ.). Cela a permis d’étudier comment leur propre origine ou leurs biais inconscients pouvaient influencer leurs choix.
+3. **Discussions sur les polémiques** : Des débats autour de jeux comme *Assassin’s Creed* et *Resident Evil 5*.
+4. **Perception de la diversité** : Les participants ont partagé leurs avis sur leurs personnages préférés, ainsi que leurs attentes en matière de représentation dans les jeux vidéo.
+
+Les interviews bruts sont disponibles en annexe de ma thèse. 
+
+En parallèle, j’ai analysé des jeux vidéo et des récits populaires pour mieux comprendre leur impact sur les perceptions sociales et les identités. Les jeux étudiés appartiennent à la catégorie *AAA*, terme désignant les productions bénéficiant des plus gros budgets de développement et de promotion.
 
 ## I. Les stéréotypes dans l'industrie vidéoludique
 
@@ -88,7 +97,11 @@ L'absence de diversité parmi les créateurs limite également les chances d'une
 
 Pour comprendre la persistance de ces biais dans l'industrie du jeu vidéo, il est essentiel d'explorer le concept de racisme systémique, tel que l’a théorisé Ruth Wilson Gilmore. J'ai pris conscience de cette notion en assistant aux assises sur l'immigration dans le canton de Vaud. Moi qui n'étais pas forcément familière avec ce sujet, j'ai réalisé à quel point le racisme était présent dans notre quotidien et pouvait influencer de nombreux domaines. Même en tant que personne racisée, j'ai découvert que des éléments de racisme pouvaient être ancrés en moi de manière inconsciente. Cela montre que ces biais ne proviennent pas nécessairement de mauvaises intentions, mais plutôt d’une exposition répétée à des stéréotypes et des préjugés qui façonnent nos perceptions. Un exemple révélateur et récurrent de racisme systémique est le refus de logements à des personnes en fonction de leur ethnie, ou encore la pratique de soumettre les personnes racisées à des contrôles plus fréquents à l'aéroport par rapport à leurs homologues blancs.
 
-Lors des entretiens que j'ai mené auprès de joueurs sur leur perception des minorités dans les jeux vidéos, j'ai découvert que la plupart des interviewés avaient eux aussi, soit conscience de ce phénomène, soit en étaient victime. Lorsqu'ils ont eu le rôle de *character designer* et devaient créer des personnages comme un terroriste ou un dealer, la discussion sur les clichés s'est rapidement installée. Des remarques comme "*Je m’imagine quelqu’un de noir ou arabe pour le terroriste, et ça m’énerve*", "*Les gens sont racistes. Comme d’habitude, on joue sur les biais. Si tu le vois[le personnage qu'il a crée], tu te dis : aaaah, ce gars, c’est vraiment un dealer, il a des dreadlocks et il s’habille large, olala*" ou encore *"Je pourrais me la jouer lausannois et faire un Africain, mais c'est pas l'idée (pour le dealer)"* illustrent à quel point ces stéréotypes ressurgissent naturellement. 
+
+
+Lors de ces entretiens, il est apparu que la plupart des interviewés avaient conscience de ces phénomènes ou en étaient eux-mêmes victimes.
+
+Lorsqu'ils ont eu le rôle de *character designer* et devaient créer des personnages comme un terroriste ou un dealer, la discussion sur les clichés s'est rapidement installée. Des remarques comme "*Je m’imagine quelqu’un de noir ou arabe pour le terroriste, et ça m’énerve*", "*Les gens sont racistes. Comme d’habitude, on joue sur les biais. Si tu le vois[le personnage qu'il a crée], tu te dis : aaaah, ce gars, c’est vraiment un dealer, il a des dreadlocks et il s’habille large, olala*" ou encore *"Je pourrais me la jouer lausannois et faire un Africain, mais c'est pas l'idée (pour le dealer)"* illustrent à quel point ces stéréotypes ressurgissent naturellement. 
 
 De la même manière, les développeurs de jeux vidéo ne sont pas à l'abri de ces biais. En évoluant dans un milieu où la diversité est souvent limitée, ils peuvent reproduire sans s'en rendre compte des stéréotypes et des représentations biaisées dans leurs créations.
 
@@ -356,6 +369,14 @@ En somme, une meilleure représentation dans les jeux vidéo implique non seulem
   - WINX : **Unrealistic Body Proportions**, Gender stereotypes, **Focus on Appearance**
 
     == whitewashing
+    
+  - Floricienta : relation 14-25, aucun personnage autre que blanc, grossophobe (Sofia par exemple), représentation caricaturale de la femme, les personnages principaux se trouvent dans les archétypes cités précedemment (vivent à travers les relations amoureuses- Flor amoureuse (demoiselle en détresse), Delfina la belle qui fait tout pour voler l'homme de l'autre (l'aguicheuse) Frederico accueille flor et lui apprend la vie (le sauveur),...)
+
+  - Peach : héroïne dans un jeu très récent
+
+  - Zelda : héroïne dans un jeu très récent
+
+  - Amy : caractérisations à changer dans le dernier Sonic
 
 - **Impact sur la perception sociétale et identitaire** : Comment ces représentations influencent la manière dont les minorités sont perçues et comment elles influencent la formation des identités.
 

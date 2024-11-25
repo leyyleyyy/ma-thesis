@@ -370,41 +370,50 @@ A partir du moment où on partait sur femme noire, latina, j'avais de la peine. 
 
 #### Partie 1
 
-2. 
+2. c : Personnage principal, il a une combinaison d'espion donc ça ne peut pas être un PNJ 
+
+   a : PNJ parce qu'il est en armure, il a la gueule de Dj Khaled. Il est trop basic, il a une tête qu'on peut voir tous les jours
+
+   b : c'est le méchant un peu nul, c'est pas le boss final. C'est un méchant nul.
 
 
-3. 
-4. 
+3. c  : héroïne, elle a l'air aventurière avec son outfit
+
+   a : PNJ, c'est vraiment la définition d'un PNJ. Le blond basic c'est vraiment le PNJ de base dans la société occidentale. La petite blonde aux yeux bleu qui a l'air toute gentille c'est vraiment un PNJ.
+
+   b : méchant, elle a l'air malicieuse
+
+4. a : méchant
+
+   b : PNJ ultime, tu lui parles pour une quête
+
+   c : héro, dégaine d'aventurier, épée
 
 #### Partie 2 
 
-**Jeu** : 
-Personnage 1 : 
-Personnage 2 : 
-Personnage 3 : 
-Personnage 4 : 
-Personnage 5 : 
-
-**Commentaires** : 
-
-
+**Jeu** : Tu peux jouer un homme ou une femme, jeu style cyberpunk, t'as une quête personnelle dans un univers sociétal futuriste
+Personnage 1 : Personnage principal 1
+Personnage 2 : Scientifique rat de laboratoire qui va t'aider
+Personnage 3 : Personnage principal 2
+Personnage 4 : Sidekick qui est juste bonne
+Personnage 5 : Méchant qui se fait passer pour ton pote
 
 #### Partie 3
 
-**Personnage principal** : 
+**Personnage principal** : Je voulais qu'il ait un physique que tu trouves sympa
 
-**Terroriste** :
+**Terroriste** : Asiat teenager. C'est un peu le méchant dans far cry 4. L'asiat avec une mèche. Je voulais qu'il soit un peu edgy, c'est le gars qui fait des attentats parce que c'est pas comme lui il voudrait, pas comme lui il voit la société, c'est un mec trop exclu.
 
-**Drugdealer** :
+**Drugdealer** : Je sais pas pourquoi je voyais un gros. Un latino pour le pur cliché, du fait que drug dealer = latino. Je voulais qu'il ait une dégaine en mode c'est pas le gars de la gare d'Yverdon, lui il gère le trafic. 
 
-**PNJ** : 
+**PNJ** : Aucune démarcation physique. Absolument rien qui sorte de l'ordinaire. 
 
-
+**Commentaire** : Je suis vraiment une merde parce que je viens de me rendre compte que en faisant vite j'ai fait que des hommes. Oui oui je suis une merde, un gros misogyne c'est ça que tu pourras écrire dans ton rapport.
 
 #### Partie 4
 
 1. LOL, KingRed
-2. Skyrim, plus de personnages hors normes, pas humainc, plus dérangeant
+2. Skyrim, plus de personnages hors normes, pas humain, plus dérangeant
 
 3. **Blanc.he** : Arthur Morgan (Red Dead Redemption II), Lara Croft
    **Noir.e** : Nazi (Skyrim), Stella (LOL)
@@ -425,20 +434,37 @@ Personnage 5 :
 
 #### Partie 1
 
-2. 
+2. c : personnage principal : pose plus dynamique
+
+   b : méchant : expression, lunette de soleil
+
+   a : PNJ, char design moins marqué - armure un peu classique 
 
 
-3. 
-4. 
+3.  c : personnage principal, plus chargé en accessoire
+
+   a : PNJ, un seul vêtement
+
+   b : méchant, animal loup connoté méchant dans les comptes
+
+
+
+4. b : méchant, visage camouflé, caché, pas un perso gentil
+
+   c : personnage principal, accessoires, plus chargé
+
+   a : méchant, difficile à dire lequel entre les deux 
+
+   
 
 #### Partie 2 
 
 **Jeu** : 
-Personnage 1 : 
-Personnage 2 : 
-Personnage 3 : 
-Personnage 4 : 
-Personnage 5 : 
+Personnage 1 : Population civil
+Personnage 2 : Personnage principal, Ressource
+Personnage 3 : Gang 
+Personnage 4 : Personnage principal 2, Ressources
+Personnage 5 : Gang
 
 **Commentaires** : 
 
@@ -446,35 +472,31 @@ Personnage 5 :
 
 #### Partie 3
 
-**Personnage principal** : 
+**Personnage principal** : "Pour moi les archétypes que tu m'as donné$, genre terroriste et drugdealer, ils sont hyper codés en genre. Terroriste femme ou drug dealer femme c'est pas quelque chose qu'on voit ou qu'on imaginerait. Dans ce genre de scénario je mettrais bien une femme comme personnage principal pour contrebalancer. Surtout dans ce genre de jeu, typé GTA, c'est beaucoup masculin. Ca permet de ne pas toujours avoir les mêmes typologies de personnage."
 
-**Terroriste** :
+**Terroriste** : 
 
-**Drugdealer** :
+**Drugdealer** : "Il y a ce truc de classe, populaire drugdealer machin, c'est des afro americains. Ils vont représenter avec facilité des gens des quartiers, des cartels, c'est des mexicains, des afro américains. Je pense que c'est mieux de prendre le contrepieds de ça. Pour moi, quand tu fais un personnage c'est important de savoir si tu rentres pas dans des clichés et si tu fais du design automatique sans réfléchir ou reproduire des situations clichés que tu vois déjà dans les médias. Je vais faire le mec qui vend de la coke dans des lycées privés."
 
-**PNJ** : 
+**PNJ** : "J'ai mis les vêtements par défaut. Ca aurait pas été très réaliste de mettre un blanc."
 
 
 
 #### Partie 4
 
-1. 
-2. 
+1. The witcher, le personnage a un charactère, il a de la profondeur. C'est un mutant et il est un peu en retrait, il est rejeté de par sa condition. Il doit prouver que c'est qqn de bien.
+2. Monster Hunter. Il manque scénario et histoire
 
-3. **Blanc.he** :
-   **Noir.e** :
+3. **Blanc.he** : Snake, Lara Croft
+   **Noir.e** : Barrett, l'intendante dans monster hunter wilds
 
-   **Latinx** :
-   **Arabe** :
-   **Asiatique sud est** :
-
-   **Asie du sud ouest** : 
-
-
+   **Latinx** : le meilleur ami du personnage principal dans l'intro de cyberpunk,  Juarez (Cyberpunk 2077)
+   **Arabe** : Prince of persia, "si je cherche pendant 10 minutes je peux trouver un truc d'un jeu indépendant auquel j'ai joué il y a 10 ans"
+   **Asiatique sud est** : Yakuza, Chun-Li (Street Fighter)
 
 #### Partie 5
 
-**Yasuke** :
+**Yasuke** : "C'est un personnage historique, c'est pas la première fois qu'il est représenté, il est déjà apparu dans plein de films. C'est une figure singulière, parce que dans l'inconscient collectif on pense pas à des saouraï noir, et il y a une histoire intéressante derrière sur la colonisation et tout ça. Après le truc qu'il n'est jamais été samouraï dans la vrai vie, que c'est raciste de ne pas mettre un asiatique à sa place, je pense que c'est complétement con. On parle d'Assassin's Creed hein. Il y a une mouvance dans la société actuelle, précisément aussi dans la communauté des joueurs. Dès que y'a des personnages noirs mise en avant aussi ça cri au wokisme, il n'y avait pas de noir avant dans les jeux machin. Tout le truc de ouais dans mon monde de fantaisie il y a pas de noir, ouais mais y'a des ogres mais y'a pas de noir. Je pense que c'est des débats qui émergent d'une minorité bruyante, des gens qui sont politisés, souvent très à droite qui sont pas trop pour élargir la représentation dans les jeux car ils sont habitués à 40 ans de jeux vidéos avec que des hommes blancs, dès qu'ils voient autre chose ils pètent un câble. Parfois ça peut être intéressant de se questionner sur les représentations, pour un jeu qui se veut culturellement correct. Par exemple Sifu avait engendré pas mal de débat car c'est un jeu d'art martiaux qui est inspiré de la culture des arts martiaux chinois, et qui a été developpé par des français, là il y avait eu des problème de représentation culturelles qui étaient vraiment trop importantes et du coup ça avait fait parler et ils se sont rendu compte qu'il n'y a pas eu assez d'échanges avec des personnes issues de ces communautés là. Quand tu fais un jeu qui se veut être juste tu as le devoir de ne pas fausser le truc. Un jeu Assassin's Creed ça se veut être bon public, pas 100% exact scientifiquement. C'est de la fiction Assassin's Creed, il  y pas matière trop à débat. Il y a déjà plein de jeux inspirés de la culture nippone ou qui représentent de manière juste certaines périodes de l'histoire du Japon comme Ghost of Tsushima qui est très inspiré et juste dans ce qu'ils font. S'ils veulent un jeu qui fasse exactement ça et qui prend comme personnage principal un asiatique il y en a déjà. Aujourd'hui dans les gros studios ils ont des consultants pour leur dire ça c'est pas juste, ça c'est inclusif, ça ça ne l'est pas. Dans un jeu comme ça il y a des milliers de personnes qui jouent dessus. C'est pas la volonté d'un gars qui s'est dit ouais je vais faire un jeu de wokiste, un noir au japon. Aujourd'hui c'est les représentations médiatiques qui ont évoluées dans le bon sens de manière générale, c'est pas une volonté d'Ubisoft, eux ils suivent la mouvance. Je pense que les gens ont juste l'habitude de voir l'homme blanc en grand héro ou en figure importante, alors que maintenant il n'y pas que l'homme blanc et il y a d'autres personnages autour.  "
 
 **RE5 **: 
 
