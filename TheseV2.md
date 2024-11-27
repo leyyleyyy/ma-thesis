@@ -359,7 +359,7 @@ En somme, une meilleure représentation dans les jeux vidéo implique non seulem
 
 Dans *Winx Club*, bien que j’aie trouver un personnage auquel m'identifier, de nombreux problèmes y sont présent : les proportions irréalistes des corps, l’accent mis sur l’apparence, le "whitewashing", les stéréotypes de genre perpétués, etc. De même, *Floricienta*, bien qu’elle m’ait aidée à apprécier mes cheveux bouclés, la série véhiculait des stéréotypes problématiques : des relations romantiques déséquilibrées, des personnages féminins enfermés dans des archétypes comme ceux évoqués plus haut : "l'aguicheuse", la "demoiselle en détresse" ou "le sauveur", et une absence totale de diversité ethnique. Ces récits, bien qu’ils m'aient permis de me sentir représenté, participaient à l’ancrage de normes et de clichés limitants.
 
-Ces œuvres ont été conçues il y a une dizaine d'années et actuellement de réels changement sont mis en place. Il suffit de reprendre les  exemples cités tout au long de cette thèse pour noter ces avancées : Peach et Zelda ont enfin des rôles d’héroïnes dans des jeux récents, Amy a gagné une profondeur dans le dernier *Sonic*, et le prochain *GTA* introduit une protagoniste féminine. Ces transformations traduisent une volonté croissante de sortir des schémas rigides du passé. En me basant sur mes recherches et les connaissances que j'ai acquis tout au long de cette thèse, je trouve que les thématiques liées uniquement au genre ont connues une réelles évolution moins la race e
+Ces œuvres ont été conçues il y a une dizaine d'années et actuellement de réels changement sont mis en place. Il suffit de reprendre les  exemples cités tout au long de cette thèse pour noter ces avancées : Peach et Zelda ont enfin des rôles d’héroïnes dans des jeux récents, Amy a gagné une profondeur dans le dernier *Sonic*, et le prochain *GTA* introduit une protagoniste féminine. Ces transformations traduisent une volonté croissante de sortir des schémas rigides du passé. En me basant sur mes recherches et les connaissances que j'ai acquis tout au long de mon travail, je trouve que les thématiques liées uniquement au genre ont connues une réelles évolution moins la race. Mehdi Derfoufi, dans son ouvrage "Racisme et jeux vidéo", tire le même constat : 
 
 
 
@@ -371,7 +371,7 @@ Ces œuvres ont été conçues il y a une dizaine d'années et actuellement de r
 
   - Floricienta : relation 14-25, aucun personnage autre que blanc, grossophobe (Sofia par exemple), représentation caricaturale de la femme, les personnages principaux se trouvent dans les archétypes cités précedemment (vivent à travers les relations amoureuses- Flor amoureuse (demoiselle en détresse), Delfina la belle qui fait tout pour voler l'homme de l'autre (l'aguicheuse) Frederico accueille flor et lui apprend la vie (le sauveur),...)
 
-  ==> Bien qu'ils ont permis de me sentir représentée, ils perpétuent des clichés qui s'ancrent inconsciemment. Cependant restent de vieux exemples. Les choses changent --> rien que dans les exemples cités 
+  ==> Bien qu'ils aient permis de me sentir représentée, ils perpétuent des clichés qui s'ancrent inconsciemment. Cependant restent de vieux exemples. Les choses changent --> rien que dans les exemples cités 
 
   Thèse exemples emblématiques mais plutôt anciens - changements sont en train de prendre place. Rien que dans les exemples cités, notamment dans le chapitre "demoiselle en détresse", tous les personnages ont des rôles qui ont évolués dans des jeux récents :  
 
@@ -384,7 +384,7 @@ Ces œuvres ont été conçues il y a une dizaine d'années et actuellement de r
 
   Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cinéma, dans le jeu vidéo ou n'importe quel autre média, est l'aspect sur lequel il faut se pencher. Il est encore rare de voir des héros faisant parti d'une population marginalisée qui soit non-stéréotypé et pas réduit à son ethnie. La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
 
-- - 
+- 
 
 - Pour améliorer : 
 
