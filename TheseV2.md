@@ -356,29 +356,47 @@ En somme, une meilleure représentation dans les jeux vidéo implique non seulem
 
 
 ## Conclusion
-- **Synthèse des résultats** : Le double rôle des jeux vidéo dans la reproduction et la déconstruction des stéréotypes concernant les minorités.
 
-- Les médias, y compris les jeux vidéo, ont un rôle central dans la construction des identités et des perceptions sociales des minorités. La représentation des minorités ne se réduit pas à une question de chiffre. Il faut s'interroger sur la visibilité des populations marginalisées mais il est surtout nécessaire d'étudier l'aspect qualitatif de ces représentations. Il faut être vigilant à ne pas reproduire des représentations caricaturales et stéréotypées. 
+Dans *Winx Club*, bien que j’aie trouver un personnage auquel m'identifier, de nombreux problèmes y sont présent : les proportions irréalistes des corps, l’accent mis sur l’apparence, le "whitewashing", les stéréotypes de genre perpétués, etc. De même, *Floricienta*, bien qu’elle m’ait aidée à apprécier mes cheveux bouclés, la série véhiculait des stéréotypes problématiques : des relations romantiques déséquilibrées, des personnages féminins enfermés dans des archétypes comme ceux évoqués plus haut : "l'aguicheuse", la "demoiselle en détresse" ou "le sauveur", et une absence totale de diversité ethnique. Ces récits, bien qu’ils m'aient permis de me sentir représenté, participaient à l’ancrage de normes et de clichés limitants.
 
-  Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cinéma, dans le jeu vidéo ou n'importe quel autre média, est l'aspect sur lequel il faudrait se pencher. Il est encore rare de voir des héros faisant parti d'une population marginalisée qui soit non-stéréotypé et pas réduit à son ethnie. 
+Ces œuvres ont été conçues il y a une dizaine d'années et actuellement de réels changement sont mis en place. Il suffit de reprendre les  exemples cités tout au long de cette thèse pour noter ces avancées : Peach et Zelda ont enfin des rôles d’héroïnes dans des jeux récents, Amy a gagné une profondeur dans le dernier *Sonic*, et le prochain *GTA* introduit une protagoniste féminine. Ces transformations traduisent une volonté croissante de sortir des schémas rigides du passé. En me basant sur mes recherches et les connaissances que j'ai acquis tout au long de cette thèse, je trouve que les thématiques liées uniquement au genre ont connues une réelles évolution moins la race e
 
-  -> La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
+
 
 - Conclure en reprenant les exemples de l'introduction (Winx, Floricienta) et montrer pourquoi ils sont problématiques
 
   - WINX : **Unrealistic Body Proportions**, Gender stereotypes, **Focus on Appearance**
 
     == whitewashing
-    
+
   - Floricienta : relation 14-25, aucun personnage autre que blanc, grossophobe (Sofia par exemple), représentation caricaturale de la femme, les personnages principaux se trouvent dans les archétypes cités précedemment (vivent à travers les relations amoureuses- Flor amoureuse (demoiselle en détresse), Delfina la belle qui fait tout pour voler l'homme de l'autre (l'aguicheuse) Frederico accueille flor et lui apprend la vie (le sauveur),...)
 
+  ==> Bien qu'ils ont permis de me sentir représentée, ils perpétuent des clichés qui s'ancrent inconsciemment. Cependant restent de vieux exemples. Les choses changent --> rien que dans les exemples cités 
+
+  Thèse exemples emblématiques mais plutôt anciens - changements sont en train de prendre place. Rien que dans les exemples cités, notamment dans le chapitre "demoiselle en détresse", tous les personnages ont des rôles qui ont évolués dans des jeux récents :  
+
   - Peach : héroïne dans un jeu très récent
-
   - Zelda : héroïne dans un jeu très récent
-
   - Amy : caractérisations à changer dans le dernier Sonic
+  - Nouveau GTA protagoniste féminine 
+
+- Les médias, notamment les jeux vidéo, ont un rôle central dans la construction des identités et des perceptions sociales des minorités. La représentation des minorités ne se réduit pas à une question de chiffre. Il faut s'interroger sur la visibilité des populations marginalisées mais surtout étudier l'aspect qualitatif de ces représentations. Il faut être vigilant à ne pas reproduire des représentations caricaturales et stéréotypées. 
+
+  Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cinéma, dans le jeu vidéo ou n'importe quel autre média, est l'aspect sur lequel il faut se pencher. Il est encore rare de voir des héros faisant parti d'une population marginalisée qui soit non-stéréotypé et pas réduit à son ethnie. La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
+
+- - 
+
+- Pour améliorer : 
+
+  - mieux varier les profils d'interviewés en terme de sexe, d'âge et d'expérience de jeu
+  - prendre un échantillon plus large
 
 - **Impact sur la perception sociétale et identitaire** : Comment ces représentations influencent la manière dont les minorités sont perçues et comment elles influencent la formation des identités.
 
-- **Perspectives futures** 
+- **Perspectives futures** :
+
+  - Jeu vidéo anti-colonialiste
+  - intérêt pour la musique et création d'application ==> spotify et tout autre type de discrimination - Plateforme de musique éthique - réseau social musique ?
+  - Problème enfant/jeunesse : jeu/application éducative sur les sujets liés aux discriminations et aux stéréotypes
+
 
