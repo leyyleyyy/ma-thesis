@@ -467,3 +467,48 @@ Exemples :
 - **Exemples** : *The Last of Us Part II* inclue des personnages LGBT et des protagonistes issus de minorités ethniques, Black Panther, Baromètre de la diversité CSA 
 
 A mettre quelque part : Ces représentations simplifiées et caricaturales des minorités se heurtent à un contexte sociopolitique marqué par la montée des idées d’extrême droite, notamment en France, ce qui renforce l’ancrage de ces stéréotypes dans l’imaginaire collectif. 
+
+Conclusio
+- Conclure en reprenant les exemples de l'introduction (Winx, Floricienta) et montrer pourquoi ils sont problématiques
+
+  - WINX : **Unrealistic Body Proportions**, Gender stereotypes, **Focus on Appearance**
+
+    == whitewashing
+
+  - Floricienta : relation 14-25, aucun personnage autre que blanc, grossophobe (Sofia par exemple), représentation caricaturale de la femme, les personnages principaux se trouvent dans les archétypes cités précedemment (vivent à travers les relations amoureuses- Flor amoureuse (demoiselle en détresse), Delfina la belle qui fait tout pour voler l'homme de l'autre (l'aguicheuse) Frederico accueille flor et lui apprend la vie (le sauveur),...)
+
+  ==> Bien qu'ils aient permis de me sentir représentée, ils perpétuent des clichés qui s'ancrent inconsciemment. Cependant restent de vieux exemples. Les choses changent --> rien que dans les exemples cités 
+
+  Thèse exemples emblématiques mais plutôt anciens - changements sont en train de prendre place. Rien que dans les exemples cités, notamment dans le chapitre "demoiselle en détresse", tous les personnages ont des rôles qui ont évolués dans des jeux récents :  
+
+  - Peach : héroïne dans un jeu très récent
+  - Zelda : héroïne dans un jeu très récent
+  - Amy : caractérisations à changer dans le dernier Sonic
+  - Nouveau GTA protagoniste féminine 
+
+- Les médias, notamment les jeux vidéo, ont un rôle central dans la construction des identités et des perceptions sociales des minorités. La représentation des minorités ne se réduit pas à une question de chiffre. Il faut s'interroger sur la visibilité des populations marginalisées mais surtout étudier l'aspect qualitatif de ces représentations. Il faut être vigilant à ne pas reproduire des représentations caricaturales et stéréotypées. 
+
+  Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cinéma, dans le jeu vidéo ou n'importe quel autre média, est l'aspect sur lequel il faut se pencher. Il est encore rare de voir des héros faisant parti d'une population marginalisée qui soit non-stéréotypé et pas réduit à son ethnie. La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
+
+- Il faut que ce soit intégré à la formation des développeurs et des game designer, ou que ce soit quelque chose qui fasse partie de la formation au long cours. Et pas juste des interventions ponctuelles pour dire “voilà on a mis un petit peu, on a saupoudré etc” :  **son enjeu n’est pas de modifier les rapports de pouvoir, son enjeu est d’élargir le marché**
+
+- Ce qui a été peu étudié, c’est davantage ce rapport quand on parle d’occident, on crée une sorte d’homogénéité du sujet occidental blanc, qui est assez bizarre d’ailleurs, puisque ce sujet peut être noir, arabe, asiatique
+
+- Le **racisme dans le jeu vidéo** s’insère dans un système oppressif multifactoriel, dont le racisme n’est qu’une des variantes, avec le sexisme, le validisme, les LGBTphobies et tant d’autres.
+
+- Généralement d’ailleurs, c’est surtout les violences sexistes et sexuelles qui ont fait parler d’elles, loin devant les violences racistes.Ce n’est d’ailleurs pas incongru que les [initiatives féministes](https://esport-insights.com/heegi-gameher-cest-dur-de-voir-ces-femmes-rester-dans-leur-silence/) soient majoritaires par rapport aux initiatives antiracistes dans le jeu vidéo.
+
+- Pour améliorer : 
+
+  - mieux varier les profils d'interviewés en terme de sexe, d'âge et d'expérience de jeu
+  - prendre un échantillon plus large
+
+- **Perspectives futures** :
+
+  - Jeu vidéo anti-colonialiste
+  - intérêt pour la musique et création d'application ==> spotify et tout autre type de discrimination - Plateforme de musique éthique - réseau social musique ?
+  - Problème enfant/jeunesse : jeu/application éducative sur les sujets liés aux discriminations et aux stéréotypes
+
+
+
+**Impact sur la perception sociétale et identitaire** : Comment ces représentations influencent la manière dont les minorités sont perçues et comment elles influencent la formation des identités.

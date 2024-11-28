@@ -339,7 +339,7 @@ Et il ajoute : *"Ce qui m'énerve avec ces polémiques, c'est qu'à force de dir
 
 ### 2. Quelles solutions pour une meilleure représentation ?
 
-Face aux représentation stéréotypée des minorités dans les jeux vidéo, l’une des solutions serait  d’augmenter la diversité parmi les créateurs, comme nous l'avons évoqué précédemment. Cependant, cette approche présente des limites : faire partie d’une minorité ne garantit pas forcément une vision non biaisée. Comme vu dans les chapitres précédents, même au sein des groupes minoritaires, des stéréotypes peuvent être reproduits inconsciemment. 
+Face aux représentation stéréotypée des minorités dans les jeux vidéo, l’une des solutions serait  d’augmenter la diversité parmi les créateurs, comme nous l'avons évoqué précédemment. Cependant, cette approche présente des limites : faire partie d’une minorité ne garantit pas forcément une vision non biaisée. Comme vu dans les chapitres précédents, même au sein des groupes minoritaires, des stéréotypes peuvent être reproduits inconsciemment. Je pense qu'une partie de la solution serait de commencer par proposer une meilleure éducation aux développeurs et game designers. 
 
 Pour que la présence de personnages issus de minorités ne se limite pas à un simple remplissage, il est essentiel d’accompagner cette diversité d'une véritable réflexion sur leur design, leur histoire et leur personnalité. Les personnages doivent être construits avec attention afin d'éviter une représentation superficielle ou caricaturale. Chaque personnage doit être conçu de manière à offrir une image authentique à laquelle on peut s'identifier.
 
@@ -357,46 +357,14 @@ En somme, une meilleure représentation dans les jeux vidéo implique non seulem
 
 ## Conclusion
 
-Dans *Winx Club*, bien que j’aie trouver un personnage auquel m'identifier, de nombreux problèmes y sont présent : les proportions irréalistes des corps, l’accent mis sur l’apparence, le "whitewashing", les stéréotypes de genre perpétués, etc. De même, *Floricienta*, bien qu’elle m’ait aidée à apprécier mes cheveux bouclés, la série véhiculait des stéréotypes problématiques : des relations romantiques déséquilibrées, des personnages féminins enfermés dans des archétypes comme ceux évoqués plus haut : "l'aguicheuse", la "demoiselle en détresse" ou "le sauveur", et une absence totale de diversité ethnique. Ces récits, bien qu’ils m'aient permis de me sentir représenté, participaient à l’ancrage de normes et de clichés limitants.
+Pour conclure, il est pertinent de revenir sur les sujets abordés dans mon introduction. Dans *Winx Club*, bien que j’aie trouvé un personnage auquel m'identifier, de nombreux problèmes subsistent : proportions irréalistes des corps, accent mis sur l’apparence, "whitewashing", stéréotypes de genre perpétués, etc. De même, *Floricienta*, bien qu’elle m’ait aidée à apprécier mes cheveux bouclés, véhiculait des stéréotypes problématiques : des relations romantiques déséquilibrées, des personnages enfermés dans des archétypes comme "l'aguicheuse", la "demoiselle en détresse" ou "le sauveur", et une absence totale de diversité ethnique. Ces récits, bien qu’ils m’aient offert un sentiment de représentation, participaient à l’ancrage de normes et de clichés limitants.
 
-Ces œuvres ont été conçues il y a une dizaine d'années et actuellement de réels changement sont mis en place. Il suffit de reprendre les  exemples cités tout au long de cette thèse pour noter ces avancées : Peach et Zelda ont enfin des rôles d’héroïnes dans des jeux récents, Amy a gagné une profondeur dans le dernier *Sonic*, et le prochain *GTA* introduit une protagoniste féminine. Ces transformations traduisent une volonté croissante de sortir des schémas rigides du passé. En me basant sur mes recherches et les connaissances que j'ai acquis tout au long de mon travail, je trouve que les thématiques liées uniquement au genre ont connues une réelles évolution moins la race. Mehdi Derfoufi, dans son ouvrage "Racisme et jeux vidéo", tire le même constat : 
+Ces œuvres datent d’une dizaine d’années, et aujourd’hui, de réels changements sont en cours. Les exemples évoqués tout au long de cette thèse en témoignent : Peach et Zelda ont enfin des rôles d’héroïnes dans des jeux récents, Amy a gagné en profondeur dans le dernier *Sonic*, et le prochain *GTA* introduit une protagoniste féminine. Ces transformations traduisent une volonté croissante de sortir des schémas du passé. Cependant, en m’appuyant sur mes recherches, je constate que si les thématiques liées au genre ont connu une réelle évolution ces dernières années, celles touchant à la race progressent plus lentement. Mehdi Derfoufi, dans *Racisme et jeux vidéo*, fait un constat similaire : les violences sexistes et sexuelles attirent davantage l’attention que les violences racistes. Ce déséquilibre se reflète dans les initiatives de lutte, où les collectifs féministes, bien que extrêmement nécessaires, dominent par rapport aux collectifs antiracistes. Au vu des ces conclusions, le sujet de l'intersectionnalité manque cruellement de considération dans les médias de manière générale.
 
+Une nuance que j’aurais pu approfondir dans cette thèse concerne ma tendance à homogénéiser le "sujet occidental blanc". Cette catégorie, souvent perçue comme uniforme, inclut pourtant une diversité ethnique et culturelle. Par exemple, lorsque je retourne au Maroc, je suis perçue comme une occidentale malgré mes origines. De même, au sein des personnes blanches, il existe une grande hétérogénéité : les Irlandais et les Italiens, tous deux considérés comme blancs, possèdent des cultures et des histoires radicalement différentes.
 
+Sur le plan méthodologique, il aurait également été pertinent de diversifier davantage les profils des participants aux interviews. Une plus grande variété en termes de sexes, d’âges et d’expériences de jeu aurait permis de mieux capturer les nuances des perceptions et des enjeux abordés.
 
-- Conclure en reprenant les exemples de l'introduction (Winx, Floricienta) et montrer pourquoi ils sont problématiques
+Enfin, à partir des connaissances acquises au cours de ce travail, plusieurs perspectives de projets se dessinent. Premièrement, la création d’un jeu vidéo à vocation anticolonialiste, visant à déconstruire les stéréotypes ancrés dans ce média. Deuxièmement, inspirée par mon entourage d’artistes, j’ai identifié une discrimination similaire à celle évoquée dans mon travail dans le domaine musical. La création d’une plateforme éthique dédiée à la musique pourrait ainsi s’inscrire dans cette logique de lutte contre les inégalités. Enfin, une des leçons centrales de cette thèse est l’importance de sensibiliser dès le plus jeune âge, lorsque le cerveau est en pleine formation. Développer une application ou un jeu éducatif pour éveiller les enfants aux discriminations et aux stéréotypes serait une initiative porteuse de sens et d’impact.
 
-  - WINX : **Unrealistic Body Proportions**, Gender stereotypes, **Focus on Appearance**
-
-    == whitewashing
-
-  - Floricienta : relation 14-25, aucun personnage autre que blanc, grossophobe (Sofia par exemple), représentation caricaturale de la femme, les personnages principaux se trouvent dans les archétypes cités précedemment (vivent à travers les relations amoureuses- Flor amoureuse (demoiselle en détresse), Delfina la belle qui fait tout pour voler l'homme de l'autre (l'aguicheuse) Frederico accueille flor et lui apprend la vie (le sauveur),...)
-
-  ==> Bien qu'ils aient permis de me sentir représentée, ils perpétuent des clichés qui s'ancrent inconsciemment. Cependant restent de vieux exemples. Les choses changent --> rien que dans les exemples cités 
-
-  Thèse exemples emblématiques mais plutôt anciens - changements sont en train de prendre place. Rien que dans les exemples cités, notamment dans le chapitre "demoiselle en détresse", tous les personnages ont des rôles qui ont évolués dans des jeux récents :  
-
-  - Peach : héroïne dans un jeu très récent
-  - Zelda : héroïne dans un jeu très récent
-  - Amy : caractérisations à changer dans le dernier Sonic
-  - Nouveau GTA protagoniste féminine 
-
-- Les médias, notamment les jeux vidéo, ont un rôle central dans la construction des identités et des perceptions sociales des minorités. La représentation des minorités ne se réduit pas à une question de chiffre. Il faut s'interroger sur la visibilité des populations marginalisées mais surtout étudier l'aspect qualitatif de ces représentations. Il faut être vigilant à ne pas reproduire des représentations caricaturales et stéréotypées. 
-
-  Le rôle et l'importance qu'incarne un personnage, que ce soit à la TV, au cinéma, dans le jeu vidéo ou n'importe quel autre média, est l'aspect sur lequel il faut se pencher. Il est encore rare de voir des héros faisant parti d'une population marginalisée qui soit non-stéréotypé et pas réduit à son ethnie. La diversité dans les jeux vidéo peut attirer des audiences plus larges, mais si elle est mal exécutée, elle peut aussi renforcer les stéréotypes
-
-- 
-
-- Pour améliorer : 
-
-  - mieux varier les profils d'interviewés en terme de sexe, d'âge et d'expérience de jeu
-  - prendre un échantillon plus large
-
-- **Impact sur la perception sociétale et identitaire** : Comment ces représentations influencent la manière dont les minorités sont perçues et comment elles influencent la formation des identités.
-
-- **Perspectives futures** :
-
-  - Jeu vidéo anti-colonialiste
-  - intérêt pour la musique et création d'application ==> spotify et tout autre type de discrimination - Plateforme de musique éthique - réseau social musique ?
-  - Problème enfant/jeunesse : jeu/application éducative sur les sujets liés aux discriminations et aux stéréotypes
-
-
+Ce travail m'a permis de prendre conscience de mes propres biais et de réfléchir à l'image que j'avais de moi-même en tant que femme maghrébine. Il m'a aidée à comprendre à quel point les médias influencent notre perception de nous-mêmes et des autres, souvent de manière inconsciente. Je réalise qu’étant plus jeune, j’avais moi-même des visions empreintes de misogynie et de racisme, façonnées en grande partie par les contenus que je consommais. Dans une ère où la consommation de contenu est omniprésente et où nous sommes hyperconnectés, cette thématique s’avère plus essentielle que jamais. Prendre l’angle des jeux vidéo s’avère être un prétexte pour explorer la façon dont les représentations façonnent, à une échelle plus large, notre identité individuelle et collective.
